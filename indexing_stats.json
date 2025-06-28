@@ -1,0 +1,20 @@
+{
+  "files_processed": 5,
+  "total_chunks": 2469,
+  "content_types": {
+    "assessment": 813,
+    "requirements": 515,
+    "definitions": 183,
+    "objectives": 321,
+    "format": 146,
+    "procedures": 226,
+    "examples": 265
+  },
+  "subjects": [
+    "BIOLOGY_SYLLABUS",
+    "CHEMISTRY_SYLLABUS",
+    "HISTORY_SYLLABUS",
+    "INFORMATION_TECHNOLOGY_SYLLABUS",
+    "MATH_SYALLABUS"
+  ]
+}

@@ -1,0 +1,1597 @@
+CARIBBEAN EXAMINATIONS COUNCIL
+Caribbean Secondary Education Certificate
+CSEC
+MATHEMATICS
+SYLLABUS
+Effective for examinations from May/June 2010
+CXC 05/G/SYLL 08
+Published in Jamaica
+© 2010, Caribbean Examinations Council
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted in any form, or by any means electronic, photocopying, recording or otherwise without prior
+permission of the author or publisher.
+Correspondence related to the syllabus should be addressed to:
+The Pro-Registrar
+Caribbean Examinations Council
+Caenwood Centre
+37 Arnold Road, Kingston 5, Jamaica, W.I.
+Telephone: (876) 630-5200
+Facsimile Number: (876) 967-4972
+E-mail address: cxcwzo@cxc.org
+Website: www.cxc.org
+Copyright © 2008, by Caribbean Examinations Council
+The Garrison, St Michael BB11158, Barbados
+ CXC 05/OSYLL 00
+ Contents
+RATIONALE........................................................................................................................................... 1
+AIMS. ....................................................................................................................................................... 1
+ORGANISATION OF THE SYLLABUS. ............................................................................................. 2
+FORMAT OF THE EXAMINATIONS ................................................................................................ 2
+CERTIFICATION AND PROFILE DIMENSIONS............................................................................... 4
+REGULATIONS FOR PRIVATE CANDIDATES............................................................................... 5
+REGULATIONS FOR RE-SIT CANDIDATES.................................................................................... 5
+SYMBOLS USED ON THE EXAMINATION PAPERS ...................................................................... 5
+FORMULAE AND TABLES PROVIDED IN THE EXAMINATION ............................................... 9
+USE OF ELECTRONIC CALCULATORS.......................................................................................... 10
+SECTION 1 - COMPUTATION............................................................................................................ 11
+SECTION 2 - NUMBER THEORY. ...................................................................................................... 13
+SECTION 3 - CONSUMER ARITHMETIC......................................................................................... 15
+SECTION 4 - SETS ................................................................................................................................. 17
+SECTION 5 - MEASUREMENT............................................................................................................ 18
+SECTION 6 - STATISTICS .................................................................................................................... 20
+SECTION 7 - ALGEBRA........................................................................................................................ 22
+SECTION 8 - RELATIONS, FUNCTIONS AND GRAPHS............................................................... 24
+SECTION 9 - GEOMETRY AND TRIGONOMETRY........................................................................ 28
+SECTION 10 - VECTORS AND MATRICES ...................................................................................... 32
+RECOMMENDED TEXTS ...................................................................................................................... 34
+GLOSSARY ............................................................................................................................................. 35
+ CXC 05/G/SYLL 08 2
+This document CXC 05/G/SYLL 08 replaces the syllabus CXC 05/O/SYLL 01
+issued in 2001.
+Please note that the syllabus has been revised and amendments are indicated by
+italics and vertical lines.
+First Published in 1977
+Revised in 1981
+Revised in 1985
+Revised in 1992
+Revised in 2001
+Revised in 2008
+ CXC 05/G/SYLL 08 2
+ Mathematics Syllabus
+♦ RATIONALE
+The guiding principles of the Mathematics syllabus direct that Mathematics as taught in Caribbean schools
+should be relevant to the existing and anticipated needs of Caribbean society, related to the abilities and interests of
+Caribbean students and aligned with the philosophy of the educational system. These principles focus attention on
+the use of Mathematics as a problem solving tool, as well as on some of the fundamental concepts which
+help to unify Mathematics as a body of knowledge. The syllabus explains general and unifying concepts
+that facilitate the study of Mathematics as a coherent subject rather than as a set of unrelated topics.
+Every citizen needs basic computational skills (addition, subtraction, multiplication and division) and the
+ability to use these mentally to solve everyday problems. All citizens should recognise the importance of
+accuracy in computation as the foundation for deductions and decisions based on the results. In addition,
+the citizen should have, where possible, a choice of mathematical techniques to be applied in a variety of
+situations. A ‘range of mathematical techniques’ is therefore, specified in recognition of the need to
+accommodate different levels of ability. Citizens need to use Mathematics in many forms of decisionmaking: shopping, paying bills, budgeting and for the achievement of personal goals, critically evaluating
+advertisements, taxation, investing, commercial activities, banking, working with and using current
+technologies, measurements and understanding data in the media. Improving efficiency and skills in these
+matters will be beneficial to the community as well as to the individual.
+The syllabus seeks to provide for the needs of specific mathematical techniques in the future careers of
+students, for example, in agriculture and in commercial and technical fields. By the end of the normal
+secondary school course, students should appreciate that the various branches of Mathematics are not
+rigidly segregated and that the approach to the solution of any problem is not necessarily unique.
+This syllabus will contribute to the development of the Ideal Caribbean Person as articulated by the CARICOM Heads
+of Government in the following areas: “demonstrate multiple literacies, independent and critical thinking and innovative
+application of science and technology to problem solving. Such a person should also demonstrate a positive work attitude
+and value and display creative imagination and entrepreneurship”. In keeping with the UNESCO Pillars of Learning,
+on completion of this course the study, students will learn to do, learn to be and learn to transform themselves and
+society.
+♦ AIMS
+This syllabus aims to:
+1. help students appreciate the use of mathematics as a form of communication;
+2. help students acquire a range of mathematical techniques and skills and to foster and maintain the
+awareness of the importance of accuracy;
+3. make Mathematics relevant to the interests and experiences of students by helping them to recognise
+Mathematics in their environment;
+4. cultivate the ability to apply mathematical knowledge to the solution of problems which are
+ CXC 05/G/SYLL 08 1
+meaningful to students as citizens;
+5. help students cultivate the ability to think logically and critically;
+6. help students develop positive attitudes, such as open-mindedness, self-reliance, persistence and a
+spirit of enquiry;
+7. prepare students for the use of Mathematics in further studies;
+8. help students develop an appreciation of the wide application of Mathematics and its influence in
+the development and advancement of civilisation;
+9. help students become increasingly aware of the unifying structure of Mathematics.
+♦ ORGANISATION OF THE SYLLABUS
+The syllabus is arranged as a set of topics, and each topic is defined by its specific objectives and content. It is
+expected that students would be able to master the specific objectives and related content after pursuing a
+course in Mathematics over five years of secondary schooling.
+The design allows for a Core which contains selected mathematical skills, knowledge and abilities necessary
+for any citizen in our contemporary society as well as objectives to meet the needs of those who will be:
+(a) pursuing careers as agriculturalists, engineers, scientists, economists;
+(b) proceeding to study Mathematics at an advanced level;
+(c) engaged in the business and commercial world.
+The Examination will also comprise an Optional section which will be defined by additional specific
+objectives.
+♦ FORMAT OF THE EXAMINATIONS
+The examination will consist of two papers: Paper 01, an objective type paper based on the Core Objectives
+and Paper 02, an essay or problem solving type paper based on both the Core and Optional Objectives.
+Paper 01
+(1 hour 30 minutes)
+The Paper will consist of 60 multiple-choice items, sampling the Core
+as follows:
+Sections No. of items
+Computation 6
+Number Theory 4
+Consumer Arithmetic 8
+Sets 4
+Measurement 8
+Statistics 6
+Algebra 9
+Relations, Functions and Graphs 6
+Geometry and Trigonometry 9
+Total 60
+Each item will be allocated one mark.
+ CXC 05/G/SYLL 08 2
+Paper 02 The Paper consists of two sections.
+(2 hours and 40 minutes)
+Section I: 90 marks
+The section will consist of 8 compulsory structured and problem-solving type
+questions based on the Core.
+The marks allocated to the topics are:
+Sections No. of marks
+Sets 5
+Consumer Arithmetic and Computation 10
+Measurement
+10
+Statistics
+10
+Algebra
+15
+Relations, Functions and Graphs 10
+Geometry and Trigonometry
+20
+*Combination question/ investigation 10
+Total
+90
+* Combination question/investigation may be set on any combination of objectives in the
+Core including Number Theory.
+Section II: 30 marks
+This section will consist of 3 structured or problem-solving questions based
+mainly on the Optional Objectives of the syllabus. There will be 1 question
+from each of the Sections Algebra and Relations, Functions and Graphs;
+Measurement and Geometry and Trigonometry; and Vectors and Matrices.
+Candidates will be required to answer any two questions. Each question will
+be allocated 15 marks.
+The optional questions will be set as follows:
+ALGEBRA AND RELATIONS, FUNCTIONS AND GRAPHS
+The question in this section may be set on:
+Algebra
+Optional Specific Objective 17 or any of the other Specific Objectives in Algebra.
+ CXC 05/G/SYLL 08 3
+Relations, Functions and Graphs
+Optional Specific Objectives 15, 22, 23, 24, 25 or any of the other Specific Objectives in Relations,
+Functions and Graphs.
+MEASUREMENT AND GEOMETRY AND TRIGONOMETRY
+The question in this section may be set on:
+Measurement
+Optional Specific Objectives 5, 6 or any of the other Specific Objectives in Measurement.
+Geometry and Trigonometry
+Optional Specific Objective 20 or any of the other Specific Objectives in Geometry and Trigonometry.
+VECTORS AND MATRICES
+The question in this section may be set on:
+Optional Specific Objectives 5, 11, 12, 13 or any of the other Specific Objectives in Vectors and Matrices.
+♦ CERTIFICATION AND PROFILE DIMENSIONS
+The subject will be examined for certification at the General Proficiency.
+In each paper, items and questions will be classified, according to the kind of cognitive demand made, as
+follows:
+Knowledge Items that require the recall of rules, procedures, definitions and facts, that is,
+items characterised by rote memory as well as simple computations, computation
+in measurements, constructions and drawings.
+Comprehension Items that require algorithmic thinking that involves translation from one
+mathematical mode to another. Use of algorithms and the application of these
+algorithms to familiar problem situations.
+Reasoning Items that require:
+(i) translation of non-routine problems into mathematical symbols and then
+choosing suitable algorithms to solve the problems;
+(ii) combination of two or more algorithms to solve problems;
+(iii) use of an algorithm or part of an algorithm, in a reverse order, to solve a
+problem;
+(iv) the making of inferences and generalisations from given data;
+ CXC 05/G/SYLL 08 4
+(v) justification of results or statement;
+(vi) analyzing and synthesising.
+Candidates’ performance will be reported under Knowledge, Comprehension and Reasoning that are
+roughly defined in terms of the three types of demand.
+WEIGHTING OF PAPER AND PROFILE DIMENSIONS
+PROFILES PAPER 01 PAPER 02 TOTAL
+Knowledge 18 36 54
+Comprehension 24 48 72
+Reasoning 18 36 54
+Total 60 120 180
+♦ REGULATIONS FOR PRIVATE CANDIDATES
+Candidates who are registered privately will be required to sit Paper 01 and Paper 02. Detailed information
+on Papers 01 and 02 is given on pages 2 – 4 of this syllabus.
+Private candidates must be entered through institutions recognised by the Council.
+♦ REGULATIONS FOR RESIT CANDIDATES
+Resit candidates will be required to sit Paper 01 and Paper 02. Detailed information on Paper 01 and 02 is
+given on pages 2 - 4 of this syllabus.
+Resit candidates must be entered through a school or other approved educational institution.
+♦ SYMBOLS USED ON THE EXAMINATION PAPERS
+The symbols shown below will be used on examination papers. Candidates, however, may make use of any
+symbol or nomenclature provided that such use is consistent and understandable in the given context.
+Measurement will be given in S I Units.
+SYMBOL DEFINITION
+Sets
+U universal set
+{ } or ф the null (empty) set
+⊂ a subset of
+ CXC 05/G/SYLL 08 5
+A' complement of set A
+{x: . . . } the set of all x such that . . .
+Relations and Functions and Graphs
+y ∝ xn y varies as xn
+gf(x) g[f(x)]
+g2
+(x) g[g(x)]
+ 0 1 2 3 4 {x : 1 ≤ x ≤3}
+
+ 0 1 2 3 4 {x : 1 < x < 3}
+Number Theory
+W the set of whole numbers
+ℕ the set of natural (counting) numbers
+ℤ the sets of integers
+Q the set of rational numbers
+R the set of real numbers
+5.432 432 432 . . .
+9.87212121 . . .
+Measurement
+05:00 h. 5:00 a.m.
+13:15 h. 1:15 p.m.
+7mm ± 0.5 mm 7mm to the nearest millimetre
+10 m/s or 10 ms-1 10 metres per second
+5.4
+3
+2
+
+9. 872
+1
+
+Z+ - positive integers
+Z-
+ - negative integers
+ CXC 05/G/SYLL 08 6
+Geometry
+For transformations these symbols will be used.
+M reflection
+Rθ rotation through θo
+T translation
+G glide reflection
+E enlargement
+MRθ rotation through θ followed by reflection
+∡, ∠, ∧ angle
+≡ is congruent to
+ A B line AB
+A B ray AB
+line segment AB
+ A B
+Vectors and Matrices
+a or a vector a
+AB vector AB
+AB  magnitude of vector AB
+If or is the matrix X
+then is the determinant of X, written X  or det X.
+A-1 inverse of the matrix A
+
+
+
+
+
+
+
+
+c d
+a b
+
+
+ 
+
+
+c d
+a b
+c d
+a b
+ CXC 05/G/SYLL 08 7
+I identity matrix
+O zero matrix
+Other Symbols
+= is equal to or equals
+≥ is greater than or equal to
+≤ is less than or equal to
+~ is approximately equal to
+⇒ implies
+A ⇒ B if A, then B
+A ⇔ B If A, then B
+and
+If B, then A
+A is equivalent to B
+
+
+ CXC 05/G/SYLL 08 8
+♦ FORMULAE AND TABLES PROVIDED IN THE EXAMINATION
+ CXC 05/G/SYLL 08 9
+USE OF ELECTRONIC CALCULATORS
+Candidates are expected to have an electronic calculator and are encouraged to use such a calculator in
+Paper 02.
+Guidelines for the use of electronic calculators are listed below.
+1. Silent, electronic hand-held calculators may be used.
+2. Calculators should be battery or solar powered.
+3. Candidates are responsible for ensuring that calculators are in working condition.
+4. Candidates are permitted to bring a set of spare batteries in the examination room.
+5. No compensation will be given to candidates because of faulty calculators.
+6. No help or advice is permitted on the use or repair of calculators during the examination.
+7. Sharing calculators is not permitted in the examination room.
+8. Instruction manuals, and external storage media (for example, card, tape, disk, smartcard or plug-in
+modules) are not permitted in the examination room.
+9. Calculators with graphical display, data bank, dictionary or language translation are not allowed.
+10. Calculators that have the capability of communication with any agency in or outside of the
+examination room are prohibited.
+♦
+ CXC 05/G/SYLL 08 10
+♦ SECTION 1 - COMPUTATION
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. demonstrate an understanding of place value;
+2. demonstrate computational skills;
+3. be aware of the importance of accuracy in computation;
+4. appreciate the need for numeracy in everyday life;
+5. demonstrate the ability to make estimates fit for purpose.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. perform computation using any
+of the four basic operations with
+real numbers;
+Addition, multiplication, subtraction and division of whole
+numbers, fractions and decimals.
+2. convert among fractions,
+percentages and decimals;
+Conversion of fractions to decimals and percentages, conversion
+of decimal to fractions and percentages, conversion of
+percentages to decimals and fractions.
+3. convert from one set of units to
+another;
+Conversion using conversion scales, converting within the metric
+scales, 12-hour and 24-hour clock, currency conversion.
+4. express a value to a given
+number of:
+(a) significant figures;
+(b) decimal places;
+1, 2 or 3 significant figures.
+1, 2 or 3 decimal places.
+5. write any rational number in
+standard form;
+Scientific notation.
+ CXC 05/G/SYLL 08 11
+COMPUTATION (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+6. calculate any fraction or
+percentage of a given quantity;
+Calculating fractions and percentages of a whole.
+7. express one quantity as a
+fraction or percentage of
+another;
+Comparing two quantities using fractions and percentages.
+8. compare two quantities using
+ratios;
+Ratio and proportion.
+9. divide a quantity in a given
+ratio;
+Ratio and proportion.
+10. solve problems involving:
+(a) fractions;
+(b) decimals;
+(c) percentages;
+(d) ratio, rates and
+proportions;
+(e) arithmetic mean.
+
+ CXC 05/G/SYLL 08 12
+♦ SECTION 2 - NUMBER THEORY
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. understand and appreciate the decimal numeration system;
+2. appreciate the development of different numeration systems;
+3. demonstrate the ability to use rational approximations of real numbers;
+4. demonstrate the ability to use number properties to solve problems;
+5. develop the ability to use patterns, trends and investigative skills.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. distinguish among sets of
+numbers;
+Set of numbers:
+natural numbers {1, 2, 3, ...}, whole numbers
+{0, 1, 2, 3, ...}, integers {...-2, -1, 0, 1, 2, ...}, rational
+numbers (
+q
+p :p and q are integers, q ≠ 0), irrational
+numbers (numbers that cannot be expressed as
+terminating or recurring decimals, for example, numbers
+such as π and √2), the real numbers (the union of
+rational and irrational numbers); sequences of numbers
+that have a recognisable pattern; factors and multiples;
+square numbers; even numbers; odd numbers; prime numbers;
+composite numbers.
+2. order a set of real numbers;
+3. generate a term of a sequence
+given a rule;
+Sequences of numbers that have a recognisable pattern.
+4. derive an appropriate rule given the
+terms of a sequence;
+Sequences of numbers that have a recognisable pattern.
+5. identify a given set of numbers
+as a subset of another set;
+Inclusion relations, for example, N ⊂ W ⊂ Z ⊂ Q ⊂ R.
+6. list the set of factors or a set of
+multiples of a given positive
+integer;
+ CXC 05/G/SYLL 08 13
+NUMBER THEORY (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+7. compute the H.C.F. or L.C.M.
+of two or more positive
+integers;
+8. state the value of a digit in a
+numeral in base n, where n≤10;
+Place value and face value of numbers 2, 3, 4, 5, 6, 7, 8, 9 and
+10 in base.
+9. use properties of numbers and
+operations in computational
+tasks;
+Additive and multipicative identities and inverses, concept of
+closure, properties of operations such as commutativity,
+distributivity and associativity, order of operations in problems
+with mixed operations.
+10. solve problems involving concepts
+in number theory.
+
+
+
+
+
+
+
+
+
+
+ CXC 05/G/SYLL 08 14
+♦ SECTION 3 - CONSUMER ARITHMETIC
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. develop the ability to perform the calculations required in normal business transactions, and in
+computing their own budgets;
+2. appreciate the need for both accuracy and speed in calculations;
+3. appreciate the advantages and disadvantages of different ways of investing money;
+4. appreciate that business arithmetic is indispensable in everyday life;
+5. demonstrate the ability to use concepts in consumer arithmetic to describe, model and solve real-world problems.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. calculate discount, sales tax,
+profit or loss;
+2. express a profit, loss, discount,
+markup and purchase tax, as a
+percentage of some value;
+3. solve problems involving
+marked price (or selling price),
+cost price, percentage profit,
+loss or discount;
+4. solve problems involving
+payments by installments as in
+the case of hire purchase and
+mortgages;
+5. solve problems involving simple
+interest,
+Principal, time, rate, amount.
+ CXC 05/G/SYLL 08 15
+CONSUMER ARITHMETIC (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+6. solve problems involving
+compound interest,
+appreciation, and depreciation;
+Principal, time, rate, amount (not more than 3 periods).
+7. solve problems involving
+measures and money;
+Include exchange rate.
+8. solve problems involving:
+(a) rates and taxes;
+(b) utilities;
+(c) invoices and shopping
+bills;
+(d) salaries and wages;
+(e) insurance and
+investments.
+ CXC 05/G/SYLL 08 16
+♦ SECTION 4 - SETS
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. demonstrate the ability to communicate using set language and concepts;
+2. demonstrate the ability to reason logically;
+3. appreciate the importance and utility of sets in analyzing and solving real-world problems.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. explain concepts relating to sets; Examples and non-examples of sets, description of sets using
+words, membership of a set, cardinality of a set, finite and
+infinite sets, universal set, empty set, complement of a set,
+subsets.
+2. represent a set in various forms; Listing elements, for example, the set of natural numbers 1,2
+and 3.
+Set builder notation, for example, {x: 0‹x‹4 where x ∈ N}.
+Symbolic representation, for example, A={1,2,3}.
+3. describe relationships among sets
+using set notation and symbols;
+Universal, complement, subsets, equal and equivalent sets,
+intersection, disjoint sets and union of sets.
+4. list subsets of a given set; Number of subsets of a set with n elements.
+5. determine elements in intersections,
+unions and complements of sets;
+Intersection and union of not more than three sets.
+Apply the result n(A B) = n(A) + n(B) − n(A B).
+6. construct Venn diagrams to
+represent relationships among sets;
+Not more than 4 sets including the universal set.
+7. solve problems involving the use of
+Venn diagrams;
+8. solve problems in Number Theory,
+Algebra and Geometry using
+concepts in Set Theory.
+ CXC 05/G/SYLL 08 17
+♦ SECTION 5 - MEASUREMENT
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. understand that the attributes of an object can be quantified using measurement;
+2. appreciate that all measurements are approximate and that the relative accuracy of a measurement is
+dependent on the measuring instrument and the measurement process;
+3. demonstrate the ability to use concepts in measurement to model and solve real-world problems.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. calculate the perimeter of a
+polygon, a circle, and a
+combination of polygons and
+circles;
+Measures of length, perimeters of polygons and circles.
+2. calculate the length of an arc of
+a circle;
+3. calculate the area of polygons, a
+circle and any combination of
+these;
+Rectangle, square, parallelogram, trapezium, rhombus and
+circle.
+4. calculate the area of a sector of a
+circle;
+5. calculate the area of a triangle
+given two sides and the
+included angle;
+Optional Specific Objective.
+Area of ∆ = ½ abSinC.
+
+6. calculate the area of a segment
+of a circle;
+Optional Specific Objective.
+
+7. estimate the area of irregularly
+shaped plane figures;
+
+
+8. calculate the surface area of
+solids;
+Prism, cylinder, cone, sphere, cube and cuboid.
+ CXC 05/G/SYLL 08 18
+MEASUREMENT (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+9. calculate the volume of solids; Prism, cylinder, pyramid, cone, sphere, cube and cuboid.
+10. convert units of length, area,
+capacity, time and speed;
+11. use the appropriate SI unit of
+measure for area, volume, mass,
+temperature and time (24-hour
+clock) and other derived
+quantities;
+12. solve problems involving time,
+distance and speed;
+13. estimate the margin of error for
+a given measurement;
+Sources of error.
+Maximum and minimum measurements.
+14. use maps and scale drawings to
+determine distances and areas;
+15. solve problems involving
+measurement.
+ CXC 05/G/SYLL 08 19
+♦ SECTION 6 - STATISTICS
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. appreciate the advantages and disadvantages of the various ways of presenting and representing data;
+2. appreciate the necessity for taking precautions in collecting, analyzing and interpreting statistical data
+and making inferences;
+3. demonstrate the ability to use concepts in statistics and probability to describe, model and solve real-world
+problems.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. differentiate between types of data; Discrete and continuous variables.
+Ungrouped and grouped data.
+2. construct a frequency table for a
+given set of data;
+Ungrouped and grouped data.
+3. determine class features for a
+given set of data;
+Class interval, class boundaries, class limits, class
+midpoint, class width.
+4. construct statistical diagrams; Pie charts, bar charts, line graphs, histograms and
+frequency polygons.
+5. interpret statistical diagrams; Pie charts, bar charts, line graphs, histograms and
+frequency polygons.
+6. determine measures of central
+tendency for raw, ungrouped
+and grouped data;
+Mean, median and mode.
+7. determine when it is most
+appropriate to use the mean,
+median and mode as the
+average for a set of data;
+Mean, median and mode as measures of central
+tendency.
+8. determine the measures of
+dispersion (spread) for raw,
+ungrouped and grouped data;
+Range, interquartile range and semi-interquartile range.
+ CXC 05/G/SYLL 08 20
+STATISTICS (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+9. construct a cumulative frequency
+table for ungrouped and
+grouped data;
+10. draw cumulative frequency
+curve (Ogive);
+Appropriate scales for axes.
+Class boundaries as domain.
+11. use statistical diagrams; Mean, mode, median, quartiles range, interquartile range,
+semi-interquartile range.
+12. determine the proportion or
+percentage of the sample above
+or below a given value from raw
+data, table or cumulative
+frequency curve;
+13. identify the sample space for
+sample experiment;
+Set of all possible outcomes.
+14. determine experimental and
+theoretical probabilities of
+events;
+15. make inference(s) from
+statistics.
+Raw data, tables, diagrams.
+ CXC 05/G/SYLL 08 21
+♦ SECTION 7 - ALGEBRA
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. appreciate the use of algebra as a language and a form of communication;
+2. appreciate the role of symbols and algebraic techniques in solving problems in mathematics and related fields;
+3. demonstrate the ability to reason with abstract entities.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. use symbols to represent
+numbers, operations, variables
+and relations;
+Symbolic representation.
+2. translate statements expressed
+algebraically into verbal phrases;
+3. perform arithmetic operations
+involving directed numbers;
+4. perform the four basic
+operations with algebraic
+expressions;
+5. substitute numbers for
+algebraic symbols in simple
+algebraic expressions;
+6. perform binary operations (other
+than the four basic ones);
+7. apply the distributive law to
+factorise or expand algebraic
+expressions;
+For example, x(a+b) = xa+xb and (a+b)(x+y) =
+(a+b)x + (a+b)y = ax+bx+ay+by.
+ CXC 05/G/SYLL 08 22
+ALGEBRA (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+8. simplify algebraic fractions;
+9. use the laws of indices to
+manipulate expressions with
+integral indices;
+10. solve linear equations in one
+unknown;
+11. solve simultaneous linear
+equations, in two unknowns,
+algebraically;
+12. solve a simple linear inequality
+in one unknown;
+13. change the subject of formulae; Including those involving roots and powers.
+14. factorise algebraic expressions; a2 - b2 ; 2 2 a ± 2ab + b
+ax + bx + ay + by
+ax2 + bx + c where a, b, and c are integers and a≠0
+15. solve quadratic equations;
+16. solve word problems; Linear equation, Linear inequalities, two simultaneous
+linear equations, quadratic equations.
+17. solve a pair of equations in two
+variables when one equation is
+quadratic or non-linear and the
+other linear;
+Optional Specific Objective.
+18. prove two algebraic expressions
+to be identical;
+19. represent direct and indirect
+variation symbolically;
+20. solve problems involving direct
+variation and inverse variation.
+ CXC 05/G/SYLL 08 23
+SECTION 8 - RELATIONS, FUNCTIONS AND GRAPHS
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. appreciate the importance of relations in Mathematics;
+2. appreciate that many mathematical relations may be represented in symbolic form, tabular or
+pictorial form;
+3. appreciate the usefulness of concepts in relations, functions and graphs to solve real-world problems.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. explain concepts associated with
+relations;
+ Concept of a relation, types of relation, examples and nonexamples of relations, domain, range, image, co-domain.
+
+2. represent a relation in various
+ways;
+ Set of ordered pairs, arrow diagrams, graphically,
+algebraically.
+3. state the characteristics that
+define a function;
+ Concept of a function, examples and non-examples of
+functions.
+
+4. use functional notation; For example f : x  x2
+; or f(x) = x2 as well as y = f(x) for
+given domains.
+
+5. distinguish between a relation and
+a function;
+ Ordered pairs, arrow diagram, graphically (vertical line
+test).
+
+6. draw and interpret graphs of
+linear functions;
+ Concept of linear function, types of linear function
+(y = c; x = k; y = mx + c; where m, c and k are real
+numbers).
+
+7. determine the intercepts of the
+graph of linear functions;
+ x-intercepts and y-intercepts, graphically and algebraically.
+
+8. determine the gradient of a straight
+line;
+Concept of slope.
+ CXC 05/G/SYLL 08 24
+RELATIONS, FUNCTIONS AND GRAPHS (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+9. determine the equation of a
+straight line;
+The graph of the line.
+The co-ordinates of two points on the line.
+The gradient and one point on the line.
+One point on the line and its relationship to another line.
+10. solve problems involving the
+gradient of parallel and
+perpendicular lines;
+
+11. determine from co-ordinates on a
+line segment:
+ (a) the length;
+ (b) the co-ordinates of the
+midpoint;
+The concept of magnitude or length, concept of midpoint.
+12. solve graphically a system of two
+linear equations in two
+variables;
+13. represent the solution of linear
+inequalities in one variable
+using:
+(a) set notation;
+(b) the number line;
+(c) graph;
+14. draw a graph to represent a
+linear inequality in two
+variables;
+
+
+
+
+
+ CXC 05/G/SYLL 08 25
+RELATIONS, FUNCTIONS AND GRAPHS (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+15. use linear programming
+techniques to solve problems
+involving two variables;
+Optional Specific Objective.
+16. derive composite functions; Composite function, for example, fg, f2 given f and g.
+Non-commutativity of composite functions (fg≠gf).
+17. state the relationship between a
+function and its inverse;
+The concept of the inverse of a function.
+
+18. derive the inverse of a function; f
+-1
+, (fg)-1
+
+19. evaluate f(a), f-1
+(a), fg(a),
+ (fg)-1
+(a);
+Where a ∈ℜ.
+
+20. use the relationship
+ (fg)-1
+= g-1 f
+-1
+;
+
+The concept of the inverse of a function, determining the inverse
+of a given function.
+
+21. draw and interpret graphs of a
+quadratic function to determine:
+
+(a) the elements of the
+domain that have a given
+image;
+(b) the image of a given
+element in the domain;
+(c) the maximum or
+minimum value of the
+function;
+(d) the equation of the axis of
+symmetry;
+
+Concepts of gradient of a curve at a point, tangent, turning
+point. Roots of the equation.
+
+ CXC 05/G/SYLL 08 26
+RELATIONS, FUNCTIONS AND GRAPHS (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+draw and interpret graphs of a quadratic
+function to determine: (cont’d)
+(e) the interval of the domain
+for which the elements of
+the range may be greater
+than or less than a given
+point;
+(f) an estimate of the value
+of the gradient at a given
+point;
+(g) intercepts of the function;
+22. determine the axis of symmetry,
+maximum or minimum value
+of a quadratic function
+expressed in the form
+a(x + h)2 + k;
+Optional Specific Objective.
+
+23. sketch graph of quadratic
+function expressed in the form
+a(x+h)2 + k and determine
+number of roots;
+Optional Specific Objective.
+24. draw and interpret the graphs of
+other non-linear functions;
+Optional Specific Objective.
+y=axn where n = -1,-2 and +3.
+25. draw and interpret distance-time
+graphs and speed-time graphs
+(straight line only) to determine:
+(a) distance;
+(b) time;
+(c) speed;
+(d) magnitude of acceleration.
+Optional Specific Objective.
+
+ CXC 05/G/SYLL 08 27
+♦ SECTION 9 - GEOMETRY AND TRIGONOMETRY
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. appreciate the notion of space as a set of points with subsets of that set (space) having properties
+related to other mathematical systems;
+2. understand the properties and relationship among geometrical objects;
+3. understand the properties of transformations;
+4. demonstrate the ability to use geometrical concepts to model and solve real world problems;
+5. appreciate the power of trigonometrical methods in solving authentic problems.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. explain concepts relating to
+geometry;
+Point, line, parallel lines, intersecting lines and
+perpendicular lines, line segment, ray, curve, plane, angle
+(acute, obtuse, reflex, right angle, straight angle), face,
+edge, vertex.
+2. draw and measure angles and
+line segments accurately using
+appropriate geometrical
+instruments;
+3. construct lines, angles, and
+polygons using appropriate
+geometrical instruments;
+Parallel and perpendicular lines.
+Triangles, quadrilaterals, regular and irregular polygons.
+Angles to be constructed include 30, 45, 60, 90, 120.
+4. identify the type(s) of symmetry
+possessed by a given plane
+figure;
+Line(s) of symmetry, rotational symmetry, order of
+rotational symmetry.
+5. solve geometric problems using
+properties of:
+(a) lines, angles, and
+polygons;
+(b) circles;
+Vertically opposite angles, alternate angles, adjacent
+angles, corresponding angles, co-interior angles, angles at
+a point, complementary angles, supplementary angles.
+Parallel lines and transversals. Equilateral, right, and
+isosceles triangles.
+Square, rectangle, rhombus, kite, parallelogram,
+trapezium.
+ CXC 05/G/SYLL 08 28
+GEOMETRY AND TRIGONOMETRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+solve geometric problems using
+properties of: (cont’d)
+(c) congruent triangles;
+(d) similar figures;
+(e) faces, edges and
+vertices of solids;
+(f) classes of solids; Prisms, pyramids, cylinders, cones, sphere.
+6. represent translations in the
+plane using vectors;
+Column matrix notation 
+
+
+
+
+
+
+
+y
+x .
+7. determine and represent the
+location of :
+(a) the image of an object ;
+(b) an object given the
+image under a
+transformation;
+A translation in the plane; a reflection in a line in that
+plane; a rotation about a point (the centre of rotation) in
+that plane; an enlargement or reduction in that plane.
+8. identify the relationship
+between an object and its image
+in the plane after a geometric
+transformation;
+Similarity; Congruency.
+9. describe a transformation given
+an object and its image;
+A translation in the plane; a reflection in a line in that
+plane; a rotation about a point (the centre of rotation)
+through an angle in the plane; an enlargement or reduction
+in that plane about a center.
+10. locate the image of a set of
+points under a combination of
+transformations;
+Combination of any two of enlargement/reduction,
+translation, rotation, reflection, glide reflection.
+11. state the relations between an
+object and its image as the
+result of a combination of two
+transformations;
+ CXC 05/G/SYLL 08 29
+GEOMETRY AND TRIGONOMETRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+12. use Pythagoras’ theorem to
+solve problems;
+13. determine the trigonometric
+ratios of acute angles in a rightangled triangle;
+14. use trigonometric ratios in the
+solution of right angledtriangles;
+Practical geometry and scale drawing, bearing.
+15. use trigonometric ratios to solve
+problems based on measures in
+the physical world;
+Heights and distances; angles of elevation and depression.
+16. use the sine and cosine rules in
+the solution of problems
+involving triangles;
+17. represent the relative position of
+two points given the bearing of
+one point with respect to the
+other;
+18. determine the bearing of one
+point relative to another point
+given the position of the points.
+19. solve problems involving
+bearings;
+20. solve practical problems
+involving heights and distances
+in three dimensional situations;
+Optional Specific Objective.
+ CXC 05/G/SYLL 08 30
+GEOMETRY AND TRIGONOMETRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+21. solve geometric problems using
+properties of circles and circle
+theorems.
+The angle which an arc of a circle subtends at the centre of a
+circle is twice the angle it subtends at any point on the
+remaining part of the circumference.
+The angle in a semicircle is a right angle.
+Angles in the same segment of a circle and subtended by the
+same arc are equal.
+The opposite angles of a cyclic quadrilateral are supplementary.
+The exterior angle of a cyclic quadrilateral is equal to the
+interior opposite angle.
+A tangent of a circle is perpendicular to the radius of that circle
+at the point of contact.
+The lengths of two tangents from an external point to the points
+of contact on the circle are equal.
+The angle between a tangent to a circle and a chord through the
+point of contact is equal to the angle in the alternate segment.
+The line joining the centre of a circle to the midpoint of a chord
+is perpendicular to the chord.
+ CXC 05/G/SYLL 08 31
+♦ SECTION 10 - VECTORS AND MATRICES
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. demonstrate the ability to use vector notation and concepts to model and solve real-world problems;
+2. develop awareness of the existence of certain mathematical objects, such as matrices, that do not satisfy the
+same rules of operation as the real number system;
+3. demonstrate how matrices can be used to represent certain types of linear transformation in the
+plane.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. explain concepts associated with
+vectors;
+Concept of a vector, magnitude, direction, line segment,
+scalar.
+2. combine vectors; Triangle law, or parallelogram laws
+2x1 Column matrices,
+for example, 
+
+
+
+
+
+
+
++
++ =
+
+
+
+
+
+
+
++
+
+
+
+
+
+
+
+b d
+a c
+d
+c
+b
+a
+Vector algebra.
+3. express a point P(a,b) as a position
+vector
+ 
+
+
+
+
+
+
+ = →
+b
+a
+OP
+ where O is the origin (0, 0);
+Displacement and position vectors; co-ordinates.
+4. determine the magnitude of a
+vector;
+Including unit vectors.
+5. use vectors to solve problems in
+Geometry;
+Collinearity, parallel.
+6. explain concepts associated with
+matrices;
+Concept of a matrix, row, column, order, types of matrices,
+practical use.
+ CXC 05/G/SYLL 08 32
+VECTORS AND MATRICES (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+7. perform addition, subtraction
+and multiplication of matrices
+and multiplication of matrices
+by a scalar;
+Non-commutativity of matrix multiplication.
+8. evaluate the determinant of a
+‘2 x 2’ matrix;
+9. solve problems involving a ‘2 x
+2’ singular matrix;
+10. obtain the inverse of a nonsingular ‘2 x 2’ matrix;
+Determinant and adjoint of a matrix.
+11. determine a ‘2 x 2’ matrix
+associated with specified
+transformations;
+12. determine a ‘2 x 2’ matrix
+representation of the single
+transformation which is
+equivalent to the composition
+of two linear transformations in
+a plane (where the origin
+remains fixed);
+13. use matrices to solve simple
+problems in Arithmetic, Algebra
+and Geometry .
+Use of matrices to solve linear simultaneous equations.
+(Matrices of order greater than ‘3 x 3’ will not be set.)
+ CXC 05/G/SYLL 08 33
+♦ RECOMMENDED TEXTS
+Buckwell, G., Solomon, R., and Chung
+Harris, T.
+CXC Mathematics for Today 1, Oxford: Macmillan
+Education, 2005.
+Chandler, S., Smith, E., Ali, F., Layne,
+C. and Mothersill, A.
+Mathematics for CSEC, United Kingdom: Nelson Thorne
+Limited, 2008.
+Golberg, N. Mathematics for the Caribbean 4, Oxford: Oxford University
+Press, 2006.
+Greer and Layne Certificate Mathematics, A Revision Course for the Caribbean,
+United Kingdom: Nelson Thorness Limited, 2001.
+Layne, Ali, Bostock, Chandler,
+Shepherd and Ali.
+STP Caribbean Mathematics for CXC Book 4, United
+Kingdom: Nelson Thorness Limited, 2005.
+Toolsie, R. Mathematics, A Complete Course Volume 1, Caribbean
+Educational Publisher Limited, 2006.
+Toolsie, R. Mathematics, A Complete Course Volume 2, Caribbean
+Educational Publisher Limited, 2006.
+Websites
+http://mathworld.wolfram.com/
+http://plus.maths.org/
+http://nrich.maths.org/public/
+http://mathforum.org/
+http://www.ies.co.jp/math/java/
+ CXC 05/G/SYLL 08 34
+♦ GLOSSARY
+WORDS MEANING
+Acute Angle An angle whose measure is less than 90 degrees.
+Adjacent Angles Two angles that share a ray, thereby being directly next to each
+other.
+Algorithm An organised procedure for performing a given type of
+calculation or solving a given type of problem. An example is
+long division.
+Alternate Exterior Angles Angles located outside a set of parallel lines and on opposite
+sides of the transversal.
+Alternate Interior Angles Angles located inside a set of parallel lines and on opposite
+sides of the transversal.
+Angle Bisector A ray that divides an angle into two congruent angles.
+Arithmetic Mean See mean.
+Arithmetic Sequence A sequence of elements, a1, a2, a3,….., such that the difference of
+successive terms is a constant ai+1 - ai = k; for example, the
+sequence {2, 5, 8, 11, 14, …} where the common difference is 3.
+Associative Property This property applies both to multiplication and addition and
+states that you can group several numbers that are being added
+or multiplied (not both) in any way and yield the same value.
+In mathematical terms, for all real numbers a, b, and c,
+(a+b)+c=a+(b+c) or (ab)c=a(bc).
+Asymptotes Straight lines that have the property of becoming and staying
+arbitrarily close to the curve as the distance from the origin
+increases to infinity. For example, the x-axis is the only
+asymptote to the graph of sin (x)/x.
+Bar Graph A diagram showing a system of connections or interrelations
+between two or more things by using bars.
+Base Depth of the Triangular
+Prism
+The perpendicular distance from the base of the triangle to the
+top of the triangle.
+Base of Triangular Prism The triangular end of the prism.
+Bimodal Having two modes, which are the most frequently occurring
+number in a list.
+ CXC 05/G/SYLL 08 35
+WORDS MEANING
+Binomial In algebra, an expression consisting of the sum or difference of
+two monomials (see definition of monomial, such as 4a-8b.
+Class Interval In plotting a histogram, one starts by dividing the range of all
+values into non-overlapping intervals, called class intervals, in
+such a way that every piece of data is contained in some class
+interval.
+Coefficients The constant multiplicative factor of a mathematical object.
+Objects include variables, vectors, functions, matrices etc. For
+example, in the expression: 4d+5 2
+t +3s, the 4, 5, and 3 are
+coefficients for the variables d, t2
+, and s respectively.
+Commutative Property A binary operation * on a given set S is said to be commutative
+if for every pair of elements a and b that are elements of S,
+a * b = b * a. The operations of addition (+) and multiplication
+(x) are commutative on the set of real numbers. This property
+means that you can rearrange the order of the object being
+added or reorder numbers being multiplied without changing
+the value of the expression. In mathematical terms, for all real
+numbers a and b, a+b=b+a and ab=ba.
+Complementary Angles Two angles that have a sum of 90 degrees.
+Congruent Two shapes in the plane or in space are congruent if there is a
+rigid motion that identifies one with the other (see the
+definition of rigid motion).
+Conjecture A proposition which fits with established data but which has
+not yet been verified or refuted. An educated guess or
+hypothesis.
+Continuous Graph In a graph, a continuous line with no breaks in it forms a
+continuous graph.
+Coordinate Plane A plane with a point selected as an origin, some length selected
+as a unit of distance, and two perpendicular lines that intersect
+at the origin, with positive and negative direction selected on
+each line. Traditionally, the lines are called x (drawn from left
+to right, with positive direction to the right of the origin) and y
+(drawn form bottom to top, with positive direction upward of
+the origin). Coordinates of a point are determined by the
+distance of this point from the lines, and the signs of the
+coordinates are determined by whether the point is in the
+positive or in the negative direction from the origin.
+ CXC 05/G/SYLL 08 36
+WORDS MEANING
+Coordinates A unique ordered pair of numbers that identifies a point on the
+coordinate plane. The first number in the ordered pair
+identifies the position with regard to the horizontal (x-axis)
+while the second number identifies the position relative to the
+vertical (y-axis).
+Coordinate System A rule of correspondence by which two or more quantities
+locate points unambiguously and which satisfies the further
+property that points unambiguously determine the quantities,
+for example, the usual Cartesian coordinates x, y in the plane.
+Corresponding Angles Two angles in the same relative position on two lines when
+those lines are cut by a transversal.
+Cosine Cos(q) is the x-coordinate of the point on the unit circle so that
+the ray connecting the point with the origin makes a angle of q
+with the positive x-axis. When q is an angle of a right triangle,
+then Cos(q) is the ratio of the adjacent side with the
+hypotenuse.
+Decimal Number A fraction where the denominator is a power of ten and is
+therefore expressed using a decimal point. For example, 0.37 is
+the decimal equivalent of
+100
+37 .
+Degrees A circle is measured in units called degrees. The entire circle is
+360 degrees, half a circle is 180 degrees, and one quarter of a
+circle is 90 degrees. The “L” shaped 90 degree circle forms what
+is called a right angle. When examining circular objects, such
+as spinners, the size of each segment in the circle can be
+described in degrees.
+Discontinuous Graph A line in a graph that is interrupted, or has breaks in it forms a
+discontinuous graph.
+Disjoint Events Two events are disjoint if they can’t both happen at the same
+time (in other words, if they have no outcomes in common).
+Equivalently, two events are disjoint if their intersection is the
+empty set.
+Distributive Property Summing two numbers and then multiplying by another
+number yields the same value as multiplying both values by the
+other value and then adding. In mathematical terms, for all
+real numbers a, b, and c, a(b+c)=ab+ac.
+Domain of the function f The set of numbers x for which f(x) is defined.
+ CXC 05/G/SYLL 08 37
+WORDS MEANING
+Element A member of or an object in a set.
+Empty Set The empty set, Ø, is the set that has no members.
+Equally Likely In probability, when there are the same chances for more than
+one event to happen, the events are equally likely to occur. For
+example, if someone flips a coin, the chances of getting heads or
+tails are the same. There are equally likely chances of getting
+heads or tails.
+Estimate The best guess for an unknown quantity arrived at after
+considering all the information given in a problem.
+Event In probability, an event is an occurrence or the possibility of an
+occurrence that is being investigated.
+Expanded Form The expanded form of an algebraic expression is the equivalent
+expression without parentheses. For example, the expanded
+form of (a+b)2 is a2
++2ab+b2
+.
+Expected Value The amount that is predicted to be gained, using the calculation
+for average expected payoff.
+Experimental Probability The chances of something happening, based on repeated testing
+and observing results. It is the ratio of the number of times an
+event occurred to the number of times tested. For example, to
+find the experimental probability of winning a game, one must
+play the game many times, then divide by the number of games
+won by the total number of games played.
+Exponent The power to which a number of variable is raised (the
+exponent may be any real number).
+Exponential Function A function commonly used to study growth and decay. It has
+the form y=ax with a positive.
+Factors Any of two or more quantities that are multiplied together. In
+the expression 3.712 x 11.315, the factors are 3.712 and
+11.315.
+Frequency The number of items occurring in a given category.
+Function A correspondence in which values of one variable determine
+the values of another.
+Graph A visual representation of data that displays the relationship
+among variables, usually cast along x and y axes.
+ CXC 05/G/SYLL 08 38
+WORDS MEANING
+Histogram A vertical block graph with no spaces between the blocks. It is
+used to represent frequency data in statistics.
+Hypotenuse The side of the triangle that is opposite the right angle.
+Identity A number that when an operation is applied to a given number
+yields that given number. For multiplication, the identity is one
+and for addition the identity is zero.
+Inequality A relationship between two quantities indicating that one is
+strictly less than or less than or equal to the other.
+Integers The set consisting of the positive and negative whole numbers
+and zero, for example, {… -2, -1, 0, 1, 2,…}.
+Irrational Number A number that cannot be represented as an exact ratio of two
+integers. For example, the square root of 2 or π .
+Input The number or value that is entered, for example, into a
+function machine. The number that goes into the machine is
+the input.
+Intercept See x-intercept or y-intercept.
+Intersection of Sets The intersection of two or more sets is the set of elements that
+all the sets have in common, in other words, all the elements
+contained in every one of the sets. The mathematical symbol
+for intersection is ∩.
+Inverse, Additive A number when added to a given number yields zero. See also
+identity.
+Inverse, Multiplicative A number when multiplied by a given number yields one. See
+also identity
+Isosceles Triangle A triangle that has at least two congruent sides.
+Limit The target value that terms in a sequence of numbers are
+getting closer to. This limit is not necessarily ever reached, the
+numbers in the sequence eventually get arbitrarily close to the
+limit.
+Line Graph A diagram showing a system of connections or interrelations
+between two or more things by using lines.
+Line Segment A piece of a line with endpoints at both ends.
+ CXC 05/G/SYLL 08 39
+WORDS MEANING
+Line symmetry If a figure is divided by a line and both divisions are mirrors of
+each other, the figure has line symmetry. The line that divides
+the figure is the line of symmetry.
+Linear Equation An equation containing linear expressions.
+Linear Expression An expression of the form ax+b where x is variable and a and b
+are constants, or in more variables, an expression of the form
+ax+by+c, ax+by+cz+d.
+Mean In statistics, the average obtained by dividing the sum of two or
+more quantities by the number of these quantities.
+Median In statistics, the quantity designating the middle value in a set
+of numbers.
+Mode In statistics, the value that occurs most frequently in a given
+series of numbers.
+Modulus A unit of measure. For example, when measuring days, a
+modulus could be 24 for the number of hours in a day. 75
+hours would be divided by 24 to give 3 remainder 3, or 3 days
+and 3 hours. See also modular arithmetic.
+Multimodal distribution A distribution with more than one mode. The histogram of a
+multimodal distribution has more than one “bump”.
+Multiples The product of multiplying a number by a whole number. For
+example, multiples of 5 are 10, 15, 20 or any number that can
+be evenly divided by 5.
+Natural Numbers The set of the counting numbers, that is, 1, 2, 3, 4… In
+graphing, numbers to the right of zero.
+Negative Numbers Numbers less than zero. In graphing, numbers to the left of
+zero. Negative numbers are represented by placing a minus sign
+(-) in front of the number.
+Obtuse Angle An angle whose measure is greater than 90 degrees.
+Origin In the Cartesian coordinate plane, the origin is the point at
+which the horizontal and vertical axes intersect, at zero (0,0).
+Outcome space The outcome space is the set of all possible outcomes of a given
+experiment.
+ CXC 05/G/SYLL 08 40
+WORDS MEANING
+Output The number or value that comes out from a process. For
+example, in a function machine, a number goes in, something is
+done to it, and the resulting number is the output.
+Parallel Given distinct lines in the plane that are infinite in both
+directions, the lines are parallel if they never meet. Two
+distinct lines in the coordinate plane are parallel if and only if
+they have the same slope.
+Parallelogram A quadrilateral that contains two pairs of parallel sides
+Pattern Characteristic(s) observed in one item that may be repeated in
+similar or identical manners in other items.
+Percent A ratio that compares a number to one hundred. The symbol
+for percent is %.
+Pi The designated name for the ratio of the circumference of a
+circle to its diameter.
+Pie Chart A chart made by plotting the numeric values of a set of
+quantities as a set of adjacent circular wedges where the arc
+lengths are proportional to the total amount. All wedges taken
+together comprise an entire disk.
+Pie Graph A diagram showing a system of connections or interrelations
+between two or more things by using a circle divided into
+segments that look like pieces of pie.
+Polygon A closed plane figure formed by three or more line segments
+that do not cross over each other.
+Polyhedra Any solid figure with an outer surface composed of polygon
+faces.
+Polynominal An algebraic expression involving a sum of powers in one or
+more variables that are multiplied by co-efficients. For example,
+a polynomial in one variable with constant co-efficients is given
+by anxn + an-1xn-1 +…+a2x2
++ a1x1 + a0.
+Prime A natural number p greater than 1 is prime if and only if the
+only positive integer factors of p are 1 and p. The first seven
+primes are 2, 3, 5, 7, 11, 13, 17.
+Probability The measure of how likely it is for an event to occur. The
+probability of an event is always a number between zero and 1.
+The meaning (interpretation) of probability is the subject of
+theories of probability. However, any rule for assigning
+probabilities to events has to satisfy the axioms of probability.
+ CXC 05/G/SYLL 08 41
+WORDS MEANING
+Proportion A relationship between two ratios in which the first ratio is
+always equal to the second.
+Protractor An instrument for laying down and measuring angles on paper,
+used in drawing and plotting.
+Pythagorean Theorem Used to find side lengths of right triangles, the Pythagorean
+Theorem states that the square of the hypotenuse is equal to the
+squares of the two sides, or A2
++B2
+=C2
+, where c is the
+hypotenuse.
+Quadrant The four parts of a grid divided by the axes. Each of these
+quadrants has a number designation. First quadrant – contains
+all the points with positive x and positive y coordinates. Second
+quadrant - contains all the points with negative x and positive y
+coordinates. Fourth quadrant – contains all the points with
+positive x and positive y coordinates.
+Quadratic Function A function given by a polynomial of degree 2.
+Quadrilateral A polygon that has four sides.
+Quotient When performing division, the number of times one value can
+be multiplied to reach the other value represents the quotient.
+For example, when dividing 7 by 3, 3 can be multiplied twice,
+making 6, and the remainder is 1, so the quotient is 2.
+Range The range of a set of numbers is the largest value in the set
+minus the smallest value in the set. Note that the range is a
+single number, not many numbers.
+Range of Function f The set of all the numbers f(x) for x in the domain of f.
+Ratio A comparison expressed as a fraction. For example, there is a
+ratio of threes boys to two girls in a class ( 3
+2
+, 3:2).
+Rational Numbers Numbers that can be expressed as the quotient of two integers,
+for example, 7
+3
+, 5
+11 , 5
+13
+− , 7 =
+7
+1
+.
+Ray A straight line that begins at a point and continues outward in
+one direction.
+Reflection The reflection through a line in the plane or a plane in space is
+the transformation that takes each point in the plane to its
+mirror image with respect to the line or its mirror image with
+respect to the plane in space. It produces a mirror image of a
+geometric figure.
+ CXC 05/G/SYLL 08 42
+WORDS MEANING
+Real Numbers The union of the set of rational numbers and the set of
+irrational numbers. Also called the continuum.
+Regular Polygon A polygon whose side lengths are all the same and whose
+interior angle measures are all the same.
+Rhombus A parallelogram with four congruent sides.
+Right Angle An angle of 90 degrees.
+Right Triangle A triangle containing an angle of 90 degrees.
+Rotate The turning of an object (or co-ordinate system) by an angle
+about a fixed point.
+Scientific Notation A shorthand way of writing very large or very small numbers. A
+number expressed in scientific notation is expressed as a
+decimal number between 1 and 10 multiplied by a power of 10
+(for example, 7000 = 7x103 or 0.0000019 = 1.9x10-6
+).
+Sector A piece of an object. In the spinner, any of the numbered
+segments is a “sector”.
+Sequence An ordered set whose elements are usually determined based on
+some function of the counting numbers.
+Set A set is a collection of things, without regard to their order.
+Significant Digits The number of digits to consider when using measuring
+numbers. There are three rules in determining the number of
+digits considered significant in a number:
+- All non-zeros are significant.
+- Any zeros between two non-zeros are significant.
+- Only trailing zeros behind the decimal are considered
+significant.
+Similarity Two figures are said to be similar when all corresponding angles
+are equal and all distances are increased (or decreased) in the
+same ratio.
+Sine Sin (q) is the y-coordinate of the point on the unit circle so that
+the ray connecting the point with the origin makes an angle of
+q with the positive x-axis. When q is an angle of a right
+triangle, the sin (q) is the ratio of the opposite side with the
+hypotenuse.
+ CXC 05/G/SYLL 08 43
+WORDS MEANING
+Square Root The square roots of n are all the numbers m so that 2 m = n.
+The square roots of 16 are 4 and -4. The square roots of -16
+are 4i and -4i.
+Subset A subset of a given set is a collection of things that belong to
+the original set. For example, A={a,b}, could include, a, b, a
+and b, or the null set (neither).
+Surface Area A measure of the number of square units needed to cover the
+outside of a figure.
+Symmetry A symmetry of a shape S in the plane or space is a rigid motion
+T that takes S onto itself (T(S)=S). For example, reflection
+through a diagonal and a rotation through a right angle about
+the centre are both symmetries of the square.
+System of Linear Equations Set of equations of the first degree (for example, x+y=7 and xy=1). A solution of a set of linear equations is a set of numbers
+a, b, c,….. so that when the variables are replaced by the
+numbers all the equations are satisfied. For example, in the
+equations above, x = 4 and y = 3 is the solution.
+Translate In a tessellation, to translate an object means repeating it by
+sliding it over a certain distance in a certain direction.
+Translation A rigid motion of the plane or space of the form X goes to X +
+V for a fixed vector V.
+Transversal In geometry, given two or more lines in the plane a transversal
+is a line distinct from the original lines and intersects each of
+the given liens in a single point.
+Tessellation A tessellation is a repeated geometric design that covers a plane
+without gaps or overlaps.
+Theoretical Probability The chances of events happening as determined by calculating
+results that would occur under ideal circumstances. For
+example, the theoretical probability of rolling a 4 on a foursided die is ¼ or 25%, because there is one chance in four to
+roll a 4, and under ideal circumstances one out of every four
+rolls would be a 4. Contrast with experimental probability.
+Trapezoid A quadrilateral with exactly one pair of parallel sides.
+Union of Sets The union of two or more sets is the set of all the objects
+contained by at least one of the sets. The symbol for union is
+U.
+ CXC 05/G/SYLL 08 44
+WORDS MEANING
+Variable A placeholder in algebraic expression, for example, in
+3x + y = 23, x and y are variables.
+Vector Quantity that has magnitude (length) and direction. It may be
+represented as a directed line segment.
+Velocity The rate of change of position overtime is velocity, calculated by
+dividing distance by time.
+Venn Diagram A diagram where sets are represented as simple geometric
+figures, with overlapping and similarity of sets represented by
+intersections and unions of the figures.
+Volume A measure of the number of cubic units needed to fill the space
+inside an object.
+X-intercept The x-coordinate of the point where the line crosses the x-axis.
+Y-intercept The y-coordinate of the point where the line crosses the y-axis.
+Western Zone Office
+2008/04/07
+ CXC 05/G/SYLL 08 45

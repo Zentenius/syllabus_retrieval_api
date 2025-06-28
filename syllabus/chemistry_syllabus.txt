@@ -1,0 +1,5267 @@
+CXC 21/G/SYLL 13
+CARIBBEAN EXAMINATIONS COUNCIL
+Caribbean Secondary Education Certificate
+CSEC®
+CHEMISTRY
+SYLLABUS
+Effective for examinations from May–June 2015
+CXC 21/G/SYLL 13
+Published by the Caribbean Examinations Council.
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted in any form, or by any means electronic, photocopying, recording or otherwise without
+prior permission of the author or publisher.
+Correspondence related to the syllabus should be addressed to:
+The Pro-Registrar
+Caribbean Examinations Council
+Caenwood Centre
+37 Arnold Road, Kingston 5, Jamaica
+Telephone Number: + 1 (876) 630-5200
+Facsimile Number: + 1 (876) 967-4972
+E-mail Address: cxcwzo@cxc.org
+Website: www.cxc.org
+Copyright © 2013 by Caribbean Examinations Council
+The Garrison, St Michael BB14038, Barbados
+ CXC 21/G/SYLL 13
+
+ Contents
+RATIONALE ................................................................................................................................... 1
+AIMS ............................................................................................................................................. 1
+CANDIDATE POPULATION............................................................................................................. 2
+SUGGESTED TIME-TABLE ALLOCATION ........................................................................................ 3
+ORGANISATION OF THE SYLLABUS ............................................................................................... 3
+SUGGESTIONS FOR TEACHING THE SYLLABUS.............................................................................. 3
+CERTIFICATION AND DEFINITION OF PROFILES ............................................................................ 4
+FORMAT OF THE EXAMINATIONS................................................................................................. 6
+REGULATIONS FOR RESIT CANDIDATES........................................................................................ 7
+REGULATIONS FOR PRIVATE CANDIDATES ................................................................................... 7
+THE PRACTICAL APPROACH .......................................................................................................... 7
+SECTION A - PRINCIPLES OF CHEMISTRY..................................................................................... 11
+SECTION B - ORGANIC CHEMISTRY ............................................................................................. 27
+SECTION C - INORGANIC CHEMISTRY.......................................................................................... 33
+GUIDELINES FOR THE SCHOOL-BASED ASSESSMENT ................................................................... 42
+LIST OF SUGGESTED CHEMICALS .................................................................................................. 61
+SUGGESTED EQUIPMENT LIST ...................................................................................................... 64
+RESOURCES ................................................................................................................................... 66
+GLOSSARY ..................................................................................................................................... 67
+ CXC 21/G/SYLL 13
+This document CXC 21/G/SYLL 13 replaces CXC 21/G/SYLL 02 issued in 2002.
+Please note that the syllabus has been revised and amendments are indicated by italics.
+First Published 1983
+Reprinted with amendments 1986, 1987
+Revised 1991, 1996, 2002, 2013
+Please check the website www.cxc.org for updates on CXC’s syllabuses.
+ CXC 21/G/SYLL 13 1
+
+Chemistry Syllabus
+ RATIONALE
+The application of scientific principles and the conduct of relevant research are of significant importance
+in identifying, assessing and realising the potential of the resources of Caribbean territories. A good
+foundation in the sciences will help citizens of the Caribbean to respond to the challenges of a rapidly
+changing world using the scientific approach.
+Chemistry is concerned with the physical and chemical properties of substances and the interaction of
+energy and matter. The study of Chemistry involves an investigation into chemical reactions and
+processes. The discipline seeks to explain and predict events at the atomic and molecular level.
+Through the principles of Chemistry, students will understand everyday life, nature and technology, and
+the significance of the well-being of man and the environment.
+The CSEC Chemistry Syllabus is redesigned to allow students to work individually and with others in
+practical, field and interactive activities that are related to theoretical concepts in the course. It is
+expected that students will apply investigative and problem-solving skills, effectively communicate
+scientific information and appreciate the contribution that a study of chemistry makes to their
+understanding of the world. The syllabus places greater emphasis on the understanding and application
+of chemical concepts and principles and different learning styles and needs, so that students will
+develop skills that will be of long term value in an increasingly technological world, rather than focusing
+on large quantities of factual information. In addition, it encourages the use of various teaching and
+learning strategies while at the same time catering to multiple intelligences.
+It contributes to the development of the Ideal Caribbean Person as articulated by the CARICOM Heads
+of Government in the following areas: respect for human life, awareness of the importance of living in
+harmony with the environment; demonstrates multiple literacies, independent and critical thinking and
+the innovative application of science and technology to problem solving. In keeping with the UNESCO
+Pillars of Learning, on completion of this course of study, students will learn to do, learn to be and learn
+to transform themselves and society.
+ AIMS
+This syllabus aims to:
+1. appreciate and understand natural phenomena and the ways in which materials behave;
+2. be aware of the power, impact and influence which Chemistry has in a modern scientific world
+and to emphasise that there is a responsibility that Chemistry be used for the good of the
+society and for the preservation of the environment;
+3. appreciate, understand and use methods of science;
+ CXC 21/G/SYLL 13 2
+4. see the relevance of Chemistry to everyday life;
+5. appreciate and understand the role of Chemistry in enabling materials to be used in the
+service of mankind, in the Caribbean and elsewhere;
+6. understand basic chemical concepts in sufficient depth to provide an adequate foundation for
+specialisation;
+7. develop the spirit of inquiry and to continue the search for new ways in which materials may
+be used in the service of mankind;
+8. appreciate the inter-relationships among Chemistry, Biology, Physics, Mathematics and other
+subjects;
+9. make use of chemical data, concepts, principles and terminology in communicating chemical
+information;
+10. develop the ability to work independently and collaboratively with others when necessary;
+11. appreciate the significance and limitations of science in relation to social and economic
+development;
+12. integrate Information and Communication Technology (ICT) tools and skills into the teaching
+and learning of chemical concepts.
+ CANDIDATE POPULATION
+The syllabus is designed for students intending to pursue further studies in Science at the tertiary level
+as well as students whose formal study of the subject is unlikely to proceed further.
+CANDIDATE REQUIREMENTS
+1. Candidates should be exposed to at least three years of science at the secondary level, which
+should provide an introduction to basic scientific principles.
+2. Candidates should be concurrently studying or have done:
+(a) CSEC Mathematics or its equivalent;
+(b) CSEC English A (English Language) or its equivalent.
+It is assumed that students will be able to:
+1. make calculations involving addition, subtraction, multiplication and division of quantities;
+2. use significant figures, estimate orders of magnitude;
+3. express fractions as percentages and vice versa;
+4. use indices, transform decimal notation to powers of ten (standard form);
+5. substitute values into equations;
+ CXC 21/G/SYLL 13 3
+6. manipulate formulae;
+7. sketch curves (elementary), plot results graphically, select their own scales; determine
+gradients of curves and straight lines;
+8. extrapolate and interpolate (from data);
+9. perform simple operations involving ratio and proportion;
+10. perform simple operations involving variation;
+11. perform simple operations involving rates of change;
+12. use pie charts, bar charts and histograms in representing data.
+CLASS SIZE
+It is recommended that practical classes accommodate a maximum of twenty-five students.
+ SUGGESTED TIME-TABLE ALLOCATION
+It is recommended that a minimum of five 40-minute periods per week, including one double period,
+be allocated to the subject over a two-year period.
+ ORGANISATION OF THE SYLLABUS
+The syllabus is divided into three sections, namely:
+SECTION A - Principles of Chemistry
+SECTION B - Organic Chemistry
+SECTION C - Inorganic Chemistry
+ SUGGESTIONS FOR TEACHING THE SYLLABUS
+It is recommended that Section A be taught first. However, in teaching each section, teachers need
+not follow the sequence given. SI units and IUPAC conversion of nomenclature should be used
+throughout.
+Teachers are strongly encouraged to use inquiry-based strategies to teach chemical concepts.
+Teachers should ensure that their lessons stimulate the students’ curiosity and facilitate critical
+thinking and problem solving. This will help students view Chemistry as a dynamic and exciting
+investigative process. The provision of cooperative and collaborative activities is encouraged.
+The general and specific objectives indicate the scope of the content including practical work that
+should be covered. However, unfamiliar situations may be presented as stimulus material in
+examination questions.
+ CXC 21/G/SYLL 13 4
+This syllabus caters to varying teaching and learning styles, with specific attention made to ensure
+the interrelatedness of concepts. The fourth column entitled, “Skills and Interrelationships” states
+which specific objectives are best suited for Observation, Recording and Reporting (ORR),
+Manipulation and Measurement (MM), Analysis and Interpretation (AI), and Planning and Designing
+(PD) skills. It also highlights connections between chemical concepts and fields of Biology, Physics,
+Mathematics and Agricultural Science. Whenever possible, a variety of teaching and learning
+strategies suitable to varying learning needs of students should be employed with special attention
+given to the identification of variables and the use of controls in chemical investigations. The need
+for repeated investigations and observations to arrive at meaningful conclusions should be
+emphasised.
+In addition to developing a solid foundation of factual information, teachers are encouraged to
+emphasise the application of scientific concepts and principles and minimise memorisation and rote
+learning. In order to make the course as relevant as possible, every opportunity should be taken to
+help students make the connections between chemistry and their environment.
+The role of the teacher is to facilitate students’ learning accurate and unbiased information that will
+indirectly contribute to a more scientifically literate citizenry that is capable of making educated
+decisions regarding the world in which we live.
+ CERTIFICATION AND DEFINITION OF PROFILES
+The syllabus will be examined for General Proficiency certification.
+In addition to the overall grade, there will be a profile report on the candidate's performance under
+the following headings:-
+1. Knowledge and Comprehension;
+2. Use of Knowledge;
+3. Experimental Skills.
+Knowledge and Comprehension (KC)
+The ability to:
+Knowledge identify, remember, grasp the meaning of basic facts, concepts and
+principles;
+Comprehension select appropriate ideas, match, compare and cite examples of facts,
+concepts and principles in familiar situations.
+Use of Knowledge (UK)
+The ability to:
+Application use facts, concepts, principles and procedures in unfamiliar situations;
+transform data accurately and appropriately; use common
+characteristics as a basis for classification; use formulae accurately for
+computations;
+ CXC 21/G/SYLL 13 5
+Experimental Skills (XS)
+The ability to:
+Observation/Recording/
+Reporting
+use the senses and extensions of them to perceive objects and events
+accurately; present a written report, drawing or other graphical
+representation, which is clear, concise, accurate and pertinent to the
+investigation; report and recheck unexpected results;
+Drawing make large, clear, labelled line representations of apparatus or models;
+Manipulation/
+Measurement
+set up, use carefully and competently simple laboratory apparatus and
+measuring instruments; appropriately prepare materials for
+observation/investigation; master separation techniques; use materials
+economically;
+Planning and Designing develop hypotheses and devise means of carrying out investigations to
+test them; plan experimental procedures and operations in appropriate
+sequence; identify variables, state expected results, identify
+precautions and possible sources of error. It is expected that some of
+the planning and designing activities will be carried out to help students
+develop this skill. However, the reports of these activities are no longer
+plans and cannot be assessed as Planning and Design. They can be
+marked for other skills, for example, ORR.
+Analysis and Interpretation identify and recognise the component parts of a whole and interpret
+the relationships between those parts; identify causal factors and show
+how they interact with each other; infer, predict and draw conclusions;
+make necessary and accurate calculations and recognise the limitations
+and assumptions inherent in the collection and interpretation of data;
+Synthesis combine component parts to form a new meaningful whole; make
+predictions and solve problems;
+Evaluation make reasoned judgements and recommendations based on the value
+of ideas and information and their implications;
+Environmental show concern and awareness for the environment and the
+conservation of natural resources.
+ CXC 21/G/SYLL 13 6
+ FORMAT OF THE EXAMINATIONS
+Paper 01
+(1 hour 15 minutes)
+An objective test consisting of 60 multiple choice items.
+Paper 02
+(2 hours 30 minutes)
+One compulsory data analysis question, two structured
+questions and three extended response questions.
+Paper 03/1
+School-Based Assessment (SBA)
+School-Based Assessment will evaluate the achievement of the
+candidate in the Experimental Skills and Analysis and
+Interpretation involved in the laboratory and fieldwork.
+Candidates will be required to keep a separate practical
+workbook. CXC will require a sample of these for external
+moderation.
+Paper 03/2
+Assessment for Private
+Candidates only
+(2 hours and 10 minutes)
+Alternate to the School-Based Assessment for private
+candidates. This paper will examine the same skills as those
+tested in Paper 03/1. The focus, therefore, will be on
+Experimental Skills and Use of Knowledge (Analysis and
+Interpretation).
+NOTES ON THE EXAMINATIONS
+1. The use of non-programmable calculators will be permitted in the examination. The use of a
+calculator to recall previously stored information during an examination is prohibited.
+2. Copies of the Periodic Table will be provided if necessary.
+3. SI units will be used on all examination papers.
+WEIGHTING OF PAPERS AND PROFILES
+The percentage weighting of the examination components and profiles is as follows:
+Table 1- Percentage Weighting of Papers and Profiles
+PROFILES
+PAPER 01
+Multiple
+Choice
+PAPER 02
+Structured and
+Data Analysis
+PAPER 03
+SBA
+TOTAL
+RAW
+TOTAL
+%
+Knowledge and
+Comprehension
+50 35 - 85 43
+Use of Knowledge 10 55 10 75 37
+Experimental Skills – 10 30 40 20
+TOTAL % 60 100 40 200 100
+ CXC 21/G/SYLL 13 7
+ REGULATIONS FOR RESIT CANDIDATES
+Resit candidates must complete Papers 01 and 02 and Paper 03 of the examination for the year for
+which they re-register. Resit candidates may elect not to repeat the School-Based Assessment
+component, provided they re-write the examination no later than two years following their first
+attempt.
+Candidates may opt to complete the School-Based Assessment (SBA) or may opt to re-use another
+SBA score which satisfies the condition below.
+A candidate who re-writes the examination within two years may re-use the moderated SBA score
+earned in the previous sitting within the preceding two years. Candidates re-using SBA scores in
+this way must register as “Resit candidates” and provide the previous candidate number.
+All resit candidates may enter through schools, recognized educational institutions, or the Local
+Registrar’s Office.
+ REGULATIONS FOR PRIVATE CANDIDATES
+Private candidates must be entered for examination through the Local Registrar in their respective
+territories and will be required to sit Papers 01, 02, and EITHER Paper 03/1 OR Paper 03/2.
+Paper 03/2 is a practical examination designed for candidates whose work cannot be monitored by
+tutors in recognised educational institutions. The Paper will be of 2 hours and 10 minutes duration and
+will consist of three questions. Questions will test the Experimental Skills and Use of Knowledge
+(Analysis and Interpretation) profiles and will incorporate written exercises and practical activities.
+ THE PRACTICAL APPROACH
+The syllabus is designed to foster the use of inquiry-based learning through the application of the
+practical approach. Students will be guided to answer scientific (testable) questions by a process of
+making observations, asking questions, doing experiments and analysing and interpreting data. The
+CXC CSEC Chemistry syllabus focuses on the following skills.
+1. Planning and Designing (PD)
+Student’s ability to:
+(a) Ask questions: how, what, which, why or where. (Students must be guided by their
+teachers to ask scientific questions based on a stated problem).
+Sample Problem: It has been observed that galvanized roofs on beach houses
+corrode faster than those on houses inland.
+Example: Why do galvanized roofs on beach houses corrode faster than those on
+houses inland?
+(b) Construct a hypothesis; the hypothesis must be clear, concise and testable.
+Example: Iron rusts faster in the presence of salt water.
+ CXC 21/G/SYLL 13 8
+(c) Design an experiment to test the hypothesis Experimental reports must include the
+following:
+(i) problem statement;
+(ii) aim;
+(iii) list of materials and apparatus to be used;
+(iv) clear and concise step by step procedure;
+(v) manipulated and responding variables;
+(vi) controlled variables;
+(vii) observations to be made or measurements to be taken;
+(viii) suggested display of results(for example, graphs tables ;
+(ix) proposed use of results;
+(x) possible limitations, assumptions;
+(xi) precautions to be taken.
+2. Measurement and Manipulation (MM)
+Student’s ability to:
+(a) Handle scientific equipment competently.
+The list of equipment includes:
+(i) Bunsen burner;
+(ii) measuring cylinder;
+(iii) beakers;
+(iv) thermometer;
+(v) ruler;
+(vi) stop watch/clock;
+(vii) balance;
+(viii) boiling tube;
+(ix) burette;
+(x) pipette;
+ CXC 21/G/SYLL 13 9
+(xi) conical flask;
+(xii) syringe;
+(xiii) voltmeter;
+(xiv) ammeter.
+This list is not exhaustive.
+(b) Use of appropriate apparatus.
+(c) Take accurate measurements.
+3. Observation, Reporting and Recording (ORR)
+(a) Recording
+Student’s ability to record observations and to collect and organize data.
+Observations and data may be recorded in the following format.
+(i) Prose
+Written description of observations in the correct tense.
+(ii) Table (Neatly enclosed)
+Numerical: physical quantities in heading, correct units stated in heading,
+symbols, decimal points.
+Non-numerical: headings correct, details present.
+(iii) Graph
+Axes labelled with units, correct scales, correct plotting, smooth curves/best
+fit lines.
+(iv) Drawing of apparatus as set up for use.
+(b) Reporting
+Student’s ability to prepare a comprehensive written report on their assignments
+using the following format:
+(i) Date (date of experiment).
+(ii) Aim (what is the reason for doing the experiment).
+(iii) Apparatus and Materials (all equipment, chemicals and materials used in
+the experiment must be listed).
+(iv) Method/Experimental Procedure (step-by-step procedure written in the
+past tense, passive voice).
+(v) Results and Observations (see (a) above: Recording).
+(vi) Discussion and Conclusion (see 4: Analysis and Interpretation).
+ CXC 21/G/SYLL 13 10
+4. Analysis and Interpretation
+Student’s ability to:
+(a) identify patterns and trends;
+(b) make accurate calculations;
+(c) identify limitations and sources of error;
+(d) make a conclusion to either support or refute the hypothesis;
+(e) compare actual results with expected results if they are different;
+(f) suggest alternative methods or modifications to existing methods;
+(g) analyse and interpret results and observations, and make conclusions.
+ CXC 21/G/SYLL 13 11
+ SECTION A - PRINCIPLES OF CHEMISTRY
+Section A is designed as an introduction to fundamental chemical concepts and principles. A study of
+the particulate nature of matter, structure, bonding, chemical properties and physical properties of
+elements, compounds and mixtures is included as well as certain quantitative properties.
+Comprehension of these concepts and principles will help students appreciate the importance of
+chemistry as it relates to the environment and the daily activities of man.
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. be aware that matter is made up of particles;
+2. understand that different types of mixtures can be separated based on the properties of the
+components;
+3. be familiar with the concept of the atom as the basic building block of matter;
+4. appreciate that matter can be classified based on physical or chemical properties;
+5. be aware of the different forces of attraction that exist between particles;
+6. understand the mole as the unit for comparison of amounts of matter;
+7. appreciate that properties of chemicals will affect their reactions;
+8. assess the impact of certain materials on living systems and the environment;
+9. be familiar with the composition of certain materials and develop the ability to make reasoned
+choices concerning their use;
+10. understand that the rate at which a chemical reaction proceeds is dependent on a number of
+physical factors;
+11. appreciate that energy changes occur during the course of a chemical reaction;
+12. appreciate the importance of chemistry to the environment.
+ CXC 21/G/SYLL 13 12
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+1. STATES OF MATTER
+Students should be able to:
+1.1 explain how
+evidence supports
+the particulate
+theory of matter;
+Evidence obtained
+from practical work
+involving processes,
+such as diffusion and
+osmosis. Use of salt
+or sugar to control
+garden pests and as a
+preservative.
+Experiments of
+diffusion of ammonia
+and hydrogen chloride
+gases in cylindrical
+tube. Osmosis of
+Pawpaw (green) strips
+in a container of
+distilled water.
+Potassium manganate
+(VII) in water.
+Biology- Osmosis,
+diffusion.
+Physics-Kinetic
+Theory.
+Skills: ORR; PD.
+1.2 distinguish among
+the three states of
+matter;
+Arrangement of
+particles, energy of
+particles, strength of
+forces of interaction.
+Consideration of
+physical
+characteristics of
+states.
+Example: Volume,
+density,
+compressibility.
+1.3 explain the changes
+between the three
+states of matter in
+terms of energy and
+arrangement of
+particles.
+Consideration of
+freezing, melting,
+boiling, evaporation,
+sublimation,
+condensation; heating
+and cooling curves.
+Heat the following ice,
+water, butter, Iodine
+(in a fume hood).
+Physics - Specific
+latent heat.
+Skills: MM; AI;
+ORR.
+2. MIXTURES AND SEPARATIONS
+2.1 distinguish between
+pure substances and
+mixtures;
+Elements,
+compounds, atoms,
+molecules, fixed
+composition,
+properties, variable
+composition, variable
+properties.
+Compare boiling
+point of pure
+water and sodium
+chloride solution.
+Biology – Solutions
+in life processes.
+Skill: MM.
+ CXC 21/G/SYLL 13 13
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+2.2 distinguish among
+solutions,
+suspensions and
+colloids;
+Reference to particle
+sizes, passage of
+light, sedimentation.
+Filtration, use of lamp
+light to view particles.
+Skills: ORR, MM.
+2.3 identify different
+types of solutions;
+Types of solutions:
+solid in liquid, solid in
+solid, gas in liquid,
+liquid in liquid, gas in
+gas.
+Observe examples of
+each type of solution.
+2.4 investigate the effect
+of temperature on
+solubility of solids in
+water;
+Examples showing
+that a decrease in
+solubility with
+increasing
+temperature will not
+be required.
+Determine the
+solubility of a solute in
+water, for example,
+potassium nitrate.
+Biology –
+Transport system.
+Skills: AI; ORR; MM.
+2.5 apply suitable
+separation techniques
+based on differences
+in properties of the
+components of
+mixtures;
+Properties to be
+included: particle size,
+boiling point,
+crystalline structure,
+solubility and solute
+mobility in solvent.
+Include line drawing to
+represent the
+separation process.
+Refer to SO B1.2, B3.8,
+C5.8.
+Use of simple
+filtration, simple and
+fractional distillation,
+paper
+chromatography, and
+the separating funnel.
+Biology – Function
+of the kidney,
+digestive system.
+Skills: MM; ORR.
+2.6 describe the
+extraction of sucrose
+from sugar cane.
+A simple treatment of
+the following crushing,
+precipitation,
+filtration, vacuum
+distillation,
+crystallisation,
+centrifugation.
+A field visit to a sugar
+producing plant.
+Physics – Gas Laws,
+circular motion,
+Specific latent heat.
+ CXC 21/G/SYLL 13 14
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+3. ATOMIC STRUCTURE
+3.1 describe with
+illustrations, the
+structure of atoms
+of atomic number 1
+to 20;
+The atom as consisting
+of three basic
+particles: protons,
+neutrons and electrons
+arranged in shells. No
+consideration of
+orbitals is expected.
+Make models. Physics-Particles in
+the atom.
+3.2 state properties of
+electrons, protons
+and neutrons;
+Properties related to
+relative mass and
+relative charge only.
+3.3 define atomic
+number and mass
+number;
+Physics –
+Particles in the
+atom.
+3.4 define relative
+atomic mass;
+Relative atomic mass
+based on carbon-12
+isotope.
+3.5 interpret notations
+of the form
+a c
+ X
+b d
+a – mass number;
+b – atomic number;
+c - charge;
+d - number of
+items in the entity;
+X – symbol of atom.
+3.6 define isotopy; Isotopes as atoms with
+the same number of
+protons and different
+number of neutrons.
+PhysicsRadioactivity.
+3.7 list uses of
+radioactive isotopes.
+At least three uses of
+radioactive isotopes;
+for example, carbon
+dating, radiotherapy,
+tracers, pacemakers
+and energy
+generation.
+PhysicsRadioactivity.
+ CXC 21/G/SYLL 13 15
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+4. PERIODIC TABLE AND PERIODICITY
+4.1 explain the basis for
+the arrangement of
+elements in the
+periodic table;
+Mention historical
+development of the
+periodic table, for
+example, contributions
+from Mendeleev and
+Dobereiner. Classification
+based on atomic number,
+atomic structure.
+Arrangement in periods
+and groups.
+Physics-Structure of
+the atom.
+4.2 explain trends in
+Group II;
+Ease of ionisation,
+reactivity with oxygen,
+water, and dilute
+hydrochloric acid.
+Reactions of
+magnesium and
+calcium with
+water, air, and
+dilute hydrochloric
+acid.
+Skills: ORR; AI.
+4.3 explain trends in
+Group VII;
+Consideration of the
+following properties:
+physical state at room
+temperature, strength of
+oxidising power.
+Carry out simple
+displacement
+reactions with
+chlorine, bromine
+and iodine.
+Observe the
+physical state of
+these elements.
+Skills: ORR, AI.
+4.4 identify trends in
+period 3;
+Metallic to semi-metallic
+to non-metallic properties.
+Refer to SO A7.1.
+4.5 predict properties of
+unknown elements
+based on the position
+in periodic table.
+Plan and design an
+investigation of
+the position of
+element X in the
+periodic table.
+Skill: PD.
+ CXC 21/G/SYLL 13 16
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+5. STRUCTURE AND BONDING
+5.1 explain the formation
+of ionic and covalent
+bonds;
+Draw dot and cross
+diagrams to show ionic and
+covalent bonding.
+Refer to SO B2.1.
+5.2 predict the likelihood
+of an atom forming
+an ionic or a
+covalent bond based
+on atomic structure;
+5.3 write formulae to
+represent ions,
+molecules and
+formula units;
+5.4 explain metallic
+bonding;
+Arrangement of cations
+and mobile electrons.
+Refer to SO C1.1.
+Physics-Particles in
+the atom.
+5.5 describe ionic
+crystals, simple
+molecular crystals
+and giant molecular
+crystals;
+Make diagrammatic
+representations of sodium
+chloride, graphite and
+diamond.
+Make models of
+sodium chloride,
+graphite and
+diamond.
+5.6 distinguish between
+ionic and molecular
+solids;
+Use melting point,
+solubility in water and
+organic solvents, and
+conductivity.
+Investigate
+melting point and
+solubility of solids
+and conductivity
+of resulting
+solutions.
+Physics –
+Electricity,
+specific latent
+heat. Biology –
+Life processes.
+Skills: ORR; MM; AI.
+5.7 relate structure of
+sodium chloride,
+diamond and
+graphite to their
+properties and uses;
+Use melting point,
+solubility in water,
+conductivity, hardness and
+lubricating power.
+Physics - Electricity,
+latent heat.
+Biology - Solutions
+in life processes.
+5.8 explain the term
+allotropy.
+Reference to the
+allotropes of carbon –
+diamond and graphite.
+ CXC 21/G/SYLL 13 17
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+6. MOLE CONCEPT
+6.1 define mole and
+molar mass;
+The mole as the amount of
+substance that contains
+6.0 x 1023 (the Avogadro’s
+constant) particles in that
+substance. Molar mass -
+mass of 1 mole of a
+substance in gmol-1.
+Observe and
+compare the
+masses of 1 mole
+of different
+substances.
+Physics-Kinetic
+Theory.
+Skills: MM, AI.
+6.2 perform calculations
+involving the mole;
+Calculations from mass to
+moles and moles to mass
+and percentage
+composition by mass.
+Calculate relative
+molecular mass or relative
+formula mass given atomic
+masses.
+No definitions are required
+for the relative masses.
+Distinguish between molar
+mass and relative masses.
+6.3 state Avogadro’s
+Law;
+Calculations involving
+molar volumes. [rtp
+and stp].
+6.4 state the Law of
+Conservation of
+Matter;
+6.5 write balanced
+equations;
+Use of both ionic and
+molecular equations
+(including state symbols)
+to represent chemical
+reactions referred to in the
+syllabus.
+Use simple
+chemical reactions
+to illustrate.
+Refer to SO C1.1,
+C1.2, C6.1.
+Skills: ORR, AI.
+ CXC 21/G/SYLL 13 18
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+6.6 apply the mole
+concept to
+equations, both
+ionic and molecular;
+Calculations involving
+masses and volumes.
+Refer to SO A7.11.
+6.7 define the term
+standard solution.
+Molar concentration and
+mass concentration.
+Refer to SO A7.11.
+Prepare standard
+solutions.
+Skills: MM; AI.
+7. ACIDS, BASES AND SALTS
+7.1 define acid, acid
+anhydride, base,
+alkali, salt, acidic,
+basic, amphoteric and
+neutral oxides;
+Consideration of proton
+donor or acceptor and
+replaceable hydrogen.
+Relate to basic and
+acidic oxides.
+Refer to SO A4.4.
+7.2 relate acidity and
+alkalinity to the pH
+scale;
+pH scale - No formal
+definition of pH
+required.
+Refer to SO C6.3.
+Carry out simple
+exercises with
+litmus paper and
+universal
+indicator.
+Biology - Digestion,
+blood, enzyme
+activity.
+Skill: ORR.
+7.3 discuss the strength
+of acids and alkalis on
+the basis of their
+completeness of
+ionisation;
+Degree of ionisation
+linked to strength and
+the pH of the solution.
+Use pH meter.
+7.4 investigate the
+reactions of nonoxidising acids;
+Reactions of acids with
+metals, carbonates,
+hydrogen carbonates,
+bases.
+Refer to SO C1.2, C5.3.
+Practicals to
+demonstrate
+reactions of acids.
+Demonstrate
+reactions with
+antacids, baking
+powder, fire
+extinguishers.
+Biology – Use of
+antacids.
+Skills: ORR; PD; AI.
+ CXC 21/G/SYLL 13 19
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+7.5 list examples of acids
+in living systems;
+Vitamin C (ascorbic acid),
+methanoic acid (in ants),
+lactic acid (build-up in
+muscles). Neutralisation
+of Vitamin C with sodium
+hydrogen carbonate.
+Formula of Vitamin C not
+required. The treatment
+of ant stings, use of
+vinegar in food
+preservation due to low
+pH. Use of lime juice to
+remove rust stains.
+Plan, design and
+conduct an
+investigation to
+compare the
+vitamin C content
+of a named fruit
+juice before and
+after heating.
+Biology – Nutrition,
+respiration.
+Skills: PD; ORR, AI.
+7.6 investigate the
+reaction of bases with
+ammonium salts;
+Refer to SO A 7.10, SO
+C5.2.
+7.7 identify an
+appropriate method
+of salt preparation
+based on the
+solubility of the salt;
+A general knowledge of
+the solubility of sulfates,
+nitrates, chlorides,
+carbonates and bases.
+Uses of salts in everyday
+life.
+Prepare insoluble
+salts by
+precipitation;
+prepare soluble
+salts by direct
+combination and
+by replacing
+hydrogen ions of
+an acid directly or
+indirectly by a
+metal or
+ammonium
+radical.
+Skills: MM; PD.
+ CXC 21/G/SYLL 13 20
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+7.8 list the uses and
+dangers of salts;
+Refer to action of baking
+powder, calcium
+carbonate for the
+manufacture of cement.
+For food preservation:
+sodium chloride, sodium
+nitrite, sodium nitrate,
+sodium benzoate. For
+medical uses: plaster of
+Parris (calcium sulfate),
+Epsom salts (magnesium
+sulfate). Sodium nitrate
+is implicated in causing
+brain damage in infants
+and also suspected to be
+carcinogenic.
+Use of universal
+indicator, pH meter
+reaction with
+carbonates.
+Skills: ORR; PD.
+7.9 distinguish between
+acid salts and normal
+salts;
+Basicity of acids.
+7.10 investigate
+neutralisation
+reactions using
+indicators and
+temperature
+changes;
+Use of colour change of
+indicators and
+temperature changes to
+determine neutralisation
+point. Refer to the
+action of toothpaste in
+neutralising acids in the
+mouth. For example,
+fluoride ions replacing
+hydroxide ions in the
+enamel of the tooth.
+Effect of adding lime to
+soil. Effect of adding
+lime and an ammonium
+fertiliser to soil at the
+same time.
+Refer to SO A 7.6, A11.3.
+Carry out
+neutralisation
+reactions using
+indications and
+thermometers.
+Physics –
+Fundamental
+quantities and
+units.
+Skills: ORR; AI;
+PD; MM.
+ CXC 21/G/SYLL 13 21
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+7.11 perform calculations
+using volumetric
+analysis data.
+(a) Number of moles
+reacting.
+(b) The mole ratio in
+which the
+reactants
+combine.
+(c) The molar
+concentration
+and mass
+concentration of
+reactants.
+Refer to SO A6.6, A6.7.
+Acid-Base
+titrations.
+Skills: MM, AI.
+8. OXIDATION – REDUCTION REACTIONS
+8.1 investigate the action
+of common oxidising
+and reducing
+substances in
+everyday activities;
+Action of bleach (stain
+removal, browning of
+cut fruits and rusting.
+Sodium sulfite or sulfur
+dioxide used as food
+preservatives.
+8.2 define oxidation and
+reduction;
+Loss and gain of
+electrons and a
+change in oxidation
+number.
+8.3 deduce oxidation
+number from
+formulae;
+8.4 identify oxidation and
+reduction reactions
+including reactions at
+electrodes;
+Refer to SO A9.8. Skills: ORR; AI.
+ CXC 21/G/SYLL 13 22
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+8.5 distinguish between
+oxidising and
+reducing agents;
+Equations involving
+formulae for
+potassium
+chromate(VI),
+potassium
+manganate(VII) and
+household bleach are
+not required.
+Inclusion of at least
+one example of a
+substance, which can
+behave both as an
+oxidising and a
+reducing agent.
+Refer to SO B3.7, C6.3.
+Perform reduction and
+oxidation reactions
+with potassium
+manganate (VII)
+iron(II)sulfate,
+potassium
+chromate(VI),
+hydrogen peroxide and
+potassium iodide.
+Concentrated
+hydrogen peroxide
+should be handled
+with care.
+Skills: ORR; MM;
+AI; PD.
+8.6 perform tests for
+oxidising and
+reducing agents.
+Refer to SO C6.3. Skills: ORR; AI;
+MM; PD.
+9. ELECTROCHEMISTRY
+9.1 conduct
+investigations leading
+to the classification of
+substances as
+conductors or nonconductors;
+Low voltage supplies
+only. Plastic and
+metals.
+Physics – Current,
+electricity.
+9.2 distinguish between
+metallic and
+electrolytic
+conduction;
+Reference to mobile
+electrons in metals
+and mobile ions in
+solution.
+Use simple circuits
+including plastic,
+metals or solutions.
+Physics – Current,
+electricity.
+Skills: AI; MM; PD.
+9.3 classify electrolytes
+as strong or weak
+based on their
+conductivity;
+Use of acids, salts
+and alkalis as
+examples of
+electrolytes.
+Physics – Current,
+electricity.
+9.4 define electrolysis,
+cathode, anode,
+cation, anion;
+Physics –
+Current,
+electricity.
+ CXC 21/G/SYLL 13 23
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+9.5 identify ions present
+in electrolytes;
+9.6 predict the electrode
+to which an ion will
+drift;
+9.7 predict chemical
+reactions making use
+of electrochemical
+series;
+Consideration of gain
+or loss of electron and
+formation of cation.
+9.8 discuss the
+electrolysis of certain
+substances;
+Principles related to:
+(a) Concentration of
+electrolyte.
+(b) Type of
+electrode (active
+and inert).
+Position of ions in
+the
+electrochemical
+series with
+respect to the
+named
+substances. Refer
+to SO A8.4.
+Carry out electrolysis
+of the following
+substances: dilute
+sulfuric acid,
+concentrated aqueous
+sodium chloride, dilute
+aqueous sodium
+chloride, aqueous
+copper(II)sulfate using
+carbon or platinum
+and copper electrodes.
+One fused halide, for
+example, lead (II)
+bromide, using inert
+electrodes. Draw
+simple line diagrams
+representing
+electrolytic cell.
+Physics – Current,
+electricity.
+Skills: ORR; AI.
+9.9 define the Faraday
+constant;
+Approximate value of
+the Faraday constant
+as 96 500 C mol-1
+(coulombs per mole)
+of electrons.
+Physics – Current,
+electricity.
+9.10 calculate the masses
+and volumes of
+substances liberated
+during electrolysis;
+Quantity of electricity
+dependent on the
+current and time.
+Q =It.
+Physics – Current,
+electricity.
+ CXC 21/G/SYLL 13 24
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+9.11 describe industrial
+applications of
+electrolysis.
+Reference to:
+(a) metallic
+extraction
+(based on
+position in
+electrochemical
+series);
+(b) purification;
+(c) electroplating:
+(d) anodising.
+Refer to SO C2.3.
+Physics – Current
+electricity.
+10. RATES OF REACTION
+10.1 define rate of
+reaction;
+The change in
+concentration of
+reactant or product
+with time at a stated
+temperature.
+10.2 identify the factors
+which affect the rate
+of reaction;
+Factors:
+(a) concentration;
+(b) temperature;
+(c) surface area;
+(d) presence or
+absence of a
+catalyst.
+The danger of
+explosive combustion
+of finely divided
+substances, for
+example, flour in flour
+mills. Consideration of
+the change in rate of
+reaction as the
+reaction proceeds.
+Carry out exercises
+varying one factor at a
+time while maintaining
+the others constant,
+for example:
+(a) magnesium strips
+and dilute acid;
+(b) potassium iodide
+and hydrogen
+peroxide;
+(c) sodium
+thiosulfate and
+dilute acid;
+(d) marble chips and
+dilute
+hydrochloric acid.
+Biology- Enzymes in
+biological systems.
+Skills: AI; ORR; PD;
+MM.
+10.3 predict the effect of
+factors on rates of
+reaction from given
+data;
+10.4 interpret graphical
+representation of
+data obtained in
+studying rates of
+reaction.
+Include graphs of
+(a) Concentration
+(volume; mass) vs.
+time;
+(b) Concentration
+Vs 1/t5
+(c) rate vs time.
+ CXC 21/G/SYLL 13 25
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+11. ENERGETICS
+11.1 distinguish between
+exothermic and
+endothermic
+reactions;
+Energy content of
+products and
+reactants. Bond
+breaking being
+endothermic; bond
+forming being
+exothermic;
+temperature change in
+surroundings.
+Use of
+
+notation.
+Perform investigations
+to demonstrate
+endothermic and
+exothermic changes,
+for example,
+potassium nitrate and
+water, sodium
+hydroxide pellets and
+water.
+Physics-Thermal
+energy.
+Skills: MM; AI; ORR.
+11.2 draw energy profile
+diagrams to illustrate
+endothermic and
+exothermic change;
+Simple energy profile
+diagrams including
+energy barrier.
+Include the action of
+catalyst using energy
+profile diagrams.
+Physics-Thermal
+energy.
+11.3 calculate energy
+changes from
+experiments or from
+experimental data.
+Reference to heat
+of solution and
+heat of
+neutralisation of
+strong acid and
+strong base.
+Assumptions: density
+and specific heat
+capacity of pure water;
+negligible heat
+loss/gain from
+surroundings.
+Refer to SO A7.10.
+Carry out experiments
+by reacting metals with
+acids, volumetric
+analysis of alkali and
+acid. Record
+temperature changes.
+End point of
+thermometric titration
+determined from the
+intersection of lines
+from the graph
+obtained.
+Physics - Thermal
+energy.
+Skills: ORR; AI.
+ CXC 21/G/SYLL 13 26
+SECTION A - PRINCIPLES OF CHEMISTRY (cont’d)
+Suggested Teaching and Learning Activities
+To facilitate students’ attainment of the objectives of this Section, teachers are advised to engage
+students in the teaching and learning activities below. These activities are designed to promote
+inquiry-based learning and cater to students with various learning styles.
+1. Take a trip to a sugar producing plant to understand the processes involved in the manufacture
+of sugar.
+2. Look at a video clip on the processes involved in the manufacture of sugar from a sugar
+producing plant.
+3. Create models of structures of atoms using everyday materials.
+4. Use the internet to examine 3D structures of atoms.
+5. Conduct research on the development of the Periodic Table and make group presentations.
+6. Use of large Periodic Table chart to examine the elements.
+7. Construct 3D models of sodium chloride, diamond and graphite using simple everyday
+materials.
+8. Conduct research on the use of salts in everyday life, for example, preservatives, controlling
+pests, medicines.
+9. Create posters showing the uses of radioactive isotopes and the dangers of radioisotopes.
+10. Use role play to demonstrate the energy of particles in the different states of matter.
+11. Use the internet to conceptualise and stir interest in understanding the mole concept.
+12. Use role play to demonstrate/atoms in bonding.
+13. Research, present and discuss acid-base reactions and oxidation-reduction reactions in
+everyday life.
+14. Create pamphlets to alert the school community on the dangers of chemicals used in everyday
+life.
+15. Students bring labels from home in order to stimulate discussions and analyse chemical
+information.
+16. Use of video clips explaining the application of electrolysis in electroplating, anodising and
+purification.
+17. Use of social networking (Facebook) to share and discuss information.
+ CXC 21/G/SYLL 13 27
+ SECTION B – ORGANIC CHEMISTRY
+Section B involves the study of the sources and nature of the compounds of carbon. The classification
+of the carbon compounds in terms of some functional groups, their structures, physical and chemical
+properties and their uses should also be presented.
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. understand some of the processes involved in the formation of carbon compounds from
+natural sources;
+2. relate bonding properties of carbon to simple organic compounds;
+3. understand the patterns of reactions of the various homologous series of carbon
+compounds;
+4. understand the general pattern involved in the nature and formation of polymers;
+5. relate the properties of carbon compounds to their uses.
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+1. SOURCES OF HYDROCARBON COMPOUNDS
+Students should be able to:
+1. 1 identify natural gas
+and petroleum as
+natural sources of
+hydrocarbons;
+Physics-Forms of
+Energy.
+Biology-Ecology;
+Natural resources.
+1. 2 list the main uses of
+at least three
+fractions obtained
+from the fractional
+distillation of
+petroleum;
+Uses should include
+fuels, petrochemicals,
+lubricants.
+Refer to SO A2.5.
+Physics-Forms of
+Energy.
+Biology-Ecology.
+1. 3 describe cracking of
+petroleum fractions.
+Thermal and catalytic
+cracking of alkanes.
+ CXC 21/G/SYLL 13 28
+SECTION B – ORGANIC CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+2. ORGANIC CHEMISTRY - AN INTRODUCTION
+Students should be able to:
+2.1 illustrate that carbon
+atoms can form single
+and double bonds,
+branched and
+unbranched chains
+and ring compounds;
+
+
+C C
+H
+H
+H
+H
+Carbon atoms form
+four bonds.
+Refer to SO A5.1.
+Illustrate various
+molecular structures
+using models.
+2.2 write formulae to
+represent simple
+organic compounds;
+Structures to be
+represented by the
+condensed formulae
+CH3CH2CH2CH3 and
+fully displayed
+(structural) formulae:
+C C
+H
+H
+H
+H
+H
+C C
+H
+H H
+H
+H
+
+2.3 list the general
+characteristics of a
+homologous series;
+2.4 write general and
+molecular formulae
+for members of a
+given homologous
+series;
+Alkanes, alkenes,
+alcohols and alkanoic
+(carboxylic) acid.
+C C
+H
+H
+H
+H
+H
+H
+ CXC 21/G/SYLL 13 29
+SECTION B – ORGANIC CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+2.5 deduce the
+homologous series
+given the fully
+displayed and
+condensed formulae
+of compounds;
+2.6 write fully displayed
+structures and names
+of branched and
+unbranched alkanes
+and unbranched
+alkenes, alcohols, and
+alkanoic acid;
+IUPAC notation
+structure limited to
+compounds of up to 6
+carbon atoms.
+Use molecular
+models.
+2.7 define structural
+isomerism;
+2.8 write the fully
+displayed structures
+of isomers given their
+molecular formulae.
+Limited to structural
+isomerism for alkanes
+and alkenes up to 6
+carbon atoms.
+3. REACTIONS OF CARBON COMPOUNDS
+3.1 describe the
+reactions of alkanes
+and alkenes;
+The chemical reactions
+considered should be:
+burning and
+halogenation of
+alkanes and alkenes;
+hydration and
+hydrogenation for
+alkenes. Equations
+and conditions for
+reactions are required.
+Demonstrate
+burning of
+appropriate
+hydrocarbons for
+example (hexane,
+hexene).
+Physics-Forms of
+energy.
+Biology - Ecology.
+3.2 relate the
+characteristic
+reactions of alkanes
+and alkenes to their
+structures;
+Emphasis should be
+placed on the
+dominance of
+substitution in alkanes
+and addition in
+alkenes.
+ CXC 21/G/SYLL 13 30
+SECTION B – ORGANIC CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+3.3 distinguish between
+alkanes and alkenes;
+Carbon-Carbon double
+bond (C=C) associated
+with unsaturation.
+Test for unsaturation
+(burning is not
+acceptable). Use
+bromine solution or
+acidified potassium
+manganate (VII).
+Skill: ORR; AI;
+PD.
+3.4 relate the properties
+of hydrocarbons to
+their uses;
+Alkanes as fuels and
+solvents and alkenes
+as the starting
+material for a wide
+range of polymers (for
+example, plastics)
+biogas production
+from decomposition of
+manure.
+Refer to SO B4.2.
+Physics - Energy.
+Biology - Ecology.
+3.5 identify alcohols,
+acids and esters by
+their functional
+groups;
+Alcohol : R– OH,
+Acid: R-COOH,
+Ester: COO-R
+where R represents
+an alkyl group.
+3.6 relate the properties
+of alcohols, acids and
+to their functional
+groups;
+The presence of
+hydroxyl (- OH) groups
+linked to solubility and
+volatility.
+Investigate solubility
+of alcohols and acids
+in water.
+Skills: ORR; AI.
+3.7 describe the
+reactions of ethanol;
+Combustion, reaction
+with sodium,
+dehydration. Oxidation
+by reaction with
+potassium chromate
+(VI), (KMnO4). Reaction
+with organic acids to
+form esters. Equations
+and conditions for
+reactions are required.
+Equations for the
+conversion to acid are
+not required.
+Refer to SO A8.5.
+Demonstration of the
+principles of the
+breathalyser test,
+formation of esters
+and reaction of
+sodium with ethanol.
+Physics - Forms of
+energy.
+Biology - Ecology.
+ CXC 21/G/SYLL 13 31
+SECTION B – ORGANIC CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+3.8 describe the
+fermentation process
+by which ethanol is
+produced from
+carbohydrates;
+Fermentation of a
+suitable carbohydrate,
+for example, glucose.
+Equation is required.
+Reference to winemaking and rum
+manufacture.
+Draw line diagrams
+of the distillation
+process in the
+laboratory.
+Refer to SOA2.5.
+Prepare a sample of
+ethanol.
+Biology - Aerobic
+and anaerobic
+respiration.
+Skills: ORR; AI.
+3.9 describe the
+reactions of ethanoic
+acid;
+Condensation
+reactions with alcohols
+(ester formation)
+Reactions with metals,
+oxides, hydroxides,
+and carbonates.
+Equations and
+conditions of
+reactions are
+required.
+Esterification with
+appropriate alcohols
+and carboxylic acids.
+3.10 explain hydrolysis of
+esters including
+saponification;
+Equation for hydrolysis
+of an ester.
+Include saponification
+of fats and oils.
+Preparation and
+hydrolysis of a suitable
+ester, for example,
+ethyl ethanoate.
+Preparation of a
+sample of soap.
+Skills: ORR; AI; MM.
+3.11 compare soapy and
+soapless detergents;
+Compare effect on
+hard and soft water,
+environmental impact.
+Refer to SO C5.5, C5.6,
+C5.7.
+A comparison of the
+effect of soaps and
+soapless detergents on
+hard water.
+Skills: ORR; AI.
+4.1 define polymers; Polymers as
+macromolecules
+produced from 50 or
+more monomers.
+ CXC 21/G/SYLL 13 32
+SECTION B – ORGANIC CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+4.2 distinguish between
+addition
+and.condensation
+as.reactions in
+the.formation
+of.polymers;
+Addition – polyalkenes
+Condensation –
+polyamides
+polyesters
+polysaccharides.
+The mechanism of
+polymerization is NOT
+required.
+Refer to SO B3.4.
+4.3 state at least one
+ use of each of the
+ following types of
+ polymers.
+Polyalkene
+Polyamide
+Polyester
+Polysaccharide.
+A named example is
+required in each case,
+for example, polyvinyl
+chloride (PVC) used in
+pipe fittings.
+Refer to SO C5.5.
+Suggested Teaching and Learning Activities
+To facilitate students’ attainment of the objectives of this Section, teachers are advised to engage
+students in the teaching and learning activities below. These activities are designed to promote inquirybased learning and cater to students with various learning styles.
+1. Take a trip to a petroleum industry and examine the chemical processes or view a video clip of
+the processes involved in the separation of crude oil.
+2. Take a trip to observe the processes in the manufacture of alcohol.
+3. Assess the impact of organic compounds used in everyday life on human health, society and the
+environment, for example, plastics, food additives, pharmaceuticals, detergents.
+4. Propose a course of action to reduce the use of compounds that are harmful to human health
+and the environment.
+5. Create models showing 3D structures of organic compounds.
+6. Carry out a project to demonstrate the production of methane gas from manure/compost.
+7. Invite a policeman to demonstrate the use of the breathalyser machine to test for alcohol.
+8. View samples of each type of polymers.
+ CXC 21/G/SYLL 13 33
+ SECTION C – INORGANIC CHEMISTRY
+Metals and non-metals are two types of elements which, based on their reactivity, can exist as free
+elements or in a combined state as compounds. The methods of extraction of metals and the
+laboratory preparation of some non-metals are investigated. A study of the physical properties,
+chemical properties and the uses of metals, non-metals and their compounds is integrally linked to
+their impact on living systems and the environment.
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. understand the features which characterise metals and non-metals;
+2. understand the relationship between the method of extraction of a metal and its reactivity;
+3. develop or determine an order of reactivity of the metals;
+4. be familiar with laboratory methods of preparation and collection of non-metals and their
+compounds;
+5. appreciate the relationship between metals and non-metals and their uses;
+6. understand the characteristics by which specific metals, non-metals and their ions can be
+identified;
+7. appreciate that metals, non-metals and their compounds impact on the environment;
+8. appreciate that metals, non-metals and their compounds impact on living systems;
+9. appreciate the impact that man’s activities have on the environment and apply the
+knowledge of chemistry for the good of society.
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+1. CHARACTERISTICS OF METALS
+Students should be able to:
+1.1 describe the physical
+and chemical
+properties of metals;
+Physical properties
+melting point, boiling
+point, conductivity,
+lustre, hardness,
+density.
+Chemical properties to
+include action of
+oxygen, water, dilute
+hydrochloric acid,
+dilute sulfuric acid.
+Refer to SO A5.4.
+Physical examinations
+and reactions of
+various metals,
+including zinc, iron,
+sodium, calcium,
+magnesium,
+aluminium, copper.
+Reaction of acids with
+sodium and calcium
+should not be
+attempted.
+Physics - Specific
+latent heat,
+current, electricity.
+Skills: ORR; AI;
+MM.
+ CXC 21/G/SYLL 13 34
+SECTION C – INORGANIC CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+1.2 describe the
+reactions of metallic
+oxides, hydroxides,
+nitrates and
+carbonates.
+Equations are
+required. Reaction
+with dilute acid, action
+of heat.
+Refer to SO A7.4,
+A6.5.
+The action of dilute
+sulfuric acid and
+hydrochloric acid on
+metallic oxides and
+hydroxides. The action
+of heat on nitrates,
+carbonates and
+hydroxides.
+Skills: ORR; AI;
+MM.
+2. REACTIVITY AND EXTRACTION OF METALS
+2.1 discuss the reactivity
+of metals;
+Reactivity based on
+displacement
+reactions, reactions
+with oxygen, relative
+ease of decomposition
+of their nitrates,
+carbonates, oxides and
+hydroxides.
+Refer to practical
+activities at SO C1.1
+and 1.2.
+Skills: ORR; AI; MM.
+2.2 deduce the order of
+reactivity of metals
+based on
+experimental results
+or data supplied;
+Refer to practical
+activities at SO
+C1.1, 2.2.
+Skills: ORR; AI; MM;
+PD.
+2.3 describe the
+extraction of
+aluminum and iron.
+Relate the principles
+underlying the
+extraction of a metal
+to its position in the
+electrochemical series;
+details of purification
+of the raw materials
+not required. Use of
+carbon or hydrogen in
+the extraction of iron.
+3. USES OF METALS
+3.1 explain why metal
+alloys are often
+used in place of
+the metals;
+Consideration of
+aluminum alloys,
+steel and solder.
+ CXC 21/G/SYLL 13 35
+SECTION C – INORGANIC CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+3.2 relate the properties
+of the metals
+(aluminum, lead,
+iron) and their alloys
+to their uses.
+Consideration of
+aluminum alloys, steel
+and solder. Reference
+to the use of lead in
+batteries. Use of
+metal cans as storage
+containers.
+Physics – Current,
+electricity.
+4. IMPACT OF METALS ON LIVING SYSTEMS AND THE ENVIRONMENT
+4.1 investigate the
+conditions necessary
+for the corrosion of
+metals;
+Reference to iron
+and aluminum.
+Experiments with iron
+and aluminium under
+various conditions to
+show that air and water
+are necessary for
+corrosion.
+4.2 explain the
+importance of metals
+and their compounds
+on living systems and
+environment;
+Organometallic
+compounds such as
+chlorophyll (containing
+magnesium) and
+haemoglobin,
+(containing iron).
+Importance of trace
+metals, for example,
+zinc.
+Biology -
+Transport,
+nutrition.
+4.3 discuss the harmful
+effect of metals and
+their compounds to
+living systems and the
+environment.
+Reference to toxicity of
+certain metals
+example: Lead
+(Lead compounds in
+car exhaust fumes,
+and paints, disposal of
+vehicular batteries),
+arsenic (for mining),
+cadmium (disposal of
+nickel-cadmium
+batteries), and
+mercury (disposal of
+thermometers in
+hospitals and labs,
+mercury content in
+fish). Problem of
+disposal of solid waste
+(metals).
+ CXC 21/G/SYLL 13 36
+SECTION C – INORGANIC CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+5. NON-METALS
+5.1 describe the physical
+and chemical
+properties of nonmetals;
+Hydrogen, chlorine,
+oxygen, carbon, sulfur,
+nitrogen. Reactions
+with oxygen and
+metals, oxidising and
+reducing properties.
+Physical properties
+(melting point, boiling
+point, conductivity,
+luster, hardness,
+density).
+Burning of sulfur
+and carbon
+conductivity of
+carbon and sulfur.
+Biology –
+Photosynthesis,
+nitrogen cycle,
+Physics – Specific
+latent heat, current
+electricity.
+5.2 describe the
+laboratory
+preparation of gases;
+Preparation of O2, CO2,
+NH3. Relate methods
+of drying and
+collection to the
+properties of gas
+(density, solubility and
+reaction with drying
+agents).
+Preparation of gases,
+line drawings of
+apparatus used.
+Refer to SO A7.6.
+Skills: ORR; AI,
+MM.
+5.3 explain the use of
+gases based on their
+properties;
+Example: carbon
+dioxide in fire
+extinguishers, oxygen
+in hospitals and for
+welding.
+Refer to SO A7.4.
+5.4 list uses of the nonmetals: carbon,
+sulfur, phosphorus,
+chlorine, nitrogen,
+silicon and their
+compounds;
+Inclusion of
+insecticides,
+strengthening of
+plastics with fibre,
+jewellery, tyre
+manufacture,
+matches, phosphate
+and other fertilisers
+(NPK), bleaches, glass,
+ceramics.
+Biology - Nutrition;
+soils, fertilisers.
+ CXC 21/G/SYLL 13 37
+SECTION C – INORGANIC CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+5.5 discuss the harmful
+effects of non-metal
+on living systems and
+the environment;
+Pollution and role
+played by sulfur
+dioxide, carbon
+monoxide, hydrogen
+sulfide, oxide of
+nitrogen, carbon
+dioxide, chlorofluoro
+carbons, nitrates,
+phosphates, herbicides
+and pesticides;
+problem of disposal of
+solid waste (nonmetal, example,
+plastics).
+Refer to SO B3.11,
+B4.3.
+Biology - Ecology.
+5.6 relate the unique
+properties of water
+to its functions in
+living systems;
+Include density
+changes, solvent
+properties, specific
+heat capacity,
+volatility.
+Refer to SO B 3.11.
+Physics-Specific
+heat capacity,
+density.
+5.7 discuss the
+consequences of the
+solvent properties of
+water;
+Hardness of water
+(temporary and
+permanent). Leaching.
+Refer to SO B 3.11.
+Biology – Ecology.
+5.8 describe the methods
+used in the treatment
+of water for domestic
+purposes;
+Boiling, filtering,
+chlorinating, softening.
+Include equations for
+softening water.
+Refer to SO A2.5.
+Biology – Role of
+decomposers.
+ CXC 21/G/SYLL 13 38
+SECTION C – INORGANIC CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+5.9 define Green
+Chemistry;
+Green Chemistry is the
+utilization of a set of
+principles that reduces
+or eliminates the use
+of generations of
+hazardous substances
+in the design,
+manufacture and
+application of chemical
+products.
+Refer to SO C4.3, C5.5.
+5.10 outline the principles
+of Green Chemistry.
+In-depth study of the
+principles is not
+required.
+6. QUALITATIVE ANALYSIS
+6.1 identify cations - Pb2+,
+Al
+3+, Ca2+, Zn2+, Fe3+
+,
+Fe2+, NH4
++
+,Cu2+
+;
+The following criteria
+to be used for
+identification;
+(a) metallic ions -
+colour, solubility
+of the hydroxides
+in:
+(i) aqueous
+sodium
+hydroxide
+refer to SO
+A7.1;
+Appropriate
+experimental
+activities based on
+criteria in
+“Content/
+Explanatory Notes”.
+Use of Potassium
+Iodide.
+Skills: AI; ORR; PD.
+(ii) aqueous
+ammonia or a
+suitable
+confirmatory
+test.
+Use of potassium
+iodide identity of
+Pb 2+ions.
+ CXC 21/G/SYLL 13 39
+SECTION C – INORGANIC CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+(b) ammonium ion,
+evolution of
+ammonia gas after
+treatment with
+aqueous sodium
+hydroxide and
+warming.
+Ionic equations are
+required.
+Refer to SO A6.5.
+6.2 identify anions -
+CO3
+2-
+, SO4
+2-
+, SO3
+2-
+,
+NO3
+-
+, Br-
+, I-
+, CI
+;
+The following criteria to
+be used for
+identification:
+(a) evolution and
+identification of
+gases produced
+when compounds
+containing the
+anions are:
+(i) heated
+strongly,
+Use criteria listed
+under “Content/
+Explanatory Notes”
+to conduct simple
+experiments.
+Skills: ORR; AI; PD.
+(ii) treated with
+acid (dilute
+and
+concentrated);
+(b) colour and solubility
+of the silver halide
+in aqueous
+ammonia or lead
+halide;
+(c) colour of
+precipitate
+formed when
+anion reacts with a
+solution containing
+barium ions;
+(d) solubility of the
+precipitate
+formed in (c), in
+dilute acids.
+ CXC 21/G/SYLL 13 40
+SECTION C – INORGANIC CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+6.3 identify gases - H2, O2,
+CO2, NH3, SO2, Cl2, NO2,
+H2O;
+The following criteria
+to be used for
+identification:
+(a) colour;
+(b) odour;
+(c) reaction with a
+lighted or a
+glowing splint:
+(i) reaction
+with moist
+litmus
+paper;
+(ii) reaction
+with dry
+cobalt
+chloride
+paper/
+anhydrous
+copper(II)
+sulfate;
+(iii) reaction
+with
+acidified
+potassium
+manganate
+(VII)
+acidified
+potassium
+dichromate
+(VI);
+(iv) reaction with
+a glass rod
+dipped in
+concentrated
+aqueous
+ammonia or
+concentrated
+hydrochloric
+acid;
+Standard laboratory
+tests for the gases.
+Biology -
+Photosynthesis,
+respiration.
+Skills: ORR; AI; PD.
+ CXC 21/G/SYLL 13 41
+SECTION C – INORGANIC CHEMISTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+(v) hydroxide
+reactions with
+lime water/
+aqueous
+calcium.
+Refer to SO A7.2,
+A8.5, A8.6.
+Suggested Teaching and Learning Activities
+To facilitate students’ attainment of the objectives of this Section, teachers are advised to engage
+students in the teaching and learning activities below. These activities are designed to promote inquirybased learning and cater to students with various learning styles.
+1. View video clips on the extraction of iron and aluminum.
+2. Students display samples of alloys used at home.
+3. Use of different forms of presentations by students to demonstrate an understanding of the
+dangers of metals and non-metals on living systems and the environment.
+4. Use of group presentations and projects to explore “Green Chemistry”.
+5. View the following websites:
+http://www.rsc.org/Education/Teachers/Resources/Practical
+http://www.brainpop.com/science/
+http://www.bbcscience.net
+http://www.bbc/.co.uk/schools/gscelutesize/chemistry/
+http://portal.acs.org/portal/acs/corg.
+ CXC 21/G/SYLL 13 42
+ GUIDELINES FOR THE SCHOOL-BASED ASSESSMENT
+RATIONALE
+School-Based Assessment (SBA) is an integral part of student assessment in the course covered by this
+syllabus. It is intended to assist students in acquiring certain knowledge, skills and attitudes that are
+critical to the subject. The activities for the School-Based Assessment are linked to the “Suggested
+Practical Activities” and should form part of the learning activities to enable the student to achieve the
+objectives of the syllabus.
+During the course of study of the subject, students obtain marks for the competence they develop and
+demonstrate in undertaking their SBA assignments. These marks contribute to the final marks and
+grades that are awarded to students for their performance in the examination.
+The guidelines provided in this syllabus for selecting appropriate tasks are intended to assist teachers
+and students in selecting assignments that are valid for the purpose of the SBA. These guidelines are
+also intended to assist teachers in awarding marks according to the degree of achievement in the SBA
+component of the course. In order to ensure that the scores awarded by teachers are not out of line
+with the CXC standards, the Council undertakes the moderation of a sample of SBA assignments
+marked by the teacher.
+School-Based Assessment provides an opportunity to individualise a part of the curriculum to meet the
+needs of students. It facilitates feedback to the students at various stages of the experience. This
+helps to build the self-confidence of the students as they proceed with their studies. School-Based
+Assessment further facilitates the development of essential investigative and practical skills that allow
+the students to function more effectively in their chosen vocation and everyday life. School-Based
+Assessment therefore, makes a significant and unique contribution to the development of relevant
+skills of the students. It also provides an instrument for testing them and rewarding them for their
+achievements.
+PROCEDURES FOR CONDUCTING SBA
+SBA assessments should be made in the context of normal practical coursework exercises. It is
+expected that the exercises would provide authentic learning experiences. Assessments should only
+be made after candidates have been taught the skills and given enough opportunity to develop
+them. Sixteen practicals over the two-year period would be considered the minimum number for
+candidates to develop their skills and on which to base realistic assessments. These practicals MUST
+include all of the following:
+1. separation techniques;
+2. acids, bases and salts;
+3. redox reactions and electrolysis;
+4. qualitative analysis;
+5. volumetric analysis;
+6. rates of reaction;
+7. energetics;
+8. saturated and unsaturated hydrocarbons.
+ CXC 21/G/SYLL 13 43
+Each skill must be assessed at least three times over the two-year period. Candidates should be
+encouraged to do corrections so that misconceptions will not persist. As the assessment of
+certain skills, especially those requiring on-the-spot observation or involve looking at several
+behaviours or criteria, teachers are advised to select not more than two skills to be assessed in any
+activity. The practical exercises selected to be used for assessment should make adequate demands
+on the candidates and the skills assessed should be appropriate for the exercises done. For the
+assessment of written work, the practical selected should be one that can be completed in the time
+allotted for the class and the notebooks should be collected at the end of the period.
+Candidates who have not been assessed over the two-year period will be deemed absent from the
+whole examination. Under special circumstances, candidates who have not been assessed at all
+points may, at the discretion of CXC, have their marks pro-rated (adjusted proportionately).
+1. In preparation for an SBA practical, the teacher should:
+(a) select tasks which must be chosen from the eight (8) topics on page 42 and should
+be related to a given syllabus objective. These tasks may be chosen from the
+“Suggested Practical Activities” and should fit in with the normal work being done in
+that class;
+(b) list the materials including quantities and equipment that will be needed for each
+student;
+(c) carry out the experiment beforehand, if possible, to ascertain the suitability of
+materials and the kind of results (observations, readings) which will be obtained,
+noting especially any unusual or unexpected results;
+(d) list the steps which will be required by the candidates in performing the experiment.
+From this it will be clear to the teacher how the candidates should be arranged in
+the laboratory, whether any sharing of equipment or materials is necessary, the
+skills which can be assessed from the practical, and the instructions to be given;
+(e) list the skills that may be assessed (for example, observation/recording/reporting,
+analysis and interpretation). No more than two practical skills should be assessed
+from any one activity;
+(f) select the skills to be assessed on this occasion. Skills other than those required for
+that year should also be included for teaching purposes;
+(g) work out the criteria for assessing each skill. This will form the basis of a mark
+scheme and a checklist.
+2. The teacher should carry out the assessment and record the marks.
+This is the most critical step in the assessment process. For a teacher to produce marks that
+are reliable, the marking must be consistent for all candidates and the marks should reflect
+the standard of performance at the level. The teacher must be able to justify the marks,
+and this occurs when there is a fixed set of conditions, factors or criteria for which the
+teacher looks. Marks should be submitted electronically to CXC on the SBA form provided.
+The forms should be dispatched through the Local Registrar by the Moderator to reach CXC
+by 30 April in the year of the examination.
+ CXC 21/G/SYLL 13 44
+ASSESSMENT OF PRACTICAL SKILLS
+School-Based Assessment will assess skills under the profiles Experimental Skills and Use of Knowledge
+(Analysis and Interpretation only).
+The assessment will be conducted during Terms 1 - 5 of the two-year period following the programme
+indicated in the Table below.
+SBA SKILLS TO BE ASSESSED FOR CXC MODERATION
+PROFILE
+SKILLS YEAR 1 YEAR 2 TOTAL
+NO. OF
+TIMES
+SKILLS TO
+BE
+ASSESSED
+MARKS
+NO. OF
+TIMES
+SKILLS TO
+BE
+ASSESSED
+MARKS
+NO. OF
+TIMES
+SKILLS TO
+BE
+ASSESSED
+MARKS
+XS
+Manipulation/
+Measurement
+1 10 2 20 3 30
+90
+(30*)
+Observation/
+Recording/
+Reporting
+1 10 2 20 3 30
+Planning and
+Designing*
+2 20 1 10 3 30
+UK Analysis and
+Interpretation
+2 20 1 20 3 40 40
+(10*)
+TOTAL 6 60 6 70 12 130 (40*)
+*Weighted mark
+Investigative project to be done in Year 2.
+The investigative project would be assessed for two skills, Planning and Design and Analysis and
+Interpretation.
+Students who are pursuing two or more of the single science subjects (Biology, Chemistry, Physics)
+may opt to carry out ONE investigation* only from any of these subjects.
+[ONLY the marks for the investigation can be transferred across subjects.]
+ CXC 21/G/SYLL 13 45
+Assessment of Investigation Skills
+Proposal (Planning and Design)
+The maximum marks available for the Proposal is 10 marks
+The format for this part is shown below
+Observation/Problem/Research question stated
+Hypothesis 2 marks
+Aim 1 mark
+Materials and Apparatus 1 mark
+Method 2 marks
+Controlled variables 1 mark
+Expected Results 2 marks
+Assumptions, Precautions/ Limitations 1 mark
+TOTAL 10 marks
+Implementation (Analysis and Interpretation)
+The maximum marks available for the Implementation is 20 marks
+The format for this part is shown below.
+Method 1 mark
+Results 4 marks
+Discussion 5 marks
+Limitation 3 marks
+Reflection 5 marks
+ Conclusion 2 marks
+TOTAL 20 marks
+ CXC 21/G/SYLL 13 46
+REPORTING FORMAT OF INVESTIGATION
+PART A THE PROPOSAL (Planning and Design)
+Statement of the Problem – Can be an observation, a problem
+Hypothesis
+Aim – Should be related to the hypothesis
+Materials and Apparatus
+Method – Should also include variables
+Assumptions/Precautions
+Expected Results
+PART B THE IMPLEMENTATION (Analysis and Interpretation)
+Method - Linked to Part A (change of tense)
+Results
+Discussion – Explanations/Interpretations/Trends
+Limitations
+Reflections
+Conclusion
+CRITERIA FOR ASSESSING INVESTIGATIVE SKILLS
+A. PLANNING AND DESIGN
+HYPOTHESIS 2
+ - Clearly stated 1
+ - Testable 1
+AIM 1
+- Related to hypothesis 1
+MATERIALS AND APPARATUS 1
+- Appropriate materials and apparatus 1
+METHOD 2
+- Suitable 1
+- At least one manipulated or responding variable 1
+CONTROLLED VARIABLE 1
+-Controlled variable stated 1
+EXPECTED RESULTS 2
+- Reasonable 1
+- Link with method 1
+ASSUMPTIONS/PRECAUTIONS/POSSIBLE SOURCES OF
+ERRORS
+1
+- Any one stated 1
+ TOTAL (10)
+ CXC 21/G/SYLL 13 47
+-
+B. ANALYSIS AND INTERPRETATION
+METHOD
+ Linked to Proposal, Change of tense
+1
+RESULTS 4
+- Correct formulae and equations:
+Accurate (2)
+Acceptable (1)
+2
+- Accuracy of data:
+Accurate (2)
+ Acceptable (1)
+2
+DISCUSSION 5
+- Explanation
+ Development of points:
+ Thorough (2)
+ Partial(1)
+2
+- Interpretation
+Fully supported by data (2)
+ Partially supported by data (1)
+2
+- Trends
+ Stated
+1
+LIMITATIONS
+-Sources of error identified
+-Precautions stated
+1
+1
+3
+-Limitation stated 1
+REFLECTIONS 5
+- Relevance between the experiment and real life
+ (Self, Society or Environment)
+1
+- Impact of knowledge gain from experiment on self 1
+- Justification for any adjustment made during experiment 1
+- Communication of information 2
+ (Use of appropriate scientific language, grammar and clarity of
+ expression all of the time (2); some of the time (1)
+CONCLUSION 2
+- Stated 1
+- Related to the aim 1
+TOTAL (20)
+
+
+
+
+ CXC 21/G/SYLL 13 48
+EXAMPLAR OF INVESTIGATIVE PRACTICAL
+EXEMPLAR 1
+Part A THE PROPOSAL
+Observation
+Whenever an uncovered carbonated beverage is left exposed at room temperature the beverage
+goes ‘flat’ (that is, loses its fizz) within a few hours but when an uncovered carbonated beverage is
+stored in a refrigerator it remains fizzy for much longer.
+Hypothesis: The higher the temperature of an uncovered carbonated drink the faster the drink will
+lose carbon dioxide gas.
+Aim: To determine if increasing the temperature causes an uncovered carbonated beverage to lose
+carbon dioxide gas at a higher rate.
+Materials/Apparatus: A sealed bottle of a carbonated beverage, cold water, 3 boiling tubes, 3
+delivery tubes with rubber bungs, three test tube racks, a 60 ˚C water bath, an ice- bath, 3
+thermometers, three measuring cylinder, three retort stands with clamps, 3 graduated syringes and
+a timing device.
+Method
+1. All apparatus will be cleaned and dried before beginning the experiment.
+2. Label each boiling tube as follows: R- for room temperature, C- for cold and H- for hot.
+Measure 20 cm
+3
+of the carbonated beverage and pour slowly into each boiling tube.
+3. Leave the uncovered boiling tube labeled R on the counter at room temperature. Place the
+uncovered tube labeled C into an ice-bath and the uncovered tube labeled H into a 60˚C
+water bath. Record the temperature of each beverage in a table and leave each tube
+undisturbed for 30 minutes.
+4. After the 30 minutes has passed for each beverage, securely fit the tube with a rubber bung
+and delivery tube. Keep the shaking of the tube to a minimum during this set-up process.
+The open end of the delivery tube will be attached to a graduated syringe and the boiling
+tube shaken for two minutes. Record the volume reached by the gas in a suitable table.
+Repeat the same procedure for each tube.
+Precaution: Carbonated beverage was poured slowly down the sides of the boiling tube to minimise
+loss of gas.
+Expected Results
+It is expected that the carbonated beverage labeled H will produce the least volume of gas,
+beverage R will produce more gas than H but less than C and beverage C will produce the highest
+volume of gas.
+ CXC 21/G/SYLL 13 49
+PART B- THE IMPLEMENTATION
+Introduction
+Whenever an uncovered carbonated beverage is left exposed at room temperature the beverage
+goes ‘flat’ (that is, loses its fizz) within a few hours but when an uncovered carbonated beverage is
+stored in a refrigerator it remains fizzy for much longer.
+The gas responsible for the fizz of a carbonated drink is carbon dioxide and the lower the carbon
+dioxide content of a drink the ‘flatter’ the drink will be.
+In this experiment the relationship between the temperature and the carbon dioxide content of a
+carbonated drink will be explored so as to offer an explanation to the observation made.
+Method
+1. All apparatus was cleaned and dried before beginning the experiment.
+2. Each boiling tube was labeled as follows: R- for room temperature, C- for cold and H- for
+hot.
+3. 20 cm
+3
+of the carbonated beverage was measured and poured slowly into each boiling tube.
+4. The uncovered boiling tube labeled R was left on the counter at room temperature, the
+uncovered tube labeled C was placed into an ice-bath and the uncovered tube labeled H was
+placed into a 60˚C water bath. The temperature of each beverage was recorded in a table
+and each tube was left undisturbed for 30 minutes.
+5. After 30 minutes had passed for each beverage, the tube was securely fitted with a rubber
+bung and delivery tube. Shaking of the tube was kept to a minimum during this set-up
+process. The open end of the delivery tube was attached to a graduated syringe and the
+boiling tube was shaken for two minutes. The volume reached by the gas was recorded in a
+suitable table. The same procedure was repeated for each tube.
+Results
+TABLE SHOWING THE VOLUME OF CARBON DIOXIDE GAS COLLECTED AT VARIOUS
+TEMPERATURES
+Discussion
+From this experiment, it was determined that as the temperature increased the carbon dioxide
+content of the drink decreased. The drink which was kept at the highest temperature lost the most
+gas in the allotted time period.
+When a carbonated drink is left uncovered, the decrease in pressure causes the gas particles to
+leave the solution at the surface faster. Also, increasing the temperature gives the gas particles
+more kinetic energy and increases the rate at which these particles leave the drink’s surface.
+Boiling Tube Temperature (˚C) Volume of CO2 gas
+(cm3
+)
+R 30
+H 60
+C 2
+ CXC 21/G/SYLL 13 50
+Particles possess more kinetic energy at higher temperatures than at lower temperatures. Hence,
+more gaseous particles will leave the surface of a drink at room temperature than at a lower
+temperature.
+Therefore it is clear that when the carbonated drink was left at room temperature the loss of CO2
+would have occurred more readily than if the same drink was kept in a refrigerator and as a result
+the drink at room temperature would become flat much sooner than one stored at colder
+temperatures.
+Limitations
+Every effort was made to reduce experimental error as much as possible. Shaking of the beverage
+during measuring was minimized and the temperatures were monitored strictly. However, the
+following situations may have contributed to experimental error:
+1. Loss of gas as an undetermined amount of gas was lost during the pouring of the
+beverage.into the measuring cylinder.
+2. Loss of gas occurred during the assembling of the delivery tube to the graduated syringe.
+Reflections
+Whenever an uncovered carbonated beverage is left exposed at room temperature, the beverage
+goes flat (it loses its fizz) within a few hours but when an uncovered carbonated beverage is stored
+in a refrigerator it remains fizzy for much longer.
+From the experiment, I have learnt that the reason carbonated drinks go flat faster at room
+temperature is because of the higher temperature which gives the gas particles enough energy to
+leave the drink’s surface faster. Therefore, based on scientific fact it is better to store a carbonated
+drink at low temperatures as this will preserve its CO2 content for much longer.
+This experiment was carried out as designed in the plan.
+Conclusion
+Increasing the temperature of an uncovered carbonated drink causes the drink to lose carbon
+dioxide faster.
+Exemplar 2
+Part A THE PROPOSAL
+Observation
+While on a field trip to the local Botanical Gardens, an observation was made that the all the rocks
+in the river which flowed through this garden had shiny, rusty-brown surfaces. The villagers claim
+that the water flowing through the gardens contains iron compounds and that the rocks had these
+compounds deposited from the water on their surfaces.
+Hypothesis: The rusty brown solid on the rock surfaces is a compound of iron.
+Aim: To determine if the deposit on the surfaces of the river rocks is a compound of iron.
+ CXC 21/G/SYLL 13 51
+Materials/Apparatus: A sample of the rock from the river bed, a sample of rock from the river
+shore, knife, test tube and test tube rack, 2 M H2SO4 solution, sodium hydroxide solution, measuring
+cylinder and a teat pipette.
+Method
+1. All apparatus will be cleaned and dried before beginning the experiment.
+2. The knife will be used to remove some of the deposit from the surface of the river rock. The
+deposit will be placed into a test tube. 4 cm3
+of acid will be added to the test tube and the
+tube will be shaken. The mixture will be decanted to isolate any undissolved particles. To
+the filtrate, sodium hydroxide solution will be added dropwise until in excess. Repeat the
+experiment using the sample of rock from the river shore.
+3. All observations will be recorded and tabulated.
+Assumption: There is enough iron compound in the rock deposit to react with the acid.
+
+Expected Results
+It is expected that if an iron compound is present, the iron compound from the deposit will react in
+the acid to give a pale yellow solution. When the solution is tested with the sodium hydroxide
+dropwise, a rusty-brown precipitate will form which will be insoluble in excess.
+PART B - THE IMPLEMENTATION
+Introduction
+While on a field trip to the local Botanical Gardens, an observation was made that the all the rocks
+in the river which flowed through this garden had shiny, rusty-brown surfaces. The villagers claim
+that the water flowing through the gardens contain compounds of iron and that the rocks had iron
+compounds deposited from the water on their surfaces.
+Fe3+
+ions which are present in iron compounds will precipitate out as iron (III) oxide which is rusty
+brown in colour. This compound coats the rocks, making them appear as shiny rusty brown
+surfaces.
+It is suspected that the water contains iron (III) ions which will form a rusty brown deposit. The
+purpose of this experiment is to determine if this is the case.
+Method
+All pieces of apparatus were cleaned and dried before beginning the experiment.
+The knife was used to remove some of the deposit from the surface of the river rock. The deposit
+was placed into a test tube. 4 cm3
+of acid was added to the test tube and the tube was shaken to
+dissolve as much of the deposit as possible. The mixture was filtered to isolate any undissolved
+particles. To the filtrate, sodium hydroxide solution was added dropwise until in excess.
+All observations were recorded and tabulated.
+ CXC 21/G/SYLL 13 52
+Results
+TABLE SHOWING THE OBSERVATIONS WHEN SODIUM HYDROXIDE SOLUTION WAS ADDED
+DROPWISE AND IN EXCESS
+OBSERVATION WITH DILUTE NaOH (aq)
+Dropwise Excess
+A rusty-brown
+precipitate formed.
+The rusty-brown
+precipitate remained
+insoluble.
+Discussion
+Mineral water is obtained from a mineral spring and contains various minerals such as salts and
+even compounds of sulfur. Other compounds found in mineral water are iron compounds, the
+levels of which may vary depending on the time of year and the pH of the water. During certain
+times of the year the river water becomes more acidic and this causes an increase in the amount of
+iron salts from the soil dissolved in the river water. Some of those salts can then precipitate unto
+the river rocks and change the regular appearance of the rocks’ surfaces.
+The rusty brown solid is likely to be iron(III) oxide which reacts with the sulfuric acid forming a
+soluble iron(III) salt which is a pale yellow solution. By performing qualitative analysis on a sample
+of the deposit it was determined that the rusty-brown deposit on the rock contained iron(III) ions
+due to the presence of an iron(III) salt. Iron(III) salt solutions form the rusty-brown, insoluble iron
+(III) hydroxide precipitate with sodium hydroxide solution. As shown by the equation below:
+Fe3+(aq) + 3 OH-
+(aq)  Fe(OH)3(s)
+Limitations
+The reaction between the iron compound and the acid produced a small amount of iron (III) ion
+solution. Iron compounds will react with sufuric acid to form soluble salts which can then be tested
+using aqueous sodium hydroxide. If small amounts of the iron (III) ions are produced in the reaction
+between the acid and the deposit, then the resulting solution may not have sufficient iron(III) ions to
+produce a visible precipitate with sodium hydroxide.
+Reflections
+Mineral springs produce water which contains a number of dissolved salts, one of which is a
+compound of iron. The rusty brown deposits on the rocks are likely to be iron(III) oxide which will
+react with acids to produce iron(III) ion solutions.
+It is believed that mineral water has medicinal properties because of the presence of some
+compounds such as compounds of iron.
+Knowledge of the iron content of water allows decisions to be made as to the benefits of using this
+water for health purposes.
+It was decided that filtration would replace decantation as suggested in the proposal to ensure that
+the suspended particles were completely removed.
+ CXC 21/G/SYLL 13 53
+Conclusion
+Iron compounds were found to be deposited on the river rocks. . The results of the test support the
+villagers’ claims. Iron compounds are indeed present in the river water.
+RECORD KEEPING
+Each candidate is required to keep a practical workbook containing all practicals done over the twoyear period prior to the examination. Those assessed for CXC will be used to determine the standard
+of marking by the teacher. A mark scheme must be provided for each practical assessed for CXC. All
+practicals should be dated and an index made by the candidates of the practicals done. Those assessed
+for CXC should be clearly indicated along with the marks awarded for each skill. This must include the
+identity of unknowns and expected readings.
+Candidates' workbooks should be durable and neatness should be encouraged. The pages should be
+numbered and all exercises should be dated. The workbook should contain a contents page
+providing the following information concerning the practicals:
+1. page number;
+2. date;
+3. aim of practical;
+4. an indication using an asterisk, of which practicals were assessed for CXC;
+5. the skills assessed.
+A possible format is given below:
+Page No. Date Aim of Practical Skills Assessed
+8
+*9
+2013-10-02
+2013-10-23
+Separation of mixtures- oils
+and water, dyes in screened
+methyl orange, ammonium
+chloride and sodium chloride
+To observe the effect of heat
+on nitrates
+Man./Meas.
+Note: The asterisk (*) indicates practical assessed for CXC.
+A breakdown of the skills assessed and the marks awarded should be given at the end of the report
+for each SBA practical (for example):
+Manipulation and Measurement (mm) 6/10
+Observation, Recording, Reporting (ORR) 8/10
+CXC will require a sample of practical workbooks for moderation. Teachers are reminded that the
+marks awarded for each practical skill should be in the candidate's workbook and that accuracy in
+recording marks on CXC mark sheets is essential.
+Additional workbooks may be requested. The school should therefore retain all other practical
+workbooks until at least three (3) months after the publication of examination results. Candidates'
+workbooks should show evidence of conducting test some of the experiments, which they have
+planned and designed.
+ CXC 21/G/SYLL 13 54
+Moderation of School-Based Assessment
+The reliability (consistency) of the marks awarded by teachers on the School-Based Assessment is an
+important characteristic of high quality assessment. To assist in this process, the Council undertakes
+on-site moderation of the School-Based Assessment conducted by visiting external Moderators.
+The Moderator will make a first visit in Term 3 of Year 1. Teachers must make available to the
+Moderator ALL Assessment Sheets (Record of Marks, Mark Schemes and the proposal for the
+Investigation).
+During the Term 2 of Year 2, the Moderator will make a second visit. Teachers must make available
+to the Moderator ALL Assessment Sheets (Record of Marks, Mark Schemes and the report on the
+Investigation). Teachers are NOT required to submit to CXC samples of candidates’ work, unless
+specifically requested to do so by the Council BUT will be required to submit the candidates’ marks
+electronically.
+The Moderator will remark the skills, and investigation reports for a sample of five candidates, who
+are selected using the guidelines listed below.
+1. Candidates’ total marks on the SBA are arranged in descending order (highest to lowest).
+2. The sample comprises the work of the candidates scoring the:
+(a) highest Total mark;
+(b) middle Total mark;
+(c) lowest Total mark;
+(d) mark midway between the highest and middle Total mark;
+(e) mark midway between the middle and lowest Total mark;
+3. The candidates selected above may be required to demonstrate some
+ practical skills.
+Teachers’ marks may be adjusted as a result of the moderation and feedback will be provided by the
+Moderator to the teachers.
+The Moderator may re-mark the assignments of additional candidates. Where the total number of
+candidates is five or fewer, the Moderator will remark ALL.
+On the first visit, the Moderator will re-mark a sample of the Year 1 candidates. A copy of this report
+must be retained by the teacher, and be made available to the Moderator during Term 2 of Year 2.
+The Moderator will submit the Assessment Sheets, moderation of SBA Sample and the moderation
+reports to the Local Registrar by April 30 of the year of the examination. A copy of the Assessment
+Sheets and candidates’ work must be retained by the school for three months after the examination
+results are published by CXC.
+School-Based Assessment Record Sheets are available online via the CXC’s website www.cxc.org.
+All School-Based Assessment Record of marks must be submitted online using the SBA data capture
+module of the Online Registration System (ORS).
+ CXC 21/G/SYLL 13 55
+EXAMPLE OF A POSSIBLE SBA PRACTICAL
+Aim: Finding the end of a neutralisation reaction by measuring temperature changes.
+Apparatus: 2 mol dm-3
+sodium hydroxide solution.
+2 mol dm-3
+hydrochloric acid solution.
+Thermometer (0-110°
+C, 1°
+C gradations).
+Styrofoam cup.
+25 cm3
+or 20 cm
+3
+pipette. (Measuring cylinder can be used if pipettes are
+unavailable)
+Burette (Test tube calibrated to measure 5 cm3
+or syringe or any other suitable
+measuring container).
+Procedure: 1. Pipette 25 cm
+3
+of the sodium hydroxide solution into the Styrofoam cup.
+Measure and record the temperature of this solution.
+2. Fill the burette to the 0 mark with the acid and deliver 5 cm
+3
+of acid into the
+alkali all at once. Stir with the thermometer and record the highest
+temperature reached. WITHOUT DELAY, add a second 5 cm3
+of the acid, stir
+and record the highest temperature reached. Repeat the procedure until a
+total of 40 cm3
+of acid has been added.
+3. Record your readings in an appropriate table.
+Activities:
+1. Plot a graph of total volume of acid added (x-axis) against the temperature (y-axis) and draw two
+best-fit lines.
+2. Account for the shape of the graph you have obtained.
+3. Use your graph to determine the total volume of acid needed to neutralise exactly 25 cm
+3
+of
+alkali.
+4. Determine likely sources of error in this procedure for determining the end-point of a
+neutralisation reaction.
+5. Write the ionic equation for the neutralisation reaction.
+MARK SCHEME
+Skills assessed: Observation/Recording/Reporting, Analysis and Interpretation.
+Temperature change during neutralisation
+1. Observation/Recording/Reporting
+Table
+(a) Neatly enclosed table. 1
+(b) Headings with units. 1
+(c) Data written correctly to a consistent number of decimal places. 1
+ CXC 21/G/SYLL 13 56
+(d) Graph.
+(i) Labelling of axes with units 2
+(ii) Selecting a suitable scale for x and y axes. 2
+(iii) Plotting accurately. 2
+(iv) Drawing best fit intersecting lines. 1
+ 10 Marks
+2. Analysis and Interpretation
+(a) Deducing that for the portion of the graph sloping upwards:
+(i) reaction is incomplete; 1
+(ii) amount of heat given off increases as more reactant (acid) is available. 1
+(b) Deducing that for the portion of graph sloping downwards:
+(i) reaction is complete; 1
+(ii) temperature falls as more reactant is added. 1
+(c) Deducing that reaction is complete when highest temperature is reached, 1
+hence peak in graph.
+(d) Reading off volume of acid corresponding to highest temperature reached. 2
+(e) Two likely sources or error (for example, heat loss to surroundings, 2
+incomplete transfer of acid).
+(f) Ionic equation 1
+H
++
+(aq) + OH-
+(aq) H2O(l) + heat.
+10 Marks
+Manipulation and Measurement
+Aim: To investigate how the solubility of potassium nitrate crystals
+ varies with temperature.
+Apparatus and Materials: Boiling tube, test tube holder, Bunsen burner, glass rod, measuring
+cylinder, thermometer, matches, potassium nitrate, distilled water,
+tap water, ice.
+Procedure: 1. Place 5 g of KNO3 crystals into a boiling tube.
+2. Using a measuring cylinder, pour 3.0 cm
+3
+of distilled water
+into the KNO3.
+3. Heat the contents of the boiling tube carefully over Bunsen
+flame while stirring until all the solid dissolves.
+4. Remove the boiling tube carefully from the flame. Place the
+thermometer in the boiling tube. Allow the boiling tube to
+cool and record the temperature at which the crystals first
+appear.
+5. Add to the contents of the boiling tube a further 3.0 cm
+3
+of
+distilled water and repeat the above procedure, noting the
+temperature at which crystals first appear.
+6. Repeat the procedure adding a further 3.0 cm
+3
+portions of
+water to obtain a total volume of 15 cm
+3
+.
+ CXC 21/G/SYLL 13 57
+Results: Record the results in a table with the following headings (include
+appropriate units).
+Volume of H2O Temperature at Which Mass of KNO3 dissolved in
+Added to 5 g KNO3 Crystals Appear 100 g of H2O (Solubility)
+Analysis of Results:
+Calculate the solubility of KNO3 at for each volume of water using the equation below.
+3.0 cm
+3
+of H2O dissolves 5 g of KNO3
+100 cm
+3
+of H2O dissolves 5 x 100 = 166.6 g
+Plot graph of temperature at which crystals form (x-axis) vs solubility in 100 g of water (y-axis) and
+draw the best-fit curve.
+Use your graph to determine:
+1. the solubility of KNO3 at 45o
+C;
+2. the mass of KNO3 that would crystallize when a solution of KNO3 cools from 65o
+C to 35o
+C.
+Discussion:
+Define solubility.
+Account for the shape of the graph you have obtained.
+MARK SCHEME
+NB. This lab may be assessed for ORR and AI.
+Skill Assessed: Manipulation and Measurement
+(a) Correct use of balance (scale). 1
+(b) Placing measuring cylinder on flat surface. 1
+(c) Taking reading at eye level. 1
+(d) Correctly lighting Bunsen burner. 4
+(closing air hole, striking match, turning on gas, lighting burner,
+opening air hole, adjusting gas to control height of flame).
+(e) Carefully heating contents of boiling tube with 1
+stirring by holding tube away from self and others.
+(f) Holding thermometer upright for reading. 1
+(g) Making sure that the bulb of the thermometer 1
+is submerged and not touching the walls of the container.
+ 10 Marks
+Planning and Design
+Problem:
+In a café, sugar is provided in a single package cube. Each customer is given one package per order.
+Each cube contains 5 g of sugar. The manager notices that there is sugar left in the bottom of many
+of the used iced tea cups but not in the bottom of the hot tea cups.
+Propose an hypothesis to explain this observation. Plan and design an experiment to test this
+hypothesis.
+ CXC 21/G/SYLL 13 58
+Skills Assessed: Planning and Design
+Hypothesis: Clearly stated with ONE variable, testable. 2
+Aim: Related to hypothesis and problem statement, method to be
+ used specified
+2
+Apparatus
+and Materials: All essential ones stated.
+2
+Procedure: Logical sequence of steps, written in present or future tense,
+ workable or feasible to test hypothesis.
+4
+Variables: (Manipulated, controlled and responding): Clearly stated or
+ implied
+3
+Data to be collected: Observations, measurements or qualitative data which will
+ prove or disprove hypothesis.
+2
+Treatment/
+Interpretation of data: Shows link between how data to be collected proves or
+ disproves hypothesis.
+2
+Assumptions, Limitations, Precautions. 3
+ 20 marks (scale to 10)
+Conversion of marks to the 11-point scale
+The 11-point scale ranges from 0 to 10 thus the maximum mark for each skill at any assessment
+point is 10. Always marking out of 10 or multiples of 10 makes conversion easy but this is not
+necessary, as this may be readily calculated. Conversion of the scale can be done for each
+assessment but this is not the only possibility. The raw marks out of the totals used must be
+recorded and these marks totalled for each skill and the conversion done only when their
+submission to CXC is required.
+The following hypothetical result for the assessment of a student on a particular skill may be used as
+an example. If the marks obtained for observation/recording/reporting are:
+5/7, 4/6, 5/5, 7/9, 6/8
+The total marks are out of a possible 35 marks. This may be converted by calculations as follows:
+27 x 10 = 7.71 (approximately)
+35 = 8 for CXC purposes.
+VALIDITY AND RELIABILITY OF TEACHERS’ MARKS
+The reliability of marks awarded is a significant factor in SBA and has far-reaching implications for
+the candidate's final grade. Teachers are asked to note the following:
+1. The criteria for assessing a skill should be clearly identified. A mark scheme must be
+submitted with the sample of books sent for moderation. Failure to do this could result in
+the candidates being unavoidably penalised.
+ CXC 21/G/SYLL 13 59
+2. The relationship between the SBA marks in the practical workbooks and those submitted to
+CXC on the SBA forms must be clearly shown. It is important that the marks awarded reflect
+the degree of mastery of the skills assessed.
+3. Workbooks should contain all practical work and those exercises used for SBA marks should
+be clearly identified. At least eight exercises should be undertaken.
+4. The standard of marking must be consistent, hence the need for a mark scheme.
+5. Collaboration among teachers especially in the same centre is urged to minimise the
+discrepancy in the standard of assessment among teachers.
+STRATEGIES FOR ASSESSING THE PLANNING AND DESIGN SKILL
+The Planning and Designing skill is intended to test students’ ability to develop hypotheses and devise
+means of carrying out investigations to test them, plan experimental procedures and operations in
+appropriate sequence, identify variables, state expected results and identify precautions and possible
+sources of error. It is expected that some activities related to the planning and designing skill will be
+carried out. However, the reports of these activities are no longer plans and cannot be assessed as
+planning and design (PD). They can be marked for other skills, for example, observation, recording and
+reporting (ORR).
+The assessing of Planning and Designing is not intended to test the students’ research ability but
+rather their ability to use known procedures in a novel situation, or to make a novel use of a known
+procedure. Developing this skill to a good standard requires an understanding of the concepts
+involved. It requires much practice before it is assessed.
+The following steps are recommended to ensure that this important skill is developed by students
+and properly tested by the teacher (See Guidelines for the School-Based Assessment for further
+details):
+1. The problem selected should preferably be one which allows for different feasible routes to a
+solution, and should give opportunities for resourcefulness.
+2. Less than full instructions should be given for typical experiments. The fewer the Instructions (ii)
+the greater the test of the student's ability to plan and design.
+3. Allow candidates to plan the sequence of steps in the identification of unknown substances. (ii)
+For example, candidates could be given test tubes of substances labelled A, B, C and so on,
+and be required to decide from a separate list of the names of the substances (not given in
+the correct order) the identity of each one using only the substances given in the test tubes,
+or a given set of reagents.
+They should be required to prepare a clear logical plan of the procedure before carrying out the
+investigation. This should include a list of requirements, precautions necessary, and the significance
+of each step proposed. They should then be required to explain how the results will be interpreted,
+including the relevant equations.
+ CXC 21/G/SYLL 13 60
+CARIBBEAN EXAMINATIONS COUNCIL
+SCHOOL-BASED ASSESSMENT IN CHEMISTRY
+NAME OF SCHOOL: SCHOOL CODE: YEAR OF FINAL EXAMINATION: ________________________
+NAME OF TEACHER: TERRITORY:
+REGISTRATION
+NUMBER
+CANDIDATES
+NAME
+YEAR 1 TOTAL
+YEAR 2
+TOTAL TOTAL
+COMMENTS
+XS
+MM
+XS
+ORR
+XS
+PD
+UK
+AI Year 1
+XS
+MM
+XS
+ORR
+XS
+PD
+UK
+AI Year 2
+PROFILE OVERALL
+P3 (10) P3 (10) P3 (20) P2 (20) 60 P3 (20) P3 (20) P3 (10) P2 (20) 70 P3 (90) P2 (40)
+TEACHER'S SIGNATURE: PRINCIPAL'S NAME: _______________________________________
+DATE: PRINCIPAL'S SIGNATURE: ______________________________ __
+ CXC 21/G/SYLL 13 61
+ LIST OF SUGGESTED CHEMICALS
+1. Aluminium foil.
+2. Aluminium powder.
+3. Aluminium Ammonium Sulfate.
+4. Aqueous Ammonia, 3 mol dm-3
+.
+5. Ammonium Chloride or Ammonium Carbonate.
+6. Ammonium Nitrate.
+7. Barium Chloride or Barium Nitrate 0.25 mol dm-3
+.
+8. Bromine.
+9. Calcium.
+10. Calcium Carbonate, (powdered or precipitated).
+11. Calcium Chloride, anhydrous.
+12. Calcium Hydroxide saturated solution (filtered).
+13. Calcium Nitrate.
+14. Charcoal powder.
+15. Copper (turnings or powder).
+16. Copper, thick wire or strips.
+17. Copper (II) Carbonate.
+18. Copper (II) Nitrate.
+19. Copper (II) Oxide.
+20. Copper (II) Sulfate.
+21. Ethanoic (acetic) Acid.
+22. Hydrochloric Acid 2 mol dm ¯³, 6 mol dm¯³.
+ CXC 21/G/SYLL 13 62
+LIST OF SUGGESTED CHEMICALS (cont’d)
+23. Hydrogen Peroxide, 20 volume.
+24. Distilled water.
+25. Iodine (resublimed).
+26. Iodine solution.
+27. Iron nails.
+28. Iron (II) Ammonium Sulfate.
+29. Iron (II) Sulfide.
+30. Iron (III) Chloride.
+31. Lead foil.
+32. Lead (II) Bromide of Lead(II)Iodide .
+33. Lead Ethanoate.
+34. Lead (II) Nitrate.
+35. Lead (II) Oxide.
+36. Litmus paper, blue and red.
+37. Magnesium ribbon.
+38. Manganese (IV) Oxide.
+39. Marble chips.
+40. Methyl orange or screened methyl orange.
+41. Nitric Acid 2 dm-3
+.
+42. Phenolphthalein.
+43. Potassium Bromide or Sodium Bromide.
+44. Potassium Carbonate.
+ CXC 21/G/SYLL 13 63
+LIST OF SUGGESTED CHEMICALS (cont’d)
+45. Potassium Iodide 0.5 mol dm-3
+.
+46. Potassium Nitrate.
+47. Potassium Permanganate (manganate (VII)).
+48. Silver Nitrate 0.1 mol dm-3
+.
+49. Sodium.
+50. Sodium Carbonate.
+51. Sodium Carbonate hydrated (washing soda).
+52. Sodium Chloride.
+53. Sodium Hydrogen Carbonate.
+54. Sodium Hydroxide 2 mol dm-3
+, pellets.
+55. Sodium Sulfate.
+56. Sodium Sulfite.
+57. Sodium Thiosulfate.
+58. Steel wool.
+59. Sulfuric Acid 3 mol dm-3
+, 6 mol dm ¯³
+60. Universal indicator paper.
+61. Universal indicator solution.
+62. Zinc granulated or powdered.
+63. Zinc Carbonate.
+64. Zinc Oxide.
+65. Zinc Nitrate.
+66. Zinc Sulfate.
+67. Ethanol.
+68. Sulfur powder.
+ CXC 21/G/SYLL 13 64
+ SUGGESTED EQUIPMENT LIST
+1. Balance (+ 0.1g).
+2. Beakers (100 cm3
+, 250 cm3
+, 400 cm3
+).
+3. Boiling tubes.
+4. Bunsen burners.
+5. Burettes (50 cm3
+).
+6. Burette brushes.
+7. Burette clamps or clips.
+8. Capillary tubes (melting point tubes).
+9. Conical flasks (250 cm3
+).
+10. Crucible tongs.
+11. Distillation apparatus (simple and fractional)
+12. Dropper or teat pipettes.
+13. Evaporating dishes.
+14. Filter funnels.
+15. Filter paper.
+16. First Aid kit (1 per lab.).
+17. Fire Extinguisher (1 per lab)
+18. Gas syringes (100 cm3
+).
+19. Glass rods.
+20. Glass tubing.
+21. Measuring cylinders (20 cm3
+, 100 cm3
+) (1000 cm3
+for teachers use only).
+22. Pipette fillers.
+23. Pipettes (25 cm3
+, (20 cm3
+).
+24. Reagent bottles.
+ CXC 21/G/SYLL 13 65
+SUGGESTED EQUIPMENT LIST (cont’d)
+25. Retort stands.
+26. Rubber tubing.
+27. Separating funnel.
+28. Simple electrolysis apparatus (electrodes, cells, wire).
+29. Spatulas.
+30. Stoppers or Bungs.
+31. Test tubes (125 mm x 15 mm).
+32. Test tube brushes.
+33. Test tube holder.
+34. Test tube racks.
+35. Thermometers (1o
+C grad.).
+36. Tripods.
+37. Volumetric flasks (250 cm3
+, 1dm3
+, 2dm3
+, - for teacher's use).
+38. Wash bottles.
+39. Watch glasses.
+40. Wire gauzes.
+41. Delivery tubes.
+42. Boss heads.
+43. Crucibles.
+44. Stop watches.
+45. Gas jars.
+46. Splints.
+47. Pneumatic trough.
+48. Beehive shelf.
+ CXC 21/G/SYLL 13 66
+ RESOURCES
+Chapman, S., Luttig, D., Murray, J.,
+Ritchie, E. and Tindale, A.
+Chemistry for CSEC, United Kingdom: Nelson Thornes
+Limited, 2009.
+Clarke, J. and Oliver, R. Chemistry for CSEC, Jamaica: Carlong Publishers
+(Caribbean) Limited, 2008.
+Nazir, Joanne Chemistry Explained. A CECEC Course: Caribbean
+Educational Publishers, 2010.
+Taylor, M. and Chung-Harris, T. CXC Chemistry, Oxford: Macmillan Education, 2006.
+Remy C. Mason, L. Chemistry for CSEC Revised Edition: Oxford Heineman,
+2007.
+ CXC 21/G/SYLL 13 67
+ GLOSSARY
+WORD/TERM DEFINITION/MEANINGS NOTES
+annotate add a brief note to a label
+
+{simple phrase of a few words
+only; KC}
+apply use knowledge and principles to solve problems {make inferences and conclusions;
+UK}
+assess present reasons for the importance
+of particular structures, relationships
+or processes
+{compare the advantages and
+disadvantages or the merits and
+demerits of a particular structure,
+relationship or process; UK}
+calculate arrive at the solution to numerical problem {steps should be shown; units
+must be included; UK}
+cite quote or refer to {KC}
+classify divide into groups according to observable
+characteristics
+{UK}
+comment state opinion or view with supporting reasons {UK}
+compare state similarities and differences {an explanation of the significance
+of each similarity and difference
+stated may be required for
+comparisons which are other than
+structural; UK}
+construct use a specific format to make or draw a
+graph, histogram, pie chart or other
+representation using data or material
+provided or drawn from practical
+investigations, build (for example, a model)
+draw scale diagram
+{such representation should
+normally bear a title, appropriate
+headings and legend; UK}
+deduce make a logical connection between two or
+more pieces of information; use data to arrive
+at a conclusion
+{UK}
+define state concisely the meaning of a word or term {this should include the defining
+equation or formula where
+relevant; KC}
+demonstrate show, direct attention to… {KC}
+derive to deduce, determine or extract from data by a
+set of logical steps some relationship, formula
+or result
+{this relationship etc. may be
+general or specific; KC}
+ CXC 21/G/SYLL 13 68
+WORD/TERM DEFINITION/MEANINGS NOTES
+describe provide detailed factual information on
+the appearance or arrangement of a
+specific structure or the sequence of a
+specific process
+{descriptions may be in words,
+drawings or diagrams or any
+appropriate combination. Drawings or
+diagrams should be annotated to show
+appropriate detail where necessary; KC}
+determine find the value of a physical quality {UK}
+design plan and present, with appropriate
+practical detail
+{where hypotheses are stated or when
+tests are to be conducted, possible
+outcomes should be clearly stated the
+way in which data will be analyzed and
+presented; XS}
+develop expand or elaborate on an idea or
+argument with supporting reasons
+{KC/UK}
+differentiate
+or
+distinguish
+(between or
+among)
+state or explain briefly those differences
+between or among items which can be
+used to define the items or place them
+into separate categories
+{KC}
+discuss present reasoned argument; consider
+points both for an against; explain the
+relative merits of a case
+{UK}
+draw make a line representation of apparatus
+which shows accurate relationship
+between the parts
+{A diagram is a simplified
+representation showing the relationship
+between components; KC/UK}
+estimate make an approximate quantitative
+judgement
+{UK}
+evaluate weigh evidence and make judgements
+based on given criteria
+{the use of logical supporting reasons
+for a particular point of view is more
+important than the view held; usually
+both sides of an argument should be
+considered; UK}
+explain give reasons, based on recall, to account
+for
+{KC}
+find locate a feature or obtain as from a graph {UK}
+formulate devise a hypothesis {UK}
+identify name or point out specific components or
+features
+{KC}
+ CXC 21/G/SYLL 13 69
+WORD/TERM DEFINITION/MEANINGS NOTES
+illustrate show clearly by using appropriate
+examples or diagrams, sketches
+{KC/UK}
+investigate use simple systematic procedures to
+observe, record data and draw logical
+conclusions
+{XS}
+label add names to identify structures or parts
+indicated by pointers
+{KC}
+list itemise without detail {KC}
+measure take accurate quantitative readings using
+appropriate instruments
+{XS}
+name give only the name of {no additional information is
+required; KC}
+note write down observations {XS}
+observe pay attention to details which characterise
+reaction or change taking place; to
+examine and note scientifically
+{observations may involve all the
+senses or extensions of them but
+would normally exclude the sense of
+taste; XS}
+plan prepare to conduct an exercise {XS}
+predict use information provided to arrive at a
+likely conclusion or suggestion possible
+outcome
+{UK}
+record write an accurate description of the full
+range of observations made during a given
+procedure
+{this includes the values for any
+variable being investigated; where
+appropriate, recorded data may be
+depicted in graphs, histograms or
+tables; XS}
+relate show connections between; explain how
+one set of facts or data depend on others
+or are determined by them
+{UK}
+sketch Make a simple freehand diagram showing
+relevant proportions and any important
+details
+{KC}
+state provide factual information in concise
+terms omitting explanations
+{KC}
+ CXC 21/G/SYLL 13 70
+WORD/TERM DEFINITION/MEANINGS NOTES
+suggest offer an explanation deduced from
+information provided or previous
+knowledge. (... an hypothesis; provide a
+generalisation which offers a likely
+explanation for a set of data or
+observations.)
+{no correct or incorrect solution is
+presumed but suggestions must be
+acceptable within the limits of
+scientific knowledge; UK}
+test to find out following set procedures {XS}
+KEY TO ABBREVIATIONS
+KC - Knowledge and Comprehension
+UK - Use of Knowledge
+XS - Experimental Skills
+Western Zone Office
+24 September 2012
+CARIBBEAN EXAMINATIONS COUNCIL®
+Caribbean Secondary Education Certificate
+(CSEC)®
+CHEMISTRY
+Specimen Papers and Mark Schemes/Keys
+Specimen Papers: Paper 01
+Paper 02
+Paper 03/2
+Mark Schemes/Keys: Paper 02
+Paper 03/2
+01212010/SPEC 2012
+TEST CODE 01212010
+FORM 01212010/SPEC 2012
+C A R I B B E A N E X A M I N A T I O N S C O U N C I L
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE®
+EXAMINATION
+CHEMISTRY
+SPECIMEN PAPER
+Paper 01 – General Proficiency
+1 hour 15 minutes
+READ THE FOLLOWING INSTRUCTIONS CAREFULLY.
+1. This paper consists of 60 items. You will have one hour and 15 minutes to answer them.
+2. In addition to this test booklet, you should have an answer sheet.
+3. Each item in this test has four suggested answers, lettered (A), (B), (C) and (D). Read each
+item you are about to answer and decide which choice is best.
+4. On your answer sheet, find the number which corresponds to your item and shade the space
+having the same letter as the answer you have chosen. Look at the sample item below.
+Sample Item
+The SI unit of length is the
+Sample Answer
+(A) metre
+(B) newton A B C D
+(C) second
+(D) kilogram
+The best answer to this item is “metre”, so answer space (A) has been shaded.
+5. If you want to change your answer, erase it completely before you fill in your new choice.
+6. When you are told to begin, turn the page and work as quickly and as carefully as you can.
+If you cannot answer an item, omit it and go on to the next one. You can return to the
+omitted item later. You score will be the total number of correct answers.
+7. You may do any rough work in this booklet.
+8. Figures are not necessarily drawn to scale.
+9. The use of silent electronic calculators is allowed.
+DO NOT TURN THIS PAGE UNTIL YOU ARE TOLD TO DO SO.
+Copyright © 2012 Caribbean Examinations Council
+All rights reserved.
+- 2 -
+01212010/SPEC 2012 GO ON TO THE NEXT PAGE
+Items 1 - 2 refer to the table below which presents
+two physical properties of four substances at room
+temperature (28 ºC) . In answering the items,
+each of the options below may be used once or
+not at all.
+Substance Melting Point
+(ºC)
+Boiling Point
+(ºC)
+P −285 −183
+Q 800 1400
+R 190 180
+S −20 350
+(A) P only
+(B) R only
+(C) P and S only
+(D) Q and R only
+Which substance(s)
+1. will have fast moving particles?
+2. will be solid(s)?
+3. At a stage in the process of extracting
+sucrose from sugar cane, lime is added to
+the sucrose solution in order to
+(A) lower the pH of the solution
+(B) raise the pH of the solution
+(C) stop the sucrose changing into
+sugars
+(D) increase the percentage of sugar
+that would crystallize out
+4. A mixture of copper(II) chloride solution
+and copper(II) oxide could BEST be
+separated by
+(A) distilling the mixture
+(B) heating the mixture and
+condensing
+(C) shaking with excess water and
+then filtering
+(D) shaking with excess water
+followed by fractional
+distillation
+5. Which of the following halogens is a
+liquid at room temperature?
+(A) Bromine
+(B) Fluorine
+(C) Chlorine
+(D) Iodine
+6. Which of the following compounds does
+NOT consist of individual molecules?
+(A) Ethane
+(B) Ethanol
+(C) Hydrogen chloride
+(D) Sodium chloride
+7. Which of the following salts are soluble
+in water?
+ I. Ammonium carbonate
+II. Barium sulfate
+III. Lead nitrate
+(A) I and II only
+(B) I and III only
+(C) II and III only
+(D) I, II and III
+8. The ionic equation between zinc and sulfuric acid can BEST be represented by
+(A)
+2 Zn(s) + 2H (aq) Zn (aq) H (g) 2
+   
+(B)
+Zn(s) + H SO (aq) ZnSO (aq) H (g) 2 4 4 2  
+(C)
+2 2 Zn(s) + H SO Zn (aq) SO (aq) + H (g) 2 4 4 2    
+(D)
+2 2 2 Zn(s) + 2H (aq) + SO (aq) Zn (aq) + SO (aq) H 4 4 2 (g)      
+- 3 -
+01212010/SPEC 2012 GO ON TO THE NEXT PAGE
+9. In which of the following compounds
+does manganese have an oxidation
+number of +7?
+(A) MnO
+(B) MnO2
+(C) Mn2O3
+(D) KMnO4
+Items 10 - 12 refer to the following
+information.
+A compound when treated with aqueous
+sodium hydroxide and warmed gives off a
+colourless gas which turns moist red
+litmus paper blue.
+10. The gas given off is
+(A) ammonia
+(B) sulfur dioxide
+(C) nitrogen dioxide
+(D) hydrogen sulfide
+11. The aqueous sodium hydroxide is acting
+as
+(A) a base
+(B) an acid
+(C) a catalyst
+(D) a reducing agent
+12. The compound is MOST LIKELY
+(A) iron(III) oxide
+(B) sodium nitrate
+(C) ammonium nitrate
+(D) aluminium hydroxide
+13. Which of the following can act as
+oxidising agents?
+ I. Metallic ions
+II. Metallic atoms
+III. Non-metallic atoms
+(A) I only
+(B) II only
+(C) I and III only
+(D) II and III only
+14. In the electrolysis of concentrated
+copper(II) chloride solution using carbon
+electrodes, the substance formed at the
+anode is
+(A) carbon
+(B) copper
+(C) oxygen
+(D) chlorine
+15. Which of the following substances will
+NOT conduct electricity?
+(A) Solid calcium
+(B) Molten calcium
+(C) Solid calcium chloride
+(D) A solution of calcium chloride in
+water
+16. Which of the following statements about
+isotopes is NOT true?
+(A) Diseases can be diagnosed and
+treated using radioisotopes.
+(B) The age of archaeological
+specimens can be determined
+using C-12 dating.
+(C) In artificial pacemakers,
+plutonium-238 is used in the
+thermoelectric batteries.
+(D) Nuclear power stations use the
+fission of uranium-235 as a
+source of energy.
+17. Which of the properties below will
+decrease down the group F, Cl, Br, and I?
+ I. Atomic radius
+II. Electronegativity
+III. Oxidising power
+(A) I only
+(B) I and II only
+(C) II and III only
+(D) I, II and III
+- 4 -
+01212010/SPEC 2012 GO ON TO THE NEXT PAGE
+18. The layer-like arrangement of graphite
+and the weak bonds between the layers
+determine that graphite is
+(A) colourless and transmit light
+(B) very hard with a high density
+(C) greasy and used as a lubricant
+(D) a good conductor of electricity
+19. Which of the following copper(II)
+compounds is LEAST suitable for
+preparing copper(II) sulfate by reacting
+with dilute sulfuric acid?
+(A) Oxide
+(B) Chloride
+(C) Carbonate
+(D) Hydroxide
+20. Which of the following statements would
+be correct if diamond and graphite are
+allotropes?
+ I Both can be represented by the
+symbol C.
+II. Both have a relative atomic mass
+equal to that of carbon.
+III. They have similar physical
+properties.
+(A) I and II only
+(B) I and III only
+(C) II and III only
+(D) I, II and III
+21. Which of the following bonds can be
+formed by an atom of hydrogen?
+ I. An ionic bond by losing an
+electron
+II. An ionic bond by gaining an
+electron
+III. A covalent bond by sharing a pair
+of electrons
+(A) I and II only
+(B) I and III only
+(C) II and III only
+(D) I, II and III
+Items 22 - 24 refer to the following
+energy-profile diagram.
+22. Which letter in the diagram denotes the
+energy necessary for the reaction to take
+place?
+(A) L
+(B) M
+(C) N
+(D) O
+23. Which of the following equations is
+correct for ∆H (enthalpy change)?
+(A) ∆H = P – L
+(B) ∆H = O – M
+(C) ∆H = L – M
+(D) ∆H = M – N
+24. Which of the following statements about
+the forward reaction is NOT true?
+(A) ∆H is negative.
+(B) The reaction is exothermic.
+(C) The energy content of the product
+is greater than that of the
+reactant.
+(D) The energy necessary for the
+reverse reaction is greater than
+that for the forward reaction.
+- 5 -
+01212010/SPEC 2012 GO ON TO THE NEXT PAGE
+25. Which of the following diagrams BEST
+illustrates bonding of nitrogen?
+26. Oxygen,
+16
+8 O
+, occurs before neon,
+20
+10 Ne ,
+in the periodic table because oxygen
+(A) is a better oxidising agent than
+neon
+(B) has fewer protons on its atom
+than neon
+(C) reacts with metals more readily
+than neon
+(D) has a smaller relative atomic
+mass than neon
+Items 27 - 30 refer to the following
+information.
+A piece of calcium is added to some
+distilled water in a container and the
+following observations are recorded.
+- The reaction is rapid.
+- Bubbles of gas evolve.
+- A white suspension forms.
+- Temperature increases.
+27. The gas evolved would be expected to
+(A) relight a glowing splint
+(B) decolourize acidified aqueous
+potassium manganate(VII)
+(C) give a „pop‟ with a lighted splint
+(D) turn acidified aqueous potassium
+dichromate green
+28. Calcium forms a white suspension in
+water because its
+(A) hydroxide is slightly soluble
+(B) carbonate is insoluble
+(C) oxide is slightly soluble
+(D) sulfate is insoluble
+29. A sample of the suspension is filtered and
+the pH of the filtrate determined. The
+expected pH of the filtrate should be
+approximately
+(A) 3
+(B) 5
+(C) 7
+(D) 10
+30. The increase in temperature shows that
+(A) bonds in the products are formed
+(B) bonds in the reactants are broken
+(C) the products contain less energy
+than the reactants
+(D) the reactants contain less energy
+than the products
+- 6 -
+01212010/SPEC 2012 GO ON TO THE NEXT PAGE
+31. Which of the following quantities of acid
+can exactly neutralise 40 cm3
+of
+2.0 mol dm¯3 sodium hydroxide?
+ I. 10 cm
+3
+of 2.0 mol dm¯3
+hydrochloric acid
+II. 10 cm3 of 4.0 mol dm¯3
+sulfuric
+acid
+III. 20 cm3 of 4.0mol dm¯3
+nitric acid
+(A) I only
+(B) II only
+(C) I and II only
+(D) II and III only
+Items 35 – 38 refer to the following
+options.
+(A) Propene
+(B) Methane
+(C) Bitumen
+(D) Medicinal paraffin
+Match EACH item below with one of the
+options above. Each may be used once,
+more than once or not at all.
+35. Is a major constituent of natural gas.
+36. Is the residue in the fractional distillaton
+of petroleum.
+37. Requires the least oxygen per mole for
+complete combustion.
+38. Is used in making plastics.
+32. Epsom salts (magnesium sulfate) is
+widely used. Which of the following
+statements are true of this salt?
+ I. It relaxes the muscles.
+II. It sedates the nervous system.
+III. It is used as a supplement for
+plant growth.
+(A) I and II only
+(B) I and III only
+(C) II and III only
+(D) I, II and III
+33. Which of the following acids is important
+for healing wounds?
+(A) Lactic
+(B) Ascorbic
+(C) Ethanoic
+(D) Methanoic
+39. An organic compound X has a relative
+molecular mass between 40 and 50. On
+shaking it with bromine, the mixture
+quickly turns colourless. From this
+information, X could be
+(A) C2H4
+(B) C3H6
+(C) CH3CO2H
+(D) C2H5OH
+40. Ethanol may be used as a fuel because it
+(A) is easily converted to ethane
+(B) is easily converted to carbon
+(C) has a low heat of formation
+(D) has a high heat of combustion
+34. Which of the following classifications is correct?
+BASIC OXIDE ACIDIC OXIDE NEUTRAL OXIDE
+(A) Sodium oxide aluminium oxide water
+(B) Sodium oxide carbon dioxide sulfur (IV) oxide
+(C) Sulfur(IV) oxide calcium oxide carbon monoxide
+(D) Copper(II) oxide carbon dioxide carbon monoxide
+- 7 -
+01212010/SPEC 2012 GO ON TO THE NEXT PAGE
+41. Unsaturated compounds show addition reactions but saturated compounds do not because
+(A) saturated compounds contain double bonds
+(B) unsaturated compounds contain multiple bonds
+(C) unsaturated compounds contain single C-C bonds only
+(D) saturated compounds are much more reactive than unsaturated compounds
+42. The diagram below shows some reactions.
+Ethene Glucose
+What is the product X?
+(A) Carbon
+(B) Ethane
+(C) Ethanol
+(D) Carbon dioxide
+Steam Fermentation
+43. What is the name of the following
+compound?
+(A) Ethyl ethanoate
+(B) Ethyl methanoate
+(C) Methyl ethanoate
+(D) Methyl propanoate
+44. Which of the following substances is a
+well-known polyamide?
+(A) Nylon
+(B) Plastic
+(C) Bakelite
+(D) Polystyrene
+X
+45. Which of the following equations represents a condensation reaction?
+(A) CH3CH2CH3 + Br2 → CH3CH2CH2Br + HBr
+(B) CH3CH = CH2 + HBr → CH3−CH2−CH2Br
+(C) CH3CH2COOH + NaOH → CH3CH2COONa + H2O
+(D) CH3COOH + CH3CH2OH → CH3COOCH2CH3 + H2O
+- 8 -
+01212010/SPEC 2012 GO ON TO THE NEXT PAGE
+46. Which of the following names is correct
+for the compound whose formula is
+H3C – CH2 – CH2 – CH2OH?
+(A) n-propanol
+(B) n-butanol
+(C) 2-propanol
+(D) 2-butanol
+47. Addition of hydrocholoric acid to a
+solution of metallic nitrate gives a white
+precipitate which is insoluble in water but
+soluble in aqueous ammonia. The
+metallic nitrate is LIKELY to be
+(A) silver nitrate
+(B) lead(II) nitrate
+(C) barium nitrate
+(D) zinc nitrate
+48. A colourless gas with a pungent odour
+turns blue litmus paper red and turns filter
+paper dipped in acidified potassium
+dichromate from orange to green.
+This gas is
+(A) ammonia
+(B) chlorine
+(C) sulfur dioxide
+(D) nitrogen dioxide
+53. Which of the following elements is
+MOST electropositive?
+(A) Zinc
+(B) Calcium
+(C) Aluminium
+(D) Magnesium
+Items 49 – 51 refer to the extraction of
+aluminium from bauxite by electrolysis.
+49. Cryolite is important in the extraction
+process because it
+(A) functions as the electrolyte
+(B) reacts with oxygen
+(C) protects the carbon anode
+(D) lowers the melting point of the
+electrolyte
+50. During electrolysis the carbon anode
+tends to
+(A) react with the cryolite
+(B) be oxidised by oxygen
+(C) dissolve in the electrolyte
+(D) be oxidised by flourine from
+cryolite
+51. Which of the following materials is used
+for the cathode?
+(A) Iron
+(B) Carbon
+(C) Copper
+(D) Mercury
+54. To positively identify sulfur dioxide gas,
+a strip of paper is soaked in an aqueous
+solution of
+(A) blue litmus
+(B) iron(II) sulfate
+(C) lead(II) ethanoate
+(D) potassium dichromate(VI)
+52. A white metallic hydroxide, X, undergoes no colour change when heated. It dissolves
+in both dilute sulfuric acid and sodium hydroxide solutions. The metallic hydroxide is
+MOST likely
+(A) Al(OH)3
+(B) Zn(OH)2
+(C) Pb(OH)2
+(D) Ca(OH)2
+-9-
+01212010/SPEC 2012
+Items 57 – 58 refer to the following
+diagrams which illustrate four methods of
+collecting gases. Choose the diagram,
+(A), (B), (C) or (D), which corresponds to
+each item. Each diagram may be used
+once, more than once or not at all.
+Which of the above methods is suitable
+for collecting
+57. moist oxygen?
+58. carbon dioxide?
+Item 59 – 60 refer to the following
+information.
+A solution of iron(II) sulfate is added
+until in excess to a solution of barium
+nitrate. The precipitate produced is
+filtered off and water is added to the
+residue in the filter paper.
+59. The colour of the precipitate produced is
+(A) green
+(B) white
+(C) orange
+(D) yellow
+60. With which of the following solutions
+would the filtrate produce a precipitate?
+ I. Barium chloride
+II. Aqueous ammonia
+III. Sodium hydroxide
+(A) I and II only
+(B) I and III only
+(C) II and III only
+(D) I, II and III
+55. Which of the following substances can cause temporary hardness of water?
+(A) Calcium carbonate
+(B) Magnesium carbonate
+(C) Calcium hydrogen carbonate
+(D) Sodium hydrogen carbonate
+56. Which of the following reactions is likely to take place MOST readily?
+(A)
+Zn(s) + Pb(NO ) (aq) Zn(NO ) (aq) + Pb(s) 3 2 3 2 
+(B)
+Zn(s) + Fe(NO ) (aq) Zn(NO ) (aq) + Fe(s) 3 2 3 2 
+(C)
+Zn(s) + Cu(NO ) (aq) Zn(NO ) (aq) + Cu(s) 3 2 3 2 
+(D)
+Zn(s) + 2AgNO (aq) Zn(NO ) (aq) + 2Ag(s) 3 3 2 
+END OF TEST
+IF YOU FINISH BEFORE TIME IS CALLED, CHECK YOUR WORK FIRST
+- 10 -
+01212010/SPEC 2012 GO ON TO THE NEXT PAGE
+Item Specific
+Objective
+Key
+1 A 1.3 A
+2 A 1.3 D
+3 A 2.6 B
+4 A 2.5 C
+5 A 4.3 A
+6 A 5.2 D
+7 A 7.7 B
+8 A 6.5 A
+9 A 8.3 D
+10 C 5.2 A
+11 A 7.6 A
+12 C 5.2 C
+13 A 8.5 C
+14 A 9.8 D
+15 A 9.2 C
+16 A 3.7 B
+17 A 4.3 C
+18 A 5.7 C
+19 A 7.7 B
+20 A 5.8 A
+21 A 5.2 D
+22 A 11.2 B
+23 A 11.1 A
+24 A 11.1 C
+25 A 5.1 C
+26 A 4.1 B
+27 C 6.3 C
+28 C 1.1 A
+29 A 7.2 D
+30 A 11.1 C
+Item Specific
+Objective
+Key
+31 A 7.11 D
+32 A 7.8 D
+33 A 7.5 B
+34 A 7.1 D
+35 B 1.1 B
+36 B 1.2 C
+37 B 3.1 B
+38 B 4.3 A
+39 B 3.3 B
+40 B 3.7 D
+41 B 3.3 B
+42 B 3.8 C
+43 B 3.10 C
+44 B 4.3 A
+45 B 3.9 D
+46 B 2.6 B
+47 C 6.2 A
+48 C 6.3 C
+49 C 2.3 D
+50 C 2.3 B
+51 C 2.3 B
+52 C 1.2 A
+53 C 2.1 B
+54 C 6.3 D
+55 C 5.7 C
+56 C 2.1 D
+57 C 5.2 C
+58 C 5.2 A
+59 C 6.2 B
+60 C 6.1 D
+CARIBBEAN EXAMINATION COUNCIL
+SECONDARY EDUCATION CERTIFICATE
+CHEMISTRY SPECIMEN PAPER 2012
+01212020/SPEC 2012
+TEST CODE 01212020
+FORM 01212020/SPEC2012
+CARIBBEAN EXAMINATIONS COUNCIL
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE®
+EXAMINATION
+CHEMISTRY
+SPECIMEN PAPER
+Paper 02 – General Proficiency
+2 hours 30 minutes
+DO NOT TURN THIS PAGE UNTIL YOU ARE TOLD TO DO SO.
+Copyright © 2012 Caribbean Examinations Council
+All rights reserved.
+READ THE FOLLOWING INSTRUCTIONS CAREFULLY.
+1. This paper consists of SIX compulsory questions.
+2. Write your answers in THIS booklet.
+3. For Section A, write your answer to EACH question in the space provided after each
+part of the question.
+4. For Section B, write your answers in the spaces provided at the end of the entire
+question.
+5. The use of silent, non-programmable calculators is allowed.
+6. Return this booklet at the end of the examination.
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-2-
+SECTION A
+Answer ALL Questions.
+Write your answers in the spaces provided for each part of the question.
+Do NOT spend more than 30 minutes on Question 1.
+1. (a) Steve knows that hydrogen peroxide decomposes to produce oxygen and water, and that
+catalysts can be used to speed up this reaction.
+Steve conducted a series of experiments to investigate the effect of the mass of catalyst on the
+rate of decomposition of hydrogen peroxide. For each experiment, he combined a different
+mass of the catalyst, manganese dioxide (MnO2), with 50 cm3
+of 0.8 mol dm-3
+hydrogen
+peroxide solution and measured the volume of oxygen produced. He then calculated the rate of
+the reaction for each quantity of catalyst used and recorded the information in Table 1.
+TABLE 1: RATE OF REACTION BY MASS OF MANGANESE DIOXIDE
+Mass of Manganese
+Dioxide (g)
+Rate of Reaction
+(10-3
+g O2 s
+-1
+)
+0.7 0.6
+1.0 1.3
+2.0 2.5
+3.0 3.8
+4.0 5.0
+(i) Define the term „rate of reaction‟.
+______________________________________________________________________
+______________________________________________________________________
+(1 mark)
+(ii) Write a balanced chemical equation to show the decomposition of hydrogen peroxide.
+______________________________________________________________________
+(2 marks)
+(iii) Use the axes in Figure 1 on page 3 to plot a graph showing rate of reaction versus mass
+of manganese dioxide.
+(3 marks)
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-3-
+Figure 1. Rate of reaction versus mass of manganese dioxide
+Rate of reaction x 𝟏𝟎
+−𝟑 (g
+𝐎𝟐 𝐬
+−𝟏
+)
+Mass of manganese dioxide (g)
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-4-
+(iv) From the graph, describe the relationship between the rate of reaction and the mass of
+the catalyst.
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+(2 marks)
+(v) Explain how the catalyst affects the rate of the reaction as described in (a)(iv).
+______________________________________________________________________
+ (2 marks)
+(vi) From the graph, determine the mass of oxygen produced after 10 s using 3.5 g of the
+catalyst.
+______________________________________________________________________
+______________________________________________________________________
+2 marks)
+(vii) Draw a diagram of the apparatus that Steve should use for conducting this experiment
+and collecting the gas.
+(3 marks)
+(viii) Steve conducted another experiment to compare the rate of decomposition of
+0.3 mol dm-3
+hydrogen peroxide using the same amounts of MnO2. On the same axes
+in Figure 1, sketch a graph to show how the rate of production of oxygen compares
+with that from Experiment 1.
+(2 marks)
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-5-
+(b) Tara needed to identify an unknown compound, X. She carried out a number of tests on an
+aqueous solution of X and recorded some of her results in Table 2. Complete Table 2 by
+inserting the missing inferences.
+TABLE 2: OBSERVATIONS AND INFERENCES
+(c) Tara has a sample of sodium chloride which became contaminated by a small amount of sand
+and iodine crystals. List the steps that Tara should perform to remove the iodine and sand from
+the mixture in order to obtain pure sodium chloride.
+____________________________________________________________________________
+____________________________________________________________________________
+__________________________________________________________________________
+____________________________________________________________________________
+____________________________________________________________________________
+____________________________________________________________________________
+____________________________________________________________________________
+____________________________________________________________________________
+(4 marks)
+Total 25 marks
+Test Observation Inference
+To a sample of Solution X,
+aqueous ammonia was added
+until in excess.
+Light blue precipitate is
+soluble in excess to produce
+deep blue solution.
+(1 mark)
+Powdered zinc was added to
+a sample of Solution X.
+A red/brown solid is
+produced and the blue liquid
+gets paler.
+Ionic equation is required.
+(3 marks)
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-6-
+2. (a) Study Table 3 which presents a portion of the periodic table with Q, R, T, W and X
+representing some elements, and answer the questions which follow.
+TABLE 3: REPRESENTATION OF THE PERIODIC TABLE
+I II III IV V VI VII VIII
+3Li 20Ne
+X Q R
+W 20Ca T
+(i) Identify an alkaline-earth metal.
+______________________________________________________________________
+(1 mark)
+(ii) Which of the elements shown has the HIGHEST atomic number?
+______________________________________________________________________
+(1 mark)
+(iii) Which element will form ions with oxidation number of 2?
+______________________________________________________________________
+(1 mark)
+(iv) R reacts with W to form a compound.
+a) What type of bonding takes place when R reacts with W?
+_______________________________________________________________
+(1 mark)
+b) Draw a dot and cross diagram to show the bonding between R and W.
+(3 marks)
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-7-
+(v) R reacts vigorously with water to form a solution. A gas is evolved.
+a) What would you observe when the solution is tested with red or blue litmus
+paper?
+_______________________________________________________________
+(1 mark)
+b) Describe a suitable test to identify the gas evolved in (a) (v) .
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+(2 marks)
+(b) (i) Define the term „heat of neutralization‟.
+ ______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+(2 marks)
+The equations below represent the reactions between strong acids and strong alkalis.
+Reaction 1: HC1(aq) + NaOH(aq) NaC1(aq) + H2O(1), 
+H1= 56 kJ mol−1
+Reaction 2: HNO3(aq) + KOH(aq) KNO3(aq) + H2O(1), 
+H2 = 56 kJ mol1
+(ii) Write an ionic equation to represent ONE of the reactions.
+______________________________________________________________________
+______________________________________________________________________
+(2 marks)
+(iii) The values
+
+H1 and
+
+H2 are approximately the same. Suggest a reason for this.
+______________________________________________________________________
+______________________________________________________________________
+(1 mark)
+Total 15 marks
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-8-
+3. Pentane and pentene are two hydrocarbons.
+(a) (i) Write the name of the homologous series for:
+Pentane_______________________________________________________________
+Pentene_______________________________________________________________
+(2 marks)
+(ii) Draw the FULLY displayed unbranched structure of pentane.
+(2 marks)
+(iii) Write a balanced chemical equation to show the conversion of pentene to pentane.
+______________________________________________________________________
+(2 marks)
+(b) (i) Define the term „structural isomerism‟.
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+(2 marks)
+(ii) Draw a FULLY displayed structure of another isomer with the SAME molecular
+formula as pentane.
+(2 marks)
+(iii) State the name of the isomer in (b) (ii).
+______________________________________________________________________
+(1 mark)
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-9-
+(c) (i) What chemical tests may be used to distinguish between pentane and pentene?
+Reagents______________________________________________________________
+Observations___________________________________________________________
+______________________________________________________________________
+(2 marks)
+(ii) State ONE use of:
+Pentane_______________________________________________________________
+Pentene_______________________________________________________________
+(2 marks)
+Total 15 marks
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-10-
+SECTION B
+Answer ALL questions in this section.
+Write your answers in the spaces provided at the end of the question.
+4. (a) Figure 2 shows some reactions of dilute sulfuric acid. Use the figure to answer the questions
+which follow.
+Figure 2. Some reactions of dilute sulfuric acid.
+Identify EACH substance labeled A, B, C, D and E respectively.
+(5 marks)
+(b) Some people suffer from indigestion when their stomach produces excess acid. The label on a
+household brand of indigestion tablet is shown below.
+(i) Magnesium carbonate is insoluble in water. Magnesium carbonate is mixed with water
+and strips of blue litmus paper are dipped into the mixture. What colour change is
+observed in the litmus paper?
+(1 mark)
+(ii) Explain why the instructions suggest that the tablets be chewed before swallowing?
+(2 marks)
+(iii) The acid present in the stomach is hydrochloric acid. Write a balanced equation for the
+reaction taking place in the stomach when the tablet is swallowed.
+(2 marks)
+INDIGESTION TABLETS
+CONTAINS: Magnesium carbonate
+INSTRUCTIONS:
+Take 1 or 2 tablets as required.
+Chew properly before swallowing.
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-11-
+(iv) Name this type of reaction.
+(1 mark)
+(v) A gas is produced from the reaction in 4(b)(iii). How can you test for this gas in the
+laboratory?
+(2 marks)
+(c) Car batteries contain strong sulfuric acid. In treating a spillage from a car battery, washing
+soda is added to the affected area. Write an ionic equation to show the reaction of washing
+soda with sulfuric acid.
+(2 marks)
+Total 15 marks
+Write the answer to Question 4 here.
+(a)
+(i) Gas A_________________________________________________________________
+(ii) Solution B_____________________________________________________________
+(iii) Gas C_________________________________________________________________
+(iv) Indicator D_____________________________________________________________
+(v) Solution E _____________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-12-
+Write the answer to Question 4 here.
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-13-
+5. Iron can be extracted from its ore by reduction.
+(a) (i) Define „reducing agent‟ in terms of oxidation number. (2 marks)
+(ii) Name a reducing agent that could be used to extract iron from its ore. (1 mark)
+(iii) Write a balanced chemical equation to show the reduction of iron ore with the
+reducing agent you have named in 5(a)(ii). (2 marks)
+(b) Compounds containing iron(II) ions can act as reducing agents.
+(i) What would be observed when iron(II) ions react with hydrogen peroxide. (2 marks)
+(ii) Write an ionic half equation to show iron(II) ions acting as reducing agents.
+(2 marks)
+(iii) With reference to oxidation numbers, explain why the equation below is a redox
+reaction.
+Fe(s) + CuSO4(aq) Cu(s) + FeSO4(aq) (3 marks)
+(iv) What colour change would you expect to see in the reaction above?
+(1 mark)
+(c) Describe ONE harmful effect on the body of EACH of the following
+(i) Lack of iron (1 mark)
+(ii) Carbon monoxide (1 mark)
+Total 15 marks
+Write the answer to Question 5 here.
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-14-
+Write the answer to Question 5 here.
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-15-
+6. (a) Water has been shown to have unique properties which relate to many of its uses in living
+systems.
+(i) Draw a dot and cross diagram to show the bonding in the water molecule. (2 marks)
+(ii) State THREE properties of water which can be considered unique. (3 marks)
+(iii) Relate ONE of the properties you have stated in 6(a)(ii) to the structure and bonding of
+water molecules. (2 marks)
+(b) “The properties of water contribute to the problem of water pollution”.
+(i) State TWO reasons to support this statement. (2 marks)
+(ii) List THREE major sources of water pollution. (3 marks)
+(iii) The use of natural cleaners is one method of reducing water pollution and is considered
+one way of applying the principles of „Green Chemistry‟. Explain why this is one way
+of applying „Green Chemistry‟. (3 marks)
+Total 15 marks
+Write the answer to Question 6 here.
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+GO ON TO THE NEXT PAGE
+01212020/SPEC 2012
+-16-
+Write the answer to Question 6 here.
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+END OF TEST
+01212020/SPECIMEN PAPER/MS/2012
+C A R I B B E A N E X A M I N A T I O N C O U N C I L
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE
+CHEMISTRY
+PAPER 02 - MARK SCHEME
+SPECIMEN
+01212020/K/MS/JUNE 2012
+CHEMISTRY
+PAPER 02 – GENERAL PROFICIENCY
+MARK SCHEME
+- 2 -
+Question 1
+Specific objectives: A2.5, 6.5, 6.6, 10.1, 10.3, 10.4,; C2.1, 5.2, 6.1
+KC UK XS
+(a) (i) The rate of change in concentration of reactant or product
+with time.
+ (ii) 2H O (aq) O (g) + 2H O(l)
+ (iii) 4-5 points correctly plotted 2XS
+ 2-3 points correctly plotted 1XS
+ Straight line 1xs
+ (iv) The reate of production of oxygen increases with the mass
+of catalyst. The rate of production of oxygen is directly
+proportional to the mass of catalyst used.
+ (v) The catalyst lowers the activation energy of the reaction
+causing more molecules to participate in the reaction per
+unit time.
+ (vi) Reading from graph = 4.4 x10 g s 1UK
+ Mass of O after 10 s = 10 X 4.4 X10 1 UK
+ (vii) Airtight apparatus; gas collected over water, graduated
+collection device
+ (viii) Straight line going through origin; smaller slope than in
+first plot.
+(b).
+Test Observation Inference
+To a sample of
+Solution X,
+aqueous ammonia
+was added until in
+excess
+Light blue
+precipitate soluble
+in excess to
+produce deep blue
+solution
+Cu ions are present
+(1UK)
+Powedered zinc was
+added to a sample
+of Solution X
+A red/brown solid
+is produced and the
+blue liquid gets
+paler
+Copper metal produced
+Cu (aq) + Zn(s)
+
+Cu(s) + Zn (aq)
+(3UK)
+Ionic equation is
+required.
+(c) 1. Warm gently and the iodine sublimes. (1)
+ 2. Add water to the remaining mixture and mix. (1)
+ 3. Filter to remove the sand. (1)
+ 4. Heat to remove the water and leave the salt. (1)
+ 4XS
+1
+2
+2
+2
+2
+2
+4
+3
+3
+4
+
+ Total 25 marks 3 12 10
+01212020/K/MS/JUNE 2012
+CHEMISTRY
+PAPER 02 – GENERAL PROFICIENCY
+MARK SCHEME
+- 3 -
+Figure 1. Rate of reaction versus mass of manganese dioxide
+Rate of Reaction x 𝟏𝟎
+−𝟑 (g
+𝐎𝟐 𝐬
+−𝟏
+)
+Mass of Manganese Dioxide (g)
+01212020/K/MS/JUNE 2012
+CHEMISTRY
+PAPER 02 – GENERAL PROFICIENCY
+MARK SCHEME
+- 4 -
+Question 2.
+Specific objectives: A4.1, 4.5, 5.1, C1.1, 6.3, A 11.3, 6.5 KC UK
+(a) (i) X
+(ii) T
+(iii) Q
+(iv) a) Electrovalent or ionic bonding
+ (v) (a) Red litmus turns blue, blue litmus unchanged.
+
+ (b) Hold a lighted splint in gas. The flame goes out
+with a ‘pop’ sound - hydrogen.
+(b) (i) The heat of neutralization is the energy change per
+mole of
+HO2
+formed during the neutralization of an
+acid by a base.
+ (ii) H (aq) + OH (aq)
+
+H O (l)
+ (iii)
+ΔH1
+and
+ΔH2
+are the same because in each case, one
+mole of water is formed.
+1
+1
+1
+2
+2
+1
+3
+1
+2
+1
+ Total 15 marks 7 8
++
+01212020/K/MS/JUNE 2012
+CHEMISTRY
+PAPER 02 – GENERAL PROFICIENCY
+MARK SCHEME
+- 5 -
+Question 3
+Specific Objectives: B2.2 – 2.8, B3.1 – 3.4
+KC UK
+(a) (i) alkane
+ alkene
+ (ii)
+1
+1
+2
+ (iii) C H (l) + H (g)  C H (l)
+(b) (i) Structural isomerism is the occurrence of two or
+more organic compounds with the same molecular
+formula but different formulae.
+ (ii)
+ or
+ (iii) 2,2-dimethylpropane or 2-methylbutane
+
+1
+2
+2
+2
+(c)(i) Bromine water - the alkane would have no effect on
+bromine water. The alkene changes the reddish-brown
+solution to colourless.
+OR
+Test with KMnO which changes from purple to
+colourless upon reaction with pentene.
+ (ii) Fuel or solvent
+ Monomer (unsaturated) to polymer
+
+2
+2
+ TOTAL 15 marks 7 8
+01212020/K/MS/JUNE 2012
+CHEMISTRY
+PAPER 02 – GENERAL PROFICIENCY
+MARK SCHEME
+- 6 -
+Question 4
+Specific Objectives: A7.4, 7.10, 7.5, 7.1, 6.3, 6.5
+KC UK
+(a) (i) Hydrogen or H
+ (ii) Copper sulfate or Cu SO
+ (iii) Carbon dioxide or CO
+ (iv) Phenolphthalein
+ (ii) Potassium hydroxide or KOH
+(b) (i) Red litmus to blue
+ (ii) Chewing: to increase surface area
+ For faster reaction
+ (iii) MgCO + 2HCl  MgCl + CO + H O Balance (1)
+ (iv) Neutralisation reaction
+ (v) CO turns lime water(1) cloudy(1).
+(c) 2H (aq) +
+  CO (g) + H O(l) Balanced (1)
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+ Total 15 marks 6 9
+01212020/K/MS/JUNE 2012
+CHEMISTRY
+PAPER 02 – GENERAL PROFICIENCY
+MARK SCHEME
+- 7 -
+Question 5
+Specific Objectives: A8.4, 8.5; C2.3, 4.2, 5.5
+KC UK
+(a) (i) A reducing agent undergoes an increase in oxidation
+number
+ (ii) Carbon monoxide
+ (iii) Fe O 3CO 2Fe + 3CO
+
+
+(b) (i) The pale green solution becomes reddish brown/yellow
+ (ii) Fe Fe + e
+−
+ OR
+ Fe − e
+− Fe
+ (iii) Fe + Cu + SO
+  Cu + Fe SO
+
+ There is a change in oxidation state for Fe and/or Cu
+ (iv) Blue solution to green solution
+(c) (i) Lack of iron will affect the formation of haemoglobin
+which is essential for oxygen transport OR will cause
+anaemia.
+ (ii) Carbon monoxide combines with haemoglobin resulting in
+death.
+2
+1
+2
+1
+2
+2
+2
+1
+1
+1
+ TOTAL 15 marks 6 9
+01212020/K/MS/JUNE 2012
+CHEMISTRY
+PAPER 02 – GENERAL PROFICIENCY
+MARK SCHEME
+- 8 -
+Question 6
+Specific Objectives: C5.6, 5.7, 5.9, 5.10
+KC UK
+(a) (i) Dot and Cross Diagram
+
+(ii)
+ Universal solvent
+ High specific heat capacity
+ High melting and boiling point
+ Low volatility
+ Density decreases when cooled below 4°C
+(Any 3, Or any other reasonable answer)
+ (iii) Universal solvent:
+ Water polar so can dissolve a range of substances
+ High melting/boiling point(low volatility):
+Intermolecular forces (H-bonding) strong so lots
+of energy required to cause the change in state
+ Density changes: Below 4°C, presence of H-bonds
+prevents molecules from coming close together.
+(Or any other reasonable answer.)
+(b) (i) Water universal solvent(1) so will dissolve many
+pollutants.(1)
+ (ii) Sources of water pollution: Farm run-off, sewage,
+household waste, industrial waste.
+Any three or any other reasonable answer
+ (iii) Green Chemistry:
+ A proactive approach to pollution prevention.
+ ‘It involves designing chemical products and
+processes that reduce or eliminate the use and/or
+generation of hazardous substances’.
+(www.beyondbenign.org;24/04/2012)
+ Natural cleaners produce less waste/ produce nontoxic waste/ are biodegradable/ breakdown into
+harmless substances/ are less harmful thus
+reducing the chances of chemical accidents.
+ (Any other reasonable answer.)
+3
+3
+2
+2
+2
+1
+1
+1
+ Total 15 marks 6 9
+01212032/SPEC 2012
+TEST CODE 01212032
+FORM 01212032/SPEC 2012
+CARIBBEAN EXAMINATIONS COUNCIL
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE®
+EXAMINATION
+CHEMISTRY
+SPECIMEN PAPER
+Paper 032 – General Proficiency
+2 hours 10 minutes
+DO NOT TURN THIS PAGE UNTIL YOU ARE TOLD TO DO SO.
+Copyright © 2012 Caribbean Examinations Council
+All rights reserved.
+READ THE FOLLOWING INSTRUCTIONS CAREFULLY .
+1. Answer ALL questions on this paper.
+2. Use your answer booklet when responding to the questions. For EACH question, write your
+answer in the space indicated and return the answer booklet at the end of the examination.
+3. You may use a silent, non-programmable calculator to answer the questions.
+4. You are advised to take some time to read through the paper and plan your answers.
+GO ON TO THE NEXT PAGE
+01212032/SPEC 2012
+-2-
+1. (a) M is a 0.07 mol dm-3
+sodium hydroxide solution. P is a solution made by diluting 100 cm3 of
+vinegar to 1000 cm3 with distilled water.
+Titrate 25 cm3
+portions of M with P using the indicator provided. These results will be used to
+determine the concentration of ethanoic acid in the vinegar before dilution.
+(i) Record your titration (burette) readings in Table 1.
+TABLE 1: TITRATION READINGS
+Burette Reading
+Titration Number
+1 2 3
+Final Reading (cm3
+)
+Initial reading (cm3
+)
+Volume of P used (cm3
+)
+(8 marks)
+(ii) Describe the colour change of the indicator at the end point.
+______________________________________________________________________
+(1 mark)
+(iii) Record the volume of P to be used in calculation.
+____________________________________________________________________
+(1 mark)
+(iv) Write an equation for the reaction between ethanoic acid and sodium hydroxide.
+______________________________________________________________________
+(2 marks)
+(v) Calculate the number of moles of sodium hydroxide in 25 cm3 of Solution M.
+(1 mark)
+(vi) Calculate the number of moles of ethanoic acid in the volume of Solution P used.
+(1 mark)
+GO ON TO THE NEXT PAGE
+01212032/SPEC 2012
+-3-
+(vii) Calculate the concentration, in mol dm
+3
+, of ethanoic acid in Solution P.
+(2 marks)
+(viii) Calculate the concentration, in mol dm
+3
+, of the original vinegar (before dilution).
+(1 mark)
+(b) You are provided with TWO solutions labelled R and S, and a solid T. Perform the following
+tests on R, S and T and record your observations in Table 2.
+TABLE 2: TESTS AND OBSERVATIONS
+Test Observations
+R S T
+(i) In a test tube, add
+approximately 4 cm3 of water
+to a spatula full of solid T and
+swirl the tube until there is no
+further change.
+To separate portions of R, S
+and the mixture of T obtained
+in (i), carry out tests (ii) – (iv). (1 mark)
+(ii) Add aqueous ammonia
+gradually until in excess.
+(2 marks) (2 marks) (2 marks)
+(iii) Add a few drops of aqueous
+potassium iodide.
+(1 mark) (1 mark)
+Total 26 marks
+GO ON TO THE NEXT PAGE
+01212032/SPEC 2012
+-4-
+2. The data collected from an experiment to compare the effect of temperature on the solubility of two
+salts, Z and Q, are presented in Table 3.
+TABLE 3: SOLUBILITIES OF Z AND Q AT VARIOUS TEMPERATURES
+Temperature (ºC) 0 20 40 60 80
+Solubility (g per 100 g water) Z 18 10 8 4 2
+Q 8 25 48 64 85
+(a) Using the graph paper provided on page 5, plot the data for the solubilities of Z and Q given in
+Table 3. Use 2 cm to represent 10 ºC and 1 cm to represent 10g/100g of water.
+(6 marks)
+(b) Describe the effect of increasing temperature on the solubilities of Z and Q respectively.
+___________________________________________________________________________
+___________________________________________________________________________
+___________________________________________________________________________
+(2 marks)
+From your graph, determine
+(c) which salt is more soluble at 10 ºC
+__________________________________________________________________________
+(1 mark)
+(d) the temperature at which the solubility of Z and the solubility of Q are equal.
+__________________________________________________________________________
+(1 mark)
+Total 10 marks
+GO ON TO THE NEXT PAGE
+01212032/SPEC 2012
+-5-
+GO ON TO THE NEXT PAGE
+01212032/SPEC 2012
+-6-
+3. Garcia conducted an experiment to compare the rate of reaction between iron and magnesium with
+dilute hydrochloric acid. The rate of reaction was determined by comparing the rate of formation of the
+gaseous product when the two metals react with dilute acid.
+(a) Describe a possible procedure that Garcia might have used for successfully conducting this
+experiment. In your response you should:
+(i) State the manipulated (independent) and control variables.
+Manipulated (Independent) variable - _______________________________________
+_____________________________________________________________________
+Control variable - ______________________________________________________
+_____________________________________________________________________
+(2 marks)
+(ii) Outline the steps Garcia would take in carrying out this experiment.
+____________________________________________________________________
+____________________________________________________________________
+____________________________________________________________________
+____________________________________________________________________
+____________________________________________________________________
+____________________________________________________________________
+(3 marks)
+(iii) Draw a diagram to show how the apparatus would be arranged for conducting the
+experiment.
+(3 marks)
+GO ON TO THE NEXT PAGE
+01212032/SPEC 2012
+-7-
+(iv) Sketch a graph to show how the rate of reaction between the two metals would differ.
+(2 marks)
+(b) Describe a confirmatory test for the gaseous product of the reaction.
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+(2 marks)
+Total 10 marks
+END OF TEST
+01212032/SPECIMEN/MS/2012
+C A R I B B E A N E X A M I N A T I O N C O U N C I L
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE
+CHEMISTRY
+PAPER 032 - MARK SCHEME
+SPECIMEN
+01212032/K/MS/JUNE 2012
+CHEMISTRY
+PAPER 032 – GENERAL PROFICIENCY
+MARK SCHEME
+Paper 3/2 – Question 1
+Specific Objectives: A7.1, 7.2, 7.3, 7.4
+UK XS
+(a) (i)
+3 sets of entries/volumes – 3 x 1 mark
+Accuracy +/- 0.1 cm3
+ 5 mks
+ +/- 0.2 cm3
+ 4mks
+ +/- 0.3 cm3
+ 3 mks
+ +/- 0.4 cm3 2 mks
+ +/- 0.5 cm3 1 mk 8
+(ii)
+Correct indicator colour
+Phenolphthalein - pink to colourless
+Methyl orange - yellow to pink
+1
+(iii) Correct volume of P based on burette readings 1
+(iv) NaOH + CH3COOH→ CH3COONa + H2O 2
+(v) No. moles NaOH = (0.07 / 1000) x 25= 0.00175 mol 1
+(vi) No. moles acid = No. moles NaOH = 0.00175 mol
+1
+(vii)
+Let the volume of P used = y cm3
+y cm3
+contains 0.00175 mol acid
+ 1000 cm3
+contains (0.00175/y) x 1000 mol = z
+2
+(viii)
+Concentration of original vinegar = z x 10 1
+(b)
+Test Observations
+R S T
+(i) Given Pale blue
+solution
+formed.
+(1 mark)
+(ii) Given
+White ppt.
+soluble in
+XS
+(2 marks)
+White ppt.
+insoluble in
+XS
+(2 marks)
+Blue ppt.
+insoluble in
+XS
+(2 marks)
+(iii) Given No visible
+change
+(1 mark)
+Bright
+yellow Ppt.
+(1mark)
+9
+Total 26 marks 8 18
+01212032/K/MS/JUNE 2012
+CHEMISTRY
+PAPER 032 – GENERAL PROFICIENCY
+MARK SCHEME
+
+Question 2
+Specific Objectives: B7.1, 7.2, 7.3
+UK XS
+(a) (
+a
+)
+Axes – correct labels (2)
+Suitable Scale (1)
+Accuracy of Plot: 8 – 10 points accurately plotted - (3).
+ 5 – 7 points accurately plotted - (2).
+ 2 - 4 points accurately plotted - (1).
+6
+(b) (
+b
+)
+Increasing temperature causes solubility of Z to decrease and that of Q
+to increase.
+2
+(c) (
+c
+)
+Correct reading based on candidate’s graph 1
+(d) (
+d
+)
+Correct reading based on candidate’s graph 1
+ Total 10 marks 4 6
+Question 3
+Specific Objectives: A 5.2, 5.3
+UK XS
+(a) (i) Manipulated and control variables will be dependent on the
+procedure used for conducting the reaction. Award one mark for
+each.
+2
+(ii) Steps for conducting expt.
+Clear and logical sequence of steps(1) that will yield gaseous
+product (1)and will allow for comparison of rates.(1)
+Award maximum of 1 mark if the procedure will allow for
+formation of gaseous product but will not allow for comparison of
+reaction rates.
+3
+(iii) Diagram should be airtight, allow for collection of gas and should
+show reactants added together.
+3
+(iv) Sketch graph – Axes labeled and rate of Mg greater than for Zn 2
+(b) Test for hydrogen.
+Use a lighted splint.
+Splint goes out with a “pop”.
+2
+ Total 12 marks 12
+01212032/K/MS/JUNE 2012
+CHEMISTRY
+PAPER 032 – GENERAL PROFICIENCY
+MARK SCHEME

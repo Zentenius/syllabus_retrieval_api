@@ -1,0 +1,1986 @@
+CXC 30/G/SYLL 08 1
+CARIBBEANEXAMINATIONSCOUNCIL
+Caribbean Secondary Education Certificate
+CSEC
+®
+INFORMATION TECHNOLOGY
+SYLLABUS
+Effective for examinations from May/June 2010
+Published by the Caribbean Examinations Council
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted in any form, or by any means electronic, photocopying, recording or otherwise without prior
+permission of the author or publisher.
+Correspondence related to the syllabus should be addressed to:
+The Pro-Registrar
+Caribbean Examinations Council
+Caenwood Centre
+37 Arnold Road, Kingston 5, Jamaica, W.I.
+Telephone: (876) 630-5200
+Facsimile Number: (876) 967-4972
+E-mail address: cxcwzo@cxc.org
+Website: www.cxc.org
+Copyright © 2008, by Caribbean Examinations Council
+The Garrison, St Michael BB14038, Barbados
+CXC 30/G/SYLL 08
+ii
+Contents
+RATIONALE .............................................................................................................................................. 1
+AIMS ...................................................................................................................................................... 2
+ORGANIZATION OF THE SYLLABUS .................................................................................................. 2
+SUGGESTED TIME-TABLE ALLOCATION.......................................................................................... 2
+FORMAT OF THE EXAMINATIONS ..................................................................................................... 3
+CERTIFICATION AND DEFINITION OF PROFILE DIMENSIONS.................................................. 4
+HARDWARE AND SOFTWARE REQUIREMENTS............................................................................. 5
+NOTES TO TEACHERS ........................................................................................................................... 5
+REGULATIONS FOR RESIT CANDIDATES......................................................................................... 7
+REGULATIONS FOR STUDENTS FROM PRIVATE INSTITUTIONS .............................................. 7
+SECTION 1 – FUNDAMENTALS OF HARDWARE AND SOFTWARE ............................................ 8
+SECTION 2 – PROBLEM-SOLVING AND PROGRAM DESIGN........................................................ 10
+SECTION 3 – PROGRAM IMPLEMENTATION ................................................................................... 12
+SECTION 4 – APPLICATIONS AND IMPLICATIONS OF INFORMATION AND
+ COMMUNICATIONS TECHNOLOGY ........................................................................... 13
+SECTION 5 – INFORMATION PROCESSING ..................................................................................... 15
+SECTION 6 – WORDPROCESSING, PRESENTATION AND WEB PAGE DESIGN ...................... 16
+SECTION 7 – SPREADSHEETS............................................................................................................... 19
+SECTION 8 – DATABASE MANAGEMENT.......................................................................................... 21
+GUIDELINES FOR THE CONDUCT OF THE SCHOOL BASED ASSESSMENT............................ 23
+RECOMMENDED TEXTS........................................................................................................................ 46
+GLOSSARY................................................................................................................................................. 47
+CXC 30/G/SYLL 08
+iii
+This document CXC 30/G/SYLL 08 replaces CXC 30/G; T/SYLL 00A issued in 2000.
+Revised 2000, 2008, 2013
+Please check the website, www.cxc.org for updates on CXC’s syllabuses.
+CXC 30/G/SYLL 08
+Information Technology
+Syllabus
+◆ RATIONALE
+Information Technology has evolved over the past five decades in response to the need for more efficient
+techniques to manage the significantly increased volume and sophistication of the knowledge reservoir of
+mankind. It merges the study of Computer Science, Telecommunications and Office Automation; involves
+the collection, storage, accessing, processing and dissemination of information and impacts on both work
+and leisure activities.
+In a world characterised by technological innovation and computerized responses to situations in the work
+place and in the wider society, all citizens will need to have practical exposure to the techniques of
+Information Technology in order to bridge the widening gap between Caribbean nations and the developed
+countries and provide our citizens with the best chances for survival and growth in this new age.
+A structured programme in Information Technology develops computer-related skills and encourages the
+development of analytical and design skills which are applicable in all areas of the curriculum. This unique
+feature warrants the inclusion of Information Technology in the secondary school curriculum.
+This syllabus is designed to provide a coherent view of the significance of information in a socio-economic
+context. Emphasis is placed on application of knowledge and the use of the computer. This approach has
+been adopted in recognition of the impact that changes in the availability of information can have on the
+educational process. The focus is on getting students to develop skills for life in an increasingly
+technological world, rather than on students absorbing a myriad of seemingly unrelated facts which may
+have only short term relevance.
+The syllabus aims to provide the kind of practical experience which includes an element of discovery, and
+fosters self-confidence, together with the practical skills that will prepare students to meet the region’s need
+for greatly increased productivity and cost effective procedures.
+The Information Technology syllabus is based on objectives, skills and content which will cultivate the attributes of the Ideal
+Caribbean Person as articulated by CARICOM. That is, a Caribbean person who demonstrates multiple literacies, as well as
+independent and critical thinking. The individual questions the beliefs and practices of the past and brings this to bear on the
+innovative application of science and technology to problem solving. Such a person will inevitably demonstrate a high level of
+self-confidence and self-esteem, a positive work ethic, and display and nurture creative imagination in the economic and
+entrepreneurial spheres and other areas of life. Also, in keeping with the UNESCO Pillars of Learning, this course of study will
+contribute to the development of a person who will learn to be, learn to know, learn to do, learn to live together, and learn to
+transform oneself and society.
+CXC 30/G/SYLL 08 1
+◆ AIMS
+The syllabus aims to:
+1. prepare students to function effectively in a dynamic technological era;
+2. promote the development of computer-related skills for immediate application to other curricular
+areas;
+3. provide a foundation for post-secondary education;
+4. facilitate the development and application of problem-solving skills in students.
+◆ ORGANIZATION OF THE SYLLABUS
+The syllabus is organised under eight main sections.
+1. Fundamentals of Hardware and Software
+2. Problem-Solving and Program Design
+3. Program Implementation
+4. Applications and Implications of Information and Communications Technology
+5. Information Processing
+6. Wordprocessing, Presentation and Web Page Design
+7. Spreadsheets
+8. Database Management
+◆ SUGGESTED TIME-TABLE ALLOCATION
+It is estimated that the syllabus can be covered in approximately 160 hours or 4 periods per week during the
+fourth and fifth years in the secondary school. A suggested time allocation (in hours) is shown below for
+each section. The laboratory hours indicated are calculated on a per student basis.
+CXC 30/G/SYLL 08 2
+1.
+Section
+Fundamentals of Hardware and
+Class
+18
+Lab
+4
+Field
+2
+Total
+23
+Software
+2. Problem-Solving and Program Design 7 15 - 22
+3. Program Implementation 15 20 - 35
+4. Applications and Implications
+of Information and Communications
+Technology
+11 - 2 13
+5. Information Processing 12 - - 12
+6. Wordprocessing, Presentation
+and Web Page Design
+5 15 - 20
+7. Spreadsheets 5 10 - 15
+8. Database Management 5 13 - 18
+Allied Subjects
+Although no subjects are being specified as either prerequisites or co-requisites to Information Technology,
+it is expected that students would have pursued a course in Mathematics up to Grade 9 (Form 3).
+◆ FORMAT OF THE EXAMINATIONS
+Paper 01 Sixty multiple choice items drawn from all areas of the syllabus.
+(1 hour 30 minutes)
+Paper 02 Twelve compulsory structured questions drawn from all areas of the syllabus, divided
+(2 hours 15 minutes) into three sections. Section 1 is worth 60 marks and consists of six short answer
+questions. Section 2 is worth 15 marks and consists of two structured questions.
+Section 3 is worth 45 marks and consists of four structured questions.
+School Based Assessment
+Paper 03 The SBA component will comprise a practical project testing: Section 2, Problem-Solving and
+Program Design; Section 3, Program Implementation; Section 6, Wordprocessing; Section 7,
+Spreadsheets and Section 8, Database Management.
+CXC 30/G/SYLL 08 3
+The Project will carry 90 marks which will account for 30% of the final grade. This 90
+marks will be distributed as follows: 20 for Wordprocessing; 20 for Spreadsheets; 20 for
+Database Management and 30 Problem-Solving and Programming. The project will be
+marked by the teacher in accordance with CXC guidelines and the marks should be
+submitted to CXC. The assignment should be administered as specified in the instructions
+contained in the Guidelines to the Conduct of the SBA, on pages 23 – 45.
+N.B. A student doing more than one subject in the Business cognate group may submit one
+SBA project under a theme that covers the group.
+◆ CERTIFICATION AND DEFINITION OF PROFILE DIMENSIONS
+The subject will be examined for certification at the General Proficiency.
+In addition to an overall grade, there will be a profile report that reflects the performance of each candidate under the
+following headings.
+Profile Dimensions
+Theory The ability to apply fundamental concepts and skills to Information Technology.
+Productivity Tools The ability to apply standard features in the following areas:
+(i) word processor in the preparation of documents, as well as the candidate’s
+ability to use presentation and web page design applications;
+(ii) spreadsheet programme in solving problems and presenting data; and
+(iii) database management programme in storing and retrieving data.
+Problem-Solving and
+Programming
+The ability to use analytical skills in the development of algorithms, expressed as flowcharts
+or pseudocode, that can then be implemented as computer programs.
+MARK AND WEIGHT ALLOCATION FOR PROFILE DIMENSIONS
+Paper/Profiles Theory
+Productivity
+Tools
+Problem-Solving
+an d
+Programming
+Paper
+Total
+% Weighting
+of Papers
+Paper 01 30 15 15 60 20
+Paper 02 60 15 45 120 50
+Paper 03 - 60 30 90 30
+Profile Totals 90 90 90 270
+% Weighting Profiles 33.33 33.33 33.33 100
+CXC 30/G/SYLL 08 4
+◆ HARDWARE AND SOFTWARE REQUIREMENTS
+For Schools:
+1. It is the responsibility of schools presenting candidates for the examinations to ensure that the
+required hardware and software are in place to achieve the syllabus objectives.
+2. PASCAL is recommended for the programming units.
+3. Students should have access to a PASCAL compiler and productivity software offering the advanced features
+required by the syllabus. From the list provided below, teachers may select appropriate software for
+the Wordprocessing, Spreadsheets, Database Management, Presentation and Web Page Design
+components of the syllabus.
+Recommended Software
+Wordprocessing Spreadsheets Database Management Presentation Web Page
+Design
+1. Microsoft
+Word
+2. WordPerfect
+1. Lotus 1-2-3
+2. Microsoft
+Excel
+1. Microsoft Access
+2. Filemaker/Filemaker
+Pro
+1. PowerPoint
+2. Freelance
+1. Frontpage
+2. MS Word
+3. Microsoft
+Works
+4. Claris Works
+5. Microsoft
+PowerPoint
+3. Microsoft
+Works
+4. Claris Works
+5. Quattro Pro
+3. Paradox
+◆ NOTES TO TEACHERS
+1. Students should be aware of the input/process/storage/output cycle as it pertains to hardware and
+software components in Section 1.
+2. Section 2 should be taught before Section 3. Students should learn how to write algorithms, before they are
+introduced to coding in a programming language.
+3. In Section 2, the focus should be on the development of problem solutions in the form of algorithms
+written in pseudocode/flowchart. The problem-solving skills acquired in this section serves as a
+foundation for programming in Section 3.
+4. In Section 3, students are required to translate the algorithms developed in Section 2 into computer programs,
+using the recommended programming language (PASCAL). Use simple problems, for example, finding the
+CXC 30/G/SYLL 08 5
+average of a set of integers, or calculating tax payable, to illustrate how to develop simple programs.
+5. In Section 3, laboratory sessions should be used to:
+a. familiarize the student with the features of the recommended compiler;
+b. identify and correct syntax errors;
+c. identify and correct logic errors;
+d. execute program and display results; and
+e. introduce students to and encourage them to use the debugging tool.
+It is recommended that the students be required to write the programs on paper, before they get on the computer.
+That is, the act of program coding should take place before they actually get on the computer. This allows
+for more efficient utilization of computer time.
+6. In Section 4, the aim is to familiarize the students with basic terms and concepts associated with computer
+networks and the Internet. A detailed treatment of the concepts is NOT required. Where possible, it would be
+helpful if teachers invite someone with expertise in Internet Technology to address the class and explain some of
+the concepts.
+7. While it is expected that students would gain skills in the use of productivity tools through practice
+on specific packages, teachers should ensure that students have an appreciation of the generic
+operations of each of the productivity tools so that skills are transferable to other packages.
+8. Teachers should organize field trips to allow students to see a variety of hardware used in diverse
+application areas.
+9. Although not a requirement of the course, it may be useful to apprise students of the history of
+computers.
+10. Teachers should encourage students to read computer magazines and, if possible, the school should
+subscribe to several of these.
+11. A glossary has been provided to facilitate a uniform interpretation of the terminology used in the
+syllabus. Teachers are advised to make use of this glossary and also the list of recommended texts.
+However, the reading list provided is not exhaustive and additional references should be consulted.
+CXC 30/G/SYLL 08 6
+◆ REGULATIONS FOR RESIT CANDIDATES
+1. Resit candidates must complete all the components of the examination.
+2. Candidates who earned at least 50 percent of the MODERATED scores for the SBA component at
+the previous sitting may elect not to repeat this component provided they rewrite the examination in the
+subsequent year.
+3. SBA scores can be transferred once only, that is to the examination immediately following that for
+which the SBA scores were obtained.
+4. Resit candidates may be entered through the Local Registrar and should on registration indicate
+that they are resit candidates and give their registration number from the previous year.
+5. Candidates who obtained less than 50% of the Moderated marks for the SBA component must
+repeat the component at any subsequent year and must fulfil the requirements for that year.
+Candidates may choose to do a new project or improve on the project done in the previous year.
+6. Candidates repeating the SBA component must be entered through a school or other approved
+educational institution.
+◆ REGULATIONS FOR STUDENTS FROM PRIVATE
+INSTITUTIONS
+1. Candidates entered for the examination through private institutions recognized by the Council will be required to
+complete all the requirements of the syllabus.
+2. Although the project is assessed in components in class, candidates are to be given the entire project. As
+candidates work on individual components in class they must be monitored by tutors in the institution and given
+feedback before the final assessment of that component. Tutors must also monitor candidates’ project to
+determine the veracity of work submitted. Tutors should not accept projects which were not monitored during
+development. The marks recorded in the four components will be collated to form the final SBA mark for
+submission by April 30, in the year of the examination.
+3. Marks must be submitted to the Caribbean Examinations Council on the School-Based Assessment forms
+provided online. The forms should be submitted electronically via the SBA data capture module on the Online
+Registration System (ORS) on the Council’s website www.cxc.org Candidates who do not fulfil the requirements
+for the School-Based Assessment will be reported as “ungraded”.
+4. Candidates as well as tutors must retain a copy of the completed component as part of their portfolio.
+CXC 30/G/SYLL 08 7
+◆ SECTION 1: FUNDAMENTALS OF HARDWARE AND
+SOFTWARE
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. appreciate the fundamental hardware and software terminologies and concepts;
+2. develop expertise in the operation and use of microcomputer-based systems.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. describe a general-purpose computer system; Major functions of systems: input, processing,
+output, storage.
+2. explain the functions of the major hardware
+components of a computer system;
+Central Processing Unit (CPU): control unit and
+ALU; main memory/immediate access storage,
+secondary storage, input/output devices.
+3. outline the functions and uses of primary
+storage devices;
+Bistable devices, PROM, EPROM, RAM, ROM.
+4. manipulate units of storage; Bit, byte, kilobyte, megabyte, gigabyte, terabyte, word, word
+size.
+5. compare the types of secondary storage media
+with respect to portability, speed and capacity;
+Magnetic tape, floppy disk, hard disk (fixed head, moving
+head, external), optical disks (CD, DVD), flash drive,
+flash memory cards.
+6. use terms associated with storage devices; Read/write head, sectors, tracks, buffers, cylinders,
+access time, sequential access, direct access; device
+interfaces such as: SCSI, IDE, SATA.
+7. explain the uses of various input devices and
+media;
+Optical mark reader (OMR), character readers
+(OCR, MICR), mouse, joystick, bar code reader,
+document scanner, light-pen, touch terminals, voice
+response unit, pads and tablets, point of sale (POS),
+keyboard, digital camera, biometric systems, sensors,
+remote control, sound capture, pointing devices, webcam.
+CXC 30/G/SYLL 08 8
+FUNDAMENTALS OF HARDWARE AND SOFTWARE (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+8. state the types and functions of output devices; Visual display unit: resolution, types, sizes. Printers:
+impact and non-impact, types: (character, line, page, laser,
+inkjet, dot matrix). Characteristics: (speed, quality, storage
+capacity); plotters; audio output devices (for example,
+speakers, head-phones, earphones); microfilm. Also terms
+such as hard copy, soft copy, human readable and
+machine–readable.
+9. describe how data are stored and
+manipulated within the computer;
+Binary, octal and hexadecimal number systems; binary
+addition and subtraction. Integers (positive and
+negative): sign and magnitude, BCD, two’s
+complement; representation of characters, ASCII.
+10. interpret the hardware specifications of a
+computer system;
+CPU type and speed; memory: capacity, type, word size,
+speed. Hard drive: capacity, speed; fire wire, expansion
+slots, ports.
+11. distinguish between systems programs and
+application programs;
+Systems software: operating systems, translators, utilities:
+Application software: general purpose, special purpose,
+custom written. Customization, integrated software.
+12. explain the functions of an operating system; File management, memory management, security, device
+management, input/output management, user interface,
+process management.
+13. distinguish among multitasking, multiprocessing
+and multiprogramming;
+Basic treatment of these terms. (See glossary).
+14. explain the different types of processing modes; Batch processing, real-time, on-line, time-sharing.
+15. distinguish between types of user interface. Software interface: Command driven, graphical user
+interface (GUI) (menu driven, pull-down and pop-up
+menus, icons). Hardware interface: touch screens, nonvisual interface, sensors, and Braille keyboards.
+CXC 30/G/SYLL 08 9
+◆SECTION 2: PROBLEM-SOLVING AND PROGRAM DESIGN
+GENERAL OBJECTIVE
+On completion of this Section, students should have an understanding of the fundamental principles and
+practices of problem-solving on the computer.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. outline the steps in problem-solving; Definition of the problem; propose and evaluate solutions;
+determination of the most efficient solution; develop and represent
+algorithm; test and validate the solution.
+2. decompose a simple problem into its
+significant parts;
+The components are: input; process; storage; output.
+3. distinguish between variables and constants; Variables as an area of storage whose value can change during
+processing; the value of a constant never changes.
+4. use appropriate data types; Integers, floating point (real), characters, literals.
+5. explain the concept of algorithms; Definition of algorithms; Characteristics: finite number of steps,
+precise, unambiguous, flow of control from one process to another,
+terminate.
+6. identify ways of representing algorithms; Representation of algorithms as Pseudocode or Flowcharts; Use of
+flowchart symbols: input/output, process, decision, directional
+arrows. Pseudocode - Use of: Read, Input, Store Write,
+Output, Display, If-then; If-then-else; For
+loop; while loop; (questions which require nested conditionals or
+nested loops will not be asked).
+Truth Tables
+Use of relational operators: <, >, =, <=, > =, < >. Logical
+operators: AND, OR, NOT.
+Arithmetic operators: +‚ –‚ *, /.
+Simple problems including; average, maximum.
+7. develop algorithms to solve simple
+problems;
+Use of problem-solving techniques outlined in Specific Objective 1
+to the solution of simple problems.
+CXC 30/G/SYLL 08 10
+PROBLEM-SOLVING AND PROGRAM DESIGN (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+8. test algorithms for correctness; Construction and use of trace tables to determine result. Trace
+table consists of variable names (identifiers) as column headings
+and values in the cells, one row for each pass.
+9. use the top-down design approach to
+problem solving.
+Application of stepwise refinement to problems with two or more
+tasks.
+CXC 30/G/SYLL 08 11
+◆ SECTION 3: PROGRAM IMPLEMENTATION
+GENERAL OBJECTIVE
+On completion of this Section, students should have an understanding of how to convert algorithms to programs
+using structured programming techniques.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. distinguish between low-level and highlevel programming languages;
+Low-level language (Machine or Assembly Language); High- level
+language (Pascal, C).
+2. distinguish among the different
+generations of programming languages;
+Characterisation of first through to fifth generation languages.
+3. list the sequence of steps associated with
+implementing a program;
+Create source code, compile, linking, executing, maintain
+program.
+4. explain commonly used terms and
+concepts in programming;
+Testing, debugging, syntax errors, logic errors, run-time errors, dry
+run, test data.
+5. declare elementary data types; Integers, real numbers, characters.
+6. declare variables and constants; Use of meaningful variable names and constants; assign initial
+values.
+7. manipulate data; Reading from and writing to variables, arithmetic operations.
+8. use control structures; Conditional branching: if-then, if-then-else, Loops: while, repeat,
+for.
+9. manipulate data in a list; Declare 1-dimensional arrays; reading from and writing to arrays;
+traversing arrays; linear search.
+10. perform checks and tests on
+programs to verify correctness;
+Testing and debugging techniques.
+11. write documented programs. Importance of documentation; features of internal
+documentation (use of mnemonic names, use of
+comments, indentation, effective use of white spaces);
+external documentation (user manuals).
+CXC 30/G/SYLL 08 12
+◆ SECTION 4: APPLICATIONS AND IMPLICATIONS OF
+INFORMATION AND COMMUNICATIONS
+TECHNOLOGY
+GENERAL OBJECTIVES
+On completion of this Section, students should develop an awareness of:
+1. the use of the computer and the implications of that use;
+2. trends in Internet and Communications Technology;
+3. careers in the field of Information Technology.
+A: INTERNET AND COMMUNICATIONS TECHNOLOGY
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. use terms associated with data
+communications and networks;
+Definitions of data communication and network; types of
+networks: (local area network, wide area network, metropolitan
+area network), types of transmission media: cable/wired media
+(coaxial, fibre-optic, twisted pair), wireless media (satellite,
+microwave, infra-red), wireless network technology: (Bluetooth,
+Wi-Fi), hotspot, modem, bandwidth (broadband, narrowband,
+voiceband), communication modes: (simplex, duplex, half
+duplex), point-to-point, and broadcast.
+2. distinguish among Internet, intranet and
+extranet;
+Refer to glossary.
+3. explain concepts associated with the Internet; Including Electronic mail (e-mail), newsgroups, Internet Relay
+Chat (IRC), Telnet, File Transfer Protocol (FTP),
+upload, download, World Wide Web (WWW), web browser,
+HTTP, Hypertext Markup Language (HTML/XHTML),
+web page, website, blogging, webserver, URL, e-commerce, elearning, HTTP, pod-casting, bulletin board, VoIP.
+4. describe measures to secure data and
+maintain data integrity;
+Software Restrictions: passwords, encryption, virus protection,
+firewall; physical access restrictions: biometric systems, guards,
+locks; fire/water proof cabinets; archiving; backup and recovery
+procedures; propriety data and software.
+CXC 30/G/SYLL 08 13
+APPLICATIONS AND IMPLICATIONS OF INFORMATION AND COMMUNICATIONS
+TECHNOLOGY (cont’d)
+B: APPLICATIONS AND IMPLICATIONS
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+5. outline ways by which information can be
+misused;
+Violation of privacy, propaganda, software piracy, computer
+fraud, electronic eavesdropping, industrial espionage,
+surveillance, storage of inaccurate information, identity theft,
+credit card fraud.
+6. describe appropriate hardware and
+software to meet the particular needs of
+a given application;
+Projects to determine the relevant hardware and software (open
+source vs. proprietary) used in areas including business, industry,
+science and technology, education, law enforcement, recreation,
+music, gaming.
+7. describe current and emerging
+technological trends;
+Expert systems, robots, CADD, CAE, CAM, telemarketing,
+teleconferencing.
+8. assess the impact of Information
+Technology on job skills and careers;
+Computer skills used by office employees, teachers,
+engineers, medical personnel, musicians, mass media
+personnel, law enforcement personnel, movie industry;
+loss of jobs; retraining; telecommuting.
+9. describe the roles of various personnel in
+computer-related professions.
+The functions of individuals in computer-related fields:
+programmers, systems analysts and designers, IT managers,
+systems programmers, database administrators, network
+administrators, IT managers, file librarians, computer
+technicians, computer engineers, software engineers, software
+testers, webmaster, web-developer, software trainer, multi-media
+artists.
+CXC 30/G/SYLL 08 14
+◆ SECTION 5: INFORMATION PROCESSING
+GENERAL OBJECTIVE
+On completion of this Section, students should develop an understanding of the principles, organization
+and operation of Information Processing Systems.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. distinguish between data and information; Data as raw unprocessed facts; information as processed
+data.
+2. explain the characteristics and
+functions of Information Processing;
+Forms of Information Processing: automation, process
+control, commercial, industrial, and scientific data
+processing; information retrieval and management.
+3. identify the sources of data in specified
+application areas;
+Source document, turnaround document, machine and
+human readable document.
+4. describe methods of validation and
+verification of data;
+Difference between validation and verification. Methods:
+range check, reasonableness checks, data type checks,
+inconsistency checks.
+5. identify appropriate verification and
+validation checks given a particular
+scenario;
+Such as double entry to identify and correct
+typographical/transposition errors.
+6. describe various methods of file
+organization and access;
+Sequential field ordering; random, index-sequential; directaccess, sequential-access.
+7. select appropriate file organization for
+particular application.
+Associate an appropriate file structure and access method to a
+specific application. For example, a payroll file would be
+organised sequentially with sequential access.
+CXC 30/G/SYLL 08 15
+◆ SECTION 6: WORDPROCESSING, PRESENTATION AND
+WEB PAGE DESIGN
+GENERAL OBJECTIVE
+On completion of this Section, students should have hands-on experience in the use of Wordprocessing,
+Presentation and Web Page Design packages in the development of computer-generated documents and be able to
+express their aptitude and creativity in design.
+A: WORDPROCESSING
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. select appropriate editing features in the
+preparation of a document;
+Deleting and inserting characters, words, lines, sentences,
+paragraphs. Type-over mode. Selecting blocks of text. Copying
+and moving sections of text.
+2. describe commonly available features; Page numbers, page breaks, text alignment, wordwrap,
+margins, tabs, page length, default settings, font size.
+3. select appropriate formatting features for the
+preparation of a document;
+Margins, tab stops, line spacing, page breaks, page
+numbers, left and right justification, centre line,
+underline, highlight, uppercase, bold, and italic.
+4. use headers, footers, footnotes and
+endnotes appropriately;
+5. combine documents;
+6. perform block operations;
+7. use columns and tables appropriately;
+8. apply appropriate character formatting
+features;
+Underline, bold, italics, font types and sizes, superscript
+and subscript.
+9. use search and replace functions appropriately;
+10. use mail-merge facilities; Creation of primary documents and data files in mail merge
+application; Field names.
+11. use spell-check;
+12. import documents; Text files, graphics, tables including options such as automatic
+save and backup copy, password protection, track changes.
+CXC 30/G/SYLL 08 16
+WORDPROCESSING, PRESENTATION AND WEB PAGE DESIGN (cont’d)
+B: PRESENTATION
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+13. explain the uses of presentation software; For example, to enhance public speaking; to deliver lectures; to
+present project reports; to effectively present sales or marketing
+ideas.
+14. explain the concepts of wizards, templates
+and slides;
+15. choose appropriate slide layout; Slide layout must relate to the type of information being
+presented.
+16. apply design templates to slides; Choosing from a list of presentation designs.
+17. use formatting features effectively to enhance
+presentation;
+Changing background colour, font size and other attributes,
+such as font colour and bullets.
+18. create slide headers and footers;
+19. create and use speaker notes;
+Use of the slide master to personalize the slides.
+20. apply various types of animation effects to
+slides;
+Flying, drive-in, camera effects; flash-once, typewriter; laser,
+reverse-texts, drop-in effects. Custom animation; timing and
+sound effects.
+21. insert graphics and moving pictures into a
+slide;
+22. manipulate multiple slides; Insertion and deletion of slides; use of the slide sorter.
+23. present a slide show. Use of slide show tools such as slide navigator, pointer options,
+screen attributes.
+CXC 30/G/SYLL 08 17
+WORDPROCESSING, PRESENTATION AND WEB PAGE DESIGN (cont’d)
+C: WEB PAGE DESIGN
+This section provides students with hands-on experience in the use of web design software to create and maintain simple
+websites.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+24. plan the website; Reasons for the website; the intended audience; number of web
+pages desired; content of each page; layout of the web pages.
+25. create a simple web page; Choosing an appropriate design for a page; inserting and
+deleting text and graphics; wrap text with image; create
+thumbnail image, index page, home page, hyperlink.
+26. create hyperlinks; Linking to another web page; link to a location within the web
+page; link to an email address; link to user-created files.
+27. test the website; Use of a web browser; verify that all the hyperlinks work
+correctly; use a test audience.
+28. publish and maintain a website. Registering domain names; locate hosting company; the use of
+the file transfer protocol (FTP) for uploading files.
+CXC 30/G/SYLL 08 18
+◆ SECTION 7: SPREADSHEETS
+GENERAL OBJECTIVE
+On completion of this Section, students should develop expertise in the use of a spreadsheet package in the
+development of computer applications.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. explain the purpose of a spreadsheet; Definition of spreadsheet: a spreadsheet is a table consisting of
+cells (rows, column locations) that hold accounting or financial
+data and simulates the traditional physical spreadsheet; it
+captures displays and manipulates data.
+2. use appropriate terminology and notions
+commonly associated with spreadsheets;
+Row, column, cell, cell address, label, value, formula, function,
+worksheet, template, range, title, window, record.
+3. select basic pre-defined systems functions; Including sum, average, date, maximum, minimum, count, if,
+vlookup, rank.
+4. create advanced arithmetic formulae; Formulae involving addition, subtraction; multiplication;
+division; powers; square roots, the use of brackets.
+5. explain the use of common features of
+spreadsheet software;
+Row/column title locking, relative addressing, absolute
+addressing.
+6. invoke row and column title locking; Horizontal, vertical, both.
+7. replicate (copy) formulae into other cells; Relative versus absolute addressing.
+8. manipulate data on a spreadsheet; Effects of move, copy, delete operations on formulae.
+9. manipulate columns and rows; Insert and delete columns and rows.
+10. format a spreadsheet; Numeric data formatting, text formatting, alignment,
+borders.
+11. sort a spreadsheet; Primary field, secondary field, ascending vs. descending
+order.
+CXC 30/G/SYLL 08 19
+SPREADSHEETS (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able:
+12. find a record matching a given criterion; Simple criterion, complex criterion, record - find
+command.
+13. perform charting operations; Bar charts, line graphs, pie charts, graph titles, labels on
+axes.
+14. select appropriate graphical representation
+of data;
+15. manipulate multiple worksheets; Use of two or more worksheets to solve problems involving some
+or all of the functions and operations listed above.
+16. import files. Graphics, tables.
+CXC 30/G/SYLL 08 20
+◆ SECTION 8: DATABASE MANAGEMENT
+GENERAL OBJECTIVE
+On completion of this Section, students should develop expertise in the design of a database management
+system in the development of computer applications.
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. explain the concept of a database; Definition of database: repository of information; collection of
+tables that are related to each other.
+2. use terminology commonly associated with
+a database;
+Database terminology: table (relation), entity, tuple, attribute,
+primary key, secondary key, composite key, candidate key,
+alternate key, foreign key.
+3. distinguish among terminology associated
+with files and databases;
+Row (tuple, record), column (attribute, field), key.
+Data types: alphanumeric; numeric; data; logical.
+4. outline the advantages and limitations of
+databases;
+Comparison with files with regards to: Speed; Ad hoc queries;
+standardization; present multiple views of the same data.
+5. create a database; Table structure with at least three data types and
+populate with at least twenty-five records. Use of wizard
+is prohibited.
+6. modify a table structure; Adding new fields, deleting fields, changing field definitions.
+7. sort a database; Arranging data in numeric, alphabetic; or alphanumeric
+format. Report generating facilities of the database
+package, including use of sorting, grouping statistical and
+summary features, for example, count, sum and average.
+8. establish relationships; Use of joins, merge tables/files.
+9. query a database using multiple search
+conditions;
+Using more than one criterion; use of select, calculated fields.
+CXC 30/G/SYLL 08 21
+DATABASE MANAGEMENT (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+10. determine the results of a search on a
+database given multiple conditions;
+Two or more fields involving the use of relational and
+logical operators.
+11. generate reports to the screen, printer
+and files.
+Report generating facilities of the database package, including
+use of sorting, grouping, statistical and summary features, for
+example, count, sum and average.
+CXC 30/G/SYLL 08 22
+◆ GUIDELINES FOR THE CONDUCT OF THE SCHOOL BASED
+ASSESSMENT
+The guidelines for conducting the SBA which consists of a practical project set by the teacher are shown below.
+1. AIM
+To provide students with the opportunity to demonstrate their problem solving and programming
+skills as well as their ability to use productivity tools effectively in:
+(i) entering, manipulating and presenting text data;
+(ii) simulating a worksheet;
+(iii) entering data, performing simple analysis on data and presenting data using a database
+management tool.
+2. ASSIGNMENT
+The School Based Assessment consists of one practical project consisting of four related
+components, prepared and marked by the teacher in accordance with CXC guidelines.
+The components will test Problem Solving and Programming as well as the application of processes
+involved in the use of Database Management, Spreadsheets and Wordprocessing. The four
+components will therefore cover the Specific Objectives in Sections 2, 3, 6, 7 and 8.
+3. ROLE OF THE TEACHER
+The role of teacher is to:
+(i) assign the project for the School Based Assessment.
+(ii) provide guidance throughout the life of the projects. The teacher should work with
+candidates to develop a project management chart with definite time lines for achieving clearly
+identified objectives, from project inception to project completion.
+(iii) guide the candidate through the SBA by helping to clarify the problem or by discussing
+possible approaches to solving the problem. Teachers, while giving guidance, should guard against
+providing a complete solution to the problem for the candidate or prescribing a specific format
+that should be followed.
+CXC 30/G/SYLL 08 23
+(iv) assess each student’s skills in problem solving and algorithm development using flowcharts
+or pseudocode, coding an algorithm in Pascal and the effective use of productivity tools to
+perform prescribed activities. The development of the project is a continuous exercise that
+occurs during scheduled class hours as well as outside class times. At a time to be
+determined by the teacher the relevant component will be assessed and the marks
+recorded. Hardcopies of the completed documents should be kept by both the teacher and student.
+The teacher should use the mark scheme provided by CXC and include any comments
+pertinent to the conduct of the assessment.
+(v) guide the candidate through the SBA by helping to clarify the problem or by discussing
+possible formats.
+(vi) ensure that students are allowed sufficient access to equipment to allow successful
+completion of their projects.
+4. ASSESSMENT CRITERIA
+The following is the mark scheme for assessing SBA assignments. Teachers must clearly
+indicate the breakdown of the marks allocated for each question on the candidates’ SBA paper.
+(i) Wordprocessing - 20 marks
+Processes Key Skills Mark
+Allocation
+The effectiveness with which the
+student uses formatting facilities
+to create and enhance the
+document.
+• Formatting for presentation
+- justification
+- single and double line spacing
+- paragraph styling (indent, hanging,
+block)
+• Formatting for emphasis
+- bold
+- italics
+- borders and shading to highlight and
+give emphasis
+- font and point size
+• Other features
+- use of spell checker/search and
+replace/grammar check
+- search and replace
+2
+2
+1
+(5)
+CXC 30/G/SYLL 08 24
+Processes Key Skills Mark
+Allocation
+The effectiveness with which
+students use formatting facilities
+to present information.
+• Page Layout
+- set margins
+- change page orientations
+- change paper size
+- text orientation
+• Headers/footers/endnotes
+• Tables
+2
+1
+2
+(5)
+The effectiveness with which
+students use facilities to create
+flyers or brochures.
+• Multiple page/book fold/columns
+• Use of graphics
+• Clarity of itemization
+- insert/delete (word, sentence,
+paragraph document)
+- block operations - move/copy/cut and
+paste
+2
+1
+1
+1
+(5)
+The effectiveness with which • Defining appropriate fields in the document 1
+students use facilities to perform • Creating primary document 1
+mail merge. • Creating secondary document appropriately 1
+• Performing the mail merge 2
+(5)
+(ii) Spreadsheets – 20 marks
+Processes Key Skills Mark
+Allocation
+The effectiveness with which
+students use pre-defined
+systems functions to form
+arithmetic, logical and relation
+expressions.
+• Demonstrating awareness of the existence of
+appropriate formulae
+• Use of appropriate formulae to solve numeric
+problems
+• Replicating formulae
+• Use of range names, relative and absolute
+addressing formats
+1
+2
+1
+2
+(6)
+The effectiveness with which
+students manipulate the
+spreadsheet.
+• Copying data
+• Moving data
+• Use of formatting features to allow clarity of
+display
+• Inserting page breaks appropriately
+• Deleting and inserting rows such that
+formulae remain unaffected
+2
+(2)
+CXC 30/G/SYLL 08 25
+Processes Key Skills Mark
+Allocation
+The effectiveness with which
+students use the search and
+sorting facilities.
+• Setting up primary and secondary key fields 1
+(1)
+The effectiveness with which
+students perform graphic
+operations to present
+information.
+• Creating appropriate charts to represent data
+- bar, pie, line, from spreadsheet data
+• Labelling charts appropriately
+• Comparing different series of data on a single
+bar chart or line graph
+3
+1
+1
+(5)
+The effectiveness with which
+students use spreadsheets to
+solve specific problems.
+• Conceptualizing a solution using the
+spreadsheet
+- select appropriate column and row labels
+- layout spreadsheet to permit easy
+additions and deletions
+- use constants in cells, instead of placing
+values directly in formula
+• Organizing spreadsheet so that data can easily
+be interpreted
+• Extracting data to allow summary information
+1
+1
+1
+1
+2
+(6)
+(iii) Database Management – 20 marks
+Processes Key Skills Mark Allocation
+The effectiveness with which students use
+facilities in creating and modifying database.
+• Defining fields and selecting
+appropriate data types to
+create tables
+• Identifying appropriate
+primary keys
+• Adding/deleting/sorting/
+modifying records or tuples
+• Deleting fields and changing
+field definitions
+3
+1
+2
+1
+(7)
+The effectiveness with which students use
+the query facility.
+• Searching database
+- use three tables, two
+tables one table in queries
+to generate new tables
+- use multiple conditions
+• Producing calculated fields
+3
+2
+2
+(7)
+CXC 30/G/SYLL 08 26
+Processes Key Skills Mark Allocation
+The effectiveness with which student use
+report generating facilities.
+• Generating report on
+specified fields
+• Grouping on fields
+• Sorting on fields
+• Using summary features, for
+example, count and sum
+2
+1
+1
+2
+(6)
+(iv) Problem Solving and Programming – 30 marks
+Algorithm Development – 10 marks
+Processes Key Skills Mark Allocation
+Problem statement that defines the
+problem.
+• Problem is clearly defined 1
+(1)
+Representing the solution in flowchart or
+pseudocode.
+• Start of solution
+• Definition of variables
+- identify variables
+- initialize variables
+• Processing
+- request for data
+- storing data
+- appropriate and logical
+use of control structures:
+selection statements;
+looping constructs
+- output results
+• End of solution
+1
+1
+1
+1
+2
+2
+1
+(9)
+CXC 30/G/SYLL 08 27
+Trace Table Development – 5 marks
+Processes Key Skills Mark Allocation
+Constructing the trace table. • ALL variables correctly
+identified and used
+• Appropriate test data
+• Data set complete
+- data set test ALL areas for
+robustness
+- [data set test SOME areas]
+• Change in values correctly
+demonstrated
+1
+1
+2
+[1]
+1
+(5)
+Programme Working to Specification – 15 marks
+Processes Key Skills Mark Allocation
+The effectiveness with which the program
+achieved the objective.
+• Program compiled (1)
+• Output (2)
+- output is correct for ALL
+values in teacher’s data set
+[Output is correct for
+SOME values in the
+teacher’s data set]
+1
+2
+[1]
+(3)
+The effectiveness with which the language
+features are used to achieve a working
+solution.
+• Appropriate use of features of
+the language (2)
+- appropriate choice of data
+types for ALL variables
+[appropriate choice of data
+types for SOME variables]
+• Appropriate use of control
+structures (7)
+- appropriate initialization
+of variables
+- appropriate use of
+sequence
+- appropriate use of if then
+else construct
+[inefficient use of if then
+construct]
+2
+[1]
+1
+1
+2
+[1]
+CXC 30/G/SYLL 08 28
+Processes Key Skills Mark Allocation
+The effectiveness with which the language
+features are used to achieve a working
+solution. (cont’d)
+- appropriate use of looping
+construct to manipulate
+arrays and perform other
+tasks
+[inefficient or inappropriate
+use of loop construct]
+3
+[1]
+(9)
+The effectiveness with which the language
+features are used to achieve clarity.
+• Clarity of program (3)
+- program documentation
+through variable names;
+author of program; date
+created; simple statement
+of task program solves
+- readability (correctly
+indented; logical flow of
+control; easy to follow;)
+- user-friendly.
+1
+1
+1
+(3)
+5. REQUIREMENTS OF SBA PROJECT DOCUMENTATION
+Problem-solving and Program Implementation Component
+Requirements Guidelines
+Cover sheet The information supplied here is essential since it is used to
+associate the submission with a particular candidate.
+Table of contents Provides easy reference when evaluating the project.
+Problem definition This section provides a clear statement of the problem.
+Students are also expected to draw flowcharts.
+Program listing and output This section is essential for assessing whether the component
+submitted is correct and complete. In addition, this section is
+used to evaluate the internal documentation. Candidates must
+demonstrate that they can select the appropriate features of the
+language to obtain the solution to the problem.
+Test data (if applicable) In situations where output is relevant, candidates are required
+to supply the test data that produced the output. This
+information would be necessary to determine whether the tasks
+have been performed correctly.
+CXC 30/G/SYLL 08 29
+6. PROCEDURES FOR REPORTING AND SUBMITTING SCHOOL BASED ASSESSMENT
+(i) Teachers are required to record the mark awarded to each candidate under the appropriate
+profile dimension on the mark sheet provided by CXC. The completed mark sheets should
+be submitted to CXC no later than April 30 of the year of the examination.
+Note: The school is advised to keep a copy of the project for each candidate as well as
+copies of the mark sheets.
+(ii) Teachers will be required to submit to CXC copies of the projects of a sample of candidates as
+indicated by CXC. This sample will be re-marked by CXC for moderation purposes.
+Note: The SBA Data Capture Module of the Online Registration System (ORS) must be
+used for the submission of ALL SBA marks.
+7. MODERATION OF SCHOOL BASED ASSESSMENT
+The candidate’s performance on the project will be moderated. The standard and range of marks
+awarded by the teacher will be adjusted where appropriate. However, the rank order assigned by
+the teacher will be adjusted only in special circumstances and then only after consideration of the
+data provided by the sample of marked projects submitted by the teacher and re-marked by CXC.
+8. TYPES OF PROJECTS
+Teachers should develop assignments that expose the candidates to realistic applications which involve, but are
+not limited to the following areas:
+(i) business (for example, storing and managing employee, customer and sales records,
+marketing);
+(ii) banking (for example, creation of different types of accounts, loans, interest, payments on
+loans, fixed deposits, investments);
+(iii) education (for example, enrolment in schools, academic record keeping);
+(iv) entertainment (for example, analysis of data on distribution and sales of movies, music,
+electronic games);
+(v) environment (for example, records of storms and hurricanes over specific periods and in
+named territories, calculation of cost of damage to infrastructure, housing, livestock,
+farms);
+(vi) law enforcement (collection and management of crime statistics collection and analysis of
+data on offenders, cost of maintaining prison populations);
+(vii) medicine (for example, managing patient records collection and analysis of data on diseases
+over a period of time and in various locations);
+CXC 30/G/SYLL 08 30
+(viii) monitoring (for example, analysis of data on accidents at intersections, counting and
+categorizing visitor arrivals in Caribbean territories);
+(ix) sports (for example, collection and processing of data on athletes sport meetings).
+Wordprocessing
+This assignment should consist of the formatting, importing and/or documentation of results to be
+included in no more than two word processed documents. One document must be a letter for
+mass mailing. The other may be chosen from but not limited to reports, faxes, simple brochures,
+flyers and newspaper articles. Note that Presentation and Web Page Design should not be included
+in the SBA project. Candidates’ proficiency in these topics would be assessed in Paper 01 and
+Paper 02.
+Spreadsheet
+This assignment should be limited to:
+(i) a maximum of THREE major tasks consisting of no more than THREE requirements;
+(ii) the creation of no more than TWO charts.
+Database Management
+The tasks in this assignment should be limited to no more than:
+(i) THREE tables or files;
+(ii) FOUR queries;
+(iii) TWO calculations within queries;
+(iv) ONE report, with grouping and sorting involving TWO or THREE tables.
+9. SCOPE AND SIZE
+The project should be the size and complexity for a candidate to satisfactorily complete during the
+second year of the two-year course.
+The WP, SS and DB sections of the project should each have approximately the same number of
+tasks and degree of complexity such that each project requires the same amount of preparation.
+The project should encompass some advanced processes in Sections 6, 7 and 8. Problem-solving
+and Program Implementation should be based on the project and not attempted in isolation. It
+must, therefore, be an actual implementation of some aspect of the project.
+Teachers are encouraged to design their School Based Assessment at the commencement of the
+academic year. This would allow for the completion of sections of the project as topics are
+addressed. It is suggested that the Problem-Solving component be attempted when the teacher has
+CXC 30/G/SYLL 08 31
+completed Section 2 of the syllabus, and the Program Implementation component at the
+completion of Section 3.
+10. EQUIPMENT
+The equipment should include an IBM-compatible computer with software that is capable of
+integration among Wordprocessing, spreadsheet and database management applications. Software
+must also include a Pascal compiler. CXC stipulates the use of the programming language Pascal
+for program implementation. CXC will not be responsible for partial assignments submitted due
+to software compatibility and/or integration problems.
+11. PROCEDURES FOR REPORTING AND SUBMITTING SCHOOL BASED ASSESSMENT
+(i) Teachers are required to record the mark awarded to each candidate under the appropriate
+profile dimension on the mark sheet provided by CXC. The completed mark sheets should
+be submitted to the CXC no later than April 30 of the year of the examination.
+Note: The school is advised to keep a copy of the assignment for each candidate as well
+as copies of the mark sheets.
+(ii) Teachers will be required to submit to CXC a copy of the assignment/project set by the
+teacher as well as copies of the assignments of a sample of candidates as indicated by CXC.
+This sample will be re-marked by CXC for moderation purposes.
+SAMPLE SCHOOL BASED ASSESSMENT
+SAMPLE SBA 1
+Carnival has long been a traditional cultural festival in several Caribbean territories. Every year, thousands
+of costumed masqueraders parade through the streets, dancing to the pulsating sounds of steelband, calypso
+and soca. Most of these revelers register to participate in the band of their choice months before the
+festivities begin. Organizers of these bands must utilize management and organizational skills in order to
+stage a successful event. As a bandleader of one these carnival bands, you are required to utilize suitable
+Wordprocessing, spreadsheet, database management as well as a programming application to design and
+implement computer-based solutions to the tasks involved in the management of your carnival band.
+Spreadsheet
+The financial records of the band are maintained using a spreadsheet application. The names of
+masqueraders are listed by section. Both men as well as women may register to play in each section. There
+are five sections in the band. The cost of costumes is quoted in US dollars. The cost by section is $160,
+$220, $280, $350 and $425 respectively. Masqueraders are given the option of paying for the costume in
+three installments, or paying the full cost in one payment. Many people utilize the installment option.
+Single full payment attracts a discount of 10%, while payment by installments attracts an interest of 15%.
+Installments should be spread over three equal payments.
+Each masquerader pays an ‘Inclusive’ fee. A $150 Inclusive fee entitles the masquerader to food, drinks,
+access to portable bathroom facilities and bottled water during the carnival parade through the streets.
+CXC 30/G/SYLL 08 32
+However, a payment of $50.00 entitles the masquerader to portable bathroom facilities and bottled water
+only.
+Expenditure is incurred in the provision of several amenities for masqueraders during the carnival. The
+bandleader must supply food, drinks, portable bathroom facilities, transportation, music, security personnel,
+and artiste fees. In addition, the costs of material for the manufacture of costumes as well as labour costs
+are incurred.
+Because of the anticipated large number of masqueraders, the bandleader has decided to manage the income
+and expenditure of each section separately.
+You are required to:
+1. Design a worksheet(s) which accepts income and expenditure costs for each section.
+Your worksheet must record all payments made by masqueraders, (a few persons have only made
+one or two of the required three installment payments on costumes), the total amount paid by each
+person as well as the grand total collected must be calculated. Costume payments must be made in
+US dollars. The total payments made by each person however, must be converted to the equivalent
+amount in local currency.
+In an appropriate row, count the number of masqueraders in the section; calculate the total payment
+on costume, Inclusive fees and the total overall payment.
+The expenditure incurred for each section must also be calculated. Food is $60.00 per person;
+drink is $40.00 per person; material is $150.00 and labour is $75.00. Other services are provided
+at a flat rate for the entire band. These are as follows: bathroom- $3000.00; transport $2500.00;
+music - $4000.00; security - $1800.00; artiste - $5000.00. The cost of each flat rate services for each
+section = Rate /No. of Sections.
+Food and drinks are increased by 15% of the starting per person cost for each successive section,
+material is increased by 12% of the starting cost for each successive section, while labour is increased
+by 8% of the starting cost for each successive section.
+The total cost of each service for each section = Cost of service X the number of masqueraders in
+the section.
+Save your spreadsheet as Masqueraders1.
+CXC 30/G/SYLL 08 33
+2. Modify your spreadsheet to effect the following changes:
+(a) Insert a masquerader before the last person in each of the first three sections.
+(b) Delete the third masquerader from each of the last two sections.
+(c) Create a table that shows the total income and total expenditure by sections.
+Save your spreadsheet as Masqueraders2.
+3. Perform the following modifications to your worksheet.
+(a) The cost of raw materials has decreased. Change the initial cost of materials from
+$150.00 to 135.00.
+(b) Labour costs however, have increased. The starting cost of sewing costumes for the first
+section is now $95.00.
+(c) Due to inflation, it has become necessary to increase the cost of food and drink from 15%
+to 20%. However, the first section has been spared this price hike.
+(d) Sort the first two sections in descending order by Total Payment.
+(e) Sort the third and fourth sections in ascending order by Name, then by cost.
+(f) Create an appropriate chart which compares the income and expenditure of each section.
+Give this chart a suitable name.
+(g) Create an appropriate chart, with appropriate data labels, which shows the distribution of
+expenditure for any one named section.
+Save your spreadsheet as Masqueraders3.
+Database Management
+You should use a suitable application to manage data on persons who have registered to play in your band.
+Personal data on each applicant, such as name, sex, address, age, size and telephone contact. must be stored.
+Masqueraders’ payment data must also be stored. The cost of costumes varies by section. Costume prices
+range from US$160 to US$425. In addition, the section of the band in which they choose to play must be
+recorded. The band has five named sections. Each section has a specific four-digit section code. Your
+database should contain three tables. Using data from your spreadsheet, populate your database with data
+on at least twelve but not more than fifteen persons in each section.
+You should test your database by performing queries to show:
+1. The name, age, size and address of all persons registered to play in a named section Name this
+query Section.
+CXC 30/G/SYLL 08 34
+2. The ID Number, name, sex, and age of all female masqueraders between twenty and thirty years
+old. Name this query Twenties Ladies.
+3. The ID Number, LastName, section and total payment of all persons who have paid in full for their
+costume in a given section. The data supplied should be sorted by Last name. Name this query
+Paidup.
+4. The bandleader has experienced difficulty in securing the advertised material for the costumes in
+the third section. He has therefore decided to give a 15% rebate on the total payment made to all
+persons in this section. Calculate this rebate and show it along with the name, address and total
+payment of all persons in one named section. Name this query Rebate.
+5. As an incentive to attract more female masqueraders to his band, the bandleader has decided to
+give a gift voucher to the value of 12% of the total payment to all females registered in the band.
+Show the name, sex, total payment and voucher value for all female revelers. Name this query
+GiftVoucher.
+6. Two revelers have asked to be refunded their payments, as they were forced to travel prior to the
+date of the carnival. Delete all records that pertain to these two named persons.
+7. Generate a report that shows the names, ID Number, section, age and total payments for all
+revelers who have paid in full for their costumes. The report should be grouped by section and
+sorted in descending order by LastName, then by FirstName. The report should calculate and
+show the total amount of funds paid by the revelers of each section. The average payment of each
+section should also be generated as well as the grand total of payments made. This report should
+be given a suitable title utilizing two lines.
+Wordprocessing
+1. Create a full page an advertisement for a local newspaper that informs the public about your
+carnival band. This must be designed on letter size paper.
+2. Using a suitable feature of your wordprocessing application, create a document which should be
+mailed to persons who have paid on full for their costumes. The document should inform
+masqueraders of the parade route, the time of assembly and departure of the band onto the parade.
+The report from the database section should be inserted into your document.
+The final paragraph should express the bandleaders gratitude to masquerades for choosing to join
+his band for the carnival celebrations.
+3. Design a suitable letterhead for your document which should be placed in a header.
+A suitable footer must be inserted, with the words center aligned.
+4. The document should be justified. The left margin must be 1.5”.
+CXC 30/G/SYLL 08 35
+Problem-Solving
+1. Develop an algorithm or write pseudocode that accepts as input the names of an unspecified
+number of masqueraders who each have paid the full cost of their costume and the amount each
+has paid. A masquerader may have paid for a costume in any of the five sections in the band. The
+algorithm should determine the section in which a masquerader plays based on the amount he/she
+has paid for the costume. The algorithm should also determine the number of masqueraders who
+have paid for costumes in each section. The names of persons and the section for which they have
+paid should be printed. A listing of section and the total number of persons registered to play in
+each section should also be printed, along with the total amount of money paid in each section.
+2. Using data from your database, make a random listing of persons who have paid in full for their
+costumes. The listing should contain the IDNumber, and full amount paid by each masquerader
+for his/her costume and should be chosen randomly from each of the five sections. No more
+than twelve persons should be selected. Using this listing, design a trace table that traces the
+number of masqueraders in each section, the amount paid, and traces the total amount collected
+in each section.
+Program Implementation
+3. Using the programming language Pascal, write program code to implement the algorithm in (1).
+SAMPLE SBA 2
+Description of the Project
+National general elections have been a recurring feature among the democratic territories of the Caribbean.
+Every year, in one territory or another, citizens exercise their right to elect a government of their choice.
+However, the exercise is not without its attendant challenges of data management. Thousands of votes are
+cast on the day of the elections and an anxious, waiting public demands speed, efficiency and accuracy in
+the determination of results.
+In preparation for the actual exercise, the Trinbarjam Elections Commission has hired you to simulate the
+elections exercise as a test run, prior to the actual elections which are to take place shortly in your country.
+You are required to utilize suitable wordprocessing, spreadsheet, database management as well as a
+programming application to design and implement computer-based solutions to the tasks involved in the
+simulation of the election process.
+Spreadsheet
+The Elections Commission has mandated that you design a spreadsheet that will accept pertinent data on
+constituencies and candidates’ votes and generate information that would enable the outcome of the
+elections to be divulged to the population in the shortest possible time. Four parties contest the elections:
+the Democratic Action Party (DAP), the Workers National Alliance (WNA), the United Progressive
+Movement (UPM), and the Peoples Democratic Revolution (PDR). Elections are contested to determine
+representatives in eleven constituencies. The representative being the candidate who gets the most votes in
+CXC 30/G/SYLL 08 36
+his/her constituency. The parties field candidates in every constituency except for the PDR, which fields
+candidates in just six of the eight constituencies.
+For each constituency, you are required to:
+1. Create a table in your spreadsheet that records the number of Electors, Percentage voter turnout,
+Number of votes cast, the percentage of Spoilt ballots and the number of General votes.
+The number of electors registered in each constituency ranges from 6,250 to 10,795. The
+percentage voter turnout in each constituency is projected to be from a low of 45% to a high of
+82%. Number of votes cast is determined by the Number of Electors * % Voter Turnout. The
+percentage of spoilt ballots varies from one constituency to another, but never exceeds 2.5% in any
+constituency. General votes are calculated as the votes cast – spoilt votes.
+For each constituency, design a spreadsheet that accepts the candidate’s name, party acronym,
+rating, % of votes, and number of votes received. The rating is a value from 1 to 4 and is
+determined by the results of a recent poll conducted in each constituency by a noted pollster.
+Apart from the candidate’s rating, the pollster also supplies the % of votes each candidate is likely
+to receive, based on the popularity rating. The actual number of votes received is that percentage
+of the General votes.
+You must enter data for each candidate in each of the eight constituencies.
+Save your spreadsheet as Elections 01.
+2. Modify your spreadsheet to reflect the following.
+(i) Votes cast by Special voters must be considered and counted. Insert a row in an
+appropriate part of your spreadsheet table to record the number of special votes cast in
+each constituency.
+(ii) Insert a column in an appropriate part of your spreadsheet to record the number of special
+votes received by each candidate. The special votes for each constituency are divided
+equally among the candidates in that constituency. Insert another column which records
+the total votes received by each candidate in each constituency. Total votes received are
+calculated as General votes + Special votes.
+(iii) Insert rows in appropriate part of your spreadsheet that calculate, for each constituency,
+the total number of special votes, and the total number of votes received by candidates.
+(iv) Insert a column that indicates whether a refund is due to a candidate. This column should
+state “Refund Due” or “No Refund”. A refund is due if the candidate’s total votes received
+equals or exceeds 20% of Votes Cast in the constituency.
+Save your spreadsheet as Elections 02.
+CXC 30/G/SYLL 08 37
+3. Perform further modifications to your spreadsheet to reflect the following.
+(i) In an appropriate part of your spreadsheet, create a table that lists the constituencies, and
+the total number of votes received by each party in each constituency.
+(ii) Sort the candidates’ data for each constituency. This should be sorted in descending order
+on total votes received.
+(iii) Generate a column graph that compares the votes received by each party by constituency.
+Name this graph ‘Votes by Constituency’.
+(iv) Generate a graph that compares the parties by name (acronym) and the total number of
+votes each received in the election. Each slice of the chart must be labeled to show the
+number of votes received and the % of votes received overall. Name this chart ‘Vote
+Distribution by Party’.
+Save your spreadsheet as Elections 03.
+Database Management
+You are asked to use a suitable application to manage data on candidates nominated to contest seats in the
+general elections. Three tables/files must be used to store the data. Relevant personal data on each
+candidate should be stored, including name, address, date of birth, sex, profession, constituency, party
+acronym and total votes received. Each candidate pays a deposit of $5000. (This deposit is refunded should
+the candidate garner 20% or more of the votes cast in his constituency).
+Constituency data must also be maintained, including the constituency name, number of electors, number
+of votes cast, and number of special votes. The name and acronym of each party must also be stored. Data
+must be sourced from the spreadsheet section of your project.
+You should test your database by generating queries to find the following.
+1. The candidate ID, name, sex, age and profession of all candidates from the Peoples Democratic
+Revolution (PDR).
+2. The candidate name, party acronym, number of electors and number of votes received for
+candidates in constituencies with more than 6500 voters and where the candidates received less
+than 500 of the votes cast.
+3. Special votes expressed as a percentage of the overall number of voters in each constituency. Your
+query should also show the constituency name field. The percentage should be expressed to two
+places of decimal.
+4. The candidates who received less than 20% of votes in their constituencies. Your query should
+show the candidate(s) name, party acronym, constituency, number of voters and votes received.
+5. All male candidates who are less than or equal to 40 years old and who received more than 40% of
+the votes cast in their respective constituencies. You must also show the dates of birth, name,
+number of votes received as well as the number of voters.
+CXC 30/G/SYLL 08 38
+6. Calculate the sum of the deposits to be refunded to each party (only candidates who received 20
+percent or more of votes are eligible for refund). Show the party name, acronym and sum
+refunded to each party.
+Generate a report which lists the final results of the election. The report should list the constituency, party
+acronym, number of votes received, sex and name of candidates. The report should be sorted by
+constituency. Within each constituency the report should be sorted by number of votes received. It should
+also give the total and average number of votes cast in each constituency. The report should have a two-line
+title as follows:
+“Official Results
+Trinbarjam National Elections”
+Wordprocessing
+1. Each candidate must complete and submit a nomination form to the Trinbarjam Elections
+Commission. You are required to design the nomination form. It must allow for the entry of
+relevant data on the candidate, including the constituency which he intends to contest.
+The form must be designed on letter sized paper and must have a 0.7” margin on the left and right
+sides. The letterhead of the Trinbarjam Elections Commission must be placed at the top.
+2. The results of the national elections must be delivered to every candidate. Using a suitable feature
+of your Wordprocessing application, and data from the database section of your project, create a
+document which should be mailed to candidates. The letter should come from the Chairman of
+the Trinbarjam Elections Commission.
+The first paragraph should congratulate and thank the candidate (insert candidate’s name in the
+letter) for the manner in which he/she conducted his/her campaign and invite him/her to view the
+complete listing of results.
+Insert the report “Official Elections Results” from your database into the document at this point.
+The final paragraph should congratulate the winners, and the winning party. The chairman should
+then invite who are qualify for a refund to visit the head office of the Commission to collect their
+deposit payment.
+You are required to print letters addressed to the first three and last candidate only from your
+database listing.
+The commission’s letterhead should be placed at the head of your document and an appropriate
+footer inserted. The text in the footer must be center aligned.
+CXC 30/G/SYLL 08 39
+Problem-Solving
+1. Develop an algorithm or write pseudocode to determine the winning candidate for a constituency
+in the national elections. The algorithm must accept as input the names of the four candidates and
+the number of votes each candidate receives. The successful candidate is the one who received the
+most votes.
+Print the name of the winner and the number of votes he/she received.
+2. Design and execute a trace table that accepts vote data at a polling station in a constituency. Data
+should include special votes, general (valid) votes and spoilt votes. Votes should be cast for any
+one of four parties, DAP, WNA, UPM or PDR. The table should trace the increment of each vote
+category and determine which party secured the majority of votes. The table should have at least
+ten iterations and should end when a specific value is entered.
+Program Implementation
+3. Using the programming language Pascal, write program code to implement the algorithm in (1)
+above.
+SAMPLE SBA 3
+Description of the Project
+The citizens of Trinbarjam, a country in the English-speaking Caribbean, are unable to purchase housing
+for their families, mainly due to the extremely high cost of real estate and building materials. Middle and
+low income earners are severely affected. The government, through its agency, the Housing Construction
+Corporation, has intervened however, and has embarked on an extensive house building exercise in three
+selected parts of the country.
+Citizens were invited to apply for the chance to own one of these homes. You are asked to use wordprocessing, spreadsheet and database management applications to design and implement computer-based
+solutions to ensure that the public is well informed of the government’s new housing initiative; that an
+efficient record of applicants’ information is maintained; applicants’ financial income and expense
+commitments are accurately calculated and assessed and that suitably qualified and approved applicants are
+duly informed.
+Spreadsheet
+Housing Construction Corporation is a state agency mandated to provide affordable housing for middle
+and low income earners. The Housing Construction Corporation invites applications from nationals who
+are employed and who can demonstrate that they would be able to meet their mortgage payments each
+month. Each application must be supported by documents giving details of the applicant’s financial status.
+These include the applicant’s salary and monthly salary deductions. The amount owed to banks and other
+financial institutions must also be disclosed with supporting verifying documents. In addition, details of
+applicants’ monthly expenses on groceries, utilities, transportation, etc. must be submitted.
+CXC 30/G/SYLL 08 40
+Homes are being built to accommodate approved applicants in three communities: Clarendon Court, Sangre
+Grande Villas and Providence Gardens. Applicants, who are middle and low income earners, must meet a
+net monthly income in order to qualify for consideration in each of these communities: $12,500,
+$9,500 and $7,500 respectively. This net income may be met by the applicant himself/herself or in
+conjunction with his/her spouse.
+You are required to:
+1. Design a spreadsheet that accepts income data from applicants for each housing community. You
+may accept at least ten but no more than fifteen applications for each community:
+Income
+Applicant Salary Spouse Salary Gross Net
+Applicant Salary Deductions Salary Deductions Income Income Status
+Michael James 8,560.00 2,295.00 6,490.00 1,777.50 15,050.00 10,977.50 Qualified
+Monthly deductions from salary include PAYE tax, health surcharge, union dues and payments to
+pension plan. No tax is deducted should the applicant’s salary be $5,000 or less. A flat rate of 8%
+is deducted on the amount in excess of 5,000. Health surcharge is fixed at $155.00 per month
+while Union dues are 2% of salary. Pension deduction is 15% of salary. In a small number of
+instances, applicants’ spouses are unemployed. If the net income meets the qualifying income for
+the housing community applied for as specified by the Housing Construction Corporation, the
+applicant’s status would be “Qualified”, else “Not qualified” should be recorded. All deduction
+rates are subject to change.
+(a) You must enter income data and use appropriate formulae to calculate deductions, gross
+income, and net income and determine whether the application qualifies for
+consideration.
+In another section of your spreadsheet, information on applicants’ loan indebtedness should be
+recorded and calculated. Total amounts owed with respect to bank loans, credit card loans and
+credit union loans must be revealed.
+Loans
+Total Loan Amounts Monthly Payments
+Credit Credit Bank Credit Card Credit Union Total Loan
+Applicant Bank Card Union Payment Payment Payment Payments
+Michael
+James $15,780.00 $1,100.00 $14,890.00 $ 439.65 $105.42 $ 414.11 $ 959.17
+(i) Repayment on bank loans is calculated as equal monthly payments over three years at a
+simple interest of 8% of the starting loan amount.
+(ii) Repayment on credit card loans is calculated as equal monthly payments over 18 months at
+a simple interest of 10% of the starting loan amount.
+CXC 30/G/SYLL 08 41
+(iii) Repayment on Credit union loans is calculated as equal monthly payments over three years
+at a simple interest of 5%. An additional $300.00 is added to the loan repayment amount
+each month for the purchase of shares in the credit union.
+Some applicants do not have credit cards, and just a few do not have loans with the credit
+union.
+All interest rates are subject to change.
+(b) You must enter loan information for each applicant and use appropriate formulae to
+calculate monthly repayments. Insert a column to calculate each applicant’s total monthly
+payments on loans.
+In an appropriate section of your spreadsheet, information on each applicant’s monthly
+expenses must be calculated. Each applicant must provide realistic estimates of monthly
+expenses on groceries, utilities (water, telephone and electricity), transportation, and
+miscellaneous expenses. A column stating the applicant’s number of dependants must be
+included. Miscellaneous expense is calculated as number of dependants x $75.00
+(c) You must enter expense information for each applicant. Insert a column to calculate each
+applicant’s total monthly expenses.
+For each housing community, insert at table which lists each applicant’s Net Income, Total
+Monthly Loan Repayments, and Total Monthly Expenses and Balance. Balance is calculated as Net
+Income – sum of Repayments and Expenses. Add a column that states whether the applicant has
+been approved or not approved for housing allocation. An application is approved if the Balance is
+equal to or exceeds one half of Net Income.
+Create a suitable chart that compares each applicant’s net income, total loan payment, and total
+monthly expenses (from the named housing community). Give an appropriate name to this chart.
+Print this chart.
+Save your spreadsheet as LoanApplication 01. Print this spreadsheet.
+2. The economy has been further severely affected by international fiscal initiatives. To adjust to
+these realities and to offset any losses, banks have increased their interest on loans to 10% and
+credit cards companies now apply an interest of 15%. The qualifying income on homes however,
+has been reduced to $10,000, $7,500 and $5,500 respectively.
+Make the necessary changes such that your spreadsheet’s values adjust to these changes.
+Save this spreadsheet as LoanApplication 02.
+Print the spreadsheet with adjusted information on applicants for any ONE housing community.
+CXC 30/G/SYLL 08 42
+3. (a) For each housing community, sort the applicants’ Income information in descending order on
+net income; Loans information in descending order on total loan payments, and Expenses
+first in descending order by total expenses, then by number of dependants.
+(b) In an appropriate part of your spreadsheet, create a table that lists the Net Income, Total
+Monthly Loan Payments and Total Monthly Expenses for approved applicants from ALL
+three housing communities.
+(c) Create a suitable chart that compares the financial records of these approved applicants.
+Name this chart Approved Applicants.
+Save your spreadsheet as LoanApplication 03.
+Print the spreadsheet with data from any ONE housing community.
+Database Management
+1. Information must be maintained on all applicants for housing units. Using information from your
+spreadsheet, you are required to design and populate a database with applicant data. You may
+accept at least thirty but no more than forty five applicants.
+2. Required personal information on applicants should include Applicant ID, title, name, sex,
+address, date of birth, marital status, number of dependants, and telephone number and housing
+community.
+3. Applicant ID is a five digit number in the format XXX07 where XXX is any number between 100
+and 999. Applicants must be at least twenty years old but not older than forty-five.
+4. Financial data on each applicant is also required. These include net income, total monthly
+expenses, total monthly repayment, and whether application is approved or not.
+5. Dependant data is a third area of information required in respect of each applicant. The name of
+each applicant’s dependant(s) must be submitted.
+You are required to:
+(i) Design and create database tables (files) to meet the required criteria.
+(ii) Appropriate data types /field widths are to be used when designing the structure of each
+table.
+(iii) Print all tables (files) populated with appropriate records.
+CXC 30/G/SYLL 08 43
+Your database should respond to the following queries.
+(a) List the last name, address (street and town), phone number, net income and number of
+dependants of all applicants who listed Clarendon Court as their choice for housing
+allocation. Name this query Clarendon Applicants.
+(b) List the name, applicantD and total monthly expenses of all applicants whose total
+monthly loan repayment exceed one thousand five hundred dollars. Name this query
+LoanPayment.
+(c) Count the number of persons who applied for homes in Sangre Grande Villas. Name this
+query SangreGrandeCount.
+(d) The age of the applicant may be a factor in determining housing allocation priority. List
+the name and date of birth of all applicants who are between the ages of twenty and thirty,
+inclusive. Name this query TwentytoThirty.
+(e) Perform a query to add a further ten percent to the salary of Providence Gardens’
+applicants. Name this query ProvidenceGrace. Print the table showing Providence
+Gardens applicant’s updated net income.
+(f) The HCC wants to know the disposable income of Clarendon Court’s applicants. Perform
+a query which subtracts the sum of their total loan payments and total expenses from their
+net income. Print the names loan payment, expenses and disposable income of each
+Clarendon Court applicant. Name this query Balance.
+(g) Prepare a report which lists the names of all applicants whose application have been
+approved for housing unit allocation. The report must show each applicant’s title, name,
+applicantID, address, and housing community. The report should be sorted by community
+then by last name. For each grouping level the report must indicate the applicants’ average
+net income. A grand total of income and load payments and expenses should be indicated
+at the end of the report. The first line of the report title should be Approved Applicants.
+Wordprocessing
+1. You are to design an application form on which nationals may apply to the Housing Construction
+Corporation for housing allocation. The application form must be designed on letter size paper (8
+½” x 11”) using suitable features of a Wordprocessing application. Relevant personal information
+as well as the applicant’s financial information must be solicited. There should be a space for the
+applicant’s signature. The left and right margins of the form must be 0.8” The top and bottom
+margins must be set to 1.0”
+On the reverse side of the application form you are to design a flyer intended to inform the public
+about the homes being constructed and the qualifying requirements for each housing community.
+CXC 30/G/SYLL 08 44
+2. Individuals whose applications have been approved must be duly informed by the Housing
+Construction Corporation. Write a letter which congratulates successful applicants and informs
+that their applications have been approved. The paragraph should contain the statement “Please
+find a listing of all applicants whose applications have been approved. Please check to ensure that
+your name is listed:”
+Insert the report named ‘Approved Applicants’ from the database.
+A final paragraph should give information about the proposed dates for the formal opening of the
+housing communities.
+Using the mail merge feature of your Wordprocessing program, and data from your database, this
+letter must be sent from the office of the Chief Executive Officer of the HCC and addressed to the
+first four and to the last mentioned approved applicant.
+Problem-Solving
+1. Develop an algorithm or write pseudocode to determine whether an applicant is approved for
+allocation of a home in a named housing community. The algorithm/ pseudocode should accept
+the name of the applicant and his/her gross salary as well as salary deductions. The net salary
+should be calculated. An applicant qualifies if the net salary is above the qualifying salary for that
+housing community. The algorithm should then determine whether the applicant is approved.
+Approval is granted should the sum of applicant’s expenses and repayments not exceed half of the
+balance.
+2. Design and execute a trace table that accepts data for applicants of one housing community. The
+table should accept the net salary, total expense, and total repayment amount for each
+applicant. The balance should be determined. The approval status should be determined
+(applicant is approved if balance >= one half of net income). The number of applicants as well as
+the number of approved applicants should be counted. In addition the average net income and
+average balance of approved applicants should be determined.
+Program Implementation
+3. Using the programming language Pascal, write program code to implement the algorithm in (1)
+above.
+CXC 30/G/SYLL 08 45
+♦ RECOMMENDED TEXTS
+Birbal, R. and Taylor, M. Log On to IT for CSEC, Essex: Pearson/Longman, 2005.
+Cotton, S., Teager, G. and Austin, R. Megabyte, Oxford: University Press, 2002.
+Gay, G. and Blades, R. Information Technology for CXC CSEC, Oxford: University
+Press, 2005.
+Holligan, J. and Doyle, S. IT FOR CSEC, Cheltenham: Nelson Thornes, 2006.
+Jamrich, P. and Oja, D. New Perspectives on Computer Concepts, 10th edition, Course
+Technology, Washington D.C.: Thomson Publishing,
+2007.
+Nance, D. Fundamentals of Pascal: Understanding Programming and
+Problem Solving, 3rd Edition, Washington D.C.: South –
+Western Educational Publishing, April 1997.
+Robertson, L. Simple Program Design – A Step by Step Approach, Course
+Technology, Washington D.C., 2006.
+Skeete, K. CXC Information Technology, Cambridge: University Press,
+2004.
+Website
+http://www.learn-programming.za.net/learn_pascal_programming.html
+CXC 30/G/SYLL 08 46
+♦ GLOSSARY
+WORD DEFINITION
+Address The identification of a particular location in memory where a data item
+or instruction is stored.
+Algorithm A sequence of instructions which rigorously defines a solution to a
+problem.
+Antiglare screen A polarized screen attached to the front of the monitor, which reduces
+eye strain.
+Assembler A program which converts ASSEMBLY LANGUAGE into MACHINE
+CODE to be used by a computer.
+Automation Computer control of machines and processes.
+Backing storage Memory external to the computer used for storage of large quantities of
+data or large programs. Backing store is also known as secondary store,
+auxiliary store or external store.
+Bandwidth A characteristic of a communication channel that determines the speed
+at which data can be transmitted over the channel.
+Bar code A series of thick and thin black bars separated by spaces of varying
+widths representing data.
+Baud A unit of speed in data transmission system which now represents one
+data signal per second.
+BCD BCD is an abbreviation for Binary-Coded-Decimal. In this number
+system, each digit of a number is written as a BINARY number, rather
+than converting the whole number. For example, 47 would be coded as
+01000111, the binary codes for 4 and 7. Contrast this with 101111,
+which is the true binary code of 47.
+Bistable device A device which can exist in two discrete stable states.
+Bit An acronym for binary digit. It can have a value of 1 or 0.
+Blog Short for "Web log". A blog is an online journal or diary of an individual’s
+opinions and latest news. It is updated regularly, in chronological order. Many
+blogs allow visitors to make comments, or “postings” in response to the blogger, or
+to ask questions.
+CXC 30/G/SYLL 08 47
+WORD DEFINITION
+Broadband A term used to describe a technology that provides bandwidth that is greater than
+that provided by ordinary telephone lines, that is, greater than 64 kilobits per
+second. The greater the bandwidth, the greater the data-carrying capacity.
+Broadcast The transmission of data to all connected stations simultaneously.
+Bulletin board An electronic equivalent of a conventional bulletin board. It is used as
+part of a communication network where users can post messages, read
+messages posted by other users, communicate with the system operator
+and upload or download programs.
+Byte A group of eight bits, usually representing a single character.
+CADD Acronym for computer-aided design and drafting. The use of computers
+and graphics in design and drafting process.
+CAM Acronym for computer-aided manufacturing. The use of computers to
+control machines in the manufacturing process.
+Character One of the set of symbols that may be represented in a computer.
+Characters may be letters, digits, symbols.
+Character codes Binary patters used to represent characters in a computer system.
+Compiler A program that translates the source program into executable machine
+code, and saves the code to a file (the object program) for later
+execution.
+CPU Central Processing Unit
+Data corruption The introduction of errors into data stored in a computer system.
+Database A collection of data files that may be used by a number of applications
+with storage and access to the data controlled by a set of programs
+known as Database Management System. (DBMS)
+Database
+management system
+Programs and database files that allow timely and easy controlled access
+to data by a number of users.
+Data flow diagram A pictorial representation of a network of processes linked by arrows
+illustrating the flow of data to and from processes in a system.
+Decision table A pictorial representation of program logic illustrating, in the form of a
+table, the appropriate actions to be taken for each combination of
+conditions.
+CXC 30/G/SYLL 08 48
+Direct mode The passing of COMMANDS to the OPERATING SYSTEM without
+the use of a program. Certain commands such a RUN, SAVE, and
+LOAD are nearly always used in direct mode by typing the command
+words on the keyboard then pressing the return key. Interpreted
+language like BASIC permit a much wider range of direct mode
+commands.
+Down-load Process whereby programs or data are transferred via communications
+channels, from a computer and stored on media located at the user’s
+computer.
+Dry-run A manual traversal of the logic of a program.
+Duplex A transmission system that allows data to be transmitted in both
+directions at the same time. This system is sometimes called Full Duplex.
+DVD Digital Video Disk or Digital Versatile Disk. A high-density compact disk for
+storing large amounts of data, especially high-resolution audio-visual material.
+EBCDIC An acronym for Extended Binary Coded Decimal Interchange Code.
+The code uses eight binary positions for each character thus allowing a
+character set of 256 characters.
+Electronic mail Mail or messages transmitted electronically by computers via
+communication channels. It is usual for such messages to be held in a
+central store for retrieval at the user’s convenience.
+EPROM Erasable programmable read-only memory. A type of memory chip that
+can be erased by removing it from the circuit and exposing it to
+ultraviolet light. The chip can then be reprogrammed.
+Expert system A software package that acts as a consultant or expert to the user. It is
+“expert’ in a specialized application or area and provides assistance to the
+user in solving problems in that area.
+Feasibility study In-depth study of an application area for the purpose of establishing
+whether automation would be cost effective. In general, the expected
+benefits should exceed the combined cost of installing the computer and
+developing the system.
+Field (1) A section of a record containing data relating to one attribute of
+an entity.
+(2) Part of a machine instruction containing an operation or address.
+CXC 30/G/SYLL 08 49
+Floppy disk A flexible magnetic coated disk, commonly used with microcomputers,
+on which data can be stored magnetically.
+Font A family or collection of characters (letters, punctuation marks, numbers
+and special characters) of a particular size and style.
+Fourth generation
+language (4GL)
+A computer programming language which allows the program to specify
+“what” is to be achieved rather than “how” it is to be achieved. For
+example, database languages.
+Gigabyte The equivalent of approximately one billion bytes.
+Half duplex A transmission system that allows data to be transmitted in one direction
+at a time. That is the system can transmit and receive data but not at the
+same time.
+Hard disk A rigid disk used for storing data magnetically. Its rigid construction
+allows for higher storage densities. Access times for a hard disk are
+much faster than for floppy disks.
+Hardware The physical components of a computer system such as the Central
+Processing Unit (CPU), memory, input, output, and storage devices.
+Home page The file available for access at a web site intended chiefly to greet visitors, provide
+information about the site, and direct them to other sites with related
+information.
+HTML Hyper Text Markup Language. A markup language used to structure text and
+multimedia documents used extensively on the World Wide Web.
+HTTP Hyper Text Transfer Protocol. A protocol used to request and transmit files,
+especially Web pages and Web page components, over the Internet or other
+computer network.
+IDE Acronym for I ntelligent Drive E lectronics or I ntegrated Drive E lectronics. An
+IDE interface is an interface for mass storage devices, in which the controller is
+integrated into the disk or CD-ROM drive.
+Immediate access storage The memory within the central processor. Also referred to as internal
+use or main store.
+Indexing Creating a secondary file which contains pointers to items in an
+associated database file and allows rapid location of records in the file.
+CXC 30/G/SYLL 08 50
+Information Meaningful knowledge produced from raw data files.
+Information retrieval The process of retrieving specific information from data files.
+Integrated package This package combines several applications in a suite of programs. Most
+of these packages combine a word processor; spreadsheet and database
+program. Data are shared easily between these integrated programs.
+Internet The Internet is the largest computer network system in the world. It
+consists of many smaller networks connected together by a global public
+network. The Internet is often called the information superhighway or
+cyberspace.
+Intranet An intranet is a private network that belongs to an organization, and is designed to
+be accessible only by the organization's members, employees, or others with
+authorization When part of an intranet is made accessible to customers, partners,
+suppliers, or others outside the company, that part is called an extranet.
+Interpreter A computer program which interactively translates and executes a source
+program without permanently storing any executable code.
+Invoke Process of starting up a program by using its name (or selecting its icon).
+Joystick An input device that uses a lever to control movement of the cursor or
+graphic images.
+Justification This is the adjustment of alignment of one or more lines of text with a
+particular margin, for example, alignment with the left margin, the right
+margin or both. The term justification often is used to refer to full
+justification of the alignment of text along both margins.
+Keyboarding The process of rapidly and accurately entering data into a computer via
+the keyboard as an input device.
+Key-to-disk Keyboard entry of data directly to magnetic disk without previous
+preparation on another medium.
+Kilobyte One thousand and Twenty-four bytes.
+LAN Acronym for Local Area Network. A type of computer network where
+two or more computers are directly linked within a small area such as a
+room or building site. A common characteristic of this system is that
+computers are linked by direct cables rather than by telecommunication
+lines.
+CXC 30/G/SYLL 08 51
+Light pen A light-sensitive input device which when it touches the screen detects
+the presence or absence of light. It is used to select an entry or indicate a
+position.
+Magnetic disk A mylar (floppy disk) or metallic (hard disk) circular plate on which
+electronic data can be stored magnetically. Suitable for direct or random
+access data storage and retrieval.
+Mail-merge A facility found in full fledged Wordprocessing programs that draws
+information from a database, usually a mailing list, to print multiple
+copies of a document. Each copy contains some common text but each
+bearing different addresses.
+Main-memory See immediate access storage.
+Mainframe A large-scale computer with a variety of peripheral devices, a large
+amount of backing store and a fast CPU. The term is often used in
+comparison with a smaller or subordinate computer. It should be noted
+that there is no clear dividing line between mainframes and
+minicomputers.
+Margins Space provided to the left, right, top and/or bottom of a page of text or data.
+Menu A screen listing commands of action or alternatives to lead the user
+through an interactive program.
+Menu-driven Interface A Program interface where the user is provided with a list of operations.
+Merge The combination of two or more files on the basis of common field (key
+field).
+MICR Magnetic Ink Character Recognition.
+MIDI Musical Instrument Digital Interface. A standard for representing
+musical information in a digital format.
+Microcomputer A computer based on a microprocessor. See definition of microprocessor
+below.
+Microfiche An output medium consisting of microfilm sheets. Very high density
+storage can be attained using this method of storage.
+Microfloppy disk Refers to 3.5 inch floppy floppy disks. They are housed in rigid plastic
+casting having a sliding shutter which automatically closes when the disk
+is removed from the disk drive.
+Microprocessor A single chip which contains the arithmetic/logic unit (ALU) and the
+control unit (CU).
+CXC 30/G/SYLL 08 52
+Minicomputer A computer whose size, speed and capabilities lie between those of a
+mainframe and a microcomputer.
+Modem Acronym for modulator-demodulator. A device that converts signals
+from analogue to digital and vice versa. A modem allows computers to
+exchange information through telephones lines.
+Monitor A television-like device used to display data.
+Mouse An input device that controls the movement of the cursor. The cursor
+moves in response to the movement of the mouse on a flat surface.
+Multiprogramming The ability of a computer to execute two or more programs at the same time,
+using one CPU (or processor).
+Multiprocessing The ability of a computer to execute programs on two more processors
+simultaneously. The program is distributed over several processors.
+Multitasking The concurrent execution (at the same time) of two or more rel a ted tasks. A
+group of cooperating tasks is executed simultaneously to achieve a common goal.
+Narrowband A term used to describe a technology that provides bandwidth that is less than or
+equal to that provided by ordinary telephone lines. That is, 64 kilobits per second
+or less.
+Natural language
+processing
+The use of the computer to understand and translate a natural language,
+like English, into commands to perform a given operation.
+Network A network is a group of connected computers that exchange information and
+share equipment.
+Numeric Data comprising digits on which mathematical operations can be
+performed by a computer system.
+Object code Machine language program produced by a compiler.
+On-line The term is used to describe peripheral devices under the control of the processor.
+Off-line Describes peripheral devices that operate independently and are not under the
+control of the processor.
+CXC 30/G/SYLL 08 53
+Operating system A set of programs that control and supervise the resources of a computer
+system. It also acts as an interface between the user and the computer.
+Peripheral Any hardware device connected to and controlled by the central
+processing unit.
+Plotter An output device specially designed to produce a hard copy of graphical
+data.
+Point of sale terminal A device that reads data at the source of a transaction (for example. a
+supermarket checkout) and stores it for subsequent transmission directly
+to the computer system for processing.
+Podcasting A form of audio broadcasting using the Internet; podcasting takes its name from a
+combination of “iPod” and broadcasting. It is a method of releasing files to the
+Internet, allowing users to subscribe and receive new files automatically.
+Printer A device specially designed to produce a hard copy of computer output.
+Protocol A set of rules and procedures controlling the transmitting and receiving of
+data so that different devices can communicate with each other.
+Pseudocode A language consisting of English-like statements used to define
+algorithm.
+Real-time A processing mode in which the passage of real-time is critical to the
+application.
+Register A permanent location in the internal memory of a processor used for the
+temporary storage of data during processing operations.
+Record A collection of fields on data related to one entity.
+Resolution A characteristic of a monitor’s screen, determined by the number of
+pixels that can be displayed by it.
+SATA Acronym for Serial Advanced Technology Attachment. It is a computer
+bus primarily designed for transfer of data between a computer and mass
+storage devices such as hard disk drives and optical drives.
+SCSI Acronym for Small Computer System Interface. It is a set of standards
+for physically connecting and transferring data between computers and
+peripheral devices. SCSI is most commonly used for hard disks and tape
+drives, but it can connect a wide range of other devices, including
+scanners and CD drives.
+CXC 30/G/SYLL 08 54
+Sector A pie-shaped division of each disk track.
+Simplex A transmission system that allows data transfer in one direction only.
+Software A collection of programs, procedures and routines which direct the
+operations of a computer.
+Software package A fully documented program or set of programs generalised and
+designed to be used with little or no modification.
+Sort Redistribution of data into an order on the basis of the contents of a key
+item (sort-key).
+Source code Program written in high level language or assembly level language.
+Source document A document used for the initial recording of data relating to business
+transactions. Very often source data needs to be converted into
+machine-readable form for example, punched cards or paper tape, before
+it can be processed by a computer.
+Spell-check A dictionary feature associated with a word processor which allows the
+user to easily detect and correct errors in spelling. One can add new
+words to the dictionary so that the latter may grow with usage e.g. in
+WordPerfect, WordStar and Microsoft Word.
+Syntax A set of rules defining the structure of statements in a programming
+language.
+Telecommunication The process of transmitting data between devices using transmission
+facilities such as telephone lines or microwave links.
+TCP/IP TCP/IP stands for Transmission Control Protocol/Internet Protocol. These are a
+set of rules and regulations followed by computers on the Internet to
+communicate.
+Telecommuting A method of working where an off-site employee uses computer and a
+communication channel to communicate with the office computer.
+Telemarketing The employment of telephone lines and computers to market products
+and manage accounts.
+Terminal The combination of a monitor and keyboard to input and check data
+and to view output. A terminal does not necessarily include a processor.
+Template A specification of the number of fields and the kinds of data which fields
+in a database record are allowed to hold.
+CXC 30/G/SYLL 08 55
+Touch terminal Also called a touch screen. A device that allows data to be input by
+touching a screen with the finger or other object. The surface of the
+screen consists of a number of programmed touch points each of which
+may trigger a different action when selected by the user.
+Track The path on a tape, disk or drum on which data are stored. On a disk
+these paths are concentric circles; on a tape there are several tracks
+parallel to the edge of the tape; on a drum there are bands of equal size
+along the circumference of the drum.
+Turnaround document A document which, after being output by the computer, can be used to
+record data.
+Two’s complement
+document
+A method of representing numbers in which the computer does not
+perform subtraction in the normal way but inverts digits to be subtracted
+and adds to them.
+Up-load Process of reading data from a user’s computer storage and sending it to
+another computer via communication channels.
+URL Each page on the World Wide Web has a unique address called the Uniform
+Resource Locator (URL).
+Usenet Short for Users Network is the largest discussion forum in the world. Usenet
+allows people with common interest to communicate with one another.
+VoIP Acronym for Voice over Internet Protocol. It is a protocol which governs the
+transmission of voice over the Internet. VoIP is often used abstractly to refer to
+the actual transmission of voice (rather than the protocol implementing it).
+VoIP is also known as IP Telephony.
+Validation A checking process in a program which is aimed at finding out if data is
+genuine. Validation should be carried out on any data that is entered
+from the keyboard, even when this is simply a Y or N response.
+World Wide Web (WWW) The World Wide Web commonly referred to as the ‘Web’, is a graphical easy-touse system of inter-linked files on the Internet. Vast amounts of information can
+be obtained through the use of the WWW.
+Web page A document on the World Wide Web, consisting of an HTML file and any
+related files for scripts and graphics and often hyperlinked to other Web pages.
+Web site Set of interconnected Web pages, usually including a home page, generally located on
+the same server, and prepared and maintained as a collection of information by
+a person, group, or organization.
+CXC 30/G/SYLL 08 56
+Web browser A web browser is a programme that allows users to view and explore information
+on the World Wide Web. Examples of popular browsers are: Microsoft Internet
+Explorer and Mozilla Firefox.
+Web Server A computer that delivers (serves up) Web pages. When a request is made to
+access a web site, the request is sent to the web server. The server then fetches the
+page and sends it to your browser.
+Western Zone Office
+04/06/2008
+CXC 30/G/SYLL 08 57

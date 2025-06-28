@@ -1,0 +1,354 @@
+
+=== BIOLOGY_SYLLABUS.txt ===
+[1] Content Type: assessment
+    Key Terms: november 2017, mark, 978, author, 2017
+    Section: General
+    Chunk: [BIOLOGY_SYLLABUS|assessment|General] CSEC®
+ogyBioloBiologyologyBioiologyBi
+BiologyByBiologSYLLABUS
+SPECIMEN PAPER
+MARK SCHEME
+SUBJECT REPORTS
+Macmillan Education
+4 Crinan Street, London, N1 9XW
+A division of Macmillan Publishers Limited
+Companies and representatives throughout the world
+www.macmillan-caribbean.com
+ISBN 978-0-230-48203-6
+© Caribbean Examinations Council (CXC®
+) 2017
+www.cxc.org
+www.cxc-store.com
+The author has asserted their right to be identified as the author of this work in accordance with the
+Copyright, Design and Patents Act 1988. First published 2014
+This revised edition published November 2017
+Permission to copy
+The material in this book is copyright. However, the publisher grants permission for copies to be
+made without fee.
+------------------------------------------------------------
+[2] Content Type: requirements
+    Key Terms: copying, permission, use, student, part
+    Section: General
+    Chunk: [BIOLOGY_SYLLABUS|requirements|General] Individuals may make copies for their own use or for use by classes of which they
+are in charge; institutions may make copies for use within and by the staff and students of that
+institution. For copying in any other circumstances, prior permission in writing must be obtained
+from Macmillan Publishers Limited. Under no circumstances may the material in this book be used,
+in part or in its entirety, for commercial gain. It must not be sold in any format.
+------------------------------------------------------------
+[3] Content Type: assessment
+    Key Terms: mark, 01 136, specimen papers, 340, design
+    Section: General
+    Chunk: [BIOLOGY_SYLLABUS|assessment|General] Designed by Macmillan Publishers Limited
+Cover design by Macmillan Publishers Limited and Red Giraffe
+CSEC Biology Free Resources
+LIST OF CONTENTS
+CSEC Biology Syllabus Extract
+3
+CSEC Biology Syllabus
+4
+CSEC Biology Specimen Papers:
+Paper 01 89
+Paper 02 104
+Paper 032 125
+CSEC Biology Mark Schemes for Specimen Papers:
+Paper 01 136
+Paper 02 137
+Paper 032 149
+CSEC Biology Subject Reports:
+2004 January Subject Report 154
+2004 June Subject Report 173
+2005 January Subject Report 188
+2006 January Subject Report 205
+2007 January Subject Report 220
+2007 May/June Subject Report 237
+2008 January Subject Report 257
+2008 May/June Subject Report 274
+2009 January Subject Report 292
+2009 May/June Subject Report 306
+2010 January Subject Report 327
+2011 January Subject Report 340
+2011 May/June Subject Report 349
+2012 January Subject Report 366
+2012 May/June Subject Report 378
+2013 May/June Subject Report 397
+2014 January Subject Report 415
+2014 May/June Subject Report 431
+2015 January Subject Report 448
+2015 May/June Subject Report 462
+2016 January Subject Report
+------------------------------------------------------------
+
+=== CHEMISTRY_SYLLABUS.txt ===
+[1] Content Type: assessment
+    Key Terms: system, mean, permission, syllabus, cxc 21/g/syll 13
+    Section: CXC 21/G/SYLL 13
+    Chunk: [CHEMISTRY_SYLLABUS|assessment|CXC 21/G/SYLL 13] CXC 21/G/SYLL 13
+CARIBBEAN EXAMINATIONS COUNCIL
+Caribbean Secondary Education Certificate
+CSEC®
+CHEMISTRY
+SYLLABUS
+Effective for examinations from May–June 2015
+CXC 21/G/SYLL 13
+Published by the Caribbean Examinations Council. All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted in any form, or by any means electronic, photocopying, recording or otherwise without
+prior permission of the author or publisher.
+------------------------------------------------------------
+[2] Content Type: assessment
+    Key Terms: candidate, telephone, website, caenwood centre, population
+    Section: REGULATIONS FOR PRIVATE CANDIDATES ................................................................................... 7
+    Chunk: [CHEMISTRY_SYLLABUS|assessment|REGULATIONS FOR PRIVATE CANDID] Correspondence related to the syllabus should be addressed to:
+The Pro-Registrar
+Caribbean Examinations Council
+Caenwood Centre
+37 Arnold Road, Kingston 5, Jamaica
+Telephone Number: + 1 (876) 630-5200
+Facsimile Number: + 1 (876) 967-4972
+E-mail Address: cxcwzo@cxc.org
+Website: www.cxc.org
+Copyright © 2013 by Caribbean Examinations Council
+The Garrison, St Michael BB14038, Barbados
+ CXC 21/G/SYLL 13
+
+ Contents
+RATIONALE ................................................................................................................................... 1
+AIMS ............................................................................................................................................. 1
+CANDIDATE POPULATION............................................................................................................. 2
+SUGGESTED TIME-TABLE ALLOCATION ........................................................................................ 3
+ORGANISATION OF THE SYLLABUS ............................................................................................... 3
+SUGGESTIONS FOR TEACHING THE SYLLABUS.............................................................................. 3
+CERTIFICATION AND DEFINITION OF PROFILES ............................................................................ 4
+FORMAT OF THE EXAMINATIONS................................................................................................. 6
+REGULATIONS FOR RESIT CANDIDATES........................................................................................ 7
+REGULATIONS FOR PRIVATE CANDIDATES ...................................................................................
+------------------------------------------------------------
+[3] Content Type: assessment
+    Key Terms: 2002, reprinted, website, school, first published 1983
+    Section: CXC 21/G/SYLL 13
+    Chunk: [CHEMISTRY_SYLLABUS|assessment|CXC 21/G/SYLL 13] 7
+THE PRACTICAL APPROACH .......................................................................................................... 7
+SECTION A - PRINCIPLES OF CHEMISTRY..................................................................................... 11
+SECTION B - ORGANIC CHEMISTRY ............................................................................................. 27
+SECTION C - INORGANIC CHEMISTRY.......................................................................................... 33
+GUIDELINES FOR THE SCHOOL-BASED ASSESSMENT ................................................................... 42
+LIST OF SUGGESTED CHEMICALS .................................................................................................. 61
+SUGGESTED EQUIPMENT LIST ...................................................................................................... 64
+RESOURCES ................................................................................................................................... 66
+GLOSSARY ..................................................................................................................................... 67
+ CXC 21/G/SYLL 13
+This document CXC 21/G/SYLL 13 replaces CXC 21/G/SYLL 02 issued in 2002. Please note that the syllabus has been revised and amendments are indicated by italics. First Published 1983
+Reprinted with amendments 1986, 1987 Revised 1991, 1996, 2002, 2013
+Please check the website www.cxc.org for updates on CXC’s syllabuses.
+------------------------------------------------------------
+
+=== HISTORY_SYLLABUS.txt ===
+[1] Content Type: assessment
+    Key Terms: system, mean, permission, syllabus, part
+    Section: SYLLABUS
+    Chunk: [HISTORY_SYLLABUS|assessment|SYLLABUS] CARIBBEAN EXAMINATIONS COUNCIL
+Caribbean Secondary Education Certificate
+CSEC
+CARIBBEAN HISTORY
+SYLLABUS
+Effective for examinations from May/June 2011
+Published by the Caribbean Examinations Council
+© 2010, Caribbean Examinations Council
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted in any form, or by any means electronic, photocopying, recording or otherwise without prior
+permission of the author or publisher.
+------------------------------------------------------------
+[2] Content Type: assessment
+    Key Terms: telephone, website, caenwood centre, st michael bb14038, syllabus
+    Section: SKILLS AND ABILITIES TO BE DEVELOPED .....................................................................................2
+    Chunk: [HISTORY_SYLLABUS|assessment|SKILLS AND ABILITIES TO BE DEV] Correspondence related to the syllabus should be addressed to:
+The Pro-Registrar
+Caribbean Examinations Council
+Caenwood Centre
+37 Arnold Road, Kingston 5, Jamaica, W.I.
+Telephone: (876) 630-5200
+Facsimile Number: (876) 967-4972
+E-mail address: cxcwzo@cxc.org
+Website: www.cxc.org
+Copyright © 2009, by Caribbean Examinations Council
+The Garrison, St Michael BB14038, Barbados
+ CXC 03/9/SYLL 09 2
+ Contents
+RATIONALE ........................................................................................................................................................1
+AIMS .......................................................................................................................................................................2
+SKILLS AND ABILITIES TO BE DEVELOPED .....................................................................................
+------------------------------------------------------------
+[3] Content Type: assessment
+    Key Terms: candidate, mark, website, school, cxc 03/g/syll
+    Section: CXC 03/9/SYLL 09 3
+    Chunk: [HISTORY_SYLLABUS|assessment|CXC 03/9/SYLL 09 3] 2
+ORGANISATION OF THE SYLLABUS .....................................................................................................3
+FORMAT OF THE EXAMINATIONS .......................................................................................................6
+REGULATIONS FOR RESIT CANDIDATES..........................................................................................7
+REGULATIONS FOR PRIVATE CANDIDATES ...................................................................................8
+RECOMMENDED TIME ALLOCATION..................................................................................................8
+THE CORE............................................................................................................................................................8
+THE THEMES .....................................................................................................................................................10
+SECTION A...........................................................................................................................................................11
+SECTION B ...........................................................................................................................................................14
+SECTION C...........................................................................................................................................................18
+GUIDELINES TO TEACHERS ON SETTING AND MARKING THE SCHOOL-BASED
+ASSESSMENT .....................................................................................................................................................22
+MODERATION OF SCHOOL-BASED ASSESSMENT .........................................................................24
+MARK SCHEME FOR RESEARCH PROJECTS .....................................................................................26
+RESEARCH PROPOSAL ..................................................................................................................................27
+GUIDELINES FOR THE CARIBBEAN HISTORY ALTERNATIVE TO SCHOOL-BASED
+ASSESSMENT 2011 – 2017...............................................................................................................28
+RESOURCES .....................................................................................................................................................30
+GLOSSARY............................................................................................................................................................37
+ CXC 03/9/SYLL 09 3
+This document CXC 03/G/SYLL 09 replaces CXC 03/O/SYLL 00 issued in 2000. Please note that the syllabus was revised and amendments are indicated by italics. Please check the website, www.cxc.org for updates on CXC’s syllabuses.
+------------------------------------------------------------
+
+=== INFORMATION_TECHNOLOGY_SYLLABUS.txt ===
+[1] Content Type: assessment
+    Key Terms: cxc 30/g/syll, system, mean, telephone, website
+    Section: RATIONALE .............................................................................................................................................. 1
+    Chunk: [INFORMATION_TECHNOLOGY_SYLLABUS|assessment|RATIONALE ....................] CXC 30/G/SYLL 08 1
+CARIBBEANEXAMINATIONSCOUNCIL
+Caribbean Secondary Education Certificate
+CSEC
+®
+INFORMATION TECHNOLOGY
+SYLLABUS
+Effective for examinations from May/June 2010
+Published by the Caribbean Examinations Council
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted in any form, or by any means electronic, photocopying, recording or otherwise without prior
+permission of the author or publisher. Correspondence related to the syllabus should be addressed to:
+The Pro-Registrar
+Caribbean Examinations Council
+Caenwood Centre
+37 Arnold Road, Kingston 5, Jamaica, W.I.
+Telephone: (876) 630-5200
+Facsimile Number: (876) 967-4972
+E-mail address: cxcwzo@cxc.org
+Website: www.cxc.org
+Copyright © 2008, by Caribbean Examinations Council
+The Garrison, St Michael BB14038, Barbados
+CXC 30/G/SYLL 08
+ii
+Contents
+RATIONALE ..............................................................................................................................................
+------------------------------------------------------------
+[2] Content Type: format
+    Key Terms: candidate, presentation, ......................................................................................................................................................, design, software
+    Section: SECTION 6 – WORDPROCESSING, PRESENTATION AND WEB PAGE DESIGN ...................... 16
+    Chunk: [INFORMATION_TECHNOLOGY_SYLLABUS|format|SECTION 6 – WORDPROCESSING, PR] 1
+AIMS ...................................................................................................................................................... 2
+ORGANIZATION OF THE SYLLABUS .................................................................................................. 2
+SUGGESTED TIME-TABLE ALLOCATION.......................................................................................... 2
+FORMAT OF THE EXAMINATIONS ..................................................................................................... 3
+CERTIFICATION AND DEFINITION OF PROFILE DIMENSIONS.................................................. 4
+HARDWARE AND SOFTWARE REQUIREMENTS............................................................................. 5
+NOTES TO TEACHERS ........................................................................................................................... 5
+REGULATIONS FOR RESIT CANDIDATES......................................................................................... 7
+REGULATIONS FOR STUDENTS FROM PRIVATE INSTITUTIONS .............................................. 7
+SECTION 1 – FUNDAMENTALS OF HARDWARE AND SOFTWARE ............................................ 8
+SECTION 2 – PROBLEM-SOLVING AND PROGRAM DESIGN........................................................ 10
+SECTION 3 – PROGRAM IMPLEMENTATION ................................................................................... 12
+SECTION 4 – APPLICATIONS AND IMPLICATIONS OF INFORMATION AND
+ COMMUNICATIONS TECHNOLOGY ........................................................................... 13
+SECTION 5 – INFORMATION PROCESSING ..................................................................................... 15
+SECTION 6 – WORDPROCESSING, PRESENTATION AND WEB PAGE DESIGN ......................
+------------------------------------------------------------
+[3] Content Type: format
+    Key Terms: website, school, decade, syllabus, technology
+    Section: ◆ RATIONALE
+    Chunk: [INFORMATION_TECHNOLOGY_SYLLABUS|format|◆ RATIONALE] 16
+SECTION 7 – SPREADSHEETS............................................................................................................... 19
+SECTION 8 – DATABASE MANAGEMENT.......................................................................................... 21
+GUIDELINES FOR THE CONDUCT OF THE SCHOOL BASED ASSESSMENT............................ 23
+RECOMMENDED TEXTS........................................................................................................................ 46
+GLOSSARY................................................................................................................................................. 47
+CXC 30/G/SYLL 08
+iii
+This document CXC 30/G/SYLL 08 replaces CXC 30/G; T/SYLL 00A issued in 2000. Revised 2000, 2008, 2013
+Please check the website, www.cxc.org for updates on CXC’s syllabuses. CXC 30/G/SYLL 08
+Information Technology
+Syllabus
+◆ RATIONALE
+Information Technology has evolved over the past five decades in response to the need for more efficient
+techniques to manage the significantly increased volume and sophistication of the knowledge reservoir of
+mankind.
+------------------------------------------------------------
+
+=== MATH_SYALLABUS.txt ===
+[1] Content Type: assessment
+    Key Terms: system, mean, telephone, website, caenwood centre
+    Section: AIMS. ....................................................................................................................................................... 1
+    Chunk: [MATH_SYALLABUS|assessment|AIMS. ........................] CARIBBEAN EXAMINATIONS COUNCIL
+Caribbean Secondary Education Certificate
+CSEC
+MATHEMATICS
+SYLLABUS
+Effective for examinations from May/June 2010
+CXC 05/G/SYLL 08
+Published in Jamaica
+© 2010, Caribbean Examinations Council
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted in any form, or by any means electronic, photocopying, recording or otherwise without prior
+permission of the author or publisher. Correspondence related to the syllabus should be addressed to:
+The Pro-Registrar
+Caribbean Examinations Council
+Caenwood Centre
+37 Arnold Road, Kingston 5, Jamaica, W.I.
+Telephone: (876) 630-5200
+Facsimile Number: (876) 967-4972
+E-mail address: cxcwzo@cxc.org
+Website: www.cxc.org
+Copyright © 2008, by Caribbean Examinations Council
+The Garrison, St Michael BB11158, Barbados
+ CXC 05/OSYLL 00
+ Contents
+RATIONALE........................................................................................................................................... 1
+AIMS.
+------------------------------------------------------------
+[2] Content Type: assessment
+    Key Terms: candidate, calculators, ......................................................................................................................................................., provided, syllabus
+    Section: RECOMMENDED TEXTS ...................................................................................................................... 34
+    Chunk: [MATH_SYALLABUS|assessment|RECOMMENDED TEXTS ............] ....................................................................................................................................................... 1
+ORGANISATION OF THE SYLLABUS. ............................................................................................. 2
+FORMAT OF THE EXAMINATIONS ................................................................................................ 2
+CERTIFICATION AND PROFILE DIMENSIONS............................................................................... 4
+REGULATIONS FOR PRIVATE CANDIDATES............................................................................... 5
+REGULATIONS FOR RE-SIT CANDIDATES.................................................................................... 5
+SYMBOLS USED ON THE EXAMINATION PAPERS ...................................................................... 5
+FORMULAE AND TABLES PROVIDED IN THE EXAMINATION ............................................... 9
+USE OF ELECTRONIC CALCULATORS.......................................................................................... 10
+SECTION 1 - COMPUTATION............................................................................................................ 11
+SECTION 2 - NUMBER THEORY. ...................................................................................................... 13
+SECTION 3 - CONSUMER ARITHMETIC......................................................................................... 15
+SECTION 4 - SETS ................................................................................................................................. 17
+SECTION 5 - MEASUREMENT............................................................................................................ 18
+SECTION 6 - STATISTICS .................................................................................................................... 20
+SECTION 7 - ALGEBRA........................................................................................................................ 22
+SECTION 8 - RELATIONS, FUNCTIONS AND GRAPHS............................................................... 24
+SECTION 9 - GEOMETRY AND TRIGONOMETRY........................................................................ 28
+SECTION 10 - VECTORS AND MATRICES ...................................................................................... 32
+RECOMMENDED TEXTS ......................................................................................................................
+------------------------------------------------------------
+[3] Content Type: requirements
+    Key Terms: system, school, philosophy, syllabus, mathematics
+    Section: ♦ RATIONALE
+    Chunk: [MATH_SYALLABUS|requirements|♦ RATIONALE] 34
+GLOSSARY ............................................................................................................................................. 35
+ CXC 05/G/SYLL 08 2
+This document CXC 05/G/SYLL 08 replaces the syllabus CXC 05/O/SYLL 01
+issued in 2001. Please note that the syllabus has been revised and amendments are indicated by
+italics and vertical lines. First Published in 1977
+Revised in 1981
+Revised in 1985
+Revised in 1992
+Revised in 2001
+Revised in 2008
+ CXC 05/G/SYLL 08 2
+ Mathematics Syllabus
+♦ RATIONALE The guiding principles of the Mathematics syllabus direct that Mathematics as taught in Caribbean schools
+should be relevant to the existing and anticipated needs of Caribbean society, related to the abilities and interests of
+Caribbean students and aligned with the philosophy of the educational system.
+------------------------------------------------------------

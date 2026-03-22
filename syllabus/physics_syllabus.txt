@@ -1,0 +1,6118 @@
+CXC 22/G/SYLL 13
+CARIBBEAN EXAMINATIONS COUNCIL
+Caribbean Secondary Education Certificate®
+CSEC®
+PHYSICS
+SYLLABUS
+Effective for examinations from May–June 2015
+CXC 22/G/SYLL 13
+Published by the Caribbean Examinations Council.
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted in any form, or by any means electronic, photocopying, recording or otherwise without
+prior permission of the author or publisher.
+Correspondence related to the syllabus should be addressed to:
+The Pro-Registrar
+Caribbean Examinations Council
+Caenwood Centre
+37 Arnold Road, Kingston 5, Jamaica
+Telephone Number: + 1 (876) 630-5200
+Facsimile Number: + 1 (876) 967-4972
+E-mail Address: cxcwzo@cxc.org
+Website: www.cxc.org
+Copyright © 2013 by Caribbean Examinations Council
+The Garrison, St Michael BB14038, Barbados
+CXC 22/G/SYLL 13
+ Content
+RATIONALE ……………………………………………………………………………………………………………………………………… 1
+AIMS………………………………………………………………………………………………………………………………………………… 1
+CANDIDATE POPULATION………………………………………………………………………………………………………………… 2
+SUGGESTED TIME-TABLE ALLOCATION ……………………………………………………………………………………………. 2
+ORGANISATION OF THE SYLLABUS…………………………………………………………………………………………………… 3
+SUGGESTIONS FOR TEACHING THE SYLLABUS………………………………………………………………………………….. 3
+CERTIFICATION AND DEFINITION OF PROFILES…………………………………………………………………………………. 4
+FORMAT OF THE EXAMINATION………………………………………………………………………………………………………. 5
+REGULATIONS FOR PRIVATE CANDIDATES CANDIDATES………………………………………………………………….. 6
+REGULATIONS FOR RESIT …………………………………………………………….………………………………………………….. 6
+THE PRACTICAL APPROACH………………………………………………………………………………….………………………….. 7
+SECTION A -MECHANICS………………………………………………………………………………………………………………… 10
+SECTION B - THERMAL PHYSICS AND KINETIC THEORY……………………………………………………………………. 21
+SECTION C - WAVES AND OPTICS……………………………………………………………………………………………………. 28
+SECTION D - ELECTRICITY AND MAGNETISM…………………………………………………………………………………… 35
+SECTION E - THE PHYSICS OF THE ATOM………………………………………………………………………………………… 49
+GUIDELINES FOR THE SCHOOL-BASED ASSESSMENT………………………………………………………………………… 53
+LIST OF PHYSICAL QUANTITIES AND THEIR SYMBOLS……………………………………………………………………….. 75
+LIST OF GRAPHICAL SYMBOLS AS USED IN CIRCUIT DIAGRAMS………………………………………………………... 76
+RECOMMENDED MINIMUM EQUIPMENT LIST…………………………………………………………………………………. 78
+RESOURCES……………………………………………………………………………………………………………………………………… 80
+GLOSSARY……………………………………………………………………………………………………………………………………….. 81
+CXC 22/G/SYLL 13
+This document CXC 22/G/SYLL 13 replaces CXC 22/G/SYLL 02 issued in 2002.
+Please note that the syllabus has been revised and amendments are indicated by italics.
+First published 1983
+Reprinted with amendments 1986, 1987
+Revised 1991, 1996, 2002, 2013
+Please check the website www.cxc.org for updates on CXC’s syllabuses.
+CXC 22/G/SYLL 13 1
+Physics Syllabus
+ RATIONALE
+The application of scientific principles and the conduct of relevant research are of significant
+importance in identifying, assessing and realising the potential of the resources of Caribbean territories.
+A good foundation in the sciences will enhance the ability of our citizens to respond to the challenges of
+a rapidly changing world using the scientific approach.
+Physics is a science that deals with matter and energy and their interactions. It is concerned with
+systems, laws, models, principles and theories that explain the physical behaviour of our world and the
+universe. Physics is regarded as a fundamental scientific discipline since all advances in technology can
+be traced either directly or indirectly to the physical laws and theories.
+The CSEC Physics Syllabus is redesigned with a greater emphasis on the application of scientific
+concepts and principles. Such an approach is adopted in order to develop those long-term transferrable
+skills of ethical conduct, team work, problem solving, critical thinking, innovation and communication.
+In addition, it encourages the use of various teaching and learning strategies to inculcate these skills
+while, at the same time catering to multiple intelligences and different learning styles and needs. The
+syllabus will assist students to develop positive values and attitudes towards the physical components
+of the environment and will also provide a sound foundation for those who wish to pursue further
+studies in science.
+It contributes to the development of the Ideal Caribbean Person as articulated by the CARICOM Heads
+of Government in the following areas: respect for human life; and awareness of the importance of living
+in harmony with the environment; demonstrates multiple literacies; independent and critical thinking
+and the innovative application of science and technology to problem solving. Such a person should
+demonstrate a positive work ethic and value and display creative imagination and entrepreneurship. In
+keeping with the UNESCO Pillars of Learning, on completion of the study of this course, students will
+learn to do, learn to be and learn to transform themselves and society.
+ AIMS
+This syllabus aims to:
+1. acquire technical and scientific vocabulary;
+2. develop the ability to apply an understanding of the principles and concepts involved in Physics
+to situations which may or may not be familiar;
+3. appreciate the contributions of some of the outstanding regional and international scientists to
+the development of Physics;
+4. develop critical thinking and problem solving skills;
+5. plan, design and perform experiments to test theories and hypotheses;
+CXC 22/G/SYLL 13 2
+6. collect and represent data in an acceptable form;
+7. report accurately and concisely;
+8. develop the ability to appraise information critically, identify patterns, cause and effect,
+stability and change, and evaluate ideas;
+9. develop the ability to work independently and collaboratively with others when necessary;
+10. appreciate the significance and limitations of science in relation to social and economic
+development;
+11. develop an awareness of the applications of scientific knowledge and a concern about the
+consequences of such applications, particularly the impact on the environment;
+12. integrate Information and Communication Technology (ICT) tools and skills.
+ CANDIDATE POPULATION
+The syllabus is designed for students intending to pursue further studies in science at the tertiary level
+as well as students whose formal study of the subject is unlikely to proceed further.
+CANDIDATE REQUIREMENTS
+1. Candidates should have been exposed to at least three years of science at the secondary level,
+which should provide an introduction to basic scientific principles.
+2. Candidates should be concurrently studying or have done:
+(a) CSEC Mathematics or its equivalent;
+(b) CSEC English A (English Language) or its equivalent.
+CLASS SIZE
+It is recommended that practical classes accommodate approximately twenty-five candidates.
+ SUGGESTED TIME-TABLE ALLOCATION
+It is recommended that a minimum of five 40-minute periods per week, including one double period,
+be allocated to the subject over a two-year period.
+CXC 22/G/SYLL 13 3
+ ORGANISATION OF THE SYLLABUS
+The syllabus is arranged in five sections, namely:
+SECTION A - Mechanics
+SECTION B - Thermal Physics and Kinetic Theory
+SECTION C - Waves and Optics
+SECTION D - Electricity and Magnetism
+SECTION E - The Physics of the Atom
+ SUGGESTIONS FOR TEACHING THE SYLLABUS
+It is recommended that Section A be taught first.
+The organisation of each section in the syllabus is designed to facilitate inquiry-based learning and to
+ensure that connections among physical concepts are established. Teachers should ensure that their
+lessons stimulate the use of the senses in learning as this will help students view science as a dynamic
+and exciting investigative process.
+The general and specific objectives indicate the scope of the content including practical work that
+should be covered. However, unfamiliar situations may be presented as stimulus material in
+examination questions.
+This syllabus caters to varying teaching and learning styles, with specific attention made to ensure
+the interrelatedness of concepts. The fourth column entitled, “Skills and Interrelationships” states
+which specific objectives are best suited for Observation, Recording and Reporting (ORR),
+Manipulation and Measurement (MM), Analysis and Interpretation (AI), and Planning and Designing
+(PD) skills. Whenever possible, a practical approach should be employed, with special attention given
+to the identification of variables and the use of information gathering technological tools and social
+networking media to aid investigations and team work. The need for good observational,
+mathematical, data analysis and reporting skills must be emphasised.
+Column four also highlights connections between physical concepts and the fields of Chemistry,
+Biology, Mathematics and other related disciplines. In order to make the course as relevant as
+possible, students’ awareness of the effect of science and technology on society and environment and
+vice versa should be encouraged.
+While classical Physics is several hundred years old, it is the fundamental discipline responsible for
+the modern technological era we live in and a strong appreciation of this must be inculcated by
+linking the work of the classical scientists to the present technological development.
+Greater emphasis should be placed on the application of scientific concepts and principles and less on
+the factual materials, which encourage memorisation and short-term recall. Every opportunity should
+be made to relate the study of physical principles to relevant, regional and global examples. The
+relationship between the theory and practical is to be continually highlighted.
+CXC 22/G/SYLL 13 4
+The role of the teacher is to facilitate students’ learning of accurate and unbiased information that
+will contribute to a more scientifically literate society, capable of making educated decisions
+regarding the world we live in.
+ CERTIFICATION AND DEFINITION OF PROFILES
+The syllabus will be examined for General Proficiency certification.
+In addition to the overall grade, there will be a profile report on the candidate's performance under
+the following headings:
+1. Knowledge and Comprehension.
+2. Use of Knowledge.
+3. Experimental Skills.
+Knowledge and Comprehension (KC)
+The ability to:
+Knowledge identify, remember and grasp the meaning of basic facts, concepts
+and principles;
+Comprehension select appropriate ideas, match, compare and cite examples of
+facts, concepts and principles in familiar situations.
+Use of Knowledge (UK)
+The ability to:
+Application use facts, concepts, principles and procedures in unfamiliar
+situations; transform data accurately and appropriately; use
+formulae accurately for computations;
+Analysis and Interpretation identify and recognise the component parts of a whole and
+interpret the relationship between those parts; identify causal
+factors and show how they interact with each other; infer, predict
+and draw conclusions; make necessary and accurate calculations
+and recognise the limitations and assumptions inherent in the
+collection and interpretation of data;
+Synthesis combine component parts to form a new meaningful whole; make
+predictions and solve problems;
+Evaluation make reasoned judgments and recommendations based on the
+value of ideas and information and their implications.
+CXC 22/G/SYLL 13 5
+Experimental Skills (XS)
+The ability to:
+Observation/Recording/
+Reporting
+select observations relevant to the particular activity; record the
+result of a measurement accurately; select, draw and use
+appropriate models of presenting data, for example, tables,
+graphs and diagrams; organise and present a complete report in a
+clear and logical form; report accurately and concisely; report and
+recheck unexpected results;
+Manipulation/Measurement follow instructions; set up and use carefully and competently
+simple laboratory apparatus and measuring instruments;
+Planning and Designing develop hypotheses and devise means of carrying out
+investigations to test them; plan and execute experimental
+procedures and operations in an appropriate sequence; use
+controls where appropriate; modify original plan or sequence of
+operations as a result of difficulties encountered in carrying out
+experiments or obtaining unexpected results; take into account
+possible sources of error, precautions and limitations in the design
+of an experiment.
+ FORMAT OF THE EXAMINATION
+Paper 01
+(1 hour 15 minutes)
+An objective test consisting of 60 multiple choice items.
+Paper 02
+(2 hours 30 minutes)
+One compulsory data analysis question, two structured questions
+and three extended response questions.
+Paper 03/1
+School-Based Assessment (SBA)
+School-Based Assessment will evaluate the achievement of the
+candidate in the Experimental Skills and Analysis and Interpretation
+involved in the laboratory and fieldwork. Candidates will be
+required to keep a separate practical workbook which must be
+made available for moderation.
+Paper 03/2
+Assessment for Private
+candidates only
+(2 hours and 10 minutes)
+Alternate to the School-Based Assessment for private candidates.
+This paper will examine the same skills as those tested in Paper
+03/1. The focus, therefore, will be on Experimental Skills, Analysis
+and Interpretation and Use of Knowledge.
+CXC 22/G/SYLL 13 6
+NOTES ON THE EXAMINATION
+1. The use of silent non programmable calculators will be allowed. The use of a calculator to
+previously store and then recall information during an examination is prohibited.
+2. SI units will be used on all examination papers.
+WEIGHTING OF PAPERS AND PROFILES
+The percentage weighting of the examination components and profiles is as follows:
+Table 1 – Percentage Weighting of Papers and Profiles
+PROFILES
+PAPER 1
+Multiple
+Choice
+PAPER 2
+Structured and
+Data Analysis
+PAPER 3
+SBA
+TOTAL
+RAW
+SBA
+TOTAL
+%
+Knowledge and
+Comprehension
+50 35 - 85 43
+Use of Knowledge 10 55 10 75 37
+Experimental Skills – 10 30 40 20
+TOTAL % 60 100 40 200 100
+ REGULATIONS FOR PRIVATE CANDIDATES
+Private candidates must be entered for examination through the Local Registrar in their respective
+territories and will be required to sit Papers 01, 02, and EITHER Paper 03/1 OR Paper 03/2.
+Paper 03/2 is a practical examination designed for candidates whose work cannot be monitored by
+tutors in recognised educational institutions. The Paper will be of 2 hours and 10 minutes duration and
+will consist of three questions. Questions will test the Experimental Skills and Use of Knowledge
+(Analysis and Interpretation) profiles and will incorporate written exercises and practical activities.
+ REGULATIONS FOR RESIT CANDIDATES
+Resit candidates must complete Papers 01 and 02 and Paper 03 of the examination for the year for
+which they re-register. Resit candidates may elect not to repeat the School-Based Assessment
+component, provided they re-write the examination no later than two years following their first
+attempt.
+Candidates may opt to complete the School-Based Assessment (SBA) or may opt to re-use another
+SBA score which satisfies the condition below.
+A candidate who re-writes the examination within two years may re-use the moderated SBA score
+earned in the previous sitting within the preceding two years. Candidates re-using SBA scores in this
+way must register as “Resit candidates” and provide the previous candidate number.
+All resit candidates may enter through schools, recognized educational institutions, or the Local
+Registrar’s Office.
+CXC 22/G/SYLL 13 7
+ THE PRACTICAL APPROACH
+The syllabus is designed to foster the use of inquiry-based learning through the application of the
+practical approach. Students will be guided to answer scientific questions by a process of making
+observations, asking questions, doing experiments, and analysing and interpreting data. The CXC
+CSEC Physics syllabus focuses on the following skills.
+1. Planning and Designing (PD)
+Student’s ability to:
+(a) Ask questions: how, what, which, why or where. (Students must be guided by their
+teachers to ask scientific questions).
+Example: How does the length of the simple pendulum affect its period of swing?
+(b) Construct a hypothesis: The hypothesis must be clear, concise and testable.
+Example: There is direct correlation between the length of the pendulum and period
+of the swing.
+(c) Design an experiment to test the hypothesis. Experimental report must include the
+following:
+(i) problem statement;
+(ii) aim;
+(iii) list of materials and apparatus to be used;
+(iv) identification of variables;
+(v) clear and concise step by step procedure;
+(vi) display of expected results;
+(vii) use of results;
+(viii) possible sources of error/precaution;
+(ix) possible limitations.
+2. Measurement and Manipulation (MM)
+(a) Student’s ability to handle scientific equipment competently.
+The list of equipment is:
+(i) Bunsen burner;
+(ii) Vernier callipers;
+(iii) measuring cylinder;
+CXC 22/G/SYLL 13 8
+(iv) beakers;
+(v) thermometer;
+(vi) ruler;
+(vii) stop watch/clock;
+(viii) balance;
+(ix) micrometer screw gauge;
+(x) voltmeter;
+(xi) multimeter;
+(xii) ammeter.
+(b) Student’s ability to take accurate measurements.
+(c) Student’s ability to use appropriate units.
+3. Observation, Reporting and Recording (ORR)
+(a) Recording
+Student’s ability to record observations and to collect and organise data;
+observations and data may be recorded in:
+(i) Prose
+Written description of observations in the correct tense.
+(ii) Table
+Numerical: physical quantities with symbols and units stated in heading,
+significant figures.
+(iii) Graph
+Title axes labelled, correct scales, accurate plotting fine points, smooth
+curves/best fit lines.
+(iv) Calculations
+Calculations must be shown with attention paid to units.
+(b) Reporting
+Student’s ability to prepare a comprehensive written report on their assignments
+using the following format.
+(i) Date (date of experiment).
+(ii) Aim (what is to be accomplished by doing the experiment).
+CXC 22/G/SYLL 13 9
+(iii) Apparatus and Materials (all equipment and materials used in the
+experiment must be listed).
+(iv) Method/Experimental Procedure (step by step procedure written in the past
+tense).
+(v) Results and Observations (see (a) above: Recording).
+(vi) Discussion and Conclusion (see 4: Analysis and Interpretation).
+4. Analysis and Interpretation
+Student’s ability to:
+(a) make accurate calculations;
+(b) identify patterns and trends, cause and effect, and stability and change ;
+(c) compare actual results with expected results if they are different;
+(d) identify limitations and sources of error and error ranges if appropriate;
+(e) suggest alternative methods or modification to existing methods;
+(f) draw a conclusion justified by data.
+CXC 22/G/SYLL 13 10
+ SECTION A – MECHANICS
+Mechanics is the branch of physics which deals with the study of motion. This section introduces the
+scientific method, physical measurements, significant figures and units, which transcends the entire
+syllabus.
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. understand the importance of measurement and graphical representation of data;
+2. appreciate the difference between scalar and vector quantities;
+3. be familiar with the various effects of forces;
+4. appreciate the universal applicability of the laws of dynamics and the conservation of
+momentum;
+5. understand the significance of the concept of energy;
+6. be aware of the application of hydrostatics in everyday life.
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+1. SCIENTIFIC METHOD
+Students should be able to:
+Galileo
+1.1 discuss how the
+methodology
+employed by Galileo
+contributed to the
+development of
+Physics;
+Relate the scientific
+method to the
+methodology
+employed by Galileo.
+Simple Pendulum
+1.2 investigate the
+factors which
+might affect the
+period of a simple
+pendulum;
+Restrict factors to
+length of string, mass
+of bob, angle of
+displacement.
+Take readings of the
+period for the variation
+of the different factors.
+Skills: MM; ORR;
+AI; PD.
+1.3 use graphs of
+experimental data
+from simple
+pendulum;
+Use  or  to denote
+plotted points.
+Allow students to plot T
+vs L and T2 vs L.
+MathematicsFunctions,
+Relations and
+Graphs
+Skill: ORR.
+CXC 22/G/SYLL 13 11
+SECTION A – MECHANICS (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+1.4 draw a line of ‘best
+fit’ for a set of
+plotted values;
+Reasons why ‘best fit’
+line is the ‘best’
+average of the data.
+Skill: AI.
+
+1.5 determine the
+gradient of the
+straight line graph;
+Use a triangle that
+covers at least half of
+the ‘best fit’ line.
+Include the derivation
+of the unit of the
+gradient.
+Use gradient to
+determine g.
+Mathematics –
+Functions,
+Relations and
+Graphs.
+MEASUREMENT
+1.6 express the result of
+a measurement or
+calculation to an
+appropriate number
+of significant figures;
+Refer to SO A 1.5. Mathematics.
+1.7 discuss possible types
+and sources of
+error in any
+measurement;
+Include those made
+with digital
+instruments, and ways
+of reducing such
+errors.
+1.8 use a variety of
+instruments to
+measure different
+quantities;
+Measurements should
+include length – rulers,
+vernier calipers,
+micrometer screw
+gauge; units.
+Mass – balances;
+units.
+Time – clocks, stop
+clocks or watches;
+units.
+Volume – measuring
+cylinder; units.
+Skill: MM.
+1.9 assess the
+suitability of
+instruments on the
+basis of sensitivity,
+accuracy and
+range;
+Similar instruments
+should be compared in
+the discussion.
+Comparison of
+readings for the same
+quantity.
+Skill: MM.
+CXC 22/G/SYLL 13 12
+SECTION A – MECHANICS (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+1.10 apply the formula for
+density:
+
+
+.
+Deduce unit. Determine the
+density of regular
+and irregular solids
+and a liquid.
+2. VECTORS
+2.1 distinguish between
+scalars and vectors
+and give examples of
+each;
+Everyday examples for
+each type, for
+example, movement
+of a hurricane as
+vector.
+Mass of objects as
+scalar.
+2.2 use scale diagrams to
+find the resultant of
+two vectors;
+Oblique vectors
+included.
+MathematicsVectors.
+2.3 calculate the
+resultant of vectors
+which are parallel,
+anti-parallel and
+perpendicular;
+Limit calculations to
+four or less vectors.
+Mathematics -
+Trigonometry.
+Skills: MM; AI.
+2.4 explain that a single
+vector is
+equivalent to two
+other vectors at right
+angles.
+Everyday examples of
+motion and force, for
+example, velocity of a
+ball thrown through
+the air.
+Using single pulleys
+and masses against a
+grid board.
+Mathematics -
+Vectors.
+3. STATICS
+Forces, F
+3.1 explain the effects of
+forces;
+A force can cause a
+change in the size,
+shape or motion of a
+body.
+Use plasticene and
+marbles to demonstrate
+effect of forces.
+Biology
+Movement
+Chemistry
+Bonding.
+Skills: MM; AI.
+CXC 22/G/SYLL 13 13
+SECTION A – MECHANICS (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+3.2 identify types of
+forces;
+Situations in which
+electric, magnetic,
+nuclear or
+gravitational forces
+act.
+Use magnets, falling
+objects.
+Static electricity.
+Chemistry –
+Nuclear force.
+Skills: ORR., MM.
+3.3 determine the weight
+of objects;
+Weight = mass 
+gravitational field
+strength:
+On earth, g = 10 Nkg
+1
+Note that:
+Nkg1
+ ms2
+.
+Measure mass and
+weight for different
+objects.
+Plot a graph of weight
+vs mass.
+Determine the gradient.
+Skills: MM; ORR;
+AI.
+3.4 show how derived
+quantities and their
+related units are
+produced;
+Note how unit ρ may
+be derived by
+multiplying and
+dividing fundamental
+quantities and their
+units; From the
+definition of the
+quantity, for example:
+N  kgms2
+.
+MathematicsAlgebra.
+3.5 recall the special
+names given to the
+units for some
+derived quantities;
+kgms2
+= N.
+3.6 express derived units
+using the index
+notation;
+Conversion of units for
+given quantities into
+base units.
+Biology -
+All measurements
+Chemistry -
+All measurements
+Mathematicsmeasurement.
+3.7 identify situations in
+which the application
+of a force will result
+in a turning effect;
+Situations that are
+relevant to everyday
+life, for example,
+opening a door, sitting
+on a ‘seesaw’, using a
+spanner.
+CXC 22/G/SYLL 13 14
+SECTION A – MECHANICS (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+Turning Forces
+3.8 define the moment of
+a force, T;
+Moment units of Nm.
+Note that Nm is not
+equivalent to a Joule.
+Refer to SO A3.4 - 3.6.
+Perform simple
+experiments to
+investigate the turning
+effects of forces on
+bodies in equilibrium.
+Skills: MM; ORR; AI.
+3.9 apply the principle of
+moments;
+Oblique forces are
+excluded.
+Use of measuring
+instruments to
+indicate the
+magnitude of the
+forces in equilibrium.
+Observe situations in
+which forces are in
+equilibrium (varied to
+give different
+equilibrium situations).
+3.10 explain the action of
+common tools and
+devices as levers;
+Identification of load,
+effort and fulcrum for
+each device and tool
+in use.
+Hammers or spanners of
+different lengths, bottle
+openers, crowbars.
+BiologyMovement in
+limbs.
+3.11 determine the
+location of the centre
+of gravity of a body;
+Centre of gravity of a
+variety of regular and
+irregular shaped
+solids, including
+lamina.
+Find the centre of
+gravity for the given
+objects. Plumbline for
+lamina.
+Skill: MM.
+3.12 relate the stability of
+an object to the
+position of its centre
+of gravity and its
+weight;
+The orientation of an
+object can change the
+position or height of
+its centre of gravity
+and affect its stability.
+Compare the stability of
+the same regular solid,
+for example, cylinder,
+metre rule, cuboid in
+different positions, for
+example, horizontal,
+vertical, inclined.
+Biology-Structure
+of the human
+body.
+Deformation
+3.13 investigate the
+relationship between
+extension and force;
+Interpretation of
+simple force-extension
+graphs. Identification
+of regions of
+proportionality for
+springs.
+Perform experiments to
+determine the
+relationship between
+applied force and the
+resulting extensions, for
+springs and elastic
+bands.
+ChemistryProperties of
+materials.
+Mathematics
+Proportionality.
+Skills: MM; ORR;
+AI; PD.
+CXC 22/G/SYLL 13 15
+SECTION A – MECHANICS (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+3.14 solve problems using
+Hooke’s law.
+Problems involving
+springs and elastic
+bands only.
+4. DYNAMICS: MOTION IN A STRAIGHT LINE
+4.1 define the terms:
+distance,
+displacement, speed,
+velocity,
+acceleration;
+Distance and
+displacement, s or x;
+speed and velocity, v;
+acceleration,
+
+
+.
+Trolleys on inclined
+plane.
+Mathematics –
+Algebra/
+Computation.
+Skills: MM;AI;PD.
+4.2 apply displacementtime and velocitytime graphs;
+Finding the gradient
+for straight lines only.
+Ticker tape timer, car
+racing.
+Mathematics –
+Functions,
+Relations and
+Graphs.
+Skills: ORR; AI.
+Aristotle
+4.3 discuss Aristotle's
+arguments in support
+of his "law of
+motion”, that is, v 
+F";
+Aristotle’s law was
+eventually discredited.
+Push trolley on a flat
+surface.
+Newton's Laws
+4.4 state Newton's three
+laws of motion;
+Have students identify
+applicable laws after
+viewing examples.
+Marbles in a groove.
+4.5. use Newton's laws to
+explain dynamic
+systems;
+Examples - rockets,
+garden sprinklers,
+trampolines.
+Skill: AI.
+4.6 define linear
+momentum;
+Units of kg ms1
+ Ns.
+4.7 define linear
+momentum describe
+situations that
+demonstrate the law
+of conservation of
+linear momentum;
+Collisions of Billiard
+balls.
+CXC 22/G/SYLL 13 16
+SECTION A – MECHANICS (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+4.8 apply the law of
+conservation of linear
+momentum.
+Oblique collisions are
+excluded.
+Collisions between
+objects of different
+sizes or velocity.
+5. ENERGY
+Forms of Energy
+5.1 define energy; Unit: Joule.
+5.2 identify the various
+forms of energy;
+Gravitational, elastic,
+chemical, electrical,
+magnetic, electromagnetic, thermal,
+nuclear, kinetic, sound.
+5.3 describe the energy
+transformation(s) in
+a given situation;
+Transformations should be
+limited to one-step or twostep only. Note that
+thermal energy is always a
+product and by-product of
+every transformation.
+Examples of the
+conversion of electrical
+energy to other forms and
+vice versa.
+Observe and list the
+energy
+transformations for
+the particular
+situation, for
+example, radio
+playing music,
+vehicles coming to
+rest, cooking food in
+microwave oven.
+Biology - Food web,
+Photosynthesis,
+Respiration.
+Chemistry-Burning
+of hydrocarbons.
+5.4 apply the
+relationship:
+work = force x
+displacement;
+Unit: Joule. MathematicsAlgebra/
+computation.
+5.5 discuss the use of
+energy from
+alternative sources,
+and its importance to
+the Caribbean;
+Emphasis on examples
+relevant to the Caribbean,
+to include hydroelectricity,
+geothermal energy, tidal
+energy waves, solar
+energy, wind energy,
+nuclear energy. More
+efficient and economical
+use of energy.
+Project on
+alternative energy
+sources.
+Biology-Food web.
+Chemistry-Burning
+of hydrocarbons.
+CXC 22/G/SYLL 13 17
+SECTION A – MECHANICS (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+Potential Energy, Ep
+5.6 define potential
+energy;
+Examples of this form of
+energy, for example,
+battery, stretched spring
+or elastic band, object on
+shelf.
+Skill: AI.
+5.7 calculate the
+change in
+gravitational
+potential energy
+using:
+
+MathematicsAlgebra/
+Computation
+Kinetic Energy, Ek
+5.8 define kinetic energy; Definition.
+Give everyday examples.
+Skill: AI.
+5.9 calculate kinetic
+energies using the
+expression:
+
+
+
+
+
+;
+MathematicsAlgebra/
+Computation
+Conservation
+5.10 apply the law of
+conservation of
+energy;
+Use different energy forms
+in these problems.
+Conversion of P.E. to K.E.
+on a moving swing,
+pendulum, kicking a
+football.
+Skill: AI.
+Power, P
+5.11 define power and
+apply definition;
+Unit: Watt
+Apply:
+
+
+.
+Refer to SO D3.3.
+Perform activities to
+find the power in
+situations for which
+the energies and
+time intervals
+involved can be
+measured or
+calculated.
+Skills: MM; ORR;
+AI.
+CXC 22/G/SYLL 13 18
+SECTION A – MECHANICS (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+5.12 explain the term
+efficiency;
+The factors which affect
+its value.
+MathematicsComputation.
+5.13 calculate efficiency
+in given situations.
+Efficiency = output value
+x 100% input value.
+Skill: AI.
+6. HYDROSTATICS
+6.1 define pressure
+and apply
+definition;
+Apply:
+
+
+.
+
+Refer to SO A3.5.
+Pressure
+extended
+standing on one
+foot.
+MathematicsAlgebra/
+Computation.
+Skill: MM; ORR;
+AI.
+6.2 relate the pressure
+at a point in a fluid
+to its depth and the
+density;
+Apply:
+(for fluid pressure);
+(Pascal) Pa  Nm-2
+.
+All points on the same
+horizontal level in a fluid
+at rest, have the same
+pressure.
+Demonstrate
+using a can with
+holes at same
+and at different
+levels, to
+illustrate the
+principle.
+MathematicsAlgebra/
+Computation.
+Skill: MM.
+6.3 apply Archimedes’
+principle to predict
+whether a body
+would float or sink
+in a given fluid.
+Relevant examples
+include rafts, boats,
+balloons, and
+submarines.
+Perform
+activities to
+check
+predictions.
+Biology -
+Dispersal of
+seeds.
+Skills: MM; ORR;
+AI; PD.
+Suggested Teaching and Learning Activities
+To facilitate students’ attainment of the objectives of this Section, teachers are advised to engage
+students in the teaching and learning activities below. These activities are designed to promote
+inquiry-based learning and cater to students with various learning styles.
+1. Galileo: Galileo has been called the "father of modern observational Astronomy", the "father
+of Modern Physics", and the "father of science”. Do group research projects on what his
+different contributions were to Science to earn him all these titles.
+CXC 22/G/SYLL 13 19
+SECTION A – MECHANICS (cont’d)
+2. Scientific method: Galileo made the important discovery that sunspots were on the surface
+of the sun by extremely patient and detailed daily observations of the Sun. Explain why this
+technique is critical to scientific study, even today.
+“Galileo: Sunspots” by NOVA can be viewed as a class project
+http://www.teachersdomain.org/resource/ess05.sci.ess.eiu.galileosun/
+3. Effect of gravity: Have students drop a heavy and a light book from the same height at the
+same time and observe if they land at the same time or not. Discussion should ensue about
+the leaning tower of Pisa experiment.
+4. Units: Students should do a five-minute PowerPoint presentation on the failure of the $125
+Million Mars Climate orbiter mission, which was launched in 1999 due to a mix up of metric
+and imperial units. The importance of units in Physics should be emphasised through this
+exercise.
+5. Centre of gravity: Is it easier or harder to balance a yardstick on your finger than a pencil or
+ruler? Experiment and try to figure out why. Can you make a pencil easier to balance on your
+finger by adding weight at the top? Explain. “Centre of gravity: Pencil balance” from ZOOM
+should be viewed as a class activity.
+http://www.teachersdomain.org/resource/phy03.sci.phys.mfw.zpencilbalance/
+6. Hydrodynamics: Write an essay on the history and design of submarines.
+What will it take to make a floating toy submarine sink to the bottom of a bathtub? Conduct
+an experiment based on your understanding of the factors that influence an object's
+buoyancy to the test in this interactive brainteaser from the NOVA website.
+http://www.teachersdomain.org/resource/phy03.sci.phys.matter.buoqu/
+7. Friction: Design a mini poster on “shooting stars”. Explain why the meteors burn up in the
+atmosphere. List the major meteor showers and see how many “shooting stars” you can
+observe during a meteor shower.
+8. Gravity: Do a research project on how the construction industry evolved to build modern day
+sky scrapers and why they could not be built in the past. The tallest constructions of the past
+were pyramids. Why did they have to have bigger bases the taller they were built?
+http://science.howstuffworks.com/engineering/structural/skyscraper1.htm
+9. Laws of motion, momentum and energy: Arrange a cricket match with the class divided
+into two teams. Subsequent to the match, discuss from principles of Physics why the winning
+team won and the losing team did not. Use the items listed in the paper “Physics of Cricket”
+to discuss your points.
+http://www.physics.usyd.edu.au/~cross/cricket.html
+CXC 22/G/SYLL 13 20
+SECTION A – MECHANICS (cont’d)
+10. Laws of motion, momentum and energy: With the school’s permission, have a water rocket
+display with your class. The students must write a paper explaining the Physics of the
+trajectories and patterns formed.
+11. Friction, turning forces: Design a poster to explain why rally cars can drift around corners
+and Formula 1 cars do not.
+12. Pendulums: Do five minute group presentations on clocks through the ages and how the
+pendulum is used to build the clocks.
+13. Vectors: Conduct research on Caribbean icon and scientist Dr. Rudranath Capildeo.
+http://www.caribbean-icons.org/profiles/rudranath.capildeo.htm
+14. Renewable energy: Divide the class into groups with each group being assigned a different
+form of renewable energy to research and investigate its suitability in the Caribbean. Design
+scaled models of their renewable energy options assigned.
+http://www.teachersdomain.org/resource/phy03.sci.engin.systems.lp_renew/
+“What is the design process?”
+http://www.teachersdomain.org/resource/phy03.sci.engin.design.desprocess/caribbeanicons.org/profiles/rudranath.capildeo.htm
+CXC 22/G/SYLL 13 21
+ SECTION B - THERMAL PHYSICS AND KINETIC THEORY
+Thermal physics is the study of heat, temperature and heat transfer. It can be explained in terms of
+kinetic theory at the microscopic level. It helps us to capture the different phases of matter.
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. be familiar with the development of the theory of heat;
+2. relate macroscopic phenomena to the kinetic theory of matter;
+3. have a conceptual understanding of thermal quantities and the relationship between them;
+4. understand the various modes of thermal energy transfer.
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+1. NATURE OF HEAT
+1. 1 differentiate between
+the caloric and kinetic
+theories of heat as
+they existed in the
+eighteenth century;
+Rumford’s cannonboring experiments
+as evidence against
+the caloric theory.
+Discussion.
+1. 2 discuss the role of
+Joule’s experiments
+in establishing the
+principle of
+conservation of
+energy.
+2. MACROSCOPIC PROPERTIES AND PHENOMENA
+Temperature, T
+2.1 relate temperature
+to the direction of
+net thermal energy
+transfer;
+Temperature T,
+units.
+2.2 identify physical
+properties which vary
+with temperature and
+may be used as the
+basis for measuring
+temperature;
+Perform activities to
+observe change in
+length of liquid column
+with temperature.
+Skills: MM; ORR.
+CXC 22/G/SYLL 13 22
+SECTION B - THERMAL PHYSICS AND KINETIC THEORY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+2.3 relate the use of a
+thermometer to its
+design;
+Highlight design
+features which make a
+thermometer suitable
+for its particular task.
+Note temperature
+ranges for each.
+Draw and explain
+design of:
+(a) laboratory;
+thermometer;
+(b) clinical
+thermometer
+(c) thermocouple.
+Chemistry and
+Biology –
+Thermometer.
+2.4 define the fixed
+points on the
+Celsius scale;
+Lower and upper fixed
+points.
+2.5 relate the
+temperature of a
+body to the kinetic
+energy of
+molecules;
+Phases of Matter
+2.6 distinguish among
+solids, liquids and
+gases;
+Note the differences
+with respect to intermolecular forces,
+motion of molecules,
+shape and volume of
+matter.
+ChemistryStates of
+matter.
+2.7 use the Kinetic
+theory to explain
+the different
+macroscopic
+properties of solids,
+liquids and gases;
+Perform simple
+experiments to illustrate
+the existence of intermolecular forces, for
+example, compression
+of a syringe containing a
+liquid.
+Chemistry -
+Diffusion, osmosis,
+particulate nature
+of matter.
+Biology - Diffusion,
+osmosis.
+Expansion
+2.8 explain observations
+of the effects of
+thermal expansion;
+Telephone lines.
+Application of thermal
+expansion, for
+example, opening jars,
+carbonated
+beverages, creaking
+roofs.
+Demonstrations which
+illustrate expansion of
+solids, liquids, for
+example, ball and ring,
+bar breaking, bimetallic
+strip.
+Chemistry -
+Properties of
+materials.
+Skill: ORR.
+CXC 22/G/SYLL 13 23
+SECTION B - THERMAL PHYSICS AND KINETIC THEORY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+Gas Laws
+2.9 relate graphs of
+pressure or volume
+against temperature
+to the establishment
+of the Kelvin
+temperature scale;
+Experiments to
+investigate the
+relationships among
+pressure, volume and
+temperature of a gas.
+Chemistry – Gas
+Laws.
+Skills: MM; ORR;
+AI.
+2.10 use the relationship
+between Kelvin and
+Celsius scale.
+T/K = /
+o
+C  273;
+2.11 apply the gas
+laws;
+(a) Boyle’s Law –
+PV=constant;
+(b) Charles’ Law –
+
+
+= constant;
+(c) Pressure Law –
+
+
+= constant;
+(d) General Gas Law -
+
+
+= constant.
+Virtual labs
+Use of trapped gas in
+sealed syringe; sealed
+U-tube.
+Chemistry.
+MathematicsAlgebra/
+Computation.
+Skill: AI; ORR.
+2.12 give qualitative
+explanations of the
+gas laws in terms of
+the Kinetic theory.
+Explain gas pressure
+in terms of molecular
+motion.
+3. THERMAL MEASUREMENTS
+Specific Heat Capacity, c
+3.1 distinguish between
+specific heat capacity,
+‘c’ and heat capacity
+‘C’;
+Note that specific heat
+capacity and heat
+capacity are related
+by the formula
+C = mc.
+Chemistry –
+properties of
+materials.
+3.2 apply the relationship
+EH = mc ΔѲ, or
+EH = mc ΔT;
+MathematicsAlgebra/
+Computation.
+Skill: AI.
+CXC 22/G/SYLL 13 24
+SECTION B - THERMAL PHYSICS AND KINETIC THEORY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+3.3 determine the specific
+heat capacity of
+metals and liquids;
+Use electrical method
+and method of
+mixtures.
+Perform activities to
+measure specific heat
+capacity.
+Skills: MM; ORR;
+AI; PD.
+Specific Latent Heat, l
+3.4 demonstrate that
+temperature remains
+constant during a
+phase change;
+Perform cooling curve
+demonstration, for
+example, candle wax.
+Chemistry - Melting
+point of metals and
+non-metals,
+separation in
+mixtures,
+properties of
+materials.
+Skill: ORR.
+3.5 apply the
+relationship EH = ml ;
+Perform activity to
+determine the specific
+latent heat of fusion of
+ice, using method of
+mixtures with a
+container of negligible
+heat capacity.
+MathematicsAlgebra/
+Computation
+Skills: MM; ORR;
+AI; PD.
+3.6 determine the
+specific latent heat
+of vaporization lv,
+and fusion, lf of
+water;
+Unit: Jkg
+1
+Use an electrical
+method.
+Perform activity to
+determine specific latent
+heat of fusion.
+Skills: MM; ORR;
+AI.
+3.7 distinguish between
+evaporation and
+boiling.
+Use the Kinetic theory
+to explain evaporation
+and boiling.
+Give examples of
+application of cooling
+effect of evaporation -
+air conditioners,
+earthenware vessels,
+refrigerators,
+perspiration.
+Biology –
+Homeostasis.
+CXC 22/G/SYLL 13 25
+SECTION B - THERMAL PHYSICS AND KINETIC THEORY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+4. TRANSFER OF THERMAL ENERGY
+4.1 explain the transfer of
+thermal energy by
+conduction;
+Relate the fact that air
+is a very poor
+conductor to the
+insulation properties
+of certain materials,
+for example,
+expanded polystyrene,
+hollow blocks.
+Refer to SO B2.6.
+Perform activity to
+compare qualitatively
+the thermal
+conductivities of
+different solids.
+Skills: MM; ORR.
+4.2 explain the transfer of
+thermal energy by
+convection;
+Relate convection to
+common phenomena,
+for example, land and
+sea breezes.
+Perform
+demonstrations to
+show convection in
+fluids.
+4.3 explain the transfer of
+thermal energy by
+radiation;
+Recall that radiant
+energy is
+electromagnetic
+(infra-red).
+Perform
+demonstration to show
+that radiant energy
+does not need a
+medium for
+transmission.
+Chemistry-Use
+of solar energy.
+4.4 conduct experiments
+to investigate the
+factors on which
+absorption and
+emission of radiation
+depend;
+Factors limited to:
+(a) texture of
+surface (rough,
+smooth);
+(b) nature of surface
+(shiny, dull);
+(c) colour of surface
+(black, white);
+(d) area of surface.
+Perform experiments
+to investigate such
+factors.
+Skills: ORR; MM;
+AI; PD.
+4.5 recall that good
+absorbers are good
+emitters;
+Relate the
+phenomenon of
+radiation to common
+practices.
+CXC 22/G/SYLL 13 26
+SECTION B - THERMAL PHYSICS AND KINETIC THEORY (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+4.6 relate the principles of
+thermal energy
+transfer to the design
+of devices.
+Conduction,
+convection, radiation.
+Vacuum flask and
+solar water heater.
+Explanation of the
+glass house (green
+house) effect,
+including role of
+atmospheric CO2.
+Global Warming.
+Suggested Teaching and Learning Activities
+To facilitate students’ attainment of the objectives of this Section, teachers are advised to engage
+students in the teaching and learning activities below. These activities are designed to promote
+inquiry-based learning and cater to students with various learning styles.
+1. Expansion and contraction: Do a short research paper on why the Columbia space shuttle
+disaster occurred in 2003, killing all persons on board. Highlight the role of thermodynamics
+in it.
+2. Heat: Make a list of applications of infrared imaging. Some examples can be found from the
+US Geological survey website at http://www.usgs.gov/science/.
+http://coolcosmos.ipac.caltech.edu/image_galleries/ir_zoo/lessons/background.html.
+3. Heat sensors: What animals use infrared vision and how does it help them? Imagine you
+could see in infrared, do a sketch of what the classroom would look like through infrared
+goggles.
+4. Heat transfer: In the Caribbean islands, note where air conditioning units are typically
+placed in rooms. In cold countries where will heaters be located in a room? Explain the
+choices from principles of Physics.
+5. Temperature: Play the online educational game in identifying the range of temperatures in
+different scales.
+http://funphysics.jpl.nasa.gov/adventures/temperature-game.html.
+6. Temperature: The temperature of zero Kelvin cannot be attained but very interesting
+phenomena happen as you get closer and closer to that temperature. Design a poster
+highlighting the phenomena and its use in modern technology.
+CXC 22/G/SYLL 13 27
+SECTION B - THERMAL PHYSICS AND KINETIC THEORY (cont’d)
+7. Temperature ranges: Explore some of the extreme temperatures on the moon through this
+video clip on the moon and why that happens.
+http://www.teachersdomain.org/resource/ess05.sci.ess.eiu.extemp/
+8. Phases: The water cycle is the process that moves water around Earth. In this video segment
+adapted from ZOOM, cast members use a homemade solar still to mimic this natural process,
+separating pure water from a saltwater mixture. The class can make this homemade solar
+still as a project and see the processes of condensation and evaporation and its relevance on
+planet earth.
+http://www.teachersdomain.org/resource/ess05.sci.ess.watcyc.solarstill1/
+9. Local scientist: Create a small booklet highlighting the biography and the contribution of
+Professor O. Headley in applications of solar energy in the Caribbean.
+caribbean-icons.org/science/index.htm
+CXC 22/G/SYLL 13 28
+ SECTION C - WAVES AND OPTICS
+Wave theory represents the branch of Physics that deals with wave processes. It is significant to the
+understanding of sound phenomena. Light, which is electromagnetic in origin, is fundamental to the
+understanding of optics.
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. appreciate that wave motion is a means of transferring energy and that there are certain
+features common to all waves;
+2. understand the way in which sound waves are produced and propagated;
+3. understand the properties of the electromagnetic spectrum;
+4. be familiar with the historical development of the theory of light;
+5. appreciate how a ray treatment facilitates the understanding of reflection and refraction of
+light waves.
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+1. WAVE MOTION
+Types of Waves
+1. 1 differentiate
+between types of
+waves;
+Pulses, progressive
+waves, transverse and
+longitudinal waves.
+Production of waves
+using springs and in
+ripple tanks.
+Draw diagrams of:
+(a) transverse
+waves in ripple
+tank and slinky
+spring;
+(b) longitudinal
+wave in a slinky
+spring. Virtual
+simulations.
+Skill: ORR.
+CXC 22/G/SYLL 13 29
+SECTION C – WAVES AND OPTICS (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+Wave Parameters
+1. 2 apply speed,
+frequency,
+wavelength, period
+and amplitude;
+Use: .
+Refer to SO D2.7.
+Timing echoes. MathematicsAlgebra/
+Computation.
+Skills: PD; MM.
+1. 3 represent transverse
+and longitudinal
+waves in
+displacementposition and
+displacement-time
+graphs.
+Note: a progressive
+wave varies in both
+time and space
+simultaneously. To
+represent it on paper,
+either time or position
+must be held
+constant.
+Refer to SO D2.6.
+Extract information
+about wave parameters
+from graphs
+representing waves.
+Mathematics:
+Trigonometric
+functions.
+Skills: ORR; AI.
+2. SOUND
+Production and Propagation
+2.1 describe how sound
+is produced and
+propagated in a
+medium;
+Sound is transmitted
+as a longitudinal wave
+and is produced by
+vibrating systems.
+Cup and string
+telephone.
+Different sounds
+produced by vibrating
+systems.
+For example, stretch
+rubber bands.
+Biology – Hearing.
+2.2 relate the terms
+‘pitch’ and ‘loudness’
+to wave parameters;
+Pitch - frequency
+Loudness - amplitude.
+Recall the range of
+frequencies
+detectable by the
+normal human ear;
+Playing drums and
+steel pan. Tuning
+forks. Using bottles
+with water at
+different heights.
+Speed of Sound
+2.3 apply the speed of
+sound to practical
+situations;
+Thunder and lighting
+and the proximity of
+the strike.
+Estimate the speed of
+sound in air using
+echoes.
+Skills: MM;
+ORR; AI; PD.
+CXC 22/G/SYLL 13 30
+SECTION C - WAVES AND OPTICS (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+2.4 cite evidence that
+sound waves reflect,
+refract, diffract and
+interfere;
+Reflect – echoes
+Refract – sound
+travelling from air to
+water.
+Diffract – hearing
+sound around
+corners/barriers.
+Interfere – sound
+systems.
+2.5 describe the use of
+ultrasound.
+Definition of
+ultrasound; pre-natal
+and materials testing.
+Biology- Reproduction.
+3. ELECTROMAGNETIC WAVES
+3.1 state the properties
+of e.m. waves;
+For example, travels
+same speed, are
+transverse and
+propagates in a
+vacuum.
+3.2 differentiate
+between types of
+e.m. waves in terms
+of their wavelengths;
+Radio, infrared, visible,
+ultraviolet, x-rays, Yrays. Discuss the
+spectrum.
+Research project.
+3.3 identify a source and
+use of each type of
+e.m. wave.
+Biology – Medical
+applications of
+Y-rays and x- rays.
+4. LIGHT WAVES
+Wave Particle Duality
+4.1 compare the rival
+theories of light held
+by scientists;
+Theories of Huygens,
+Newton, Young,
+Einstein. Recall that in
+the twentieth century
+experiments have
+provided evidence that
+light has both a particle
+and a wave nature.
+Knowledge of the
+photo-electric effect
+not required. Photo
+sensors, digital
+cameras.
+CXC 22/G/SYLL 13 31
+SECTION C - WAVES AND OPTICS (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+4.2 conduct a Young’s
+double slit
+experiment to show
+that light is a wave;
+Diffraction and
+interference.
+Young’s experiment
+looking at a straight
+filament lamp
+through a double slit.
+Ripple tank.
+Rays of Light
+4.3 explain why the
+diffraction of light is
+not normally
+observed;
+Wavelength
+comparable to the
+width of slit.
+Use ripple tank.
+Observe diffraction
+with gaps of different
+widths.
+4.4 apply the principle
+that light travels in
+straight lines;
+Use straight lines to
+represent beams.
+Shadows, eclipses, pin
+hole camera.
+Demonstrate that
+light travels in
+straight lines.
+Construct a pin hole
+camera.
+Skill: MM.
+Reflection
+4.5 apply the laws of
+reflection;
+Perform experiments
+to show the angle of
+incidence and the
+angle of reflection
+are equal.
+Skills: MM; ORR.
+4.6 describe the
+formation of images
+in a plane mirror;
+Object and image
+distances are equal.
+The image is virtual
+and the object size is
+equal to the image
+size.
+Locate virtual image
+using:
+(a) ray plotting;
+(b) no parallax
+method.
+Construct diagrams to
+show the formation of
+virtual images.
+MathematicsTransformations
+Skills: MM; ORR; PD.
+Refraction
+4.7 give examples of
+observations which
+indicate that light
+can be refracted;
+Appearance of water
+on the road, apparent
+depth of swimming
+pool. Refraction
+occurs as a result of
+the change of speed
+of light.
+Activities to illustrate
+refraction of light, for
+example, pencil in
+water.
+Skills: MM; ORR.
+CXC 22/G/SYLL 13 32
+SECTION C - WAVES AND OPTICS (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+4.8 describe the
+refraction of light
+rays;
+Recall that the
+passage of a ray of
+light through a
+rectangular block may
+results in lateral
+displacement of that
+ray.
+Passage of light rays
+through:
+(a) rectangular
+blocks;
+(b) triangular
+prisms.
+Draw diagrams.
+Skill: MM.
+4.9 describe how a prism
+may be used to
+produce a spectrum;
+Use a source of white
+light.
+Newton’s experiment
+with prisms.
+Demonstrate:
+(a) dispersion
+using a
+triangular
+prism.
+(b) rainbow.
+Skill: MM.
+4.10 apply Snell’s Law; Definition of refractive
+index.
+Perform an
+experiment to test
+Snell’s Law.
+MathematicsTrigonometry.
+Skills: MM; ORR; AI.
+Critical Angle and Total Internal Reflection
+4.11 explain ‘critical angle’
+and ‘total internal
+reflection’;
+Measure critical
+angle in glass or
+other transparent
+material. Use
+diagrams to
+illustrate.
+Skills: MM; ORR.
+4.12 relate critical angles
+to total internal
+reflection;
+Definition of total
+internal reflection.
+MathematicsTrigonometry.
+Skill: AI.
+4.13 draw diagrams
+illustrating
+applications of total
+internal reflection.
+Periscope, fibre optic
+cable, endoscopes.
+CXC 22/G/SYLL 13 33
+SECTION C - WAVES AND OPTICS (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+5. LENSES
+Action of Lenses
+5.1 illustrate the effect
+of converging and
+diverging lenses on a
+beam of parallel rays;
+Use ray boxes or
+virtual simulation.
+Investigate the
+properties of
+converging and
+diverging lenses on a
+beam of parallel rays.
+Biology – Eye.
+Skills: MM; ORR.
+5.2 define the terms:
+(a) principal axis;
+(b) principal focus;
+(c) focal length;
+(d) focal plane;
+(e) magnification;
+Image Formation
+5.3 differentiate
+between real and
+virtual images;
+Perform experiments
+to locate real and
+virtual images and
+draw diagrams.
+Skills: MM; ORR.
+5.4 apply the equations
+for magnification;
+Magnification
+= image size
+ object size
+= image distance (v)
+ object distance (u).
+Biology – Drawing.
+Mathematics -
+Transformations,
+Skill: AI.
+5.5 determine the focal
+length of a
+converging lens.
+Use lens formula and
+scale diagram:
+
+
+=
+
+
++
+
+
+
+Perform experiments
+to measure focal
+length of converging
+lens.
+Mathematics -
+Functions and
+Relations;
+Algebra/ Computation.
+Skills: MM; ORR; AI;
+PD.
+CXC 22/G/SYLL 13 34
+SECTION C - WAVES AND OPTICS (cont’d)
+Suggested Teaching and Learning Activities
+To facilitate students’ attainment of the objectives of this Section, teachers are advised to engage
+students in the teaching and learning activities below. These activities are designed to promote
+inquiry-based learning and cater to students with various learning styles.
+1. Standing waves: Conduct experiments to explore why ants survive in an operating
+microwave oven.
+2. Light, refraction: Discuss how raindrops and prisms have similar effect with light in forming
+rainbows and spectrum respectively using diagrams. Simulation at:
+http://micro.magnet.fsu.edu/optics/activities/students/prisms.html
+3. Electromagnetic spectrum: List a use of each band in the electromagnetic spectrum with
+examples and make a model to depict them as for a science centre display. Show time scales
+of the use/discovery of examples you show.
+4. Sound: Arrange a field trip to a concert hall to look at its design and how this affects the
+acoustics. Students should write a report of the activity. Discuss the quality of a band concert
+in a hall versus being played in the open air.
+http://www.concerthalls.org/
+5. Transverse and longitudinal waves; transmission of energy: Show how earthquakes are
+located. How tsunami waves are formed and why are they so much larger than normal sea
+waves?
+This video segment from Nature examines the anatomy of the tsunami and the possibility
+that animals sensed the coming waves of destruction.
+http://www.teachersdomain.org/resource/nat08.earth.geol.tec.waves/
+6. Sound waves: Imagine you are a bat looking in the darkness of the caves for your
+companions who have ventured deep into the caves but instead there is a large predator
+lurking. Write a short story of your adventure. Make sure you include the principles of Physics
+used in your story.
+7. Wave-particle duality: Identify modern technology that operates on the principle that light
+behaves as a particle. Observe pictures with a digital camera and a traditional film camera
+and compare the differences between them including how each forms the image.
+8. Light, reflection, transmission: Discuss the holographic projectors in “Star Trek”. How
+realistic are they in producing holograms.
+http://memory-alpha.org/wiki/Category:Holographic_technology.
+CXC 22/G/SYLL 13 35
+ SECTION D - ELECTRICITY AND MAGNETISM
+In this section, Electricity and Magnetism, we explore electrical, magnetic and electromagnetic
+principles and phenomena. The importance of electronics in modern society is also introduced.
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. understand electrostatic phenomena;
+2. understand the ways in which electricity is conducted;
+3. understand electrical quantities and the relations between them;
+4. have a working knowledge of electrical circuits and components;
+5. be aware of the applications of electronics in technology;
+6. understand the simple phenomena associated with magnets;
+7. have a working knowledge of electromagnetic phenomena.
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+1. ELECTROSTATICS
+Electric Charge, Q
+1. 1 explain the charging
+of objects;
+Explain in terms of
+properties of electrons
+which are relatively
+free to move; charging
+of glass, perspex or
+polythene by rubbing
+with a dry cloth and
+explain in terms of
+electron transfer by
+friction.
+Demonstrate 'charging
+by friction’.
+1. 2 describe the forces
+that electric charges
+exert on each other;
+The forces between
+charges as a
+fundamental property
+of electric charges.
+Perform simple
+activities to show that
+like charges repel and
+unlike charges attract.
+Skills: MM; ORR.
+1. 3 explain charging by
+induction;
+How a charged object
+can attract objects
+having zero net
+charge.
+Perform simple
+experiment.
+CXC 22/G/SYLL 13 36
+SECTION D - ELECTRICITY AND MAGNETISM (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+Electric Fields
+1. 4 define an electric
+field;
+Draw the electric fields
+around and between
+point charges, and
+between charged
+parallel plates; Refer
+to other force fields
+such as gravitational
+and magnetic.
+Refer to SO A3.2; D6.7.
+1. 5 describe one hazard
+and one useful
+application of static
+charge.
+Electrostatic painting;
+Lightning strikes, dust
+extraction,
+photocopying, static
+build up on vehicles.
+The effects of a local
+charged ionised
+atmosphere.
+2. CURRENT ELECTRICITY
+2.1 distinguish between
+conductors and
+insulators;
+Definitions, properties
+and classification.
+Use a low voltage test
+circuit with lamp
+indicator to test
+different materials.
+Chemistry -
+Electrons;
+properties of
+metals and nonmetals.
+Skills: MM; ORR.
+2.2 state that an electric
+current in a metal
+consists of a flow of
+electrons;
+In other conducting
+media an electric
+current may consist of
+the movement of both
+negative and positive
+charge carriers.
+For example, the use
+of silicon and
+germanium, in semiconductors and
+electrolytes in
+batteries.
+ChemistryElectrons;
+properties of
+metals and nonmetals.
+CXC 22/G/SYLL 13 37
+SECTION D - ELECTRICITY AND MAGNETISM (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+2.3 differentiate
+between electron
+flow and
+conventional current;
+The convention
+behind current flow.
+2.4 state the unit of
+electrical current;
+Ampere, A.
+2.5 apply the
+relationship Q = It;
+The unit of charge,
+the coulomb, can be
+obtained from this
+equation. Thus,
+1 coulomb = 1 ampsecond.
+Chemistry-ElectroChemistry.
+MathematicsAlgebra/
+Computation.
+Skill: AI.
+Alternating Current
+2.6 differentiate
+between direct and
+alternating currents;
+Recognise that
+current reverses
+direction of flow in
+a.c. systems.
+Draw current time or
+voltage time graphs to
+represent direct and
+alternating current
+simulations.
+Mathematics:
+Functions and
+Graphs.
+2.7 analyse current-time
+or voltage-time
+graphs.
+Use f = 1/T.
+Deduce the period and
+frequency of
+alternating currents or
+voltages.
+Refer to SO C1.2.
+MathematicsAlgebra/
+Computation.
+Skill: AI.
+3. ELECTRICAL QUANTITIES
+Power, P and Energy, E
+3.1 cite examples of the
+conversion of
+electrical energy to
+other forms and vice
+versa;
+Refer to SO A5.3. Demonstrate energy
+conversions in the
+laboratory.
+CXC 22/G/SYLL 13 38
+SECTION D - ELECTRICITY AND MAGNETISM (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+3.2 apply the
+relationship
+V = E/Q;
+Definition of terms
+and their units.
+MathematicsAlgebra/
+Computation
+Skill: AI.
+3.3 apply the
+relationship
+P =IV ;
+Compare consistency
+of units for P=IV and
+P= E/t.
+Refer to SO A5.11.
+Mathematics -
+Algebra/
+Computation.
+3.4 discuss the
+importance of
+conserving electrical
+energy and the
+means of doing so.
+Limited reserves of
+fossil fuel hence the
+need to conserve.
+Fluorescent, LED
+rather than
+incandescent lamps.
+Solar rather than
+electrical or gas
+water heaters.
+High efficiency
+refrigeration and air
+condition units.
+Chemistry -
+Burning of
+hydrocarbons.
+Biology-Ecology.
+Skill: AI.
+4. CIRCUIT AND
+COMPONENTS
+Circuit Diagrams
+4.1 use symbols to
+construct circuit
+diagrams;
+Refer to list of
+Graphical Symbols.
+Skill: MM.
+4.2 differentiate
+between series and
+parallel circuits;
+Consider series,
+parallel and seriesparallel combinations
+and polarity of
+devices. Simple series
+circuits with diode,
+resistor and
+instruments
+Set up a simple circuit
+given a circuit diagram
+paying due regard to
+the polarity and
+suitability of
+components.
+CXC 22/G/SYLL 13 39
+SECTION D - ELECTRICITY AND MAGNETISM (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+Cells
+4.3 explain the functions
+of the various parts
+of a zinc-carbon cell;
+The parts of the cell
+and their functions.
+Mention the fact that
+there are other types
+of primary cells.
+Draw a diagram. Chemistry -
+Electro-chemistry.
+4.4 distinguish between
+primary and
+secondary cells;
+Comparison of
+characteristics such as:
+(a) terminal
+voltage;
+(b) maximum
+current;
+(c) internal
+resistance;
+(d) portability;
+(e) rechargeability.
+4.5 draw a circuit
+diagram to show
+how a secondary cell
+can be recharged;
+Note polarity and
+charging voltage.
+I - V Relationships
+4.6 investigate the
+relationship between
+current and potential
+difference;
+(a) Metallic
+conductors at
+constant
+temperature.
+(b) Filament lamps.
+(c) Semiconductor
+diodes.
+(d) Solutions of
+copper sulphate
+in water using
+copper
+electrodes.
+Refer to SO A1.4.
+Perform these
+experiments.
+Draw I – V graphs from
+the result of such
+experiments and draw
+appropriate
+conclusions from the
+graphs obtained.
+ChemistryProperties of
+matter.
+MathematicsFunctions,
+Relations and
+Graphs.
+Skills: MM; ORR;
+AI; PD.
+CXC 22/G/SYLL 13 40
+SECTION D - ELECTRICITY AND MAGNETISM (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+Resistance, R
+4.7 explain the concept
+of resistance;
+Point out the fact that
+resistance varies with
+the current in some
+cases.
+4.8 apply the
+relationship
+I
+V
+R 
+;
+Ohm’s Law.
+Refer to SO D4.6.
+Determine resistance
+using the formula
+I
+V
+R  .
+MathematicsAlgebra/
+Computation.
+Skill: AI.
+4.9 explain why it is
+necessary for an
+ammeter to have a
+very low resistance;
+4.10 explain why it is
+necessary for a
+voltmeter to have a
+very high resistance;
+4.11 solve problems
+involving series and
+parallel resistance;
+Use the formulae:
+Rs = R1 + R2 + R3 ....
+for resistors in
+series; and
+.......
+3
+R
+1
+2
+R
+1
+1
+R
+1
+p
+R
+1
+   
+for resistors in
+parallel;
+MathematicsAlgebra/
+Computation.
+Skill: AI.
+CXC 22/G/SYLL 13 41
+SECTION D - ELECTRICITY AND MAGNETISM (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+4.12 solve problems
+involving series,
+parallel and seriesparallel circuits;
+Properties of current
+and potential
+difference (p.d.) in
+series and parallel
+circuits.
+Set up a series circuit
+and measure current at
+various points.
+Set up a parallel circuit
+and measure current in
+the branches and on
+entry and exit.
+Set up a series circuit
+and measure p.d.
+across components.
+Set up a parallel circuit
+and measure p.d.
+across components.
+Mathematics.
+Skills: MM; ORR;
+AI; PD.
+Electricity in the Home
+4.13 discuss the reasons
+for using parallel
+connections of
+domestic appliances;
+4.14 explain the purpose
+of a fuse or circuit
+breaker and the
+earth wire;
+Highlight safety
+issues. Include fuse in
+live wire.
+4.15 select a fuse or
+circuit breaker of
+suitable current
+rating for a given
+appliance;
+4.16 state the adverse
+effects of connecting
+electrical appliances
+to incorrect or
+fluctuating voltage
+supplies.
+CXC 22/G/SYLL 13 42
+SECTION D - ELECTRICITY AND MAGNETISM (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+5. ELECTRONICS
+Students should be able to:
+5.1 describe how a semiconductor dioxide
+can be used in half
+wave rectification;
+Sketch V-t graphs
+to compare
+variation of voltage
+with time before or
+after rectification.
+MathematicsFunctions,
+Relations and
+Graphs.
+5.2 differentiate between
+direct current from
+batteries and
+rectified alternating
+current by a
+consideration of the
+V – t graphs for both
+cases;
+Logic Gates
+5.3 recall the symbols for
+AND, OR, NOT, NAND,
+NOR logic gates;
+Limited to two-input
+logic gates.
+5.4 state the function of
+each gate with the aid
+of truth tables;
+Refer to SO D1.3 for
+similarity to electrical
+charges.
+5.5 analyze circuits
+involving the
+combinations of
+not more than
+three logic gates;
+Example: simple
+alarm circuits.
+5.6 discuss the impact
+of electronic and
+technological
+advances on
+society.
+CXC 22/G/SYLL 13 43
+SECTION D - ELECTRICITY AND MAGNETISM (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+6. MAGNETISM
+Permanent Magnets
+6.1 differentiate between
+ magnetic and
+ non-magnetic materials;
+6.2 explain how a magnet
+ can attract an
+ unmagnetised object;
+Refer to SO D1.3 for
+similarity to electrical
+charges.
+6.3 distinguish between
+materials used to
+make "permanent"
+and "temporary"
+magnets;
+Permanent magnets:
+steel and magnadur.
+Temporary magnets:
+iron and mumetal.
+6.4 identify the poles of a
+magnetic dipole;
+Alignment with the
+earth’s magnetic
+field.
+Perform an activity to
+identify the poles of a
+magnetic dipole.
+Skill: MM.
+Magnetic Forces
+6.5 investigate the forces
+between magnetic
+poles;
+The effect of the
+polarity and
+separation of magnets
+on the magnitude of
+the force between
+them.
+Use two strong
+magnets to
+investigate forces
+between like and
+unlike poles.
+6.6 define a magnetic field; A magnetic field line
+indicates the direction
+of the magnetic force
+acting on an N-pole;
+(a)
+CXC 22/G/SYLL 13 44
+SECTION D - ELECTRICITY AND MAGNETISM (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+6.7 map magnetic fields. Familiarity with iron
+filings and plotting
+compass methods:
+(a) around a single
+strong magnet.
+(b) around and
+between two
+strong magnets.
+Oriented parallel and
+anti-parallel and
+pole to pole with
+each other.
+Map the magnetic field
+using iron filings and
+plotting compass.
+Skill: MM.
+7. ELECTROMAGNETISM
+7.1 conduct simple
+experiments to
+investigate the
+magnetic field pattern
+around current-carrying
+conductors;
+Straight conductors,
+flat coils, solenoids.
+Map the fields for the
+given conductor. Sketch
+the magnetic flux
+patterns.
+Skills: MM; ORR.
+7.2 apply suitable rules
+which relate the
+direction of current flow
+to the direction of the
+magnetic field;
+Right hand grip rule,
+right hand screw rule.
+7.3 describe a commercial
+application of an
+electromagnet;
+Example:
+Starter Motor.
+Magnetic Relay.
+Construct a simple
+electromagnet.
+Skills: MM.
+Electromagnetic Force
+7.4 conduct an experiment
+which demonstrates the
+existence of a force on a
+current-carrying
+conductor placed in a
+magnetic field;
+Demonstrate the force
+on the current carrying
+conductor in a magnetic
+field.
+CXC 22/G/SYLL 13 45
+SECTION D - ELECTRICITY AND MAGNETISM (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+7.5 sketch the resultant
+magnetic flux pattern
+when a current carrying
+wire is placed
+perpendicular to a
+uniform magnetic field;
+Skill: ORR.
+7.6 apply Fleming’s lefthand (motor) rule;
+Predict what will
+happen when current
+flow perpendicular to
+a uniform magnetic
+field.
+Refer to SO E3.5.
+7.7 identify the factors that
+affect the force on a
+current-carrying
+conductor in a magnetic
+field;
+Strength of the field
+and on the magnitude
+of the current.
+Motors
+7.8 explain the action of a
+D.C. motor;
+Draw a diagram of a
+simple D.C. electric
+motor. Appliances such
+as fans, mixers.
+Induced e.m.f.
+7.9 describe simple
+activities which
+demonstrate an
+induced e.m.f.;
+Coil and magnets; two
+coils.
+Perform activities
+demonstrating induced
+e.m.f.
+Skill: MM.
+7.10 conduct simple
+experiments to show
+the magnitude of the
+induced e.m.f.;
+Effect of the rate of
+change of magnetic
+flux experienced by
+the conductor.
+Perform experiments to
+investigate the factors
+which affect the
+magnitude of the
+induced e.m.f.
+Skills: MM; ORR;
+AI; PD.
+CXC 22/G/SYLL 13 46
+SECTION D - ELECTRICITY AND MAGNETISM (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+7.11 predict the direction of
+induced current given
+the direction of motion
+of the conductor and
+that of the magnetic
+field;
+7.12 explain the action of
+the A.C. generator;
+Sketch graphs to
+represent the output
+from a simple A.C
+generator.
+Mathematics –
+Graphs and
+Trigonometric
+functions.
+Skill: ORR.
+Transformers
+7.13 explain the principle of
+operation of a
+transformer;
+Diagram of a simple
+transformer.
+Construct a simple
+transformer.
+Skill: MM.
+7.14 state the advantages of
+using a.c. for
+transferring electrical
+energy;
+7.15 apply the ideal
+transformer formula
+Pout = Pin.
+Transformer formulae
+to solve problems
+
+
+
+
+
+
+
+
+
+Perform activities to
+show that for an ideal
+transformer
+
+
+
+
+
+
+
+
+
+MathematicsAlgebra/
+Computation
+CXC 22/G/SYLL 13 47
+SECTION D - ELECTRICITY AND MAGNETISM (cont’d)
+Suggested Teaching and Learning Activities
+To facilitate students’ attainment of the objectives of this Section, teachers are advised to engage
+students in the teaching and learning activities below. These activities are designed to promote
+inquiry-based learning and cater to students with various learning styles.
+
+1. Earth’s magnetic poles: Write a science fiction on a trip to the centre of Earth and use it to
+explain how planet Earth gets its magnetism.
+http://www.physics.org/article-questions.asp?id=64
+2. Magnetic fields: Prepare a five-minute presentation on how frogs, and by extension humans
+can be levitated.
+http://www.physics.org/facts/frog-really.asp
+3. Electromagnetic induction: Design a poster to show how metal detectors work employing the
+principles of electromagnetic induction. Simulation at
+http://micro.magnet.fsu.edu/electromag/java/detector/index.html
+4. Electric fields: Prepare a safety brochure on the dangers of lightning. Include and explain how
+tingling of the skin and hair raising can be indicators. During thunderstorms, time the
+difference between seeing the lightning and hearing the thunder to determine how far away
+the storm is.
+http://theboar.org/science/2010/nov/7/hair-raising-truth-about-lightning/
+Simulation - http://micro.magnet.fsu.edu/electromag/java/lightning/index.html
+5. Static electricity: Prepare a poster showing examples of use of static electricity in life.
+http://hubpages.com/hub/Uses-of-Static-Electricity
+6. Magnetic and true north: Fieldwork – determine the difference in the true north found by
+astronomical position of the north star and the magnetic north using a compass. Observe over
+a few weeks and see if there are any differences. Write a report.
+http://adventure.howstuffworks.com/survival/wilderness/true-north.htm
+Simulation: http://micro.magnet.fsu.edu/electromag/java/compass/index.html
+7. Electromagnetism: As a class project, build an electromagnet and experiment with their
+operations.
+http://education.jlab.org/beamsactivity/6thgrade/magnetsandelectromagnets/overview.html
+8. Transformers: make a list of the items in the home that require a transformer when plugged
+in. Explain why this is so.
+CXC 22/G/SYLL 13 48
+SECTION D - ELECTRICITY AND MAGNETISM (cont’d)
+9. AC and DC: Write an essay on how Direct Current (DC) and Alternating Current(AC) were
+discovered. Why did the AC prevail? List items in the house that use AC and those that use DC.
+http://www.teachersdomain.org/resource/phy03.sci.phys.mfw.acdc/
+10. Ohm’s law: observe the simulation at:
+http://micro.magnet.fsu.edu/electromag/java/ohmslaw/index.html
+
+CXC 22/G/SYLL 13 49
+ SECTION E - THE PHYSICS OF THE ATOM
+This is the branch of physics that studies the structure of the atom and the interaction of the sub-atomic
+particles of matter and electromagnetic fields. Students will appreciate how energy can be released
+from inside the atom and become aware of its impact on society and the environment.
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. appreciate the development of atomic theory and the concept of the nucleus;
+2. understand how the elements differ in atomic structure;
+3. be familiar with the phenomenon of radioactivity and the safety measures when dealing with
+radioactive substances;
+4. know that a change in the nuclear mass is associated with the release of energy;
+5. appreciate the importance of nuclear energy on society and the environment.
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+1. MODELS OF THE ATOM
+1. 1 describe the work
+done in establishing
+the modern view of
+the atom;
+Include Thomson,
+Rutherford, Bohr,
+Chadwick.
+Chemistry - Atoms
+and the Periodic
+table.
+1. 2 describe the GeigerMarsden experiment.
+Establish the nuclear
+structure of the atom.
+Consider that the
+nucleus contains
+protons and neutrons
+of approximately
+equal mass.
+ChemistryStructure of the
+atom.
+2. STRUCTURE OF THE
+ATOM
+Particles in the Atom
+2.1 sketch the
+structure of simple
+atoms;
+Include the
+distribution of charge.
+ChemistryStructure of the
+atom, metallic
+bonding.
+CXC 22/G/SYLL 13 50
+SECTION E - THE PHYSICS OF THE ATOM (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+2.2 compare the mass
+and charge of the
+electron with the
+mass and charge of
+the proton;
+Mention could be
+made of the absolute
+values in kg and C.
+2.3 explain why an atom
+is normally neutral
+and stable;
+ChemistryStructure of the
+atom.
+2.4 apply the
+relationship
+A = Z + N;
+Use of standard
+notation for
+representing a
+nuclide,
+
+
+for example
+
+.
+Chemistry -
+Atomic number
+and atomic mass.
+2.5 explain what is meant
+by the term "isotope";
+ChemistryIsotopes.
+2.6 relate the shell model of
+the atom to the periodic
+table.
+Any element in the
+periodic table has one
+more proton than an
+element before it.
+ChemistryPeriodic table.
+3. RADIOACTIVITY
+Radioactive Emissions
+3.1 describe Marie Curie’s
+work in the field of
+radioactivity;
+Research biography. Chemistry -
+Marie Curie
+3.2 state the nature of the
+three types of
+radioactive emissions;
+Relationship between
+radioactivity and
+nuclear instability.
+Video simulation.
+3.3 describe experiments to
+compare the ranges of
+, , and  emission;
+3.4 describe the
+appearance of the
+tracks of radioactive
+emissions in a cloud
+chamber;
+The details of the
+operation of the cloud
+chamber are not
+required.
+CXC 22/G/SYLL 13 51
+SECTION E - THE PHYSICS OF THE ATOM (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+3.5 predict the effects of
+magnetic and electric
+fields on the motion
+of  and  particles
+and  rays;
+Refer to S.O.D7.7.
+3.6 interpret nuclear
+reactions in the
+standard form;
+Ra Rn He
+
+
+
+
+C N e
+
+
+
+
+
+ChemistryBalancing
+equations.
+3.7 conduct an activity to
+demonstrate the
+random nature of
+radioactive decay;
+Activity from which a
+radioactive decay curve
+can be obtained.
+Perform analogue
+demonstrations to
+illustrate random
+processes, for example,
+throwing of dice,
+tossing of coins.
+Skills: MM; ORR;
+AI.
+3.8 recall that the decay
+process is
+independent of the
+conditions external to
+the nucleus;
+Half-life
+3.9 use graphs of random
+decay to show that
+such processes have
+constant half-lives;
+Definition of the term
+"half-life", T½ Use
+more than one set of
+values from graph for
+comparison.
+Plot graphs of
+demonstrations
+performed in SO 3.7.
+MathematicsFunctions,
+Relations and
+Graphs.
+Skills: AI; ORR.
+3.10 solve problems
+involving half-life;
+MathematicsAlgebra/
+Computation.
+Radioisotopes
+3.11 discuss the useful
+applications of radioisotopes;
+Tracers. Medical and
+industrial applications.
+Carbon dating.
+ChemistryIsotopes.
+CXC 22/G/SYLL 13 52
+SECTION E - THE PHYSICS OF THE ATOM (cont’d)
+SPECIFIC OBJECTIVES CONTENT/
+EXPLANATORY
+NOTES
+SUGGESTED
+PRACTICAL
+ACTIVITIES
+SKILLS AND
+INTERRELATIONSHIP
+Students should be able to:
+Nuclear Energy
+3.12 relate the release of
+energy in a nuclear
+reaction to a change
+in mass;
+Application of
+Einstein’s equation:
+ E = mc2
+.
+Include fission and
+fusion.
+MathematicsAlgebra/
+Computation.
+Skill: AI.
+3.13 cite arguments for
+and against the
+utilisation of nuclear
+energy.
+Cost of environmental
+impact; disposal;
+safety.
+Biology-Ecology.
+Suggested Teaching and Learning Activities
+To facilitate students’ attainment of the objectives of this Section, teachers are advised to engage
+students in the teaching and learning activities below. These activities are designed to promote
+inquiry-based learning and cater to students with various learning styles.
+1. Fusion and fission: Write a play of the story of “Cold Fusion” and its discovery. At the end of
+the play, explain how energy from fusion can only occur naturally in the sun.
+http://w3.gre.ac.uk/~bj61/talessi/tlr22.html
+2. Nuclear Radiation: Organise a class debate for and against the establishment of a nuclear
+reactor in the Caribbean.
+http://news.discovery.com/tech/top-five-nuclear-disasters.html
+http://www.benefitsofnuclearpower.com/
+3. Cosmic radiation: Write a short science fiction story of an Astronomer travelling to Mars and
+the risks he or she is exposed to.
+http://spaceinfo.com.au/2011/05/07/space-travel-could-kill-you/
+4. Nuclear radiation: Design a poster showing the uses of radiation in medicine.
+http://health.howstuffworks.com/medicine/modern/nuclear-medicine.htm
+5. Marie Curie: Design a poster highlighting the accomplishments of Marie Curie particularly as
+a woman in a male dominated field.
+http://nobelprize.org/nobel_prizes/physics/laureates/1903/marie-curie-bio.html
+6. Science in research: Conduct research to ascertain if there are any scientists in the region
+working on nuclear energy. What are the challenges and opportunities for it in the region?
+CXC 22/G/SYLL 13 53
+ GUIDELINES FOR THE SCHOOL-BASED ASSESSMENT
+RATIONALE
+School-Based Assessment (SBA) is an integral part of student assessment in the course covered by this
+syllabus. It is intended to assist students in acquiring certain knowledge, skills and attitudes that are
+critical to the subject. The activities for the School-Based Assessment are linked to the “Suggested
+Practical Activities” and should form part of the learning activities to enable the student to achieve the
+objectives of the syllabus.
+During the course of study of the subject, students obtain marks for the competencies they develop
+and demonstrate in undertaking their SBA assignments. These marks contribute to the final marks and
+grades that are awarded to students for their performance in the examination.
+The guidelines provided in this syllabus for selecting appropriate tasks are intended to assist teachers
+and students in selecting assignments that are valid for the purpose of the SBA. These guidelines are
+also intended to assist teachers in awarding marks according to the degree of achievement in the SBA
+component of the course. In order to ensure that the scores awarded by teachers are not out of line
+with the CXC standards, the Council undertakes the moderation of a sample of SBA assignments
+marked by each teacher.
+School-Based Assessment provides an opportunity to individualise a part of the curriculum to meet the
+needs of students. It facilitates feedback to the students at various stages of the experience. This
+helps to build the self-confidence of the students as they proceed with their studies. School-Based
+Assessment further facilitates the development of critical skills and that allows the students to function
+more effectively in their chosen vocation and in everyday life. School-Based Assessment therefore,
+makes a significant and unique contribution to the development of relevant skills by the students. It
+also provides an instrument for testing them and rewarding them for their achievements.
+PROCEDURES FOR CONDUCTING SBA
+SBA assessments should be made in the context of normal practical coursework exercises. It is
+expected that the exercises would provide authentic learning experiences. Assessments should only
+be made after candidates have been taught the skills and given enough opportunity to develop
+them. Sixteen practicals over the two-year period would be considered the minimum number for
+candidates to develop their skills and on which to base realistic assessments. These practicals MUST
+include all of the following:
+1. Pendulum.
+2. Momentum/Conservation of Energy.
+3. Specific heat capacity/Specific Latent heat capacity.
+4. Refraction.
+5. Series and Parallel Circuits.
+6. I-V Relationships.
+7. Radioactivity Decay (Simulation).
+Each skill must be assessed at least three times over the two-year period. Candidates should be
+encouraged to do corrections so that misconceptions will not persist. As the assessment of
+certain skills, especially those requiring on-the-spot observation or involve looking at several
+CXC 22/G/SYLL 13 54
+behaviours or criteria, teachers are advised to select not more than two skills to be assessed in any
+activity. The practical exercises selected to be used for assessment should make adequate demands
+on the candidates and the skills assessed should be appropriate for the exercises done. For the
+assessment of written work, the practical selected should be one that can be completed in the time
+allotted for the class and the notebooks should be collected at the end of the period.
+Candidates who have not been assessed over the two-year period will be deemed absent from the
+whole examination. Under special circumstances, candidates who have not been assessed at all
+points may, at the discretion of CXC, have their marks pro-rated (adjusted proportionately).
+1. In preparation for an SBA practical, the teacher should:
+(a) select tasks which must include the seven (7) topics on page 53 and should be
+related to a given syllabus objective. These tasks may be chosen from the
+“Suggested Practical Activities” and should fit in with the normal work being done in
+that class;
+(b) list the materials including quantities and equipment that will be needed for each
+student;
+(c) carry out the experiment beforehand, if possible, to ascertain the suitability of
+materials and the kind of results (observations, readings) which will be obtained,
+noting especially any unusual or unexpected results;
+(d) list the steps which will be required by the candidates in performing the experiment.
+From this it will be clear to the teacher how the candidates should be arranged in
+the laboratory, whether any sharing of equipment or materials is necessary, the
+skills which can be assessed from the practical, and the instructions to be given;
+(e) list the skills that may be assessed (for example, observation/recording/reporting,
+analysis and interpretation). No more than two practical skills should be assessed
+from any one activity;
+(f) select the skills to be assessed on this occasion. Skills other than those required for
+that year should also be included for teaching purposes;
+(g) work out the criteria for assessing each skill. This will form the basis of a mark
+scheme and a checklist.
+2. The teacher should carry out the assessment and record the marks.
+This is the most critical step in the assessment process. For a teacher to produce marks that
+are reliable, the marking must be consistent for all candidates and the marks should reflect
+the standard of performance at the level. The teacher must be able to justify the marks, and
+this occurs when there is a fixed set of conditions, factors or criteria for which the teacher
+looks. Marks should be submitted electronically to CXC on the SBA form provided. The
+forms should be dispatched through the Local Registrar by the Moderator to reach CXC by 30
+April of the year of the examination.
+CXC 22/G/SYLL 13 55
+ASSESSMENT OF PRACTICAL SKILLS
+School-Based Assessment will assess skills under the profiles Experimental Skills and Use of Knowledge
+(Analysis and Interpretation only).
+The assessment will be conducted during Terms 1 - 5 of the two-year period following the programme
+indicated in the Table below.
+SBA SKILLS TO BE ASSESSED FOR CXC MODERATION
+PROFILE
+SKILLS YEAR 1 YEAR 2 TOTAL
+NO. OF
+TIMES
+SKILLS TO
+BE
+ASSESSED
+MARKS
+NO. OF
+TIMES
+SKILLS TO
+BE
+ASSESSED
+MARKS
+NO. OF
+TIMES
+SKILLS TO
+BE
+ASSESSED
+MARKS
+XS
+Manipulation/
+Measurement
+1 10 2 20 3 30
+90
+(30*)
+Observation/
+Recording/
+Reporting
+1 10 2 20 3 30
+Planning and
+Designing
+2 20 1 10 3 30
+UK Analysis and
+Interpretation
+2 20 1 20 3 40 40
+(10*)
+TOTAL 6 60 6 70 12 130 40*
+*Weighted mark
+Investigative project to be done in Year 2.
+The investigative project would be assessed for two skills, Planning and Design and Analysis and
+Interpretation.
+Students who are pursuing two or more of the single science subjects (Biology, Chemistry, Physics)
+may opt to carry out ONE investigation* only from any of these subjects.
+[ONLY the marks for the investigation can be transferred across subjects.]
+CXC 22/G/SYLL 13 56
+ASSESSMENT OF INVESTIGATION SKILLS
+Proposal (Planning and Design)
+The maximum marks available for the Proposal is 10 marks
+The format for this part is shown below
+Observation/Problem/Research question stated
+Hypothesis 2 marks
+Aim 1 mark
+Materials and Apparatus 1 mark
+Method 2 marks
+Controlled variables 1 mark
+Expected Results 2 marks
+Assumptions, Precautions/ Limitations 1 mark
+TOTAL 10 marks
+Implementation (Analysis and Interpretation)
+The maximum marks available for the Implementation is 20 marks
+The format for this part is shown below.
+Method 1 mark
+Results 4 marks
+Discussion 5 marks
+Limitation 3 marks
+Reflection 5 marks
+ Conclusion 2 marks
+TOTAL 20 marks
+CXC 22/G/SYLL 13 57
+REPORTING FORMAT OF INVESTIGATION
+PART A THE PROPOSAL (Planning and Design)
+Statement of the Problem – Can be an observation, a problem
+Hypothesis
+Aim – Should be related to the hypothesis
+Materials and Apparatus
+Method – Should also include variables
+Assumptions/Precautions
+Expected Results
+PART B THE IMPLEMENTATION (Analysis and Interpretation)
+Method - Linked to Part A (change of tense)
+Results
+Discussion – Explanations/Interpretations/Trends
+Limitations
+Reflections
+Conclusion
+CRITERIA FOR ASSESSING INVESTIGATIVE SKILLS
+A. PLANNING AND DESIGN
+HYPOTHESIS 2
+ - Clearly stated 1
+ - Testable 1
+AIM 1
+- Related to hypothesis 1
+MATERIALS AND APPARATUS 1
+- Appropriate materials and apparatus 1
+METHOD 2
+- Suitable 1
+- At least one manipulated or responding variable 1
+CONTROLLED VARIABLE 1
+-Controlled variable stated 1
+EXPECTED RESULTS 2
+- Reasonable 1
+- Link with method 1
+ASSUMPTIONS/PRECAUTIONS/POSSIBLE SOURCES OF
+ERRORS
+1
+- Any one stated 1
+
+ TOTAL (10)
+CXC 22/G/SYLL 13 58
+B. ANALYSIS AND INTERPRETATION
+METHOD
+ Linked to Proposal, Change of tense
+1
+RESULTS 4
+- Correct formulae and equations:
+ Accurate (2)
+ Acceptable (1)
+2
+- Accuracy of data:
+ Accurate (2)
+ Acceptable (1)
+2
+DISCUSSION 5
+- Explanation
+ Development of points:
+ Thorough (2)
+ Partial (1)
+2
+- Interpretation
+Fully supported by data (2)
+ Partially supported by data (1)
+2
+- Trends:
+ Stated
+1
+LIMITATIONS
+-Sources of error identified
+-Precautions stated
+1
+1
+3
+-Limitation stated 1
+REFLECTIONS 5
+- Relevance between the experiment and real life
+ (Self, Society or Environment)
+1
+- Impact of knowledge gain from experiment on self 1
+- Justification for any adjustment made during experiment 1
+- Communication of information 2
+ (Use of appropriate scientific language, grammar and clarity of
+ expression all of the time (2); some of the time (1)
+CONCLUSION 2
+- Stated 1
+- Related to the aim 1
+TOTAL (20)
+CXC 22/G/SYLL 13 59
+EXEMPLAR OF INVESTIGATIVE PRACTICAL
+EXEMPLAR 1
+PART A-THE PROPOSAL
+Observation
+During lunch break at school Darren noticed his rubber ball did not bounce as high as it normally
+would when it landed on a paper towel. Darren now claims if more paper towels are added the
+ball’s rebound height would decrease.
+Hypothesis: The height of rebound of a rubber ball decreases with the addition of paper towels.
+Aim: To investigate the height of rebound [Hr] of a rubber ball with increasing paper towels.
+Apparatus: Meter rule; paper towels; rubber ball; pencil.
+Diagram
+
+Variables
+Independent – Number of paper towels
+Dependent – Height of rebound
+Controlled/ Constant – Rubber Ball; Height of Release
+CXC 22/G/SYLL 13 60
+Method
+1. Securely place meter rule vertically against a wall.
+2. Mark off a suitable release height [HO] , [the ball must be allowed to FALL vertically and
+REBOUND on nearly the same straight line].
+3. With no paper towels at the base of the meter ruler, release the rubber ball from the
+marked height [the ball must be completely above the marked line with its bottom edge just
+touching the line].
+4. Observe and record the rebound height of the ball [HR], [this should be done from in front of
+the ruler and eye level]. Repeat twice for this number of paper towels. Record all data.
+5. Place a single paper towel at the base of the ruler and release it from marked height.
+6. Observe and record the rebound height of the ball. Repeat steps 4 and 5 twice for that
+number of paper towels, recording all data.
+7. Continue adding paper towels and repeat step 6 until there are 8 paper towels.
+8. Calculate average rebound height [Hr] for each number of paper towels.
+9. Plot a graph of Rebound Height [y axis] against Number of paper towels [x axis]
+Expected Results
+The rubber ball will reach maximum rebound height when it bounces on the ground with no paper
+towels present. As the paper towels are added it will rebound to a consistently lower height.
+CXC 22/G/SYLL 13 61
+PART B- THE IMPLEMENTATION
+Method
+1. The meter rule was securely placed vertically against a wall with the 0 cm end touching the
+ground.
+2. The release height, Ho, was set at 60 cm.
+3. With no paper towels at the base of the meter ruler, the rubber ball was released from the
+60 cm mark and the height of rebound was recorded. This step was repeated two more
+times and the data recorded.
+4. A single paper towel was placed at the base of the ruler and the ball was released from the
+60 cm mark. The new height of rebound was recorded. This was repeated two more times
+and data recorded.
+5. Another paper towel was added and the rubber ball was released three times from the 60
+cm mark. All rebound heights were recorded.
+6. Step 5 was repeated until there were 7 paper towels at the base of the ruler.
+7. The average rebound height [Hr] was calculated for each number of paper towels.
+8. A graph of Rebound Height [y axis] against Number of paper towels [x axis] was plotted.
+Results
+# of paper towels Rebound Height,
+HR[cm]
+(Attempts)
+Average
+Rebound
+Height, HR[cm]
+1 2 3
+0 42 43 42 42
+1 42 42 42 42
+2 41 41 41 41
+3 39 40 39 39
+4 36 35 36 36
+5 34 35 35 35
+6 33 33 33 33
+7 32 32 32 32
+CXC 22/G/SYLL 13 62
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+0 1 2 3 4 5 6 7 8 9
+Rebound Height HR [cm]
+Number of Paper Towels
+Graph of Rebound Height Against Number of
+Paper Towels for a Rubber Ball
+(0, 43)
+(8, 30)
+CXC 22/G/SYLL 13 63
+Calculations
+Using points (0, 43) and (8, 30) to calculate the slope/gradient:
+S =
+
+
+=
+
+=
+
+= 1.6 (cm/paper towel)
+Discussion
+When the results were represented on a graph, the points defined a straight line. This allows the
+relation between the rebound height and the paper towels to be described by a linear equation of
+the form:
+y = mx + c
+Where y = Rebound height, x = number of paper towels, m = slope/gradient and c = intercept on the
+y-axis.
+From the calculations the relation between the paper towels and the rebound height of the ball is
+described by:
+RH = 1.6N + 43
+Where RH is the rebound height and N is the number of paper towels.
+When N = 0, the rebound height is 43 cm. As N increases, RH decreases because the slope is
+negative. According to the relation, the rebound height will be zero when the number of paper
+towels is approximately 27.
+Limitations
+Sources of Error/Limitation
+The ball achieves its rebound height for a very short time. To measure this height during this short
+time was difficult. At times only an approximation can be made. This introduces an error and a
+limitation in determining the accurate rebound height whenever a paper towel is added.
+Precautions
+Read rebound heights perpendicular to the ruler.
+Repeat the experiment for each number of paper towels at least 3.
+Reflections
+The paper towels used in this experiment are much softer than the ground and the ball. This
+indicates that the paper towels decreases the rate of change of momentum of the ball and as a
+result decreases the force of impact of the ball with the ground. The reduction in the force of
+impact is as a result of the work done in compressing the paper towels on impact. Thus, the ball has
+less energy to rebound and as a result its rebound height decreases.
+Conclusion
+The rebound height decreases with increasing number of paper towels.
+CXC 22/G/SYLL 13 64
+Exemplar 2
+PART A - THE PROPOSAL
+Observation
+During a power outage one night, Devon lit a candle and without thinking, placed it near to his
+bedroom wall. Shortly after, the power was restored. He was surprised when he noticed the wall
+was warm. The following day in school he told some classmates about this and they decided to see
+how much energy a candle could release in a few minutes.
+Aim: To investigate the heat energy released by a candle in 5 minutes.
+Apparatus: Tripod stand; candle; insulated beaker; stirrer; thermometer; retort stand.
+
+Variables
+Independent – Time for which candle is lit
+Dependent – Energy Released
+Controlled – volume of water
+Method
+1. Fill the beaker up to the 300 ml mark with distilled water and place it on the tripod stand.
+2. Using the retort stand, suspend the thermometer in the centre of the beaker [ensure the
+thermometer does not touch the bottom of the beaker]. Observe and record initial
+temperature of the water.
+3. Place candle directly under the tripod stand and light it [ensure the flame is as close to the
+bottom of the beaker as possible].
+4. Let the candle light for 5 minutes. Observe and record the final temperature of the water.
+5. Calculate the heat supplied by the candle using the formula EH = mcΔΘ.
+CXC 22/G/SYLL 13 65
+Expected Results
+The temperature of the water will increase by as much as 5⁰ or more.
+PART B - THE IMPLEMENTATION
+Method
+1. The beaker was filled up to the 300 ml mark with distilled water and placed on the tripod
+stand.
+2. Using the retort stand, the thermometer was secured at the centre of the beaker so that it
+does not touch the bottom of the beaker. The initial temperature of the water was
+measured and recorded.
+3. The candle was placed directly under the tripod stand and lit. It was ensured the flame was
+as close to the bottom of the beaker as possible. The stop watch was started
+simultaneously.
+4. The candle was allowed to be lit for 5 minutes .
+5. The final temperature of the water after the five minutes was measured and recorded.
+6. The heat supplied by the candle was calculated using the formula EH = mcΔΘ.
+CXC 22/G/SYLL 13 66
+Results
+Initial Temperature of water [Θ1] = 28°C
+Final Temperature of water [Θ2] = 34°C
+Volume of water = 300 ml
+Calculations:
+Temperature change [ΔΘ] = Θ2 – Θ1 [note the temperature change in degrees Celsius is the same as
+in Kelvin] = 34 – 28 = 6 K
+Mass of water = Volume of water × Density of water
+= 300cm3
+× 1g/cm3
+= 300g = 0.3kg
+EH = mass of water × temperature change × specific heat capacity of water
+EH = 0.3 kg × 6 K × 4200 J/kg/K
+EH = 7560 J
+Discussion
+The amount of energy released by a candle in 5 minutes was of the order of several kilojoules. If the
+candle was lit for a longer period of time more energy would be released. It requires 90,720 J of
+heat energy to bring 300 g of water to its boiling point. According to the calculations, it would take
+the candle approximately 12 minutes to accomplish this task.
+Limitations
+Sources of Error/Limitation
+Not all the heat energy produced by the candle was absorbed by the water. Some heat energy was
+absorbed by the beaker and tripod stand. Hence, the heat energy yielded for this experiment is only
+a fraction of the total heat energy produced by the candle.
+Precautions
+Read temperature perpendicular to the scale and above the meniscus.
+Place candle as close to the beaker as possible
+Reflections
+Candles are commonly used during power outages as a source of light. A lit candle generates both
+light energy and heat energy. The latter being the greater energy produced. These cheap and
+common light sources can be dangerous if attention is not paid to how and where they are placed.
+Conclusion
+The heat energy released by the candle in 5 minutes is 7560 J.
+CXC 22/G/SYLL 13 67
+Moderation of School-Based Assessment
+The reliability (consistency) of the marks awarded by teachers on the School-Based Assessment is an
+important characteristic of high quality assessment. To assist in this process, the Council undertakes
+on-site moderation of the School-Based Assessment conducted by visiting external Moderators.
+The Moderator will make a first visit in Term 3 of Year 1. Teachers must make available to the
+Moderator ALL Assessment Sheets (Record of Marks, Mark Schemes and the proposal for the
+Investigation).
+During the Term 2 of Year 2, the Moderator will make a second visit. Teachers must make available
+to the Moderator ALL Assessment Sheets (Record of Marks, Mark Schemes and the report on the
+Investigation). Teachers are NOT required to submit to CXC samples of candidates’ work, unless
+specifically requested to do so by the Council BUT will be required to submit the candidates’ marks
+electronically.
+The Moderator will remark the skills, and investigation reports for a sample of five candidates, who
+are selected using the guidelines listed below.
+1. Candidates’ total marks on the SBA are arranged in descending order (highest to lowest).
+2. The sample comprises the work of the candidates scoring the:
+(a) highest Total mark;
+(b) middle Total mark;
+(c) lowest Total mark;
+(d) mark midway between the highest and middle Total mark;
+(e) mark midway between the middle and lowest Total mark;
+3. The candidates selected above may be required to demonstrate some
+ practical skills.
+Teachers’ marks may be adjusted as a result of the moderation and feedback will be provided by the
+Moderator to the teachers.
+The Moderator may re-mark the assignments of additional candidates. Where the total number of
+candidates is five or fewer, the Moderator will remark ALL.
+On the first visit, the Moderator will re-mark a sample of the Year 1 candidates. A copy of this report
+must be retained by the teacher, and be made available to the Moderator during Term 2 of Year 2.
+The Moderator will submit the Assessment Sheets, moderation of SBA Sample and the moderation
+reports to the Local Registrar by April 30 of the year of the examination. A copy of the Assessment
+Sheets and candidates’ work must be retained by the school for three months after the examination
+results are published by CXC.
+School-Based Assessment Record Sheets are available online via the CXC’s website www.cxc.org.
+All School-Based Assessment Record of marks must be submitted online using the SBA data capture
+module of the Online Registration System (ORS).
+CXC 22/G/SYLL 13 68
+STRATEGIES FOR ASSESSING PRACTICAL OBJECTIVES
+The basic strategy for assessing practical objectives in Physics comprises the following:
+STEP I
+Selection of the task or investigation and the corresponding syllabus objectives.
+STEP II
+1. Preparing the apparatus and the teacher performing the activity.
+2. Determining and selecting skills to be assessed.
+3. Developing the criteria for assessing each skill.
+4. Designing rating scales based on the criteria.
+STEP III
+Breakdown of work to be done by candidate.
+STEP IV
+Carrying out assessment and recording marks.
+Further explanation of Steps I-IV
+The following is a more detailed explanation of what should take place in Steps I - IV.
+Re: STEP I
+The selection of the task or investigation should be done along with the preparation of the
+scheme of work for the term or year for each class. The task selected should contribute to the
+development of skills and attitudes within the subject and match a given syllabus objective
+(general or specific). Both qualitative and quantitative work should be included.
+Re: STEP II
+1. After selection of the task the teacher should prepare the required apparatus and
+materials. The teacher should perform the activity before presentation to the
+candidates as this can help in determining the steps involved and the skills that can be
+assessed (see Step III).
+2. Before selecting the skills to be assessed the teacher should list all the skills that could
+be assessed. This may be achieved by preparing a step by step outline of the task and
+noting the skills involved in each step. Teachers are advised whenever possible to
+select only one skill to be assessed in any one activity.
+3. Developing the criteria for assessing each skill is the most critical step in the
+assessment process. For a teacher to produce marks that are reliable the marking
+must be consistent for all candidates and the marks should reflect the standard of
+performance at the level. The teacher must be able to justify the marks and this
+occurs when there is a fixed set of conditions, factors or criteria for which the teacher
+looks.
+CXC 22/G/SYLL 13 69
+CRITERIA FOR THE ASSESSMENT OF EACH SKILL
+For each skill there may be a number of general criteria from which the teacher may select
+depending on the nature of the activity. It is especially important to make such a selection
+when there are numerous criteria as it is difficult to assess more than a few at a time without
+sacrificing accuracy. The following lists represent general criteria as may be defined under a
+particular skill:
+A. OBSERVATION/RECORDING/REPORTING
+(i) Selects appropriate observations.
+(ii) Makes accurate recordings/observations.
+(iii) Uses appropriate format of presentation.
+(iv) Uses acceptable language/expression.
+(v) Uses appropriate tables/diagrams/graphs.
+B. MANIPULATION/MEASUREMENT
+(i) Follows instructions.
+(ii) Uses basic laboratory equipment correctly.
+(iii) Sets up electrical circuits correctly.
+(iv) Uses electrical circuits correctly.
+(v) Prepares material for observation or investigation correctly.
+C. PLANNING AND DESIGNING
+(i) Suggests appropriate hypotheses.
+(ii) Suggests suitable and feasible methods for data collection.
+(iii) Identifies and controls variables appropriately.
+(iv) Takes account of possible sources of error or danger.
+D. ANALYSIS AND INTERPRETATION
+(i) Makes accurate calculations and logical inferences from data.
+(ii) Predicts from data.
+(iii) Evaluates data (including sources of error).
+(iv) Identifies relationships and patterns within data.
+NOTE: Plotting and drawing of graphs would be assessed in
+Observation/Recording/Reporting whereas inferences from graphs would be
+assessed under Analysis and Interpretation.
+CXC 22/G/SYLL 13 70
+Using a Checklist
+Assessing candidates in some of the skills could be conveniently done by marking the candidates'
+laboratory notebooks. However, in the skills Manipulation/Measurement teachers will find it
+easier to write down marks as the activity is occurring. A convenient way of doing this is by using
+checklists. The column headings reflect what the teacher is looking for and a tick may be used to
+show that the candidate was displaying a satisfactory behaviour. More than one tick may occur
+in one column if the teacher checks a candidate more than once during the activity. A zero may
+be used to show that the candidate was displaying an unsatisfactory behaviour. The ticks and
+zeros should help the teacher decide on a mark for a candidate (see below).
+CHECKLIST FOR USE OF A MEASURING CYLINDER
+NAMES Rests on flat
+surface
+Meniscus read
+to avoid parallax
+Bottom of
+meniscus read
+MARK
+L. Allie
+H. Cassie
+S. Williams
+D. Wong
+4. If the criteria are clear and adequate, a rating scale is relatively easy to define. The
+range required by the syllabus is an 11-point scale ranging from 0-10. If the number of
+criteria is small then several assessments may be necessary, perhaps of different
+pieces of apparatus in one activity.
+It is important that a record of the criteria and rating scale used for each activity be
+kept to avoid duplication and it is advisable to submit, along with the final mark sheet
+of candidates' scores, a copy of such record.
+Re: STEP III
+The teacher should prepare a step by step outline of the task. Such an analysis would
+provide a good guide as to the format of the sessions, for example, work stations, groups,
+individual and worksheets, experimental format and the skills and objective(s) which may be
+assessed.
+Re: STEP IV
+A Teacher's Mark Book (which is retained by the school) should contain all the marks from
+which the averages are derived. The SBA Form which is submitted to CXC shows only the
+candidate's average mark at each point in each skill to be assessed at the point. At the end of
+this appendix is an example of the SBA Form and a possible format of a Teacher's Mark Book.
+CXC 22/G/SYLL 13 71
+LABORATORY NOTEBOOKS
+A sample of laboratory notebooks will be required to help moderate the teacher's scores.
+1. The notebook should contain all the practical work that the candidate does (not only that
+which is assessed).
+2. It is advisable for three pages to be left blank at the front of the practical notebook for a list of
+contents giving the practical activity and the date on which it was performed.
+3. The activities used for SBA should be indicated.
+4. The marks awarded for each skill selected within an activity should be indicated.
+5. The notebooks should contain a variety of practical activities that are spread over the entire
+syllabus. Teachers may wish to consider some of the questions set by CXC in Question 1 of the
+Practical examination prior to 1997 as possible examples of open-ended investigative
+activities.
+SELECTION OF ACTIVITIES
+Teachers must bear in mind that opportunities for the development of the skills in the SBA are needed
+before their assessment. Again the point is made that practicals of a more open-ended, investigatory
+nature should also be utilized. Teachers should refer to the “Suggested Practical Activities" for ideas
+for practical work in the different section of the syllabus.
+CXC 22/G/SYLL 13 72
+APPLYING THE ASSESSMENT STRATEGY
+EXAMPLE
+The following is an example of how the strategy may be applied to a specific task:
+STEP I
+To investigate the factors which might affect the period of simple pendulum (Specific Objective
+Section A 1.2).
+STEPS II AND III
+Apparatus per candidate or group
+Stand or clamp, fine thread, several small objects of various masses for use as pendulum bobs, stop
+watch, metre rule.
+1. Outline of task
+(a) Sets up apparatus appropriately.
+(b) Controls variables (in procedure).
+(c) Times several oscillations more than once.
+(d) Averages sensible results.
+(e) Compares results and draws appropriate conclusions.
+2. Manipulation/Measurement is the skill selected for assessment.
+3. Manipulation/Measurement
+Criteria for assessment.
+(a) Uses vertical reference lines.
+(b) Measures length of pendulum to centre of bob.
+(c) Checks zero error on stop clock or stop watch.
+(d) Operates clock or watch correctly.
+(e) Uses count down method.
+(f) Reads scale to avoid parallax.
+Note: The same experiment could have been used to assess Planning and Designing as
+follows:
+Planning and Designing
+(i) identifies appropriate variables.
+(ii) maintains all but one variable constant for one series of readings.
+(iii) times a reasonable number of oscillations.
+(iv) repeats timing for same number of oscillations under same conditions.
+CXC 22/G/SYLL 13 73
+4. Teacher's rating scale
+STEP IV
+Assessment performed and marks entered in Teacher's Mark Book.
+RECORDING FOR SBA
+Teacher's Mark Book
+Teacher's Mark Book
+ N.B.:
+1. Although more than one skill may be assessed by any one component, the marks are
+more objective if the teacher concentrates on assessing one skill during a particular
+period of time.
+2. Note that no special assessment exercises need to be planned. The teachers will,
+as is customary, be recording periodic "marks" for their candidates. The difference
+is that, since these "marks" will now contribute to an assessment external to the
+school, they need to be more directed. Several of the objectives can be assessed
+from work which would normally be collected for marking.
+
+SKILL OBSERVATION/RECORDING/
+ REPORTING
+MANIPULATION/
+MEASUREMENT
+ANALYSIS AND
+INTERPRETATION
+PLANNING AND
+DESIGNING
+TOTAL
+Date 18/1 Total
+Out
+of
+10
+10/12 Total
+Out
+of
+10
+25/1 28/3 Tot.
+Out
+of
+20
+3/2 31/3 Tot.
+Out
+of
+20
+YEAR 1
+Maximum
+Mark
+12 12 8 4 15 10 25 8 9 17 60
+Ammar,
+Annette
+12 5 9 7 4 9 10 8 18 14 6 5 11
+12
+McNab,
+Bryan
+10 4 6 6 3 7 12 10 22 18 3 2 5 6
+Singh, Ricki 4 2 3 4 3 7 1 5 6 4 2 7 9 10
+Thompson,
+Neil
+
+9 5 8 8 3 8 8 4 12 10 4 9 13 16
+Wong,
+Claudette
+
+7 4 6 3 2 5 14 9 23 18 3 4 7 8
+SKILL OBSERVATION/RECORDING/
+REPORTING
+MANIPULATION/
+MEASUREMENT
+ANALYSIS AND
+INTERPRETATION
+PLANNING AND
+DESIGNING
+TOTAL
+Date 14/3 Tot.
+Out
+of
+20
+20/4 Tot.
+Out
+of
+20
+Tot.
+Out of
+10
+3/2
+31/3
+Tot.
+Out of
+20
+YEAR 1
+Maximum
+Mark
+ 6 27 4 18 25 8
+9
+17 70
+Ammar,
+Annette
+ 5 25 4 16 18 6
+5
+11
+McNab,
+Bryan
+ 4 16 3 11 22 3
+2
+ 5
+Singh, Ricki 2 9 3 12 6 2
+7
+ 9
+Thompson,
+Neil
+
+ 5 21 3 14 12 4
+9
+13
+Wong,
+Claudette
+
+ 4 17 2 9 23 3
+4
+ 7
+CXC 22/G/SYLL 13 74
+CARIBBEAN EXAMINATIONS COUNCIL
+SCHOOL-BASED ASSESSMENT IN PHYSICS7
+NAME OF SCHOOL: SCHOOL CODE: YEAR OF FINAL EXAMINATION_____________________
+NAME OF TEACHER: TERRITORY:
+REGISTRATION
+NUMBER
+CANDIDATES
+NAME
+YEAR 1 TOTAL
+YEAR 2
+TOTAL
+TOTAL
+COMMENTS
+XS
+MM
+XS
+ORR
+XS
+PD
+UK
+AI Year 1
+XS
+MM
+XS
+ORR
+XS
+PD
+UK
+AI Year 2
+PROFILE OVERALL
+P3 (10) P3 (10) P3 (20) P2 (20) 60 P3 (20) P3 (20) P3 (10) P2 (20) 70 P3 (90) P2 (40)
+TEACHER'S SIGNATURE: PRINCIPAL'S NAME: __________________________________
+ DATE: ____________________________________ PRINCIPAL'S SIGNATURE: ____________________________________
+CXC 22/G/SYLL 13 75
+ LIST OF PHYSICAL QUANTITIES AND THEIR SYMBOLS
+
+NAME OF QUANTITY SYMBOL NAME OF QUANTITY SYMBOL
+ELECTRIC CURRENT
+ LENGTH
+ MASS
+ TEMPERATURE: (KELVIN)
+ (CELSIUS)
+ TIME
+VOLUME
+ AREA
+ ANGLE
+ DENSITY
+ RELATIVE DENSITY
+ FORCE
+ MOMENT OF FORCE OR TORQUE
+ DISPLACEMENT, DISTANCE
+ SPEED, VELOCITY
+ ACCELERATION
+ MOMENTUM
+ ENERGY
+ WORK
+ POTENTIAL ENERGY
+ KINETIC ENERGY
+ THERMAL ENERGY
+ POWER
+ PRESSURE
+ SPECIFIC HEAT CAPACITY
+ HEAT CAPACITY
+
+l
+m
+T
+
+t
+V
+A
+
+
+ r
+F
+T
+s, x
+v
+a
+P
+E, W
+W
+EP
+EK
+EH
+P
+P
+c
+C
+SPECIFIC LATENT HEAT
+OF FUSION
+OF VAPORISATION
+WAVELENGTH
+PERIOD
+AMPLITUDE
+FREQUENCY
+OBJECT DISTANCE
+IMAGE DISTANCE
+FOCAL LENGTH
+REFRACTIVE INDEX
+LINEAR MAGNIFICATION
+ELECTRIC CHARGE
+POTENTIAL AND
+POTENTIAL DIFFERENCE
+ELECTRO-MOTIVE FORCE
+RESISTANCE
+WEIGHT (GRAVITATIONAL FORCE)
+ACCELERATION DUE TO GRAVITY
+MASS OF ELECTRON
+CHARGE OF ELECTRON
+PROTON (ATOMIC) NUMBER
+NUCLEON (MASS) NUMBER
+NEUTRON NUMBER
+HALF LIFE
+VELOCITY OF LIGHT IN VACUO
+l
+f
+lv
+
+T
+a
+f
+u
+v
+f
+n
+m
+Q
+V
+E
+R
+W
+g
+me
+e
+Z
+A
+N
+T½
+c
+
+CXC 22/G/SYLL 13 76
+ LIST OF GRAPHICAL SYMBOLS AS USED IN CIRCUIT DIAGRAMS
+DESCRIPTION GRAPHICAL SYMBOL(S) DESCRIPTION GRAPHICAL SYMBOL(S)
+EARTH GALVANOMETER
+CELL SEMI-CONDUCTOR
+DIODE
+BATTERY OF
+CELLS
+ELECTROLYTIC CELL
+OR VOLTAMETER
+D. C. SUPPLY FUSE
+A. C. SUPPLY FIXED RESISTOR
+SWITCH VARIABLE RESISTOR
+JUNCTION OF
+CONDUCTORS
+ELECTRIC MOTOR
+ONE WIRE
+CROSSING
+ANOTHER
+NO
+ELECTRICAL
+CONNECTION
+LOUDSPEAKER
+FILAMENT
+LAMP OR
+BULB
+TRANSFORMER
+VOLTMETER GENERATOR
+AMMETER
+OR
+OR
+OR
+OR
++ 
+OR
+OR
+V
+A
+G
+GEN
+CXC 22/G/SYLL 13 77
+LIST OF GRAPHICAL SYMBOLS AS USED IN CIRCUIT DIAGRAMS (cont’d)
+DESCRIPTION GRAPHICAL SYMBOL(S) DESCRIPTION GRAPHICAL SYMBOL(S)
+NOT OR
+AND NOR
+NAND
+CXC 22/G/SYLL 13 78
+QUANTITY ITEM QUANTITY ITEM
+1. 12 Metre rule 22. 12 Double pulley
+2. 12 Half metre rule 23. 1 Manometer
+3. 12 Callipers 24. 1 12m length of transparent PVC
+tubing diameter = 3cm
+4. 12 Vernier callipers 25. 8 Sets brass masses (1 x 10g;
+2x20g; 1x50g; 1x100g)
+5. 12 Micrometer screwgauge 26 12 Thermometer: 10C to 110C
+6. 5 Top pan balance 27. 5 Clinical thermometer
+7. 112 Spring balance (0 - 2.5)N 28. 1 Thermocouple
+8. 1 Spring balance (0 - 10)N 29. 1 Ball and ring demonstration
+apparatus
+9. 12 Stop watch (or clock) 30. 1 Bimetallic strip
+10. 24 Retort stand and
+clamp/boss head
+31. 20 Bunsen burner
+11. 12 Pendulum bob 32. 12 Tripod stand and wire gauze
+12. 5 Eureka/overflow can 33. 12 Beaker (100ml)
+13. 2 Sets rectangular blocks of
+different materials having
+similar and different
+dimensions
+34. 12 Beaker (250ml)
+14. 12 Knife edge (commercial or
+improvised)
+35. 12 Beaker (400ml)
+15. 12 Helical spring
+yielding 0.5N cm –1
+36. 12 100 ml graduated measuring
+cylinder.
+16. Thread/String (as needed) 37. 6 1 metre length of glass tubing
+(each 4mm internal diameter).
+17. 144 Straight (common) pin 38. 2 Glass funnel
+18. 12 Set hook (stirrup) + set of
+slotted masses (10 x 100g)
+39. 2 Sets rods of identical dimensions
+and different metals.
+19. 2 Acceleration trolley 40. 1 Ripple tank and accessories
+20. 1 Electronic timer 41. 1 Slinky spring
+21. 12 Single pulley 42. 1 Bell jar, electric bell and vacuum
+pump apparatus.
+43. 12 Pinboard (of softwood or
+cardboard or polystyrene).
+ RECOMMENDED MINIMUM EQUIPMENT LIST
+ (Recommended quantity per 25 candidates)
+CXC 22/G/SYLL 13 79
+QUANTITY ITEM QUANTITY ITEM
+44. 1 Ray optics kit 61. 1 Small d.c. motor (as from toy).
+45. 100 Optical pins 62. 12 Variable resistors, commercial or
+improvised.
+46. 12 Rectangular glass block 63. 2 Reel-resistance wire (bare)
+constantan (SWG 26)
+47. 12
+12
+Right-angled triangular
+glass prism.
+Equilateral triangular glass
+prism.
+64. 2 Reel-resistance wire (bare)
+constantan (SWG 28).
+48. 1 Light pipe 65. 2 Sets assorted standard resistors.
+49. 12 Converging lens-focal
+length 10 cm
+66. 12 Circuit key or switch.
+50. 12 Converging lens-focal
+length 15 cm
+67. 12 Diodes
+51. 5 Diverging lens- any focal
+length.
+68. 0.5kg Copper sulphate (CuSO4 5H20)
+52. 12 Thin plane mirror (each
+5cm x 8cm)
+69. 1 Pair-copper electrodes (thick
+bare copper wire suitable)
+53. 12 Power pack OR
+accumulator OR dry cells in
+holder or with soldered
+leads
+70. 1 Card-fuse wire.
+54. 5 Reel-varnished or insulated
+copper wire SWG 24.
+71. 1 110 V plug
+55. 12 Ammeter (0 - 1)A 72. 1 220 V plug.
+12 Voltmeter (0-5)V 73. 1 G.M. tube + electric accessories.
+12 Analog Multimeter 74. 1  radioactive source.
+56. 30 Doz. Crocodile clips 75. 1  radioactive source.
+57. 5 Small screwdrivers 76. 1  radioactive source.
+58. 1 Pair of pliers or wire cutter 77. 1 Set of aluminium and lead
+plates.
+78. 1 Diffusion cloud chamber.
+59. 24 2.5V (MES) torchlight
+electric lamp
+79. 2 1 Set-identical dice.
+60. 24 MES lamp holder 80. 2 Reel-PVC insulated connecting
+wire.
+CXC 22/G/SYLL 13 80
+ RESOURCES
+Avison, J., Henry, D. and Neeranjan, D. Physics for CSEC, United Kingdom: Nelson Thornes Limited,
+2007.
+Farley, A. and Trotz, C. CXC Physics, Oxford: Macmillan Education, 2007.
+Jackson, B. and Whiteley, P. Physics for CSEC, Jamaica: Carlong Publishers (Caribbean)
+Limited, 2007.
+CXC 22/G/SYLL 13 81
+ GLOSSARY
+WORD/TERM DEFINITION/MEANINGS NOTES
+annotate add a brief note to a label
+
+{simple phrase of a few words only;
+KC}
+apply use knowledge and principles to solve problems{make inferences and conclusions;
+UK}
+assess present reasons for the importance
+of particular structures, relationships
+or processes
+{compare the advantages and
+disadvantages or the merits and
+demerits of a particular structure,
+relationship or process; UK}
+calculate arrive at the solution to numerical
+problem
+{steps should be shown; units must
+be included; UK}
+cite quote or refer to {KC}
+classify divide into groups according to observable
+characteristics
+{UK}
+comment state opinion or view with supporting
+reasons
+{UK}
+compare state similarities and differences {an explanation of the significance of
+each similarity and difference stated
+may be required for comparisons
+which are other than structural; UK}
+construct use a specific format to make or draw a
+graph, histogram, pie chart or other
+representation using data or material
+provided or drawn from practical
+investigations, build (for example, a
+model) draw scale diagram
+{such representation should
+normally bear a title, appropriate
+headings and legend; UK}
+deduce make a logical connection between two
+or more pieces of information; use data
+to arrive at a conclusion
+{UK}
+define state concisely the meaning of a word or
+term
+{this should include the defining
+equation or formula where relevant;
+KC}
+CXC 22/G/SYLL 13 82
+WORD/TERM DEFINITION/MEANINGS NOTES
+demonstrate show, direct attention to… {KC}
+derive to deduce, determine or extract from data
+by a set of logical steps some relationship,
+formula or result
+{this relationship etc. may be
+general or specific; KC}
+describe provide detailed factual information on
+the appearance or arrangement of a
+specific structure or the sequence of a
+specific process
+{descriptions may be in words,
+drawings or diagrams or any
+appropriate combination.
+Drawings or diagrams should be
+annotated to show appropriate
+detail where necessary; KC}
+determine find the value of a physical quality {UK}
+design plan and present, with appropriate
+practical detail
+{where hypotheses are stated or
+when tests are to be conducted,
+possible outcomes should be
+clearly stated the way in which data
+will be analyzed and presented; XS}
+develop expand or elaborate on an idea or
+argument with supporting reasons
+{KC/UK}
+differentiate or
+distinguish
+(between or among)
+state or explain briefly those differences
+between or among items which can be
+used to define the items or place them
+into separate categories
+{KC}
+discuss present reasoned argument; consider
+points both for an against; explain the
+relative merits of a case
+{UK}
+draw make a line representation of apparatus
+which shows accurate relationship
+between the parts
+{A diagram is a simplified
+representation showing the
+relationship between components;
+KC/UK}
+estimate make an approximate quantitative
+judgement
+{UK}
+evaluate weigh evidence and make judgements
+based on given criteria
+{the use of logical supporting
+reasons for a particular point of
+view is more important than the
+view held; usually both sides of an
+argument should be considered;
+UK}
+CXC 22/G/SYLL 13 83
+WORD/TERM DEFINITION/MEANINGS NOTES
+explain give reasons, based on recall, to account
+for
+{KC}
+find locate a feature or obtain as from a graph {UK}
+formulate devise a hypothesis {UK}
+identify name or point out specific components or
+features
+{KC}
+illustrate show clearly by using appropriate
+examples or diagrams, sketches
+{KC/UK}
+investigate use simple systematic procedures to
+observe, record data and draw logical
+conclusions
+{XS}
+label add names to identify structures or parts
+indicated by pointers
+{KC}
+list itemise without detail {KC}
+measure take accurate quantitative readings using
+appropriate instruments
+{XS}
+name give only the name of {no additional information is
+required; KC}
+note write down observations {XS}
+observe pay attention to details which characterise
+reaction or change taking place; to
+examine and note scientifically
+{observations may involve all the
+senses or extensions of them but
+would normally exclude the sense of
+taste; XS}
+plan prepare to conduct an exercise {XS}
+predict use information provided to arrive at a
+likely conclusion or suggestion possible
+outcome
+{UK}
+record write an accurate description of the full
+range of observations made during a given
+procedure
+{this includes the values for any
+variable being investigated; where
+appropriate, recorded data may be
+depicted in graphs, histograms or
+tables; XS}
+CXC 22/G/SYLL 13 84
+WORD/TERM DEFINITION/MEANINGS NOTES
+relate show connections between; explain how
+one set of facts or data depend on others
+or are determined by them
+{UK}
+sketch Make a simple freehand diagram showing
+relevant proportions and any important
+details
+{KC}
+state provide factual information in concise
+terms omitting explanations
+{KC}
+suggest Offer an explanation deduced from
+information provided or previous
+knowledge. (... an hypothesis; provide a
+generalisation which offers a likely
+explanation for a set of data or
+observations.)
+{no correct or incorrect solution is
+presumed but suggestions must be
+acceptable within the limits of
+scientific knowledge; UK}
+test to find out following set procedures {XS}
+KEY TO ABBREVIATIONS
+KC - Knowledge and Comprehension
+UK - Use of Knowledge
+XS - Experimental Skills
+Western Zone Office
+12 June 2013
+CARIBBEAN EXAMINATIONS COUNCIL®
+Caribbean Secondary Education Certificate
+(CSEC)®
+PHYSICS
+Specimen Papers and Mark Schemes/Keys
+Specimen Papers: Paper 01
+Paper 02
+Paper 03/2
+Mark Schemes/Keys: Paper 02
+Paper 03/2
+01238010/SPEC 2012
+TEST CODE 01238010
+FORM 01238010/SPEC
+C A R I B B E A N E X A M I N A T I O N S C O U N C I L
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE
+EXAMINATION
+PHYSICS
+SPECIMEN PAPER
+Paper 01 – General Proficiency
+75 minutes
+READ THE FOLLOWING INSTRUCTIONS CAREFULLY
+1. This paper consists of 60 items. You will have 75 minutes to answer them.
+2. In addition to this test booklet, you should have an answer sheet.
+3. Each item in this test has four suggested answers, lettered (A), (B), (C) and (D). Read each
+item you are about to answer and decide which choice is best.
+4. On your answer sheet, find the number which corresponds to your item and shade the space
+having the same letter as the answer you have chosen. Look at the sample item below.
+Sample Item
+The SI unit of length is the
+Sample Answer
+(A) metre
+(B) newton A B C D
+(C) second
+(D) kilogram
+The best answer to this item is “metre”, so answer space (A) has been shaded.
+5. If you want to change your answer, erase it completely and fill in your new choice.
+6. When you are told to begin, turn the page and work as quickly and as carefully as you can.
+If you cannot answer an item, omit it and go on to the one. You can return later to the item
+omitted. You score will be the number of correct answers produced.
+7. You may do any rough work in the booklet.
+8. Figures are not necessarily drawn to scale.
+9. The use of silent electronic calculators is allowed.
+DO NOT TURN THIS PAGE UNTIL YOU ARE TOLD TO DO SO
+Copyright © 2012 Caribbean Examinations Council
+All rights reserved
+2
+01238010/SPEC 2012 GO ON TO THE NEXT PAGE
+1. Which of the following is a vector
+quantity?
+(A) Mass
+(B) Density
+(C) Moment
+(D) Momentum
+2. Which arrangement gives the greatest
+resultant force acting on the block?
+3. Which of the following is a nonrenewable energy source?
+(A) Biomass
+(B) Wind
+(C) Natural Gas
+(D) Sun
+4. Item 4 refers to the lamps below.
+The most stable lamp is
+(A) P
+(B) Q
+(C) R
+(D) S
+5. Which of the following is MOST
+suitable for measuring the diameter of a
+wire?
+(A) Metric rule
+(B) Tape measure
+(C) Vernier calipers
+(D) Micrometer screw gauge
+6. Which of the following is the correct SI
+unit for pressure?
+(A) Joule (J)
+(B) Pascal (Pa)
+(C) Newton-metre (Nm)
+(D) Newton per metre (Nm-1
+)
+3
+01238010/SPEC 2012 GO ON TO THE NEXT PAGE
+7. A vehicle with a uniform velocity of
+10ms-1
+is represented by which of the
+following graphs?
+8. Which of the following is NOT a vector
+quantity?
+(A) Mass
+(B) Force
+(C) Velocity
+(D) Acceleration
+9. Force is directly proportional to
+(A) velocity
+(B) acceleration
+(C) displacement
+(D) momentum
+10. A cyclist riding down a hill applies
+his brakes and eventually comes to
+rest at the bottom of the hill. Which of
+the following energy changes takes
+place?
+(A) Potential kinetic
+(B) Potential kinetic heat
+(C) Kinetic potential heat
+(D) Potential kinetic chemical
+11. Acceleration can be defined as the
+rate of change of
+(A) velocity
+(B) energy
+(C) momentum
+(D) displacement
+12. Which of the following does the
+pressure of a fluid depend?
+I. The depth of the fluid
+II. The density of the fluid
+III. The acceleration due to
+gravity
+(A) I only
+(B) II only
+(C) I and II only
+(D) I, II and III
+13. The period of a simple pendulum
+depends on
+(A) The length of the string
+(B) The mass of the bob
+(C) The initial displacement
+(D) The stop watch used
+14. An aeroplane is travelling at a
+constant speed at an altitude of
+1000 m above sea level. Which of
+the following is TRUE?
+(A) Its kinetic energy is increasing
+(B) It has kinetic energy only
+(C) It has potential energy only
+(D) It has both potential and
+kinetic energy
+4
+01238010/SPEC 2012 GO ON TO THE NEXT PAGE
+15. Which of the following is TRUE of a
+body in equilibrium.
+I. The sum of the forces in one
+direction is equal to the sum
+of the forces in the opposite
+direction
+II. The sum of the clockwise
+forces is equal to the sum of
+the anticlockwise forces
+III. The sum of the clockwise
+moments is equal to the sum
+of the anticlockwise moments
+(A) I only
+(B) II only
+(C) I and III only
+(D) I, II and III
+16. 400 kg of methylated spirit occupies a
+volume of 0.50 m3
+. What is its
+density?
+(A) 8 x 102
+kg m-3
+(B) 8 x 10-2
+kg m-3
+(C) 2 x 102
+kg m-3
+(D) 1.25 x 10-3
+kg m -3
+17. What is the gain in gravitational
+potential energy of a body of weight
+2000 N as it rises from a height of 20
+m to a height of 25 m above the
+earth’s surface?
+(A) 400 J
+(B) 1 000 J
+(C) 10 000 J
+(D) 20 000 J
+18. When liquid in a puddle evaporates its
+temperature changes. How does the
+temperature of the liquid change and
+why?
+Temperature Reason
+(A) decreases
+less energetic
+molecules leave
+the liquid
+(B) decreases
+more energetic
+molecules leave
+the liquid
+(C) increases
+less energetic
+molecules leave
+the liquid
+(D) increases
+more energetic
+molecules leave
+the liquid
+19. Which scientist successfully showed the
+relationship between heat and
+mechanical work?
+(A) Joule
+(B) Einstein
+(C) Rumford
+(D) Watts
+5
+01238010/SPEC 2012 GO ON TO THE NEXT PAGE
+20. A thermostat used in a domestic iron is
+made from a bimetallic strip comprising
+of a strip of iron and a strip of brass as
+shown below.
+The strip is heated and the brass
+expands more than the iron.
+The shape the strip becomes:
+21. The name given to the amount of
+energy needed to raise the temperature
+of 1kg of iron by 1 K is
+(A) latent heat
+(B) heat capacity
+(C) specific latent heat
+(D) specific heat capacity
+22. Sharon painted half the roof of her dog
+house white and the other half black.
+She noticed that the half painted black
+dried quicker than the half painted
+white.
+The property that BEST explains why
+the half painted black dried quicker is
+that dark bodies are better
+(A) insulators.
+(B) heat absorbers
+(C) reflectors of heat
+(D) conductors of heat
+23. Bubbles of gas rising from a scuba
+diver below the surface of the sea
+increase in size as they rise to the
+surface. Their size increase is because
+(A) Water pressure on the bubbles
+decreases
+(B) Water pressure on the bubbles
+increases
+(C) Atmospheric pressure on the
+bubble decreases
+(D) Atmospheric pressure on the
+bubbles increases
+24. The clinical thermometer is designed so
+that it is very sensitive to small changes
+in temperature.
+Which of the following features should
+it have?:
+(A) A thick-walled bulb and a
+wide bore
+(B) A thin walled bulb and a wide
+bore
+(C) A thin-walled bulb and a
+narrow bore
+(D) A thick-walled bulb and a
+narrow bore
+25. In a YouTube video, Mr. Lee and his
+students heat a metal drum which is
+then capped and dumped into a tub of
+cold water. The video shows that the
+drum is crushed.
+The gas law that BEST explains this
+observation is due to
+(A) Boyle’s
+(B) Charles’
+(C) Pressure
+(D) Combined Gas
+iron
+brass
+(A) (B)
+(C) (D)
+6
+01238010/SPEC 2012 GO ON TO THE NEXT PAGE
+26. An electronic air conditioner
+maintains the temperature of the
+inside of an office building at 24oC.
+Which of the following measures
+could noticeably reduce the electricity
+bill?
+I. Reducing the temperature to
+21oC
+II. Hanging curtains at the window
+III. Painting the roof of the building
+with aluminum paint
+(A) I only
+(B) I and II only
+(C) II and III only
+(D) I, II and III
+27. Item 27 refers to the diagram below.
+In the diagram above, P, Q, R and S
+are identical containers containing
+water of masses m, 2m, 3m and 4m
+respectively at the temperatures
+indicated. Which of the following
+must lose the most energy to cool
+down to 10 o C?
+(A) P
+(B) Q
+(C) R
+(D) S
+28. Item 28 refers to the following table.
+The table shows two pairs of readings
+taken from an experiment to investigate
+Boyle’s law. Which of the values
+below is MOST likely to be the
+measured pressure if the volume is
+reduced to 20 cm3
+?
+(A) 0.5 kPa
+(B) 1.6 kPa
+(C) 1.9 kPa
+(D) 2.3 kPa
+29. Lightning is seen several seconds
+before thunder is heard because
+(A) thunder is produced after the
+lightning
+(B) light can pass through a vacuum
+but sound cannot
+(C) the speed of light is much faster
+than the speed of sound
+(D) sound is reflected by the clouds
+several times before it reaches
+the ear.
+30. The list of electromagnetic waves in
+order of DECREASING wave length is
+(A) Xrays, ultraviolet, infrared,
+microwaves
+(B) Xrays, infrared, ultraviolet,
+microwaves
+(C) Microwaves, ultraviolet, infrared,
+x rays
+(D) Microwaves, infrared, ultraviolet,
+x-rays.
+Pressure/kPa Volume/cm3
+1.0
+1.3
+40
+30
+7
+01238010/SPEC 2012 GO ON TO THE NEXT PAGE
+Item 31 refers to the following diagram
+31. A ray of light passes from paraffin into
+air at an angle of incidence of 280
+. If the
+refractive index of paraffin is 1.44, the
+value of sin x
+0
+is
+(A)
+
+(B) 1.44 x sin 280
+(C)
+
+(D)
+
+Item 32 refers to the following diagram
+32. Which shows a ray of light passing
+through a diverging lens?
+(A) II only
+(B) I and II only
+(C) I and III only
+(D) I, II and III
+33. The refractive index for light
+traveling from air to glass is
+I.
+
+
+II.
+
+
+III.
+
+
+(A) II only
+(B) I and II only
+(C) II and III only
+(D) I, II and III
+Item 34 refers to the following diagram
+34. From the diagram above, a real image
+is produced with a converging lens
+when the object is located
+(A) At F only
+(B) At 2F only
+(C) Between F and infinity
+(D) Between the optical centre and
+35. When Young’s Double Slit
+experiment is conducted, it is
+expected to show
+(A) That light can bend
+(B) A series of dots on a screen
+(C) That light travels in a straight
+line
+(D) Interference patterns on a
+screen
+36. “Pitch” and “loudness” refer
+respectively to
+(A) Amplitude and frequency
+(B) Frequency and amplitude
+(C) Wavelength and speed
+(D) Speed and wavelength
+air
+paraffin
+x
+28
+8
+01238010/SPEC 2012 GO ON TO THE NEXT PAGE
+Item 37 refers to the following diagram.
+37. A lady faces a plane mirror which is
+5.0 m away from her. She views the
+image of a vase, which is 0.5 m in
+front of her. How far from her is the
+image of the vase?
+(A) 4.5 m
+(B) 5.5 m
+(C) 9.0 m
+(D) 9.5 m
+38. A transmitter emits radio waves of
+frequency 750 kHz. If the velocity of
+electromagnetic waves is 3 x 108 m s-1
+,
+what is the wavelength of the
+transmission?
+(A) 200 m
+(B) 250 m
+(C) 400 m
+(D) 800 m
+Item 39 refers to the following diagram,
+which shows two resistors, R1= 6.0  and R2
+= 4.0, in parallel.
+39. What is the current in R1 if the current
+in R2 is 1.8A?
+(A) 1.2 A
+(B) 1.8 A
+(C) 2.7 A
+(D) 3.0 A
+40. A transformer was connected to a
+100 V supply and the output measured
+and found to be 10 V, 0.5 A. The
+primary current was
+(A) 0.005 A
+(B) 0.05 A
+(C) 0.5 A
+(D) 5.0 A
+Item 41 refers to the truth table below
+A B C
+0 0 1
+0 1 1
+1 0 1
+1 1 0
+41. The logic gate that gives the above
+output is
+(A) OR
+(B) AND
+(C) NOR
+(D) NAND
+9
+01238010/SPEC 2012 GO ON TO THE NEXT PAGE
+42. If in a transformer, NS is greater than
+NP, then the transformer is a
+(A) Smoothing transformer
+(B) Step – up transformer
+(C) Alternating transformer
+(D) Step-down transformer
+43. Which of the following quantities is
+constant in a parallel circuit?
+(A) Current
+(B) Voltage
+(C) Resistance
+(D) Power
+44. A magnetic field can be used to
+deflect the path of
+(A) β-rays
+(B) γ- rays
+(C) X-rays
+(D) Light rays
+45. Which of the following scientists
+discovered the relationship E = mc2
+?
+(A) Marie Curie
+(B) Isaac Newton
+(C) Albert Einstein
+(D) Ernest Rutherford
+46. For any TWO consecutive elements
+in the periodic table the first element
+has one less
+(A) proton
+(B) electron
+(C) neutron
+(D) neutrino
+47. For a radioactive substance with a
+particular half-life, as time increases,
+the radioactive substance
+(A) vanishes
+(B) increases
+(C) decreases
+(D) remains constant
+48. What did the Geiger-Marsden
+experiment establish as being present
+in the atom?
+(A) Electrons
+(B) Nucleus
+(C) Neutrons
+(D) Electrical forces
+49. The atomic number and the mass
+number of an atom are 50 and 120
+respectively. This means that in the
+atom there are
+(A) 120 protons
+(B) 120 neutrons
+(C) 70 protons and 50 neutrons
+(D) 50 protons and 70 neutrons
+50. On Sunday, the corrected count rate
+of a radioactive source was 240
+counts per second. Exactly two days
+later, the count rate had fallen to 120
+counts per second. After exactly four
+more days (on Saturday), the count
+rate in counts per second was
+(A) zero
+(B) 24
+(C) 30
+(D) 60
+10
+01238010/SPEC 2012 GO ON TO THE NEXT PAGE
+51. When a polythene rod is rubbed with
+a cloth, it becomes
+(A) Positively charged by losing
+electrons
+(B) Positively charged by gaining
+protons
+(C) Negatively charged by losing
+electrons
+(D) Negatively charged by gaining
+electrons
+52. The role of a transformer in an
+electrical circuit is to
+(A) alter the voltage
+(B) alter the frequency
+(C) convert alternating current to
+direct current
+(D) convert direct current to
+alternating current
+53. Which of the following materials are
+conductors?
+I. Wood
+II. Gold
+III. Graphite
+(A) I and II only
+(B) I and III only
+(C) II and III only
+(D) I, II and III
+54. Fleming’s left hand rule associates a
+quantity with each finger shown in
+the diagram below. The correct
+ORDER of the quantities labelled i,
+ii and iii is
+(A) Current, Force, Field
+(B) Field, Current, Force
+(C) Field, Force, Current
+(D) Force, Field, Current
+11
+01238010/SPEC 2012 GO ON TO THE NEXT PAGE
+55. A student requires a circuit to
+measure the resistance of a
+resistor. Which of the circuits
+below is correctly connected?
+(A)
+(B)
+(C)
+
+(D)
+
+Item 56 refers to the following circuit.
+56. In the circuit shown above, which lamps
+will be lit when the switch is closed?
+(A) R only
+(B) T, Q and R
+(C) T and Q only
+(D) T and R only
+Item 57 refers to the following diagram
+which shows a coil carrying a current and
+wrapped around wooden cylinder.
+57. Which row of the table below shows the
+magnetic field directions at x, y and z?
+x y z
+(A)
+(B)
+(C)
+(D)
+12
+01238010/SPEC 2012
+58. Which of the following is NOT
+TRUE when a magnet is moved
+relative to a coil?
+I. The greater the number of
+turns in the coil, the smaller
+the induced e.m.f.
+II. The faster the magnet moves
+relative to the coil, the greater
+the induced e.m.f.
+III. The stronger the magnetic
+field, the greater the induced
+e.m.f.
+(A) I only
+(B) II only
+(C) III only
+(D) II and III only
+Item 59 refers to the diagram below.
+59. In the electric field diagram above
+the charges labelled A and B are
+(A) Positive and positive
+(B) Negative and positive
+(C) Negative and negative
+(D) Positive and negative
+60. The radioactive decay of an isotope of
+Radon is represented by the equation
+  +
+The values of a and b are respectively
+a b
+(A) 216 88
+(B) 216 84
+(C) 220 84
+(D) 220 83
+Item Specific Objective Key Item Specific
+Objective Key
+1 A2.1 D 31 C4.10 B
+2 A.2.3 A 32 C5.1 C
+3 A5.5 C 33 C4.10 A
+4 A3.12 A 34 C5.3 C
+5 A1.9 D 35 C4.2 D
+6 A6.1 B 36 C2.2 B
+7 A4.2 A 37 C4.5 D
+8 A2.1 A 38 C1.2 C
+9 A4.4 B 39 D4.11 A
+10 A5.10 B 40 D7.16 B
+11 A4.1 A 41 D5.4 D
+12 A6.1 C 42 D7.14 B
+13 A1.2 A 43 D4.11 B
+14 A5.6 D 44 E3.5 A
+15 A3.9 C 45 E3.12 C
+16 A 1.10 A 46 E2.6 A
+17 A5.7 C 47 E3.10 C
+18 B3.7 B 48 E1.2 B
+19 B1.2 A 49 E2.4 D
+20 B2.8 B 50 E3.10 C
+21 B3.1 D 51 E1.1 D
+22 B4.5 B 52 D7.14 A
+23 B2.11 A 53 D2.1 C
+24 B2.3 C 54 D7.6 D
+25 B2.11 B 55 D4.1 C
+26 B4.6 C 56 D4.2 D
+27 B3.2 B 57 D7.2 B
+28 B2.11 C 58 D7.11 A
+29 C2.3 C 59 D1.4 D
+30 C3.2 D 60 E3.6 B
+CARIBBEAN EXAMINATION COUNCIL
+SECONDARY EDUCATION CERTIFICATE
+PHYSICS SPECIMEN PAPER 2012
+GO ON TO THE NEXT PAGE
+01238020/CSEC/SPEC/2012
+TEST CODE 01238020
+FORM 01238020/SPEC
+C A R I B B E A N E X A M I N A T I O N S C O U N C I L
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE
+EXAMINATION
+PHYSICS
+SPECIMEN PAPER
+Paper 02 – General Proficiency
+2 hours and 30 minutes
+READ THE FOLLOWING INSTRUCTIONS CAREFULLY.
+1. This paper consists of SIX questions in two sections. Answer ALL questions.
+2. For Section A, write your answers in the spaces provided in this booklet.
+3. For Section B, write your answers in the spaces provided at the end of each
+question, in this booklet.
+4. All working MUST be CLEARLY shown.
+5. The use of non-programmable calculators is permitted, but candidates should
+note that the use of an inappropriate number of figures in answers will be
+penalized.
+6. Mathematical tables are provided.
+Copyright © 2012 Caribbean Examinations Council ®
+All rights reserved.
+2
+GO ON TO THE NEXT PAGE
+01238020/CSEC/SPEC/2012
+01238020/CSEC/SPEC/2012
+SECTION A
+Attempt ALL questions
+You MUST write your answers in this answer booklet.
+1. Rihanna, a student, carried out an experiment to investigate the properties of a spring. The
+results of the variation of the length of the spring with load, is shown in Table 1.
+TABLE 1
+Load (N) 4.0 8.0 12.0 16.0 20.0 24.0
+Length (mm) 18.4 20.5 22.4 24.3 26.4 28.5
+(a) On the grid provided on page 3, plot the graph of Length (mm) against Load (N).
+(7 marks)
+(b) Calculate the slope, P, of the graph.
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(4 marks)
+(c) Given that the spring constant equal
+
+
+, calculate the spring constant stating its units.
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(2 marks)
+(d) Use your graph to determine the spring’s length when the load is 0N.
+________________________________________________________________________
+________________________________________________________________________
+_______________________________________________________________________.
+(1 mark)
+3
+GO ON TO THE NEXT PAGE
+01238020/CSEC/SPEC/2012
+4
+GO ON TO THE NEXT PAGE
+01238020/CSEC/SPEC/2012
+(e) What mass must be placed on the spring to produce an extension of 9mm?
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(7 marks)
+(f) State THREE precautions Rihanna would have taken to ensure the accuracy of the
+readings and to prevent damage to the spring.
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(3 marks)
+Total 25 marks
+2. (a) Draw a circuit with three resistors in parallel across a two-cell battery. Include an
+ammeter in the circuit so that its reading is the total current in the circuit.
+(3 marks)
+(b)(i) Give the equation relating resistance, voltage and current. State the unit for
+resistance.
+________________________________________________________________________
+________________________________________________________________________
+ (2 marks)
+5
+GO ON TO THE NEXT PAGE
+01238020/CSEC/SPEC/2012
+ (ii) Explain whether or not an ammeter should have a high resistance?
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+(2 marks)
+(c)(i) If the three resistors in 2(a) are each 2Ω, what is the total effective resistance in
+the circuit?
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+ (2 marks)
+(ii) The voltage supplied by the two-cell battery is 3V. What is the reading on the
+ammeter?
+____________________________________________________________________
+____________________________________________________________________
+____________________________________________________________________
+(3 marks)
+(iii) If the ammeter is replaced by one which has a resistance of 3 Ω, calculate the
+new reading.
+(3 marks)
+Total 15 marks
+6
+GO ON TO THE NEXT PAGE
+01238020/CSEC/SPEC/2012
+3. (a) Distinguish between the mode of propagation of transverse waves and longitudinal
+waves.
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(2 marks)
+(b) Give ONE example of EACH of the following waves:
+Longitudinal: ___________________________________________________________
+Transverse:______________________________________________________________
+(2 marks)
+(c) Define the following terms:
+(i) wavelength
+_______________________________________________________________________
+_______________________________________________________________________
+(ii) frequency
+________________________________________________________________________
+________________________________________________________________________
+(iii) amplitude
+________________________________________________________________________
+________________________________________________________________________
+(3 marks)
+7
+GO ON TO THE NEXT PAGE
+01238020/CSEC/SPEC/2012
+(d) (i) Draw a wave of wavelength 6 cm using the axes provided in Figure 1.
+ Displacement (cm)
+
+ 2 4 6 8 10 12 Distance (cm)
+Figure 1
+(2 marks)
+Figure 2 shows a displacement-time graph of a small Styrofoam cup floating, in the path of water
+wave in a pond.
+Figure 2
+(ii) Use the graph in Figure 2 to determine the frequency of the wave.
+(3 marks)
+(iii) Use the graph to determine the amplitude of the wave.
+(1 mark)
+(e) Give ONE example of the use of waves in each of the following:
+Medical testing _________________________________________________________________
+Industry _______________________________________________________________________
+(2 marks)
+Total 15 marks
+-6
+-4
+-2
+0
+2
+4
+6
+0 2 4 6 8 10
+Displacement
+x(cm)
+Time t (s)
+8
+GO ON TO THE NEXT PAGE
+01238020/CSEC/SPEC/2012
+SECTION B
+Attempt ALL questions
+You MUST write your answers in the space provided after each question.
+4. (a) A typical lap top computer operates on 18 V d.c. As a result, to safely power a lap
+top from 120V a.c. domestic mains, a specialized power cable must be used.
+(i) State the TWO essential components that must be included in this specialized
+cable.
+(2 marks)
+(ii) Sketch TWO separate graphs to show the variation of voltage vs. time of a
+120 V a.c. domestic mains and the output of the specialized power cable.
+Assume that the power cable is only able to accomplish
+
+ wave rectification.
+(4 marks)
+(b) An electric kettle is connected to an alarm that sounds whenever the kettle is
+switched on and the lid is left open or the water level is below the heating element.
+Figure 3 shows the circuit that controls the electric kettle’s alarm.
+Figure 3
+(i) What are points L, M and N collectively called?
+(1 mark)
+(ii) What logic gate(s) should be placed at A, B and C?
+(3 marks)
+Output
+Z
+Y
+X
+Lid Sensor
+1 = Open
+0 = Closed
+L
+Level Sensor
+1 = Level below
+ heating element
+0 = Level above
+ heating element
+Power Supply
+120V
+1 = On
+0 = Off
+Logic gate
+Logic gate
+Logic gate
+A
+B
+C Alarm
+M
+N
+Outputs
+9
+GO ON TO THE NEXT PAGE
+01238020/CSEC/SPEC/2012
+(iii) The table below shows the inputs for a truth table. In the space provided for
+your answers, complete the truth table to show outputs at X, Y and Z that
+satisfies the condition that will make the alarm sound.
+Input
+L M N
+0 0 0
+0 0 1
+0 1 0
+0 1 1
+1 0 0
+1 0 1
+1 1 0
+1 1 1
+(3 marks)
+(c) Discuss ONE way in which lap top computers have evolved into a versatile tool of
+communication.
+(2 marks)
+Total 15 marks
+Write the answer to Question 4 here.
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+10
+GO ON TO THE NEXT PAGE
+01238020/CSEC/SPEC/2012
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+(b) (iii)
+Input Output
+L M N X Y Z
+0 0 0
+0 0 1
+0 1 0
+0 1 1
+1 0 0
+1 0 1
+1 1 0
+1 1 1
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+11
+GO ON TO THE NEXT PAGE
+01238020/CSEC/SPEC/2012
+5 (a) (i) Describe an experiment to compare the ranges of α, β and γ emissions.
+(5 marks)
+(ii) Which of these emissions would not be deflected by strong electric or magnetic
+fields?
+(1 mark)
+(b) (i) 24
+11 Na is a beta emitter. It decays to Mg with a half-life of 15 hours. Write a
+nuclear equation for the decay of 24
+11Na.
+(3 mark)
+(ii) A sample contains 24g of 24
+11Na. How long would it take for 21g to decay?
+(4 mark)
+(iii) Discuss ONE safety measure necessary when handling a sample of 24
+11Na.
+(2 marks)
+Total 15 marks
+Write the answer to Question 5 here.
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+12
+GO ON TO THE NEXT PAGE
+01238020/CSEC/SPEC/2012
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+13
+GO ON TO THE NEXT PAGE
+01238020/CSEC/SPEC/2012
+6 (a) (i) Define the term specific latent heat of vaporisation.
+(2 marks)
+ (ii) Identify THREE processes that require specific latent heat.
+(3 marks)
+(b) An electric kettle is rated at 1500W. It takes 98s to bring water originally at 30oC
+to 100oC.
+(i) Describe the energy change that takes place in the kettle.
+(1 mark)
+(ii) How much energy is supplied by the kettle in the given time?
+(3 marks)
+(iii) Calculate the specific heat capacity of the water.
+(3 marks)
+(iv) 0.1 Kg of water is converted to steam when the kettle is left on for an
+additional 150s. Calculate a value for the specific latent heat of
+vaporisation of steam.
+(3 marks)
+Total 15 marks
+Write the answer to Question 6 here.
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+14
+01238020/CSEC/SPEC/2012
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+END OF TEST
+01238020/SPECIMEN PAPER/MS/2012
+CARIBBEAN EXAMINATIONS COUNCIL
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE
+EXAMINATION
+PHYSICS
+SPECIMEN PAPER
+PAPER 02 – GENERAL PROFICIENCY
+MARK SCHEME
+2012
+01238020/MS/SPEC/2012
+2
+Question
+1 P2
+MARK SCHEME KC UK XS
+1 (a)
+(b)
+(c)
+(d)
+(e)
+L-Label axes
+A-correct Axes Length on y-axis and load on
+x-axis
+S-scales
+P-Plots
+ 6-5 correct -3
+ 4-3 correct -2
+ 2-1 correct -1
+
+Best fit line
+Large ∆
+Correct read offs =
+
+=
+
+
+
+gradient formula =
+
+
+Answer = 0.55 ± 0.05 mmN
+-1
+Spring’s constant =
+
+
+
+
+
+
+ = 1.81 Nmm-1
+Spring’s length = 16.3 mm
+Original length = 16.3 mm
+New Length of spring = Original length + Extension
+ = 16.3 mm + 9 mm
+ = 25.3 mm
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+3
+2
+7
+2
+1
+SP. OBJ
+01238020/MS/SPEC/2012
+3
+Question 1
+Cont’d MARK SCHEME KC UK XS
+(e) c’td
+(f)
+Corresponding Load = 17.5 N (1)
+ Load = mg (1)
+17.5 = m.10 (1)
+ m =
+
+
+
+ m = 1.75 Kg (1)
+(i) Avoid the error of parallax by reading
+the scale accurately. (1)
+(ii) Do not overload the spring to prevent
+permanent damage. (1)
+(iii) Add loads when the system comes to rest. (1)
+(iv) Take measurements when the system comes
+to rest. (1)
+ Any 3: 1 mark each.
+3
+7
+SP. OBJ A 1.4, 1.5, 3.13 Total 3 12 10
+01238020/MS/SPEC/2012
+4
+Question 2 MARK SCHEME KC UK XS
+2a.
+b (i)
+ (ii)
+(c) (i)
+ (ii)
+
+(iii)
+Resistance = V/I.
+The unit of resistance is the Ohm[Ω].
+It must offer no resistance to
+current flow - the circuit must
+function as if the ammeter is not in
+the circuit.
+1/RT = 1/R1 + 1/R2 + 1/R3
+1/RT = ½ + ½ + ½
+1/RT = 3/2
+RT = 2/3Ω or 0.67 Ω
+V = IR
+I = V/R =
+
+
+
+
+
+RT = 3Ω + 0.67Ω = 3.67Ω
+I = 3V/3.67Ω
+= 0.82A
+
+(1)
+(1)
+
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+3
+2
+2
+2
+3
+3
+SP. OBJ D 4.7, 4.9 Total 7 8
+01238020/MS/SPEC/2012
+5
+Question 3 MARK SCHEME KC UK XS
+(a)
+(b)
+(c) (i)
+(ii)
+ (iii)
+(d) (i)
+ (ii)
+ (iii)
+(e)
+For propagation of transverse waves, the
+displacement of the medium is perpendicular to
+the direction of motion while for propagation of
+longitudinal waves, the displacement of the
+medium is parallel to the propagation of the
+wave.
+Examples: transverse wave - electromagnetic /
+water waves
+Longitudinal wave - sound waves
+Wavelength: The distance between successive
+crests or troughs of a wave
+Frequency: Number of waves per unit time
+Amplitude: This is the maximum displacement of
+the wave
+displacement (cm)
+ 2 4 6 8 10 12
+ distance(cm)
+1 mark for general sinusoidal shape
+1 mark for crossing at 3 cm and ending on 6 cm
+Frequency = Number of waves / time = 1 / 4
+f = 0.25 /seconds
+(1) (1) (1)
+marks for equation, substitution, correct answer
+Amplitude of the wave = 4 cm (1)
+Example in medical testing: ultrasound in
+prenatal care (1)
+Example in industry: testing of materials for
+defects (1)
+1
+1
+1
+1
+1
+2
+1
+1
+2
+3
+1
+SP. OBJ C 1.1,1.2,2.5 Total 7 8
+01238020/MS/SPEC/2012
+6
+Question 4 MARK SCHEME KC UK XS
+(a) (i) 1 mark for stating: Transformer 1
+1 mark for stating:
+Semiconductor rectifiers,
+or
+diodes
+1
+ (ii) 1 mark for sketching a sinusoidal waveform
+1 mark for indicating peak values at 120V
+2
+1 mark for sketching a
+
+-waveform
+1 mark for indicating peak values at +18V or
+18V
+e.g.
+or
+2
+120
+t
+V
++120
+18
+t
+V
++18
+18
+t
+V
++18
+01238020/MS/SPEC/2012
+7
+Question 4
+Cont’d MARCH SCHEME KC UK XS
+(b) (i) 1 mark for stating: L, M and N are inputs 1
+ (ii) 1 mark for stating: A is an AND gate
+
+ (iii)
+(c)
+1 mark for stating: B is an AND gate 3
+1 mark for stating: A is an OR gate
+1 mark for correctly completing the outputs
+of X using gates the student suggested in
+(b) (ii)
+1 mark for correctly completing the outputs
+of Y using gates the student suggested in
+(b) (ii)
+1 mark for correctly completing the outputs
+of Z using gates the student suggested in
+(b) (ii)
+THE TRUTH TABLE FOR THE COMBINATION OF THE
+LOGIC GATES IN b(ii) IS SHOWN BELOW.
+Input Output
+L M N X Y Z
+0 0 0 0 0 0
+0 0 1 0 0 0
+0 1 0 0 0 0
+0 1 1 0 1 1
+1 0 0 0 0 0
+1 0 1 0 0 0
+1 1 0 1 0 1
+1 1 1 1 1 1
+3
+2 marks for stating two or more points from
+the list below:
+1 mark for stating one point from the list
+below:
+ Lap tops have become lighter.
+ Lap tops have become faster.
+ Built-in video camera and microphones
+are standard in lap tops.
+01238020/MS/SPEC/2012
+8
+Question 4
+Cont’d
+MARKSCHEME KC UK XS
+ They can connect to the internet from
+locations where internet is available
+wirelessly.
+ Laptops are more efficient
+ Online
+communication/games/facebook/social
+Or any other acceptable response 2
+SP. OBJ D 5.1, 5.2, 5.4, 5.5, 5.6 Total 6 9
+01238020/MS/SPEC/2012
+9
+Question 5 KC UK XS
+(a)(i)
+(ii)
+(b)(i)
+(ii)
+(iii)
+States/list equipment used:
+ , , and  source;
+ Detector: GM tube or Cloud Chamber
+ Metre rule;
+States all three (2)
+States any 2 (1)
+States none (0)
+Procedure of experiment
+ Places GM tube in front of source,
+or: Places source inside cloud
+chamber;
+ Moves GM tube away from source
+until no radiation is detected,
+or:
+Observes/identifies tracks formed
+inside chamber
+ Measures distance between GM tube
+and source, or:
+Measures length of tracks
+Identifies  radiation is undeflected
+Beta-decay equation: a
+ g
+
+
+ (1) ; g (2) [1 for Mg and 1 for
+atomic number and atomic mass]
+Length of time:
+ Identifies/calculates that
+
+of the
+sample remains: gra s
+ gra s
+
+
+
+ Identifies/calculates that
+
+of
+sample remains:
+
+
+
+
+
+ Identifies/calculate that 3 half
+lives have elapsed: (
+
+
+)
+
+
+
+
+
+ Calculates length of time:
+ = rs ours
+Discussion of safety measure
+ States 1 appropriate safety
+Measure
+ Presents reasoned argument why
+safety measure must be observed
+argument
+reasoning
+(2)
+(1)
+(0)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+2
+3
+1
+3
+4
+2
+Sp. Obj E, 3.3; 3.4; 3.5; 3.6; 3.10 6 9
+01238020/MS/SPEC/2012
+10
+Question 6
+KC UK XS
+(a) (i)
+ (ii)
+(b) (i)
+ (ii)
+ (iii)
+ (iv)
+Heat required to change the unit mass of a
+liquid to a gas (1) without a temperature
+change (1).
+melting, boiling, evaporation
+electrical heat
+Energy supplied = Pt (1)
+ = 1500 x 98 (1)
+= 147 000 J (1)
+
+ Heat energy = mcΔθ (1)
+ 147 000 = 0.5 x c x 70 (1)
+ Specific heat capacity,c = 4200J KgoC (1)
+ Pt = ml (1)
+1500 x 150 = 0.1 x l (1)
+S.l.h.of vaporisation,l = 2 250 000 JKg-1 (1)
+2
+3
+1
+3
+3
+3
+SP.OBJ A 5.10, 5.11; B3.1 - 3.3; B3.5 - 3.7 Total 6 9
+01238032/SPEC 2012
+TEST CODE 01238032
+FORM 01238032/SPEC
+C A R I B B E A N E X A M I N A T I O N S C O U N C I L
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE
+
+EXAMINATION
+PHYSICS
+SPECIMEN PAPER 2012
+Paper 032 – General Proficiency
+2 hours 10 minutes
+READ THE FOLLOWING DIRECTIONS CAREFULLY
+DO NOT TURN THIS PAGE UNTIL YOU ARE TOLD TO DO SO
+Copyright © 2012 Caribbean Examinations Council ®
+All rights reserved
+1. You MUST use this answer booklet when responding to the questions. For each question,
+write your answer in the space provided and return the answer booklet at the end of the
+examination.
+2. ALL WORKING MUST BE SHOWN in this booklet, since marks will be awarded for correct
+steps in calculations.
+3. Attempt ALL questions.
+4. The use of non-programmable calculators is allowed.
+5. Mathematical tables are provided.
+2
+01238032/SPEC 2012 GO ON TO NEXT PAGE
+1. In this experiment you are required to investigate the period of a pendulum made from
+paperclips.
+The paperclips provided are to be linked together, in a chain, and swung as a single
+pendulum, as shown below in Figure 1.The period of the pendulum, T, depends on the
+number of paperclips, n, linked together.
+Figure 1
+It is suggested that the relationship between T and n is where k is a constant.
+Describe how you would use the paperclips provided to test this theory for n = 3, 6 and 9.
+Include in your answer:
+(a) The steps taken in obtaining your results
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(6 marks)
+3
+01238032/SPEC 2012 GO ON TO NEXT PAGE
+(b) A record of the measurements
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(5 marks)
+(c) Calculations
+(7 marks)
+(d) Two possible sources of error and the precautions taken
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(2 marks)
+4
+01238032/SPEC 2012 GO ON TO NEXT PAGE
+(e) Conclusion
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(4 marks)
+Total 24 marks
+2. Table 1 shows the relationship between the temperature, T, of the measuring junction of a
+thermocouple and the thermocouple emf, E, that is measured by a millivoltmeter.
+Table 1
+Thermocouple emf E (mV) 0.1 0.4 0.7 1.0 1.4 1.8
+Temperature T (C) 44 118 163 202 247 293
+(a) (i) Plot on page 5, a graph of the thermocouple emf, E, against Temperature, T.
+Draw your BEST straight line. (7 marks)
+(ii) Find the slope S of the graph.
+ (6 marks)
+(b) (i) Using the graph determine T0, the temperature at which the thermocouple
+emf E = 0 mV
+ (1 mark)
+Total 14 marks
+5
+01238032/SPEC 2012 GO ON TO NEXT PAGE
+6
+01238032/SPEC 2012 GO ON TO NEXT PAGE
+3. In an examination question about refraction, a student draws the diagram below and writes:
+“If angle i is doubled, angle r will also be doubled”
+Plan and design an experiment to investigate the student’s statement.
+Your design must include:
+(a) A clear objective/aim
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(1 mark)
+Rectangular
+Block
+i
+r
+Ray
+Box
+7
+01238032/SPEC 2012 GO ON TO NEXT PAGE
+(b) A list of equipment used
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(2 marks)
+(c) Clear procedures in an appropriate sequence
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(4 marks)
+(d) A statement/explanation of the manipulation of the data collected;
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(1 mark)
+(e) A precaution taken during investigation;
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(1 mark)
+8
+01238032/SPEC 2012
+(f) One possible limitation of your design.
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+(1 marks)
+Total 10 marks
+01238032/SPECIMEN PAPER/MS/2012
+CARIBBEAN EXAMINATIONS COUNCIL
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE
+EXAMINATION
+PHYSICS
+SPECIMEN PAPER
+PAPER 032 – GENERAL PROFICIENCY
+MARK SCHEME
+2012
+-2-
+01238032/MS/JUNE 2012
+PHYSICS
+PAPER 032 - GENERAL PROFICIENCY
+MARK SCHEME
+Question No. 1 Mark Scheme KC UK XS
+(a)
+(b)
+(c)
+(d)
+(e)
+Method:
+ Pendulum set in motion with small angle of
+swing (1)
+ Started count simultaneously with
+stopwatch (1)
+ Measured time for X swings (1)
+ Repetition (1)
+ Repeat with 6 and 9 paperclips (1)
+ Use of English - tense (1)
+Table:
+ Neat table (1)
+ Headings with units for each column
+ (2)
+ Consistent sig. fig. time column (1)
+ period column (1)
+Calculations
+ Average time for each length (1)
+ Period (3 x 1)
+ k for each set (3 x 1 )
+Possible Sources of error
+ Timing (1)
+ Angle of release (1)
+Precautions
+ Repetition (1)
+ Small displacement (1)
+Conclusion
+ Relates to aim (1)
+ Valid (1)
+7
+1
+6
+5
+2
+2
+1
+Sp. Obj A 1.2, 1.7, 1.8, 1.9 Total 8 16
+-3-
+01238032/MS/JUNE 2012
+PHYSICS
+PAPER 032 - GENERAL PROFICIENCY
+MARK SCHEME
+Question
+No. 2 MARK SCHEME KC UK XS
+(a) (i) L-Label axes
+A-Correct orientation of axes
+S-Scales
+P-Plots:
+(1)
+(1)
+(1)
+(3)
+6 – 5 correct – 3
+4 – 3 correct – 2
+2 – 1 correct – 1
+7
+Best line (1)
+(a) (ii) Large  (1)
+Correct read offs (1) 2
+Gradient formula =
+
+
+
+
+
+
+
+
+(2 s.f.) (3)
+Answer = _____0.001 (1) 4
+(b) Read off correct value of T (1) 1
+Sp. Obj A 1.4, 1.5; B 2.3 Total 4 10
+-4-
+01238032/MS/JUNE 2012
+PHYSICS
+PAPER 032 - GENERAL PROFICIENCY
+MARK SCHEME
+Question 3 MARK SCHEME KC UK XS
+(a) Clear objective/aim: 1
+To investigate the relationship between i and r.
+or (1)
+To measure r for various i
+(b) List of equipment
+ Glass block;
+ Ray box/plotting pins;
+ Protractor;
+ Ruler
+4-3 items (2)
+2-1 items (1)
+2
+(c) Procedure:
+ Draws outline of block or reference
+lines and normal;
+ Shines ray of light for various angles i; 
+ Marks path of light;
+ Measures angles r.
+4 steps (3)
+3 step (2)
+2-1 step (1)
+App. Seq. (1) 4
+(d) Manipulation of data
+ States that i and r are compared; or (1) 1
+ States that a graph of r vs. i is plotted
+and explains the use of the graph in the
+analysis of i and r; or
+ Any other reasonable analysis of data
+(e) Precaution (1) 1
+States one reasonable precaution
+(f) Limitation
+States one reasonable limitation of method (1) 1
+Sp. Obj C 4.4, 4.8 Total 10

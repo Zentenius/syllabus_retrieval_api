@@ -1,0 +1,4100 @@
+SYLLABUS
+
+PRINCIPLES OF ACCOUNTS
+CXC 10/G/SYLL 17
+Caribbean Secondary
+Education Certificate®
+Effective for examinations from May–June 2019
+ CXC 10/G/SYLL 17 www.cxc.org
+Correspondence related to the syllabus should be addressed to:
+The Pro-Registrar
+Caribbean Examinations Council
+Caenwood Centre
+37 Arnold Road, Kingston 5, Jamaica
+Telephone Number: + 1 (876) 630-5200
+Facsimile Number: + 1 (876) 967-4972
+E-mail Address: cxcwzo@cxc.org
+Website: www.cxc.org
+Copyright ©2017 by Caribbean Examinations Council
+Prince Road, Pine Plantation Road, St Michael BB11091
+ CXC 23/G/SYLL 15 www.cxc.org
+Contents
+RATIONALE............................................................................................................................................................1
+AIMS…. ....................................................................................................................................................1
+GENERAL OBJECTIVES............................................................................................................................2
+SKILLS AND ABILITIES TO BE ASSESSED...................................................................................................2
+ORGANISATION OF THE SYLLABUS........................................................................................................3
+RECOMMENDED TEACHING APPROACHES.............................................................................................3
+SUGGESTED TIMETABLE ALLOCATION....................................................................................................4
+CERTIFICATION........................................................................................................................................4
+DEFINITION OF PROFILE DIMENSIONS....................................................................................................4
+FORMAT OF THE EXAMINATIONS ...........................................................................................................5
+WEIGHTING OF THE EXAMINATION COMPONENTS...............................................................................6
+REGULATIONS FOR PRIVATE CANDIDATES .............................................................................................6
+REGULATIONS FOR RESIT CANDIDATES ..................................................................................................6
+REGULATIONS FOR THE JANUARY SITTING.............................................................................................6
+SECTION 1: ACCOUNTING AS A PROFESSION .........................................................................................7
+SECTION 2: ACCOUNTING AS A SYSTEM .................................................................................................9
+SECTION 3: BOOKS OF ORIGINAL ENTRY..............................................................................................12
+SECTION 4: LEDGERS AND THE TRIAL BALANCE...................................................................................15
+SECTION 5: THE PREPARATION AND ANALYSIS OF FINANCIAL STATEMENTS OF THE SOLE TRADER...17
+SECTION 6: ACCOUNTING ADJUSTMENTS ............................................................................................19
+SECTION 7: CONTROL SYSTEMS ............................................................................................................21
+SECTION 8: ACCOUNTING FOR PARTNERSHIPS ....................................................................................23
+SECTION 9: ACCOUNTING FOR LIMITED LIABILITY COMPANIES CO-OPERATIVES
+AND NON-PROFIT ORGANISATIONS .....................................................................................................25
+ CXC 23/G/SYLL 15 www.cxc.org
+SECTION 10: MANUFACTURING AND INVENTORY CONTROL...............................................................27
+SECTION 11: ACCOUNTING FOR THE ENTREPRENEUR..........................................................................29
+GUIDELINES TO TEACHERS FOR THE CONDUCT OF THE SCHOOL-BASED ASSESSMENT
+IN BUSINESS STUDIES (PRINCIPLES OF ACCOUNTS, PRINCIPLES OF BUSINESS AND ECONOMICS)......31
+GUIDELINES TO TEACHERS FOR THE ALTERNATIVE TO SCHOOL-BASED ASSESSMENT ........................36
+FORMULAE............................................................................................................................................37
+GLOSSARY OF ACCOUNTING TERMS.....................................................................................................38
+GLOSSARY OF EXAMINATION TERMS ...................................................................................................48
+ CXC 23/G/SYLL 15 www.cxc.org
+NOTE TO TEACHERS AND LEARNERS
+The Principles of Accounts Syllabus (CXC 10/G/SYLL 17) was revised in 2016
+for first examination in 2019.
+Teaching is expected to commence on the revised syllabus in September 2017.
+Revised 1990, 1998, 2006 and 2017
+Please check the website, www.cxc.org for updates on CXC®’s syllabuses.
+PLEASE NOTE
+This icon is used throughout the syllabus to represent key features which teachers and
+learners may find useful.
+ CXC 10/G/SYLL 17 1 www.cxc.org
+Principles of Accounts Syllabus
+ RATIONALE
+Accounting is the financial information system that provides relevant information to those who
+manage or use economic resources or engage in other economic activity. Principles of Accounts is a
+course of study that provides an introduction to the principles and techniques that accountants
+employ in measuring, processing, evaluating and communicating information about the financial
+performance and position of a business.
+This course in Principles of Accounts helps students to develop an understanding of a range of
+theoretical and practical techniques used in Accounting. It helps to develop skills that should enable
+them to participate more effectively and responsibly in today’s business and technology-based
+environment, to improve the management of personal financial activities, such as, budgeting, savings
+and investment. In addition, this course prepares students for post-secondary and professional studies
+and entry level employment in Accounting.
+The syllabus also seeks to instill twenty-first century skills as well as tenets of the Ideal Caribbean
+Person as articulated by the CARICOM Caribbean Education Task Force (CTF) and adopted by the
+CARICOM Heads of Government at their 18th Summit. To this end, the syllabus contains objectives,
+content and teaching, learning and assessment activities intended to nurture and improve students’
+multiple literacy and critical thinking skills, as well as their management, economic and entrepreneurial
+skills and positive work ethic. In addition, in keeping with the UNESCO Pillars of Learning, on completion
+of this course of study students will learn to know, learn to be, learn to do, and to live together.
+ AIMS
+The syllabus aims to:
+1. introduce fundamental concepts, practices and purposes of Accounting;
+2. encourage the development of critical thinking and entrepreneurial skills;
+3. foster attitudes useful in adapting to a dynamic business environment;
+4. provide a foundation for further studies in accounting;
+5. foster an awareness of the place of technology in Accounting; and,
+6. provide an acceptable level of competence for entry-level employment.
+ CXC 10/G/SYLL 17 2 www.cxc.org
+ GENERAL OBJECTIVES
+On completion of the syllabus, students should:
+1. identify, utilise and interpret financial data that will facilitate proper decision-making by users
+of accounting information;
+2. appreciate the use of accounting practices as a tool for efficient business management;
+3. develop critical thinking, problem-solving, and entrepreneurial skills;
+4. appreciate the importance of ethical behaviour and accountability in both public and private
+organisations;
+5. develop an awareness of the role and impact of technology in Accounting; and,
+6. acquire knowledge and skills appropriate for entry-level employment or further studies.
+ SKILLS AND ABILITIES TO BE ASSESSED
+The assessment will test the following skills and abilities:
+1. Literacy and Numeracy/Communication
+(a) use jargon of the field, formulae, form and style relevant to the field, English;
+(b) recall, select, and use business-related theories, principles, concepts and methods;
+and,
+(c) develop reasoned expositions on theories and policies used in Accounting.
+2. Critical thinking and problem-solving
+- identify and analyse problems and formulate solutions.
+3. Interpretation
+- interpret data and draw logical conclusions.
+4. Research and statistics
+(a) gathering relevant data; and,
+(b) using appropriate strategies to present them.
+ CXC 10/G/SYLL 17 3 www.cxc.org
+ ORGANISATION OF THE SYLLABUS
+The syllabus is arranged in 11 Sections, consisting of specific objectives and related content.
+SECTION 1 - ACCOUNTING AS A PROFESSION
+SECTION 2 - ACCOUNTING AS A SYSTEM
+SECTION 3 - BOOKS OF ORIGINAL ENTRY
+SECTION 4 - LEDGERS AND THE TRIAL BALANCE
+SECTION 5 - THE PREPARATION AND ANALYSIS OF FINANCIAL STATEMENTS OF
+THE SOLE TRADER
+SECTION 6 - ACCOUNTING ADJUSTMENTS
+SECTION 7 - CONTROL SYSTEMS
+SECTION 8 - ACCOUNTING FOR PARTNERSHIPS
+SECTION 9 - ACCOUNTING FOR LIMITED LIABILITY COMPANIES, COOPERATIVES
+AND NON-PROFIT ORGANISATIONS
+SECTION 10 - MANUFACTURING AND INVENTORY CONTROL
+SECTION 11 - ACCOUNTING FOR THE ENTREPRENEUR
+ RECOMMENDED TEACHING APPROACHES
+To facilitate students’ attainment of the objectives of this syllabus, teachers are advised to note the
+guidelines listed below.
+1. The syllabus provides students with a grounding in fundamental concepts, practices and skills
+of Accounting. The major focus of the syllabus, however, is on the application of these
+concepts, practices and skills to aid the understanding of issues and problems both at the
+global and regional levels.
+2. Teachers are encouraged to develop lessons using themes that encompass topics from
+different sections of the syllabus. Therefore, during the delivery of instruction, teachers should
+highlight those topics across the syllabus that are related, in order to indicate the relevance
+and relationships.
+3. Teachers should use a variety of methodologies, such as role play, case studies, simulations,
+field trips, games, and presentations by resource personnel. Practical assignments and
+discussions on topical issues should be used where possible. Throughout the syllabus, an
+asterisk* is used to highlight specific objectives for which practical activities are imperative.
+4. Where tangible and physical examples are not feasible, teachers are advised to utilise the
+resources on the internet and other electronic media, such as the Notesmaster learning
+content platform where selected resources are housed to support the syllabus.
+ CXC 10/G/SYLL 17 4 www.cxc.org
+ SUGGESTED TIMETABLE ALLOCATION
+It is recommended that a minimum of five (5) 40-minute periods per week (over a two-year period)
+or the equivalent should be allocated to the syllabus.
+ CERTIFICATION
+Candidates who sit the CSEC® Principles of Accounts examinations will be awarded an overall grade
+on a six-point scale. In addition to the overall grade, candidates’ performance will be reported by a
+letter grade under profile dimensions of Knowledge/Comprehension, Application, Interpretation and
+Analysis. These profile dimensions are explained below.
+ DEFINITION OF PROFILE DIMENSIONS
+1. Knowledge/Comprehension
+The ability to:
+(a) state, list or identify accounting concepts, terms and principles;
+(b) define and explain accounting concepts, principles, theories and procedures; and,
+(c) demonstrate an understanding of basic accounting concepts, principles, and skills.
+2. Application
+The ability to:
+(a) apply accounting concepts and principles to analyse issues; and,
+(b) apply accounting concepts, principles and skills to solve problems in various
+situations.
+3. Interpretation and Analysis
+The ability to:
+(a) select, organise and interpret accounting data presented in a variety of forms; and,
+(b) organise and present, logically and effectively, accounting ideas and arguments using
+verbal, graphical and numerical forms of communication.
+ CXC 10/G/SYLL 17 5 www.cxc.org
+ FORMAT OF THE EXAMINATIONS
+The examination consists of Paper 01, Paper 02 and Paper 031 (School-Based Assessment). Paper 032
+(alternative to the School-Based Assessment) is offered to private candidates as an alternative to the
+School-Based Assessment.
+Paper 01
+(1 hour 30 Minutes)
+(60 marks)
+A multiple-choice test of 60 items testing the profile dimensions
+Knowledge/Comprehension, Application, Interpretation and Analysis. The
+paper will sample proportionately, all sections of the syllabus as outlined
+below.
+Paper 02
+(3 hours)
+(100 marks)
+A problem-solving paper which will test the profile dimensions of
+Knowledge/Comprehension, Application (of accounting principles and skills)
+and Interpretation of data in the ratio 1:2:1.
+Paper 02 consists of five compulsory questions drawn from the entire
+syllabus. Each question will be worth 20 marks.
+Paper 031
+(SBA)
+(40 marks)
+A School-Based Assessment (SBA) component covering the Profile
+Dimensions of the syllabus. Details are given on pages 32–36.
+Paper 032
+(1 hour 30 minutes)
+(40 marks)
+A set of compulsory short answer questions based on case studies. Details
+are given on pages 37.
+Distribution of Items for Paper 01 (Multiple Choice Test)
+Section Title No. of Items
+1 Accounting as a Profession 4
+2 Accounting as a System 4
+3 Books of Original Entry 6
+4 Ledgers and the Trial Balance 7
+5 The Preparation and Analysis of Financial
+Statements of the Sole Trader
+6
+6 Accounting Adjustments 8
+7 Control Systems 4
+8 Accounting for Partnerships 5
+9 Accounting for Limited Liability Companies,
+Co-operatives and Non Profit Organisations
+8
+10 Manufacturing and Inventory Control 4
+11 Accounting for the Entrepreneur 4
+TOTAL 60
+ CXC 10/G/SYLL 17 6 www.cxc.org
+ WEIGHTING OF THE EXAMINATION COMPONENTS
+The profile dimensions and examination papers will be weighted as set out below.
+PROFILES PAPER 01 PAPER 02 PAPER 031
+(SBA)
+TOTAL Percentage
+(%)
+Knowledge/
+Comprehension 15 25 10 50 (25)
+Application 30 50 20 100 (50)
+Interpretation
+and Analysis 15 25 10 50 (25)
+TOTAL 60 100 40 200 (100)
+ REGULATIONS FOR PRIVATE CANDIDATES
+Private candidates must be entered for the examination through the Local Registrar in their respective
+territories. They will be required to sit Papers 01, 02, and Paper 032.
+Paper 032 is a written examination designed for candidates whose research projects cannot be
+monitored by tutors in a recognised educational institution and who have been assigned by the Local
+Registrar to write Paper 032 at a designated examination centre.
+ REGULATIONS FOR RESIT CANDIDATES
+Resit candidates who have obtained a MODERATED score of 50 per cent or more of the SBA marks
+will not be required to repeat this component of the examination provided that they write the
+examination in the academic year immediately following their first sitting of the examination. Resit
+candidates who failed to achieve 50 per cent of the total SBA marks must repeat the project during
+the academic year in which the examination is repeated. Resit candidates must indicate at registration
+that they are resit candidates. See Regulations for the January Sitting.
+ REGULATIONS FOR THE JANUARY SITTING
+1. All candidates for the January sitting who are taking CSEC® Principles of Accounts examination
+for the first time MUST write Paper 032.
+2. There is no SBA option (Paper 031) available for January for candidates who are writing the
+examination for the first time.
+3. A resit candidate refers to a candidate who wrote Paper 031 (SBA) in the year immediately
+preceding the January examination, and obtained a MODERATED score of 50 per cent or
+more. Such a candidate is NOT required to write Paper 032 in January.
+4. A candidate who qualifies as a resit candidate, that is, a candidate who obtained a
+MODERATED score of 50 per cent or more, but who wishes to try to improve on his/her grade,
+may write Paper 032 in January.
+5. A candidate who did NOT qualify as a resit candidate, that is, who did not obtain 50 per cent
+or more in the SBA and who wishesto write the examination in January MUST write Paper 032.
+ CXC 10/G/SYLL 17 7 www.cxc.org
+ SECTION 1: ACCOUNTING AS A PROFESSION
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. explain the concept and purposes of
+Accounting;
+Concept of “Accounting” and “Principles of
+Accounting”.
+Accounting as a business practice – the purpose
+of Accounting.
+2. identify the users of accounting
+information;
+Internal and external users of accounting
+information and their needs.
+3. describe traditional and emerging
+careers in the field of Accounting;
+and,
+Careers in areas such as:
+(a) banking;
+(b) management;
+(c) insurance; and,
+(d) entrepreneurship.
+4. discuss ethical issues in the field of
+Accounting.
+(a) Ethical principles of Accounting. For
+example, Code of Ethics: objectivity,
+professional competence, integrity,
+professional behaviour, and
+confidentiality:
+(i) appropriate application of the
+ethical principles.
+(ii) inappropriate application of the
+ethical principles.
+(b) Appropriate application of accounting
+principles.
+(c) Inappropriate application of accounting
+principles. For example, fraud, taxevasion.
+(d) Results of inappropriate application of
+accounting principles. For example, law
+suits, loss of job, loss of integrity,
+imprisonment, and fines.
+ CXC 10/G/SYLL 17 8 www.cxc.org
+SECTION 1: ACCOUNTING AS A PROFESSION (cont’d)
+Suggested Teaching and Learning Activities
+To facilitate students’ attainment of the objectives of this Section, teachers/facilitators are encouraged
+to engage students in the teaching and learning activities below.
+1. Have students conduct research on the concept and purposes of Accounting, and identify the
+users of accounting information to form the basis of class discussions.
+2. Have students conduct research on traditional and emerging careers in the field of business to
+include accounting specialisations.
+3. Have students conduct research on ethical and unethical practicesin Accounting and participate
+in a debate.
+4. Assign students to groups and have each group examine articles and case studies regarding
+ethical issues. Each group should present their findings to the class.
+RESOURCES
+Austen, D. and Ellis, D. et al. Principles of Accounts for CSEC, A Caribbean Examinations Council
+Study Guide. Nelson Thornes, 2012.
+WEBSITES
+http://smallbusiness.chron.com/ethics-accounting-profession-3738.html
+https://www.ifac.org/system/files/publications/files/ifac-code-of-ethics-for.pdf
+http://allaccountingcareers.com/accounting-careers
+http://accounting-simplified.com/financial/users-of-accounting-information.html
+CXC 10/G/SYLL 17 9
+www.cxc.org
+ SECTION 2: ACCOUNTING AS A SYSTEM
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. outline the concepts and
+conventions that guide the
+accounting process;
+(a) accounting concepts and conventions;
+and,
+(b) principles which guide the accounting
+process:
+(i) accrual and matching;
+
+(ii) prudence (conservatism);
+
+(iii) consistency; and,
+(iv) separate entity.
+2. describe the accounting cycle; The accounting cycle with its diagrammatic
+representations.
+3. appraise the accounting features of
+various types of business
+organisations;
+Types of business organisations:
+(a) Sole Traders;
+(b) Partnerships;
+(c) Corporations (Limited Liability
+companies);
+(d) Cooperatives; and,
+(e) Non-Profit Organisations.
+4. identify the main financial
+statements prepared by various
+business organisations;
+Financial Statements:
+(a) Income Statement (Trading and Profit
+and Loss A/C);
+(b) Income and Expenditure A/C;
+(c) Balance Sheets; and,
+(d) Cash Flow Statements.
+(Teachers are not expected to teach how to
+prepare the financial statements at this stage.
+However, the Income and Expenditure A/C
+should only be identified and the purpose
+stated). See Section 9.
+CXC 10/G/SYLL 17 10
+www.cxc.org
+SECTION 2: ACCOUNTING AS A SYSTEM (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+5. assess the role and impact of
+technology on the accounting
+process;
+(a) accounting processes which could be
+readily performed by the use of the
+computer, for example, payroll,
+inventory control, receivables and
+payables schedules;
+(b) software currently being used in
+Accounting; and,
+(c) advantages and disadvantages of
+using the computer in Accounting.
+6. explain the concept of a Balance
+Sheet and the balance sheet
+equation;
+(a) Definition and purpose of a Balance
+Sheet.
+(b) Balance Sheet equation A = C+L.
+7. identify the components of a
+Balance Sheet;
+Definition and examples of Assets, Liabilities
+and Capital.
+8. give examples of different types of
+assets and liabilities;
+Definition and examples of Non-current Assets,
+Currents Assets, Current Liabilities,
+Non-current Liabilities.
+9. *construct Balance Sheets; and, (a) Preparation of Balance Sheets.
+(b) Arrangement of Assets and Liabilities
+in order of:
+(i) permanence; and,
+(ii) liquidity.
+10. determine which items in a Balance
+Sheet will change as a result of
+various transactions.
+Effect of transactions on Balance
+Sheet items – increase or decrease in
+items while maintaining the Balance
+Sheet equation.
+CXC 10/G/SYLL 17 11
+www.cxc.org
+SECTION 2: ACCOUNTING AS A SYSTEM (cont’d)
+Suggested Teaching and Learning Activities
+To facilitate students’ attainment of the objectives of this Section, teachers/facilitators are encouraged
+to engage students in the teaching and learning activities below.
+1. Group students and assign each group to research and report on specific concepts and
+conventions that guide the accounting process. Encourage them to start individual collections
+of different artefacts to create a portfolio which they should develop as the course progresses.
+2. Invite guest speakers to speak on the accounting features of various types of business
+organisations, or arrange for students to go on field trips which allow them to have first-hand
+experiences of various accounting features of organisations.
+3. Invite guest speakers to speak on accounting software or arrange for students to go on field
+trips which allow them to have first-hand experiences of various accounting software used in
+organisations.
+4. Engage students in research to identify the main financial statements prepared by various
+business organisations. Samples of these should be collected and a portfolio started.
+5. Engage students in research and debate to assess the role and impact of technology on the
+accounting process.
+6. Engage students in the construction of Balance Sheets after discussions, and demonstrations
+by the teacher.
+RESOURCES
+Austen, D. and Ellis, D. et al. Principles of Accounts for CSEC, A Caribbean Examinations Council
+Study Guide. Nelson Thornes, 2012.
+Wood, F. and Robinson, S. Principles of Accounts for the Caribbean, 5th Edition. Pearson
+Education Limited, 2007.
+CXC 10/G/SYLL 17 12
+www.cxc.org
+ SECTION 3: BOOKS OF ORIGINAL ENTRY
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. explain the uses of books of original
+entry;
+The uses of Books of Original Entry:
+(a) general journal;
+(b) purchases book;
+(c) sales book;
+(d) returns outwards book/purchases
+returns;
+(e) returns inwards book/sales returns;
+(f) cash book; and,
+(g) petty cash book.
+2. distinguish between cash and credit
+transactions;
+Cash and credit transactions.
+The use of forms of payment including:
+(a) cash;
+(b) cheques;
+(c) credit cards; and,
+(d) debit cards.
+3. identify source documents related to
+books of original entry;
+Source documents related to the books of original
+entry:
+(a) sales invoice;
+(b) purchases invoice;
+(c) credit notes;
+(d) debit notes;
+(e) petty cash vouchers;
+(f) receipts from cash transactions; and,
+(g) non-cash transactions.
+CXC 10/G/SYLL 17 13
+www.cxc.org
+SECTION 3: BOOKS OF ORIGINAL ENTRY (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+4. *prepare source documents for use in
+transaction descriptions;
+Prepare source documents.
+5. *translate source documents into
+transaction descriptions;
+Use source documents prepared to create
+transactions.
+6. *use source documents to make entries
+into books of original entry;
+Identify the book of original entry to which
+transactions will be recorded.
+Record transactions using source
+documents:
+(a) purchases book;
+(b) sales book;
+(c) returns inwards book/sales returns;
+(d) returns outwards book/purchases
+returns;
+(e) cash book; and,
+(f) petty cash book.
+7. distinguish between trade and cash
+discounts;
+Treatment of trade discounts and cash discounts.
+8. distinguish between discounts allowed
+and discounts received;
+Cash discounts – discounts allowed and discounts
+received.
+9. *balance cash books; (a) Balancing of the cash book.
+(b) Balancing the petty cash book using
+the Imprest System.
+10. interpret the balances of the cash books;
+and,
+The significance of the balances brought down on
+the cash books.
+11. *indicate treatment of totals from books
+of original entry.
+Treatment of the totals from the books of original
+entry (Day Books).
+CXC 10/G/SYLL 17 14
+www.cxc.org
+SECTION 3: BOOKS OF ORIGINAL ENTRY (cont’d)
+Suggested Teaching and Learning Activities
+To facilitate students’ attainment of the objectives of this Section, teachers/facilitators are encouraged
+to engage students in the teaching and learning activities below.
+1. Engage students in activities which require them to collect, prepare and translate source
+documents into transaction descriptions. Encourage students to collect artefacts of the
+different books of original entry and make individual entries in their portfolio.
+2. Engage students in activities which require them to use source documents to make entries into
+books of original entry. Discuss the impact of technology (for example in online transactions),
+and incorporate the use of related documents as much as possible in the activities.
+3. Engage studentsin activities which require them to balance the cash book and petty cash book.
+Discuss the impact of technology (for example in online transactions), and incorporate the use
+of related documents as much as possible in the activities.
+RESOURCES
+Austen, D. and Ellis, D., et al. Principles of Accounts for CSEC, A Caribbean Examinations Council
+Study Guide. Nelson Thornes, 2012.
+Wood, F. and Robinson, S. Principles of Accounts for the Caribbean, 5th Edition. Pearson
+Education Limited, 2007.
+Wood, F. and Sangster, A. Business Accounting 1, 12th Edition. Pearson Education Limited,
+2012.
+CXC 10/G/SYLL 17 15
+www.cxc.org
+ SECTION 4: LEDGERS AND THE TRIAL BALANCE
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. describe the different classes of
+accounts;
+Classification of accounts:
+(a) Nominal – expenses and revenue;
+(b) Real – assets; and,
+(c) Personal – accounts receivable and
+accounts payable.
+2. identify the different types of
+ledgers;
+Different types of ledgers for recording
+nominal, real and personal accounts:
+(a) general ledger;
+(b) sales/accounts receivable ledger; and,
+(c) purchases/accounts payable ledger.
+3. explain the significance of debit
+and credit in each class of account;
+Rules of entry for assets, liabilities, income
+(revenue), capital and expenses.
+4. *draw up simple account formats,
+neatly and accurately;
+Recording transactions in accounts using the
+double entry system.
+5. *post from books of original entry
+to the general ledger and the
+subsidiary ledgers;
+Posting to general and subsidiary ledgers.
+6. *balance and close accounts; Balancing accounts: calculation of the
+balances carried down (c/d) and bringing down
+(b/d) those balances.
+7. interpret entries and balances; The significance of the balances brought down
+on the accounts.
+8. *use the balances brought down to
+construct the trial balance; and,
+Preparation of the Trial balance.
+9. outline the uses and limitations of
+the trial balance.
+Uses and limitations of the trial balance.
+CXC 10/G/SYLL 17 16
+www.cxc.org
+SECTION 4: LEDGERS AND THE TRIAL BALANCE (cont’d)
+Suggested Teaching and Learning Activities
+To facilitate students’ attainment of the objectives of this Section, teachers/facilitators are encouraged
+to engage students in the teaching and learning activities below.
+1. Engage students in activities which require them to draw up simple account formats included
+in this Section of the syllabus. Attention should be paid to neatness and accuracy.
+2. Engage students in activities which require them to prepare the trial balance. Attention should
+be paid to neatness and accuracy.
+RESOURCES
+Austen, D. and Ellis, D. et al. Principles of Accounts for CSEC, A Caribbean Examinations Council
+Study Guide. Nelson Thornes, 2012.
+Wood, F. and Robinson, S. Principles of Accounts for the Caribbean, 5th Edition. Pearson
+Education Limited, 2007.
+Wood, F. and Sangster, A. Business Accounting 1, 12th Edition. Pearson Education Limited,
+2012.
+CXC 10/G/SYLL 17 17
+www.cxc.org
+ SECTION 5: THE PREPARATION AND ANALYSIS OF FINANCIAL
+STATEMENTS OF THE SOLE TRADER
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. explain the purpose of preparing
+financial statements;
+The purpose of preparing Financial Statements
+to satisfy the needs of the users.
+2. identify the components of the
+Financial Statements;
+Trading and Profit and Loss Account and
+Balance Sheet.
+3. *draw up the income statement
+for sole traders to determine
+gross profit or loss and net profit
+or loss;
+Income statements for sole traders including
+adjustments for return inwards (sales
+returns) and return outwards (purchases
+returns), carriage – inwards and outwards;
+and closing inventory.
+4. *prepare classified balance sheet in
+vertical style;
+Definition of working capital (net current
+assets); calculation of working capital;
+preparation of classified Balance Sheet
+showing working capital.
+5. explain the significance of the
+working capital for the operation of
+a business;
+Working capital as a basic tool for solvency;
+working capital formula.
+6. *use ratios to determine the
+performance (profitability) of the
+business;
+Calculate simple ratios such as inventory
+turnover, average inventory, gross profit
+percentage, net profit percentage.
+Use ratios to determine business performance.
+(See Section 9, Specific Objective 10)
+7. *calculate ratios to demonstrate
+the financial position of a business;
+Calculate ratios such as current ratio; acid
+test ratio; return on investment.
+Use ratios to analyse and interpret the
+financial position of a business.
+(See Section 9, Specific Objective 10)
+8. *show the effect of net profit or
+loss on capital; and,
+Treatment of net profit or loss on the Balance
+Sheet.
+9. make recommendations about a
+business based on ratio analysis.
+Preparation of simple reports evaluating a
+business based on ratios and making
+recommendations.
+CXC 10/G/SYLL 17 18
+www.cxc.org
+SECTION 5: THE PREPARATION AND ANALYSIS OF FINANCIAL STATEMENTS (cont’d)
+Suggested Teaching and Learning Activity
+To facilitate students’ attainment of the objectives of this Section, teachers/facilitators are encouraged
+to engage students in the teaching and learning activity below.
+Engage students in activities which require them to calculate ratios to determine the financial position
+of a business. Real figures should be provided from published reports and other authentic sources, for
+example, business prospectus and company annual reports which may be found on their websites as
+well as in print. Students should use these ratios to determine the performance (profitability) of the
+business. They should prepare simple reports evaluating the business based on ratios and make
+recommendations.
+RESOURCES
+Austen, D. and Ellis, D. et al. Principles of Accounts for CSEC, A Caribbean Examinations Council
+Study Guide. Nelson Thornes, 2012.
+Wood, F. and Robinson, S. Principles of Accounts for the Caribbean, 5th Edition. Pearson
+Education Limited, 2007.
+Wood, F. and Sangster, A. Business Accounting 1, 12th Edition. Pearson Education Limited,
+2012.
+CXC 10/G/SYLL 17 19
+www.cxc.org
+ SECTION 6: ACCOUNTING ADJUSTMENTS
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. explain accounting concepts
+that underpin the need for
+adjustments;
+Prudence, accrual, consistency.
+2. explain why adjustments are
+made to financial statements;
+The reasons for adjustments; application of
+the matching/accruals concept.
+3. prepare journal entries and ledger
+accounts to reflect adjustments
+and the treatment in the balance
+sheet;
+Pre-payments – prepaid expenses and
+advanced revenues; Accruals – accrued
+expenses and revenues.
+(a) Journal entries.
+(b) Ledger accounts.
+4. explain the reasons for bad debts; Definition of bad and doubtful debts; reasons
+for bad debts (aging debtors) and provisions
+for doubtful debts.
+5. *prepare journal entries and
+ledger accounts to write off bad
+debts and create provision for
+doubtful debts;
+Journal entries and ledger accounts.
+6. indicate the treatment of bad and
+doubtful debts in the Income
+Statement and Balance Sheet;
+Accounting entries in the Income Statement
+and Balance Sheet.
+7. discuss the nature of
+depreciation;
+Definition of depreciation.
+Causes of depreciation.
+Factors to be considered when calculating
+depreciation (cost, estimated useful life and
+scrap value).
+8. *calculate annual depreciation
+expenses using straight line
+method and reducing balance
+method;
+Straight line method (using formula) and
+reducing balance method of depreciation.
+CXC 10/G/SYLL 17 20
+www.cxc.org
+SECTION 6: ACCOUNTING ADJUSTMENTS (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+9. *prepare journal entries and
+ledger accounts for provision for
+depreciation;
+Journal entries for the provision for
+depreciation; the maintenance of the
+provision for depreciation account; the
+treatment of accumulated depreciation on the
+Balance Sheet; the determination of Net Book
+Value (NBV).
+10. distinguish between capital
+expenditure and revenue
+expenditures;
+Capital expenditure; revenue expenditure.
+11. determine the amount of
+expenses or revenues to be
+transferred to the Income
+Statement;
+Journal entries and Ledger accounts for
+expenses and revenues.
+12. *prepare income statements to
+reflect adjusting entries; and,
+(a) Pre-payments and accruals.
+(b) Indicate where accruals and
+prepayments will appear on the
+Balance Sheet.
+13. *prepare Financial Statements
+after adjustments.
+The preparation of adjusted Financial
+Statements.
+Suggested Teaching and Learning Activity
+To facilitate students’ attainment of the objectives of this Section, teachers/facilitators are encouraged
+to engage students in the teaching and learning activity below.
+Prepare worksheets with exercises in which students practise all the accounting adjustments included
+in this Section of the syllabus.
+RESOURCES
+Austen, D. and Ellis, D. et al. Principles of Accounts for CSEC. Nelson Thornes, 2011.
+Austen, D. and Ellis, D. et al. Principles of Accounts for CSEC, A Caribbean Examinations Council
+Study Guide. Nelson Thornes, 2012.
+Stephens-James, L. and
+Burrows, L. et al.
+Principles of Accounts for Caribbean Examinations. Ian Randle
+Publishers, 2011.
+Wood, F. and Robinson, S. Principles of Accounts for the Caribbean, 5th Edition. Pearson
+Education Limited, 2007.
+Wood, F. and Sangster, A. Business Accounting 1, 12th Edition. Pearson Education Limited,
+2012.
+CXC 10/G/SYLL 17 21
+www.cxc.org
+ SECTION 7: CONTROL SYSTEMS
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. explain the uses of control systems
+in the accounting process;
+(a) The need for control systems.
+(b) Uses of control systems.
+2. outline the THREE most commonly
+used control systems in the
+accounting process;
+Common control systems:
+(a) Suspense Account;
+(b) Control Accounts; and,
+(c) Bank Reconciliation Statements.
+3. distinguish between those errors
+which affect and those which do
+not affect the trial balance;
+Types of errors.
+4. *prepare journal entries for the
+correction of errors;
+Corrections of errors via journal entries.
+5. explain the need for suspense
+account;
+Uses of the suspense account.
+6. *construct a suspense account; Suspense Accounts.
+7. *construct a statement of revised
+profit after the correction of errors;
+The effect of errors on the Income Statement
+and the Balance Sheet.
+8. explain the purposes of control
+accounts and how they are
+prepared;
+Uses of control accounts.
+9. identify the sources of information
+for entries made in control
+accounts;
+Sources of information for entries in control
+accounts.
+10. *construct sales and purchases
+ledger control accounts;
+Sales Ledger Control Accounts, Purchases
+Ledger Control Accounts.
+11. explain the significance of the
+balances on control accounts;
+Meaning (significance) of the balances on
+Control Accounts.
+CXC 10/G/SYLL 17 22
+www.cxc.org
+SECTION 7: CONTROL SYSTEMS (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+12. identify items that will result in
+differences between cash book
+and bank statement balances; and,
+Items that cause the difference between cash
+book and Bank statement balances and
+updating of the cash book:
+unpresented cheques; standing order; bank
+charges; late lodgments; and, dishonoured
+cheques.
+13. *construct a bank reconciliation
+statement using the adjusted cash
+book balance.
+Uses and construction of the Bank
+Reconciliation Statement.
+Suggested Teaching and Learning Activities
+To facilitate students’ attainment of the objectives of this Section, teachers/facilitators are
+encouraged to engage students in the teaching and learning activities below.
+1. Provide exercises in which students practice all the accounting activities included in this Section
+of the syllabus.
+2. Engage students in activities to examine and comment on items recorded on specimen bank
+statements.
+RESOURCES
+Austen, D. and Ellis, D. et al. Principles of Accounts for CSEC. Nelson Thornes, 2011.
+Austen, D. and Ellis, D. et al. Principles of Accounts for CSEC, A Caribbean Examinations Council
+Study Guide. Nelson Thornes, 2012.
+Stephens-James, L. and
+Burrows, L. et al.
+Principles of Accounts for Caribbean Examinations. Ian Randle
+Publishers, 2011.
+Wood, F. and Robinson, S. Principles of Accounts for the Caribbean, 5th Edition. Pearson
+Education Limited, 2007.
+Wood, F. and Sangster, A. Business Accounting 1, 12th Edition. Pearson Education Limited,
+2012.
+CXC 10/G/SYLL 17 23
+www.cxc.org
+ SECTION 8: ACCOUNTING FOR PARTNERSHIPS
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. define a partnership business; Definition of partnership; comparison of a
+partnership with sole traders and
+corporations; types of partners.
+2. state the features of a partnership; Features of partnership – voluntary
+association, mutual agency, unlimited
+liability.
+3. give reasons for establishing
+partnerships;
+Reasons for formation of partnership, for
+example, increased capital, diverse skills.
+4. outline the essential components
+of a partnership agreement;
+Features of partnership agreement, including
+share of profits, interest on capital and
+drawings, salaries.
+5. *prepare journal entries and ledger
+accounts to record the capital of
+partnership;
+The capital account of partners – cash and
+non-cash resources; types of capital account
+– fixed and fluctuating capital accounts and
+their implications.
+6. *use various methods to share
+profit/loss among partners;
+Methods of sharing profit/loss: capital ratio,
+fixed percentage, equally.
+7. *prepare appropriation account of
+partnerships;
+The preparation of the appropriation
+account.
+8. *prepare current account of
+partners;
+The current account prepared with items
+posted from the appropriation account;
+columnar form and single accounts.
+9. explain the significance of the
+brought down balances on
+partners’ current accounts; and,
+The significance of the debit and credit
+balances brought down on the current
+accounts.
+10. *prepare balance sheet of
+partnerships.
+The treatment of current account balances on
+the balance sheet; (emphasis on capital
+section).
+CXC 10/G/SYLL 17 24
+www.cxc.org
+SECTION 8: ACCOUNTING FOR PARTNERSHIPS
+Suggested Teaching and Learning Activity
+To facilitate students’ attainment of the objectives of this Section, teachers/facilitators are encouraged
+to engage students in the teaching and learning activity below.
+Engage students in activities which allow them to practise the accounting concepts and principles
+related to partnerships. Ensure that students engage in AT LEAST ONE activity for EACH Specific
+Objective indicated with an asterisk.*
+RESOURCES
+Austen, D. and Ellis, D. et al. Principles of Accounts for CSEC, A Caribbean Examinations Council
+Study Guide. Nelson Thornes, 2012.
+Stephens-James, L. and
+Burrows, L. et al.
+Principles of Accounts for Caribbean Examinations. Ian Randle
+Publishers, 2011.
+Wood, F. and Robinson, S. Principles of Accounts for the Caribbean, 5th Edition. Pearson
+Education Limited, 2007.
+Wood, F. and Sangster, A. Business Accounting 1, 12th Edition. Pearson Education Limited,
+2012.
+CXC 10/G/SYLL 17 25
+www.cxc.org
+ SECTION 9: ACCOUNTING FOR LIMITED LIABILITY COMPANIES,
+CO-OPERATIVES AND NON-PROFIT ORGANISATIONS
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. identify the essential features of
+limited liability companies, cooperatives and non-profit
+organisations;
+(a) Features of limited liability companies,
+co-operatives, non-profit, public and
+private organisations.
+(b) Principles of limited liability
+companies, co-operatives, non-profit,
+public and private organisations.
+2. identify the types of limited liability
+companies, co-operatives and nonprofit organisations;
+Types of limited liability companies, cooperatives (for example, Credit Union,
+Agricultural Societies) and non-profit
+organisations.
+3. outline the advantages and
+disadvantages of a limited
+liability company;
+Advantages and disadvantages of limited
+liability companies.
+4. describe the various methods of
+raising capital available to limited
+liability companies and cooperatives;
+Methods of raising capital – equity (preference
+and ordinary shares), debt (debentures, bank
+loans).
+Shareholders’ equity:
+Elements of shareholders’ equity: share
+capital, reserves.
+5. identify the various types of shares
+and the rights of the owners of
+each type of share;
+Types of shares; rights and privileges of
+owners of each type of share.
+6. *prepare journal entries to record
+the issue of shares and debentures;
+Journal entries to record capital.
+7. *calculate dividend payments for
+various types of shares;
+*Calculation of dividend payments.
+8. *appropriate profits between
+dividends and reserves;
+Appropriation of profits (dividends and
+reserves).
+CXC 10/G/SYLL 17 26
+www.cxc.org
+SECTION 9: ACCOUNTING FOR LIMITED LIABILITY COMPANIES, CO-OPERATIVES AND
+NON-PROFIT ORGANISATIONS (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+9. *prepare the final accounts of
+limited liability companies and
+co-operatives;
+(a) Final accounts of limited liability
+companies.
+(b) Preparation of Income Statement
+showing distribution of surplus.
+(c) Preparation of Balance Sheet.
+10. *analyse performance and
+position using ratios; and,
+Calculation and interpretation of accounting
+ratios (See Section 5, Specific Objectives 6
+and 7).
+11. *prepare receipts and payment
+accounts for non-profit
+organisations.
+Preparation of receipts and payment accounts
+only.
+Suggested Teaching and Learning Activities
+To facilitate students’ attainment of the objectives of this Section, teachers/facilitators are encouraged
+to engage students in the teaching and learning activities below.
+1. Engage students in activities which allow them to practise the accounting concepts and
+principles related to limited liability companies, co-operatives and non-profit organisations.
+Ensure that students engage in AT LEAST ONE activity for EACH Specific Objective indicated with
+an asterisk*.
+2. Invite guest speakers to visit and make presentations on limited liability companies, cooperatives and non-profit organisations or arrange for students to go on field trips which allow
+them to have first-hand experiences of the operation of limited liability companies.
+RESOURCES
+Austen, D. and Ellis, D. et al. Principles of Accounts for CSEC, A Caribbean Examinations Council
+Study Guide. Nelson Thornes, 2012.
+WEBSITE
+http://smallbusiness.chron.com/basic-bookkeeping-principles-56316.html
+CXC 10/G/SYLL 17 27
+www.cxc.org
+ SECTION 10: MANUFACTURING AND INVENTORY CONTROL
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. distinguish between direct and
+indirect costs;
+Elements of cost: direct materials, direct
+labour and factory overheads.
+2. *prepare manufacturing accounts; Preparation of manufacturing account
+showing:
+(a) cost of raw material consumed;
+(b) prime cost;
+(c) factory overheads;
+(d) work in progress; and,
+(e) cost of production.
+3. *calculate unit cost of items
+produced;
+Calculation of unit cost of items produced.
+4. *prepare final accounts for a
+manufacturing concern;
+Preparation of Trading, Profit and Loss
+Account and Balance Sheet of a
+manufacturer.
+5. *apply basic costing principles; Basic costing principles, for example, cost-plus
+pricing, absorption costing, mark-up pricing.
+6. list methods of inventory valuation;
+and,
+Methods of inventory valuation:
+(a) First in, First out (FIFO);
+(b) Last in, First out (LIFO); and,
+(c) Average cost (AVCO).
+7. *calculate the value of closing
+inventory using either FIFO or LIFO;
+AVCO.
+(a) Calculate the value of closing
+inventory.
+(b) Assess the effect of different methods
+of inventory valuation on profit.
+CXC 10/G/SYLL 17 28
+www.cxc.org
+SECTION 10: MANUFACTURING AND INVENTORY CONTROL (cont’d)
+Suggested Teaching and Learning Activity
+To facilitate students’ attainment of the objectives of this Section, teachers/facilitators are encouraged
+to engage students in the teaching and learning activity below.
+Engage students in activities which allow them to practise the accounting concepts and principles
+related to manufacturing and inventory control. Ensure that students engage in AT LEAST ONE activity
+for EACH Specific Objective indicated with an asterisk*.
+RESOURCES
+Austen, D. and Ellis, D. et al. Principles of Accounts for CSEC, A Caribbean Examinations Council
+Study Guide. Nelson Thornes, 2012.
+Stephens-James, L. and
+Burrows, L. et al.
+Principles of Accounts for Caribbean Examinations. Ian Randle
+Publishers, 2011.
+Wood, F. and Robinson, S. Principles of Accounts for the Caribbean, 5th Edition. Pearson
+Education Limited, 2007.
+Wood, F. and Sangster, A. Business Accounting 1, 12th Edition. Pearson Education Limited,
+2012.
+WEBSITES
+http://accountingrevision.blogspot.com/2012/01/manufacturing-accounts.html
+http://www.accountingtools.com/cost-plus-pricing
+https://www.boundless.com/marketing/textbooks/boundless-marketing-textbook/pricing8/general-pricing-strategies-62/markup-pricing-312-10616/
+CXC 10/G/SYLL 17 29
+www.cxc.org
+ SECTION 11: ACCOUNTING FOR THE ENTREPRENEUR
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+1. list methods of payment; (a) Employees.
+(b) Goods and Services.
+(c) Suppliers.
+Methods of payment, for example, cheques,
+standing orders, direct deposits (direct debit),
+cash, electronic fund transfer and point of sale
+(EFTPOS).
+2. identify basic source documents of
+the payroll;
+Use of time cards, time books, electronic
+clock-in cards, employee earnings records.
+3. *prepare spreadsheet to arrive at
+net pay amounts after deductions;
+Preparation of payroll and wage documents
+from time cards, computer records.
+4. identify main accounting software
+used for payroll;
+Main accounting software used for payroll, for
+example, Quick Books, Peach Tree Accounting.
+5. distinguish between voluntary and
+statutory deductions;
+Statutory and voluntary/non-statutory
+deductions.
+6. *calculate employees’ earnings; (a) calculating gross and net pay (wages);
+(b) calculating overtime from employee
+records; and,
+(c) calculation of statutory deductions
+and non-statutory deductions, for
+example, income tax, social security
+and mortgage.
+7. *prepare cash flow projections
+within a six-month period;
+Preparation of simple cash flow projection and
+outflow.
+Inflows: sales, owners’ equity, cash, grants,
+surplus cash/profit (by month four or five).
+Outflows: overhead expenses – utilities, wages
+and salaries, transportation (and other
+expenses that the business may incur).
+CXC 10/G/SYLL 17 30
+www.cxc.org
+SECTION 11: ACCOUNTING FOR THE ENTREPRENEUR (cont’d)
+SPECIFIC OBJECTIVES CONTENT
+Students should be able to:
+8. *prepare sales and production
+budgets for a three-month period;
+and,
+Preparation of simple sales and production
+budgets (sale targets, production costs,
+production inputs).
+9. *use accounting knowledge and
+skills to prepare a simple business
+plan.
+Preparation of a simple business plan for a
+small project, for example, rearing chickens,
+farming cash crops, craft.
+Suggested Teaching and Learning Activity
+To facilitate students’ attainment of the objectives of this Section, teachers/facilitators are encouraged
+to engage students in the teaching and learning activities below.
+1. Engage students in activities which allow them to practise the accounting concepts and
+principles addressed in this Section of the syllabus. Ensure that students engage in AT LEAST
+ONE activity for EACH Specific Objective indicated with an asterisk*.
+2. Engage students in simple projects that will allow them to maintain a cash flow projection over
+a given period. Use cash flow projection to analyse and compare the actual outcome.
+RESOURCES
+Holdip, G. and Lamorell, C. Principles of Accounts for CSEC Examinations. Macmillan
+Publishers, 2010.
+Dansby, R. and Burton, K.
+et al.
+College Accounting 4th Edition Revised. EMC Paradigm, 2003.
+CXC 10/G/SYLL 17 31
+www.cxc.org
+ GUIDELINES TO TEACHERS FOR THE CONDUCT OF THE
+SCHOOL-BASED ASSESSMENT IN BUSINESS STUDIES (PRINCIPLES OF
+ACCOUNTS, PRINCIPLES OF BUSINESS AND ECONOMICS)
+School-Based Assessment (SBA) is an integral part of student assessment in the course covered by this
+syllabus. It is intended to assist students in acquiring certain knowledge, skills and attitudes that are
+associated with the subject. The activities for the School-Based Assessment are based on the syllabus
+and should form part of the learning activities to enable the student to achieve the objectives of the
+syllabus.
+During this course of study, students obtain marks for the competencies they develop and
+demonstrate in undertaking their SBA assignments. These marks contribute to the final marks and
+grades that are awarded to students for their performance in the examination.
+The guidelines provided in this syllabus for selecting appropriate tasks are intended to assist teachers
+and students in the selection of assignments that are valid for the purpose of School-Based
+Assessment. The guidelines provided for the assessment of these assignments are intended to assist
+teachers in awarding marks that are reliable estimates of the achievement of students in the SchoolBased Assessment component of the course. In order to ensure that the scores awarded by the
+teachers are consistent with the Caribbean Examinations Council’s standards, the Council undertakes
+the moderation of a sample of the SBA assignments submitted by the school.
+School-Based Assessment provides an opportunity to individualise a part of the curriculum to meet
+the needs and interests of students. It facilitates feedback to the student at various stages of the
+experience. This helps to build the self-confidence of students as they proceed with their studies. The
+SBA also facilitates the development of research and analytical skills, and critical skills and abilities,
+emphasised by the subject and enhances the validity of the examination scores.
+RESEARCH PROJECT
+The School-Based Assessment component of the syllabuses in Business Studies is a single guided
+research project for school candidates. The project should involve the manipulation of research data
+including data collection, analysis and interpretation. All activities selected must be within the law and
+must lend themselves to the collection of business data and application of business principles
+identified in the mark scheme.
+Students are required to investigate a topic, issue or problem in a business related area of study
+(Principles of Accounts, Principles of Business and Economics). Students should:
+1. identify the issue, topic or problem to be investigated;
+2. discuss the background to the issue, topic or problem;
+3. state the objective of the investigation;
+4. describe methodology and instruments used to collect data;
+5. present and analyse the data;
+CXC 10/G/SYLL 17 32
+www.cxc.org
+6. state the conclusion based on findings;
+7. make recommendations (at least two) based on the findings;
+8. acknowledge sources (bibliography); and,
+9. include appendices: questionnaire, source documents, diagrams, charts, interview questions
+and statistical data.
+Examples of possible organisations and areas for research:
+1. school’s cafeteria and stationery shop;
+2. snack shop at school events;
+3. school projects (for Agriculture Science, Home Economics, TVET and Junior Achievement
+programmes);
+4. income and expenditure statements;
+5. business plans;
+6. published financial reports such as those found in the business section of local newspapers,
+statistical reports including national income statistics, balance of payments statistics, survey
+of living conditions, household budgetary surveys, annual economic reports of Central Banks,
+Ministries of Finance and Planning Units, annual reports of firms in the region, budget
+speeches of ministers of Finance or reviews of estimates of income and expenditure for
+ministries of Finance;
+7. economic information available on the internet (for example, e-commerce);
+8. events coordinated by students such as concerts and fashion shows; and,
+9. sporting and other cultural clubs at school or in the community.
+SBA REQUIREMENTS
+Every candidate who enters for the CSEC® Principles of Accounts examination must submit a report on
+a project. Students may work individually or in groups to gather the data. Each candidate must be
+identified on the report. The report should not exceed 1,000 words, (not including appendices).
+Wherever a report exceeds the maximum length for the project by more than 10 per cent, the teacher
+must impose a penalty of 10 per cent of the score achieved on the project. On the report, the teacher
+should clearly indicate the original score – that is, the score before the deduction is made – the marks
+which are to be deducted, and the final score awarded after the deduction has been made.
+Only the final score is to be indicated on the record sheets which are submitted to CXC® electronically
+via the SBA data capture module on the Online Registration System (ORS) on the Council’s website.
+CXC 10/G/SYLL 17 33
+www.cxc.org
+Students doing more than one subject in the Business cognate group (Principles of Accounts,
+Principles of Business, and Economics) should submit one SBA report based on a topic relevant to
+the subjects being taken by the student and which allows the student to utilise skills that are
+common and relevant to the field of Business.
+PROJECT REPORTS
+A student’s report should be presented electronically and should comprise the following in the order
+prescribed below.
+1. Table of Contents
+2. Topic, Issue or Problem
+3. Objective of the Project (The objective should be related to the issue and NOT the SBA)
+4. Background to OR Overview of the Topic, Issue or Problem
+5. Methodology (Data collection and instrumentation)
+6. Presentation and Analysis of Data
+7. Conclusion
+8. Recommendations
+9. Bibliography
+10. Appendices
+MARK SCHEME FOR RESEARCH PROJECTS
+The project should be marked out of 40, weighted as follows:
+Knowledge and Comprehension (KC) - 10 marks
+Application (A) - 20 marks
+Interpretation and Analysis (IA) - 10 marks
+CXC 10/G/SYLL 17 34
+www.cxc.org
+MARK SCHEME FOR SCHOOL-BASED ASSESSMENT
+PROJECT AREAS
+PROFILE DISTRIBUTION
+Knowledge and TOTAL
+Comprehension Application Interpretation
+and Analysis
+Table of Contents
+ Table of contents accurately links
+pages to content – 1 mark (KC)
+1 1
+Topic/Issue/Problem
+ Topic/issue/problem is clearly stated
+– 1 mark (KC)
+ Topic/issue/problem accurately
+describes the project – 1 mark (KC)
+2 2
+Objectives
+ Objectives are clearly stated and linked
+to the topic/issue/problem
+– 1 mark (A)
+ Objectives are realistic – 1 mark (A)
+2 2
+Background/Overview
+ Includes a description of the
+topic/issue/problem
+- Description includes the history
+– 1 mark (KC)
+- Description includes the
+development – 1 mark (KC)
+ Establishes the need for research
+- Why/how is the
+topic/issue/problem important to
+student – 1 mark (A)
+- Impact of topic/issue/problem on
+society – 1 mark (A)
+2 2 4
+Methodology
+ Data collection instrument clearly
+described – 1–2 marks (KC)
+ Data collection instrument appropriate
+for type of data – 1 mark (A)
+ Included at least two instruments of
+data collection – 1 mark (A)
+ Method of data collection clearly
+described – 1–2 marks (A)
+ Method of data collection adequately
+justified – 1–2 marks (IA)
+ Limitations of data collection method
+clearly stated – 1–2 marks (A)
+2 6 2 10
+Presentation and Analysis of Data 2 4 4 10
+CXC 10/G/SYLL 17 35
+www.cxc.org
+PROJECT AREAS
+PROFILE DISTRIBUTION
+Knowledge and TOTAL
+Comprehension Application Interpretation
+and Analysis
+ Data is presented an appropriate form
+using tables, charts, graphs
+– 1–2 marks (KC)
+ Data presented are relevant to the
+objectives of the project – 1–2 marks
+(KC)
+ Data is adequately analysed
+– 1–2 marks (A)
+ Data is analysed using appropriate
+statistics – mean, median, mode
+– 1–2 marks (IA)
+ Findings are consistent with analyses
+– 1–2 marks (IA)
+Conclusion
+ Conclusion succinctly summarises the
+project – 1–2 marks (A)
+ Conclusion is logical and based on
+findings – 1–2 marks (A)
+4 4
+Recommendation
+ Recommendations are realistic and
+informed by findings – 1–2 marks (IA)
+ Recommendations contribute to a
+better understanding of the
+topic/issue/problem –1–2 marks (IA)
+4 4
+Bibliography
+Bibliography contains names of authors,
+name of publisher(s), names and dates of
+publication, and are written in alphabetical
+order – 1 mark (KC)
+1 1
+Overall presentation
+ Consistently uses correct spelling and
+grammar – 1 mark (A)
+ Expression of ideas logical and
+unambiguous – 1 mark (A)
+2 2
+TOTAL 10 20 10 40
+MANAGEMENT OF THE PROJECT
+School-Based Assessment tasks should be completed in the course of normal teaching time and
+supervised and marked by the teacher. Although some of the data collection and research work must
+be undertaken outside of normal school time, the teacher must be satisfied that the work submitted
+for assessment is the student’s own work.
+CXC 10/G/SYLL 17 36
+www.cxc.org
+The teacher must:
+1. provide assistance to students in the selection of projects;
+2. advise students of the nature of the task, the scope and depth required to fulfill the
+requirements of the SBA;
+3. advise on the availability of resource materials;
+4. monitor students’ progress by advising them of the quality of their work and by
+recommending ways to improve the quality of the project;
+5. collect and grade students’ projects;
+6. keep records of students’ marks and submit these, together with samples of their work, as
+requested by CXC®; and,
+7. ensure that the SBA guidelines are closely followed and the marking criteria are adequately
+met.
+ GUIDELINES TO TEACHERS FOR THE ALTERNATIVE TO SCHOOLBASED ASSESSMENT
+The Alternative to the School-Based Assessment in CSEC® Principles of Accounts (Paper 032), is
+offered to private candidates and takes the form of a written examination in lieu of the School-Based
+Assessment for school candidates. Private candidates are required to write Paper 032 in addition to
+Paper 01 and Paper 02.
+Paper 032 will consist of a case study and candidates will be required to answer questions based on
+the case study. It is weighted in the same way as the Paper 031 (SBA) for school candidates, as
+shown in the table below.
+WEIGHTING OF PAPER (032)
+Knowledge/
+Comprehension
+Application Interpretation
+and Analysis
+Total Marks % of Total
+Exam
+10 20 10 40 20
+Candidates are advised to familiarise themselves with the syllabus in order to prepare adequately for
+Paper 032. Please note that candidates taking Paper 032 are NOT required to submit a project.
+CXC 10/G/SYLL 17 37
+www.cxc.org
+ FORMULAE
+1. Assets = Capital + Liabilities
+2. Net Current Assets (Working Capital) = Current Assets – Current Liabilities
+3. Current (Working Capital) Ratio = Current Assets
+ Current Liabilities
+4. Return on Capital Employed = Profit before Interest x 100
+(ROCE) Capital Employed
+5. Net Profit Percentage = Net Profit __ x 100
+Sales (Revenue)
+6. Gross Profit Percentage = Gross Profit x 100
+Sales (Revenue)
+7. Stock/Inventory Turnover = Cost of Sales (Cost of Goods Sold)
+Average Inventory
+8. Acid Test Ratio = Current Assets – Inventory
+ Current Liabilities
+9. Current (working capital) Ratio = Current Assets
+ Current Liabilities
+10. Trade Receivables to Sales = Accounts Receivables x 365
+Credit Sales for the year
+11. Trade Payables to Purchases = Trade Payables x 365
+Credit Purchases for the year
+12. Average Inventory = Opening Inventory + Closing Inventory
+2
+13. Rate of Inventory Turnover (Inventory Turnover) =
+Cost of Goods Sold (Cost of Sales)
+Average Inventory
+14. Straight line method of calculating depreciation =
+Cost – Disposal Value
+ Number of years
+CXC 10/G/SYLL 17 38
+www.cxc.org
+ GLOSSARY OF ACCOUNTING TERMS
+WORD/TERM DEFINITION/MEANING
+Accounting The process of recording, summarising, analysing and
+interpreting of financial data to make informed judgments and
+decisions.
+Accounting Adjustments A business transaction which has not yet been included in the
+accounting records of a business on a specific date.
+Accounting Cycle A series of steps for the recording and the use of information for
+decision-making.
+Accounts Payable A person to whom money is owed for goods or services. (Formerly
+known as creditors).
+Accounts Receivables A person who owes money to the business for goods or services
+supplied. (Formerly known as debtors).
+Accrual and Matching
+Concept
+When calculating profit or loss for a period, all revenues and
+expenses must be taken into account whether or not cash was
+actually paid or received.
+Accrued Expenses An expense for which the benefit has been received but which has
+not been paid for by the end of the period.
+Accrued Revenues Revenues from a source other than the main source of business
+revenue that were due to be received by the end of the period but
+which have not been received by that date.
+Accumulated Depreciation The account where depreciation is accumulated for the balance
+sheet purposes.
+Acid Test Ratio Financial ratio that measures the ability of the firm’s liquid
+current assets to pay short-term debts.
+Adjusting Entries Journal entries recorded at the end of an accounting period to
+alter the ending balances in various general ledger accounts.
+Advanced Revenues Revenues that have not yet been earned, but represent products
+or services that are owed to a customer.
+Average Stock The average value of stock during a financial year, calculated by
+adding together the values of the stock at the beginning of the
+year and end of the year and dividing by two.
+Bad Debts A debt that a business will not be able to collect.
+Balance Sheet A statement showing assets, liabilities and capital of a business.
+CXC 10/G/SYLL 17 39
+www.cxc.org
+WORD/TERM DEFINITION/MEANING
+Bank Charge Charges and fees made by a bank to their customers.
+Bank Reconciliation
+Statement
+A calculation showing that the cash book bank column balance
+agrees with the bank statement balance.
+Budget An estimate of income and expenditure for a set period of time.
+Business Plan Setting out a business’s future objectives and strategies for
+achieving them.
+Business Technology Refers to applications of science, data, engineering, and
+information for business purposes, such as the achievement of
+economic and organisational goals. The main element of
+technology is the idea of change, and how it can affect business
+and society.
+Capital The total resources invested and left in a business by its owner.
+Capital Expenditure When a business spends money to buy or add value to a fixed
+asset.
+Capital Ratio The extent to which a financial institution finances its operations
+by issuing shares and retaining profits expressed as a percentage
+of its assets.
+Carriage Cost of transportation of goods. Cost of transportation of goods
+purchased by a business is known as carriage inwards while the
+cost of transportation of goods to the customers is known as
+carriage outwards.
+Cash Book Book of original entry for cash and bank receipts and payments.
+Cash Discounts An allowance given for quick payment of an account owing.
+Cash Flow Total money being transferred into and out of a business,
+especially as affecting liquidity.
+Cash Flow Projection A projection showing how cash will be generated and disposed of
+by an organisation.
+Cash Resources Money available to a business for spending in the form of cash,
+liquid securities and credit lines.
+Closing Inventory The amount of inventory a company has in stock at the end of its
+financial year.
+CXC 10/G/SYLL 17 40
+www.cxc.org
+WORD/TERM DEFINITION/MEANING
+Columnar Accounts Accounts making use of multiple columns in order to better
+display their information. Where there are several accounts of
+similar format such as partnership current accounts, they may be
+in columnar form.
+Consistency Concept Keeping the same method of recording and processing
+transactions.
+Control Accounts An account which checks the arithmetical accuracy of the
+subsidiary ledgers.
+Control Systems Ensuring compliance with accounting policies and procedures,
+protecting the organisation’s assets, and preparing reliable and
+timely financial reports.
+Co-operatives A business entity formed to further the economic welfare of its
+members by providing them with goods and services.
+Corporations
+Ltd Liability Companies
+See limited liability company.
+Credit Notes A document sent to a customer showing allowance given by a
+supplier in respect to unsatisfactory goods.
+Current Ratio A ratio comparing current assets with current liabilities.
+Debenture Loan to a company.
+Debit Notes A document sent to a supplier showing allowance to be given for
+unsatisfactory goods.
+Depreciation The part of the cost of a fixed asset consumed during its period of
+use by the firm.
+Discounts Allowed A reduction from the amount due given to customers who pay
+their accounts within the time allowed.
+Discounts Received A deduction from the amount due given to a business by a
+supplier when their account is paid before the time allowed has
+elapsed.
+Dishonoured Cheque A cheque which the writer’s bank has refused to make payment
+upon.
+Dividends The amount given to shareholders as their share of the profits of
+a company.
+Doubtful Debts Debts which a business is unlikely to be able to collect.
+CXC 10/G/SYLL 17 41
+www.cxc.org
+WORD/TERM DEFINITION/MEANING
+Drawings Money or goods taken out of the business by the owner for their
+private use.
+Earnings Money obtained in return for goods or services provided.
+E-Business The concept is broader than e-commerce, and includes the
+transaction based e-commerce businesses and those who run
+traditionally but cater to online activities as well. An e-business
+can run any portion of its internal processes online, including
+inventory management, risk management, finance, human
+resources. For a business to be e-commerce and e-business, it
+must both sell products online and handle other company
+activities or additional sales offline.
+E-Commerce Any transaction completed over a computer-mediated network
+that involves the transfer of ownership or rights to use goods and
+services. Transactions are not required to have a price and
+include both sales and items like free downloads. E-commerce
+includes transactions made on the internet, Intranet, Extranet,
+World Wide Web, by email and even by fax.
+Employee Earnings Record A record that details an employee’s payroll history.
+Equity Another name for capital.
+Error A non-fraudulent discrepancy in financial documentation.
+Estimated Useful Life Lifespan of a depreciable non-current asset, during which it can
+be expected to contribute to business operations.
+Final Accounts Statements produced at the end of an accounting period.
+Financial Institution An establishment that conducts financial transactions such as
+investments, loans and deposits. Everything from depositing
+money to taking out loans and exchanging currencies must be
+done through financial institutions (www.investopedia.com).
+Financial Statement Statement produced at the end of an accounting period.
+Fixed Assets Assets which have a long life and which were bought with the
+intention to use them in the business.
+Fixed Capital Assets The portion of the total capital that is invested in fixed assets, that
+stay in the business almost permanently.
+Fixed Percentage The same amount of depreciation is recognised each year.
+CXC 10/G/SYLL 17 42
+www.cxc.org
+WORD/TERM DEFINITION/MEANING
+Fluctuating Capital Assets When the capitals of partners are fluctuating, all adjustments
+with regards to the interest on capitals, interest on drawings,
+partners’ salaries and the like, are passed through the capital
+accounts of the partners.
+General Journal A book of original entry for all items not included in the other
+books of original entry.
+General Ledgers A ledger for all accounts other than those for customers and
+suppliers.
+Gross Loss Where the cost of goods sold exceeds the sales revenue.
+Gross Pay The amount of wages or salary before deductions are made.
+Gross Profit Where the sales revenue exceeds the cost of goods sold.
+Gross Profit Percent Calculation that shows the proportion of sales comprised of those
+costs directly related to either goods sold or services rendered in
+order to generate sales.
+Imprest System A system where a refund is made of the total paid out in a period
+in order to restore the float to it agreed level.
+Income Statement Financial report that shows an entity’s financial results over a
+specific period of time.
+Information
+Communication
+Technology (ICT)
+ICT covers any product that will store, retrieve, manipulate,
+transmit or receive information electronically in a digital form.
+For example, personal computers, digital television, email,
+robots. In business, ICT is often categorised into two broad types
+of product:
+1. Traditional computer-based technologies (things you can
+typically do on a personal computer or using computers
+at home or at work).
+2. Digital communication technologies (which allow people
+and organisations to communicate and share
+information digitally).
+Inventory Goods in which the business normally deals that are held with the
+intention of resale. (Formerly known as stock).
+Inventory Control The process employed to maximise a company’s use of inventory.
+Inventory Valuation Provide monetary value for items that make up inventory.
+Late Lodgment A receipt recorded in the cash book but which was paid late to the
+bank after the bank statement was prepared.
+CXC 10/G/SYLL 17 43
+www.cxc.org
+WORD/TERM DEFINITION/MEANING
+Ledger (Sales/Debtor,
+purchases, general)
+Collection of an entire group of similar accounts in completing the
+double entry in accounting.
+Limited Liability Company An organisation owned by its shareholders, whose liability if
+limited to their share capital.
+Liquidity The ability of a business to pay its debts as they fall due and to
+meet unexpected expenses within a reasonable settlement
+period.
+Manufacturing Accounts An account in which production cost is calculated.
+Mutual Agency A legal relationship between partners in a partnership where
+each partner has authorisation powers and the ability enter the
+partnership into business contracts.
+Net Book Value (Nbv) The cost of a fixed asset with depreciation deducted.
+Net Current Assets Current assets minus current liabilities. Same as working capital.
+Net Loss Where the cost of goods sold plus expenses are greater than the
+revenue.
+Net Pay The amount of wage or salary after deductions are made.
+Net Profit Where sales revenue plus other income exceeds the sum of cost
+of goods sold plus other expenses.
+Net Profit Per cent Per cent of revenue left after all expenses have been deducted
+from sales.
+Nominal Accounts Accounts in which expenses, revenues and capital are recorded.
+Non-Cash Resources Resources correlating to expenses that are essentially just
+accounting entries rather than actual movements of cash.
+Non-Current Assets Assets bought which have along life and are to be used in the
+business.
+Non-Current Liabilities Liabilities that will be settled in the longer term, which is usually
+more than one year.
+Non-Profit Organisations A form of business owned by a group of people called members.
+The common interest or aim of the members is to fulfill the needs
+of members rather than making a profit.
+Non-Statutory Deductions Deductions made from pay at an employee’s request.
+CXC 10/G/SYLL 17 44
+www.cxc.org
+WORD/TERM DEFINITION/MEANING
+Ordinary Shares Shares entitled to dividends after the preference shareholders
+have been paid their dividends.
+Overheads Refers to indirect manufacturing costs.
+Overtime Hours worked in excess of eight consecutive hours.
+Partnerships A firm in which two or more people are working together as
+owners with a view to making profits.
+Payroll A list of employees employed by a business to whom a wage or
+salary is paid.
+Permanence Arrangement of assets in order of how everlasting they are, with
+the items likely to be used by the business for the longest period,
+listed first.
+Personal Accounts Accounts for accounts receivables and payables.
+Petty Cash Book A cash book for small payments.
+Petty Cash Vouchers A form used by someone requesting payment for a small item of
+expenditure incurred on behalf of the business.
+Preference Shares Shares that are entitled to an agreed rate of dividends before the
+ordinary shareholders receive anything.
+Pre-Payments An expense or revenue that has been paid or earned in advance.
+Prime Cost Direct materials plus direct labour plus direct expenses.
+Principles of Accounts Refers to the basic or fundamental principles in Accounting.
+Private Organisations A limited company that must issue its shares privately.
+Production Budget Calculates the number of units of products that must be
+manufactured and is derived from a combination of sales forecast
+and the planned amount of finished goods inventory to have on
+hand.
+Profitability Measures the firm’s potential to obtain and maintain revenues
+that exceed expenses.
+Prudence Ensuring that profit is not shown as being too high, or that assets
+are shown as too high a value and that the financial statements
+are neutral.
+Public Organisations A company that can issue its shares publicly, and for which there
+is no maximum number of shareholders.
+CXC 10/G/SYLL 17 45
+www.cxc.org
+WORD/TERM DEFINITION/MEANING
+Purchase Book Book of original entry for credit purchases.
+Purchase Invoice A source document received by a purchaser showing details of
+goods bought and their prices.
+Purchase Ledger Control
+Account
+This ledger segregates into one location a record of the amounts
+a company spends with its suppliers.
+Purchases Returns Goods returned to supplier. Also known as returns outwards.
+Ratios Measures the relative efficiency of a firm based on its use of its
+assets leverage or other such balance sheet items and are
+important in determining whether a company’s management is
+doing a good enough job of generating revenues and cash from
+its resources.
+Raw Material Basic materials from which goods and products are made.
+Real Accounts Accounts in which property of all kinds are recorded.
+Receipts A form acknowledging receipt of money for goods or services
+rendered.
+Reducing Balance Method A method of calculating depreciation based on principle that
+annual depreciation is calculated as a percentage of the net-ofdepreciation-to-date balance brought forward at the start of the
+period on the fixed asset.
+Reserves The transfer of apportioned profits to accounts for use in future
+years.
+Returns Goods returned by a business to its suppliers or by a customer to
+a business.
+Returns Inwards Goods returned by customers. Also known as sales returns.
+Returns Outwards Goods returned to suppliers. Also known as purchases returns.
+Revenue Expenditure Expenses needed for the day-to-day running of the business.
+Salary A fixed sum of money paid out on a monthly basis for an
+employee.
+Sales Book Book of original entry for credit sales.
+Sales Budget An itemisation of a company’s sales expectations for the budget
+period, in both units and dollars.
+CXC 10/G/SYLL 17 46
+www.cxc.org
+WORD/TERM DEFINITION/MEANING
+Sales Invoice Source document showing details of goods sold and the prices of
+those goods.
+Sales Ledger Control
+Account
+Part of the balance sheet that shows at any given time how much
+your customers owe you/your business.
+Sales Returns Goods returned by customers. Also known as returns inwards.
+Scrap Value The expected or estimated value of the asset at the end of its
+useful life.
+Separate Entity Basic accounting concept that we should always separately
+record the transactions of a business and its owners.
+Share Capital Money invested in a company by the shareholders.
+Shareholder (Equity) Owners of shares in a limited liability company.
+Sole Traders Where one person or a single family operates a firm.
+Solvency The possession of assets in excess of liabilities; ability to pay one’s
+debt.
+Source Documents Written evidence of a business transaction.
+Spreadsheet A worksheet that is arranged in rows and columns of a grid and
+can be manipulated and used in calculations.
+Standing Order A medium used to enable payments to be made automatically at
+given dates into a bank account for an amount agreed by the
+payer.
+Statutory Deductions Compulsory deductions required by law to be taken out by the
+employer from each employee pay.
+Stock Turnover The number of times stock is sold in an accounting period.
+Straight Line Method A method of calculating depreciation that involved deducting the
+same amount every accounting period from the original cost of
+the fixed asset.
+Subsidiary Ledgers Contains accounts that do not appear in the general ledger.
+Suspense Accounts An account in which you can enter the amount equal to the
+difference in the trial balance while you try to find the cause of
+the error(s) that resulted in the failure of the trial balance to
+balance.
+CXC 10/G/SYLL 17 47
+www.cxc.org
+WORD/TERM DEFINITION/MEANING
+Trade Discounts A deduction in price given to a trade customer when calculating
+the price to be charged to that customer for some goods.
+Transactions
+(Cash/Non-Cash)
+An event that is recorded in the accounting system.
+Trial Balance A list of account titles and their balances in the ledgers on a
+specific date, shown in debit and credit columns.
+Unlimited Liability Should a business fail, the owner stands to lose not only what
+he/she invested but also their personal assets.
+Unrepresented Cheque A cheque which has been given to a creditor but which has not
+yet been received and processed by the writer’s bank.
+Vertical Style A style in formatting where the columns are one above the other.
+It shows the flow of fund in a given period.
+Voluntary Association Group of individuals joined together on the basis of mutual
+interest or common objectives, especially a business group that is
+not organised or constituted as a legal entity.
+Voluntary Deductions Deductions that are made at an employee’s request.
+Wages Payment made to a worker in return for services rendered and
+usually paid weekly.
+Work In Progress Items not completed at the end of a period.
+Working Capital Current assets minus current liabilities.
+CXC 10/G/SYLL 17 48
+www.cxc.org
+ GLOSSARY OF EXAMINATION TERMS
+WORDS/TERMS DEFINITIONS/MEANINGS
+account for present reason for action or event
+annotate add a brief note to a label
+apply use knowledge of principles to solve problems
+assess present reasons for the importance of particular structures, relationships or process
+calculate arrive at the solution to a numerical problem
+classify divide into groups according to observable characteristics
+comment state opinion or view with supporting reasons
+compare state similarities and differences
+construct use a specific format to make and draw a graph, histogram, pie chart or other
+representation using data or material provided or drawn from practical
+investigations, build (for example, a model), draw scale diagram
+deduce make a logical connection between two or more pieces of information; use data to
+arrive at a conclusion
+define state concisely the meaning of a word or term
+demonstrate show; direct attention to...
+describe provide detailed factual information of the appearance or arrangement of a specific
+structure or a sequence of a specific process
+determine find the value of a physical quantity
+design plan and present with appropriate practical detail
+develop expand or elaborate an idea or argument with supporting reasons
+diagram simplified representation showing the relationship between components.
+differentiate state or explain briefly those differences between or among items which can be used
+to define the items or place them into separate categories.
+discuss present reasoned argument; consider points both for and against; explain the
+relative merits of a case
+draw make a line representation from specimens or apparatus which shows an accurate
+relation between the parts
+estimate make an approximate quantitative judgement
+CXC 10/G/SYLL 17 49
+www.cxc.org
+WORDS/TERMS DEFINITIONS/MEANINGS
+evaluate weigh evidence and make judgements based on given criteria
+explain give reasons based on recall; account for
+find locate a feature or obtain as from a graph
+formulate devise a hypothesis
+identify name or point out specific components or features
+illustrate show clearly by using appropriate examples or diagrams, sketches
+investigate use simple systematic procedures to observe, record data and draw logical
+conclusions
+label add names to identify structures or parts indicated by pointers
+list itemise without detail
+measure take accurate quantitative readings using appropriate instruments
+name give only the name of
+note write down observations
+observe pay attention to details which characterise a specimen, reaction or change taking
+place; to examine and note scientifically
+outline give basic steps only
+plan prepare to conduct an investigation
+predict use information provided to arrive at a likely conclusion or suggest a possible
+outcome
+record write an accurate description of the full range of observations made during a given
+procedure
+relate show connections between; explain how one set of facts or data depend on others
+or are determined by them
+sketch make a simple freehand diagram showing relevant proportions and any important
+details
+state provide factual information in concise terms outlining explanations
+suggest offer an explanation deduced from information provided or previous knowledge (...
+a hypothesis; provide a generalisation which offers a likely explanation for a set of
+data or observations.)
+test to find out, following set procedures
+Western Zone Office
+31 March 2017
+CARIBBEAN EXAMINATIONS COUNCIL
+ Caribbean Secondary Education Certificate®
+CSEC®
+PRINCIPLES OF ACCOUNTS
+Specimen Papers and
+Mark Schemes/Keys
+Specimen Paper: - Paper 01
+Paper 02
+Paper 032
+Mark Scheme and Key: - Paper 01
+Paper 02
+Paper 032
+TEST CODE 01239010
+FORM SPEC 2017
+C A R I B B E A N E X A M I N A T I O N S C O U N C I L
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE®
+EXAMINATION
+PRINCIPLES OF ACCOUNTS
+Paper 01 – General Proficiency
+1 hour 30 minutes
+SPECIMEN PAPER
+READ THE FOLLOWING INSTRUCTIONS CAREFULLY.
+CANDIDATE – PLEASE NOTE!
+PRINT your name on the line below and return
+this booklet with the answer sheet. Failure to do
+so may result in disqualification.
+
+1. This test consists of 60 items. You will have 1 hour and 30 minutes to answer them.
+2. In addition to this test booklet, you should have an answer sheet.
+3. Each item in this test has four suggested answers lettered (A), (B), (C), (D). Read each item
+you are about to answer and decide which choice is best.
+4.	 On your answer sheet, find the number which corresponds to your item and shade the space
+having the same letter as the answer you have chosen. Look at the sample item below.
+Sample Item
+Prime cost is calculated by adding direct
+	 factory expenses to the Sample Answer
+(A) cost of goods sold A B C D
+	 (B)	 sale of fixed assets
+	 (C)	 sale of finished goods	 	 	
+(D) cost of materials used
+The best answer to this item is “cost of materials used”, so (D) has been shaded.
+5.	 If you want to change your answer, erase it completely before you fill in your new choice.
+6.	 When you are told to begin, turn the page and work as quickly and as carefully as you can.
+If you cannot answer an item, go on to the next one. You may return to that item later.
+7.	 You may use a silent, non-programmable calculator to answer items.
+DO NOT TURN THIS PAGE UNTIL YOU ARE TOLD TO DO SO.
+Copyright © 2017 Caribbean Examinations Council
+All rights reserved.
+01239010/SPEC 2017
+- 2 -
+GO ON TO THE NEXT PAGE
+01239010/SPEC 2017
+Items 1–2 refer to the following information
+for Dee’s business:
+Dee commenced business on January 1,
+2015. She has decided to create provision
+for doubtful debts to 5% of trade receivables.
+The following particulars relate to three
+financial years:
+Year Trade Receivables
+$
+2015 40 000
+2016 35 000
+2017 45 000
+1.	 What is the total provision for doubtful
+debts at the end of 2016?
+(A) $1 750
+(B) $2 000
+(C) $2 250
+(D) $3 750
+2.	 The effect of provision for doubtful debts
+on the income statement in 2017 is
+(A) an increase of $250
+(B) a decrease of $250
+(C) an increase of $500
+(D) a decrease of $500
+3. 	 Which of the following is NOT a capital
+expenditure?
+	 (A)	 Replacement costs
+(B) Purchase costs
+(C) Delivery costs
+	 (D)	 Repair costs
+Items 4–5refer to the following information.
+	 Office equipment was purchased for
+$155,000. Its useful life is 5 years and the
+residual value is $20,000.
+4. 	 What is the depreciation expense for the
+second year?
+(A) $ 27 000
+(B) $ 54 000
+(C) $ 81 000
+(D) $135 000
+5. The total net book value at the beginning
+of year 4 is
+(A) $ 27 000
+(B) $ 81 000
+(C) $ 74 000
+(D) $101 000
+6.	 Which of the following is NOT classified
+asrevenue expenditure for amotorvehicle?
+	 (A)	 Depreciation
+(B) Oil change
+	 (C)	 Cost of fixing a flat tire
+(D) Installation of air conditioning
+7. The accounting entry for writing off a bad
+debt is
+(A) Dr Cash
+Cr Bad debt
+(B) Dr Provision for bad debt
+Cr Bad debt
+(C) Dr Bad debt
+	 	 Cr Accounts payable
+(D) Dr Bad debt
+Cr Accounts receivable
+- 3 -
+GO ON TO THE NEXT PAGE
+01239010/SPEC 2017
+8. A business shows accounts receivable as
+$84 000 and the provision for doubtful
+debts as $5040. The business is therefore
+maintaining a provision for doubtful debts
+of
+(A) 3%
+(B) 5%
+(C) 6%
+(D) 8%
+9. 	 At the end of the financial year D Waters’
+business paid Insurance of $1 000 in
+advance for the following year. How will
+this adjustment affect D Waters’ financial
+statements?
+	 (A)	 Increase expenses
+Increase current assets
+	 (B)	 Increase expenses
+Decrease current assets
+	 (C)	 Decrease expenses
+Increase current assets
+	 (D)	 Decrease expenses
+Decrease current assets
+10.	 S House rents apartments. For the year he collects $42,000 in rent. In 2016, Mr House collected
+$40 000. What is the correct journal entry to adjust rent revenue at the end of 2016?
+(A)
+Date Details Dr Cr
+2016 $ $
+31 December Accrued rent revenue 2000
+ Rent revenue 2000
+(B)
+Date Details Dr Cr
+2016 $ $
+31 December Rent revenue 40 000
+ Prepaid rent revenue 40 000
+(C)
+Date Details Dr Cr
+2016 $ $
+31 December Rent revenue 2000
+ Accrued rent revenue 2000
+(D)
+Date Details Dr Cr
+2016 $ $
+31 December Bank 40 000
+ Income statement 40 000
+- 4 -
+GO ON TO THE NEXT PAGE
+01239010/SPEC 2017
+11.	 Homes Guest House pays electricity of
+$500eachmonth.Atthe endofthefinancial
+year, Homes paid $6 500 on this utility.The
+required adjusting entry is known as
+	 (A)	 accrued expense
+(B) accrued revenue
+	 (C)	 prepaid expense
+	 (D)	 prepaid revenue
+Items 12–13 refer to the following
+information.
+A motor vehicle which costs $150 000 is
+to be depreciated by 10% per annum. It
+is expected to remain in the business for
+4 years.
+12. 	 Using the Reducing Balance Method,
+what is the provision for depreciation after
+3 years?
+(A) $10 930
+(B) $12 150
+(C) $13 500
+(D) $15 000
+13. What is the net book value of the motor
+vehicle at the end of the 4 years?
+(A) $ 98 415
+(B) $ 98 145
+(C) $100 145
+(D) $109 350
+14.	 For the first 3 years Dyasha Designs
+calculated the straight line method of
+deprecation in itsfixed assets. In year 4,the
+business decided to calculate depreciation
+using the reducing balance method. The
+accounting concept that is being violated is
+(A) Accrual
+(B) Prudence
+	 (C)	 Matching
+(D) Consistency
+Items 15–16 refer to the following
+information in which Rhylexi Enterprises
+discovered the following errors in its ledger.
+	 I.	 A purchase of a photocopier for
+$3750wastreatedasthepurchase
+of inventory for sale.
+	 II.	 A credit sale of $615 to B Maharaj
+was entered in the books as $651.
+III. An invoice was received from
+M Lewis for $350. Purchases
+was dr. and N Lewis was cr.
+15. The errors discovered in I, II and III
+respectively are
+	 (A)	 error of principle, compensating
+error, error of commission
+	 (B)	 error of principle, error of original
+entry, error of commission
+(C) error of commission, error of
+complete reversal, error of
+principle
+	 (D)	 errorof commission, errorofpartial
+reversal, error of original entry
+16. What is the double entry to correct error
+III?
+	 (A)	 Dr Purchases 	 Cr M Lewis
+	 (B)	 Dr N Lewis	 Cr M Lewis
+(C) Dr Purchases Cr N Lewis
+	 (D)	 Dr. M Lewis	 Cr N Lewis
+- 5 -
+GO ON TO THE NEXT PAGE
+01239010/SPEC 2017
+17.	 A purchase of office equipment for $5 700 was debited in the purchases account. What is the
+correct journal entry to correct this error?
+(A)
+Date Details Dr Cr
+$ $
+Purchases 5 700
+ Office equipment 5 700
+To record the correction of an error of commission
+(B)
+Date Details Dr Cr
+$ $
+Office equipment 5 700
+ Bank 5 700
+To record the correction of an error of commission
+(C)
+Date Details Dr Cr
+$ $
+Purchases 5 700
+ Bank 5 700
+To record the correction of an error of principle
+(D)
+Date Details Dr Cr
+$ $
+Office equipment 5 700
+ Purchases 5 700
+To record the correction of an error of principle
+- 6 -
+GO ON TO THE NEXT PAGE
+01239010/SPEC 2017
+18. Which of the following situations would
+require the preparation of a suspense
+account?
+I. Sold inventory for cash. This
+transaction was completely left
+out from the books.
+II. Paid cash into bank. Both bank and
+cash were debited.
+III. Purchased a motor vehicle on credit
+from Van Sales Ltd for $100 000.
+$10 000 was debited in motor
+vehicle account in error.
+(A) I and II only
+(B) I and III only
+(C) II and III only
+(D) I, II and III
+Item 19 refers to the following information.
+	 The purchase of office machinery for $255
+cash was entered in the books as follows:
+	 Dr Office machinery $255	 DrCash$255
+19.	 What isthe double entry required to correct
+this error?
+	 (A)	 Dr Office machinery $255
+Cr Cash $255
+(B) Dr Cash $255
+	 	 Cr Suspense $255
+	 (C)	 Dr Suspense $510
+Cr Cash $510
+(D) Dr Cash $510
+	 	 Dr Suspense $510
+20. Which of the following errors would affect
+the business income statement?
+	 I.	 The drawings figure of $1 781 was
+entered as $1 871.
+II. Discount allowed of $450 was
+treated as discount received.
+	 III.	 The telephone bill was undercast
+by $275.
+(A) I and II only
+(B) I and III only
+(C) II and III only
+(D) I, II and III
+21.	 Which of the following groups of accounts
+are found in the Purchases Ledger control
+A/C?
+	 (A)	 Total purchases, refunds, return
+inwards, discount allowed
+	 (B)	 Cash purchases, cash received,
+return inwards, discount received
+	 (C)	 Cheque purchases, cash received,
+return outwards, discount
+allowed
+	 (D)	 Credit purchases, cash payments,
+return outwards, discount
+received
+- 7 -
+GO ON TO THE NEXT PAGE
+01239010/SPEC 2017
+Items 22–23 refer to the following.
+	 On December 31, 2016, Lochan prepared her control Accounts. The following information was
+provided.
+$ $
+Credit sales 3 000 Discount allowed 675
+Credit purchases 3 500 Discount received 346
+Return inwards 350 Receipts from trade receivables 4 500
+Return outwards 300 Payments to trade payables 3 000
+Dishonoured cheque 225
+22. What is the original balance on the sales ledger control account?
+(A) Dr Balance $2 300
+(B) Cr Balance $2 300
+(C) Dr Balance $ 146
+(D) Cr Balance $ 146
+23.	 What is the debit side total for the purchases control account?
+(A) $3 500
+(B) $3 646
+(C) $5 525
+(D) $8 521
+- 8 -
+GO ON TO THE NEXT PAGE
+01239010/SPEC 2017
+24. Which of the following are items found in
+the cash book but not on the bank statement?
+(A) Direct debit
+(B) Standing order
+(C) Credit transfer
+	 (D)	 Unpresented cheques
+25. A bank statement is a document issued by
+the
+	 (A)	 bank to its customers, providing
+information on deposits and
+paymentsmade by the customer
+	 (B)	 business to the bank, providing
+information on deposits and
+payments made by the business
+	 (C)	 bank to its suppliers, receiving
+information on deposits and
+payments made by the bank
+(D) business to the bank, receiving
+information on deposits and
+payments made by the business
+Item 26 refers to the following information.
+$
+Balance as per cash book 4 000
+Unpresented cheque 2 500
+Late lodgements 1 200
+Bank charges 25
+26. 	 What is the balance as per the bank
+statement?
+(A) $2 725
+(B) $5 275
+(C) $5 300
+(D) $5 325
+Item 27 refers to the following information
+for D. Valentine’s cash book.
+The cash book showed a credit balance of
+$1500. Upon receipt of her bank statement
+the following items were discovered:
+standing order $250, direct debit, $375,
+bank charges $25, credit transfer $975.
+27.	 What is the updated cash book balance?
+(A) Cr $2 150
+(B) Cr $1 175
+(C) Dr $1 500
+(D) Dr $ 975
+28. All the following are internal users of
+accounting except:
+	 (A)	 potential investors
+(B) board of directors
+	 (C)	 employees
+(D) owners
+29. Which of the following items will be
+recorded in the Returns Inwards Journal
+of L Cheng Ltd.?
+(A) Sale made for cash
+(B) Sales made on credit
+(C) Customer returns faulty goods to
+L Cheng Ltd.
+	 (D)	 faulty good returned to a supplier
+by L Cheng Ltd.
+30. When a transaction is credited in the bank
+column of the cash book what source of
+payment is used in this transaction?
+(A) Cash
+	 (B)	 Cheque
+(C) Debit card
+(D) Credit card
+- 9 -
+GO ON TO THE NEXT PAGE
+01239010/SPEC 2017
+31.	 The process of recording, summarizing,
+analyzing and interpreting of financial data
+to make informed decisions is known as:
+(A) accounting adjustments
+(B) accounting cycle
+	 (C)	 book keeping
+(D) accounting
+32. The source document entered in the
+Purchases Journal is a
+	 (A)	 purchases invoice
+	 (B)	 purchases receipts
+(C) credit note
+(D) debit note
+33. Which of the following is NOT ethical
+principle of accounting:
+(A) due care
+(B) integrity
+(C) subjectivity
+	 (D) 	 professional behaviour
+34.	 The manager of S Danielle’s Enterprises
+has instructed the accounts clerk to omit
+some of the entries totally from the books.
+This unethical practice is known as:
+	 (A)	 fraudulent financial reporting
+	 (B)	 misappropriation of assets
+(C) disclosure
+	 (D)	 penalities
+Items 35–36 refer to a sales invoice
+received by H Leon with the following
+information:
+To: P Grey
+	 From: 	 N Black
+Items: 15 Rolls book cover @ $2 each
+	 	 2 dozen Ppens @ $20 per doz
+30 folders @ $1.50 each
+Trade discount: 10%
+35. What would be the total on the invoice?
+(A) $115.00
+(B) $110.00
+(C) $105.30
+(D) $103.50
+36. Trade discount is the amount
+(A) received by wholesalers
+(B) on which taxes are charged
+(C) written off the total invoice
+	 (D)	 written off the purchase price
+Item 37 refers to the following information
+shown in books of original entry.
+Date 2016 Details Debit
+Note No. $
+November 10 Q. Quan 322 18
+November 23 E Eck 323 25
+37.	 Which book of original entry would reflect
+the entry above?
+(A) Returns Outwards Journal
+(B) Returns Inwards Journal
+(C) Petty Cash Book
+(D) Cash Book
+- 10 -
+GO ON TO THE NEXT PAGE
+01239010/SPEC 2017
+38. Which of the following is LEAST likely to
+be a method of payment for employees:
+(A) cash
+	 (B)	 paypal
+	 (C)	 cheque
+	 (D)	 direct deposit
+39. Which of the following is NOT considered
+to be an outflow?
+(A) Rent
+(B) Sales
+(C) Utilities
+(D) Wages and salaries
+40.	 Ms. Forbessells pens atschool. Shemade a
+projectionofsalesfor a3-monthperiod.All
+her pens are sold for $5.00. The estimated
+sales in units were:
+	 April sales 100 units
+	 May sales 200 units
+June sales 50 units
+	 What is the total expected sales at the end
+of June?
+(A) $ 300
+(B) $ 500
+(C) $1,500
+(D) $1,750
+41. Which of the following is NOT entered in
+the partnership appropriation account?
+(A) Drawings
+	 (B)	 Interest on capital
+	 (C)	 Partnership salaries
+(D) Interest on drawings
+42. If a buyer’s invoice has been overstated,
+the seller should send him a
+(A) debit note
+(B) credit note
+(C) returns voucher
+(D) corrected invoice
+Item 43 refers to the following information
+obtained from a petty cashier
+$
+Imprest amount 350
+Petty cash expenses 325
+Received for stationery 20
+43. What amount will be reimbursed to restore
+the imprest?
+(A) $ 5
+(B) $ 25
+(C) $300
+(D) $305
+44.	 The total in the purchases book signifies
+total
+	 (A)	 cash and credit purchases
+	 (B)	 credit purchases
+	 (C)	 cash purchases
+	 (D)	 purchases
+- 11 -
+GO ON TO THE NEXT PAGE
+01239010/SPEC 2017
+Item 45 refers to the following information
+which was provided by a trader.
+$
+Accounts receivable
+January 1, 2017 9 300
+Cash received from customers
+during the year 18 200
+Accounts receivable December
+31, 2017 10 700
+45. What was his credit sales for the year?
+(A) $19 600
+(B) $19 8S00
+(C) $20 000
+(D) $38 200
+46.	 The total in the purchases book signifies
+total
+	 (A)	 cash and credit purchases
+	 (B)	 credit purchases
+	 (C)	 cash purchases
+	 (D)	 purchases
+47.	 Land, machinery, fixtures and fitting and
+inventory, are all examples of
+(A) liabilities accounts
+	 (B)	 personal accounts
+(C) nominal accounts
+(D) real accounts
+48. V Verano sold goods on credit to W Watson.
+In which ledger would the record of the
+transaction for W Watson appear?
+	 (A)	 purchases ledger
+(B) general ledger
+(C) sales ledger
+(D) cash ledger
+49. Which of the following documents should
+NOT be used when calculating total wages?
+(A) Pay sheet
+(B) Time sheet
+	 (C)	 Employees’ register
+(D) Income tax return forms
+50.	 Using the permanency method, the
+descending order in which current assets
+should be shown in a balance sheet is
+(A) cash, bank, accounts receivable,
+inventory
+(B) inventory, accounts receivable,
+bank, cash
+(C) inventory, bank, cash, accounts
+receivable
+(D) accounts receivable, inventory,
+bank, cash
+Item 51 refers to the following entries.
+Account To Record Entry in
+Account
+I. Liabilities An increase
+A decrease
+Debit
+Credit
+II. Assets An increase
+A decrease
+Debit
+Credit
+III. Capital An increase
+A decrease
+Debit
+Credit
+51. Which of the following are INCORRECT?
+(A) I and II only
+(B) I and III only
+(C) II and III only
+(D) I, II and III
+- 12 -
+GO ON TO THE NEXT PAGE
+01239010/SPEC 2017
+52. Which of the following ratios determines
+the profitability of the business?
+	 (A)	 Capital ratio
+(B) Current ratio
+(C) Inventory turnover
+(D) Return on investment
+53. The term ‘Limited” after the name of a
+Company means that
+(A) a member’s liability is limited to the
+amountofsharespurchasedinthe company
+	 (B)	 a shareholder can purchase only a
+limited number of shares in a company
+	 (C)	 the company engagesin the sale of
+a limited range of products
+	 (D)	 the company is legally registered
+and can commence operation
+54. Which of the following can have its shares
+traded on the stock exchange?
+	 (A)	 A partnership
+	 (B)	 A public company
+	 (C)	 A private company
+	 (D)	 A co-operative society
+55.	 Which ofthe following types ofinvestment
+carries afixed rate ofinterestwhether profit
+is made or not?
+(A) Debentures
+(B) Preference shares
+	 (C)	 Cumulative preference
+	 (D)	 Participating preference
+56. Which of the following is NOT an asset?
+(A) Cash
+(B) Premises
+(C) Inventory
+(D) Creditors
+57.	 Mr X bought a motor van for personal use
+but has recorded the information in the
+books of his business. Which accounting
+concept did Mr X breach?
+(A) Going concern
+(B) Business entity
+	 (C)	 Money measurement
+	 (D)	 Historical cost concept
+58. Which of the following are ALL
+components of the Income statement?
+	 (A)	 Net sales, Cost of sales, Net profit
+	 (B)	 Non-current liabilities, Capital,
+Expenses
+	 (C)	 Net current assets, Gross profit,
+Cost of sales
+	 (D)	 Grossprofit,Currentassets,Current
+liabilities
+- 13 -
+01239010/SPEC 2017
+Item 59 refers to the following information.
+Office equipment $6 500 Accounts receivable $1 000
+Accounts payable $ 750 Bank overdraft $2 500
+Inventory $4 500 Cash $6 000
+59. What is the value of the net current assets?
+(A) $ 3 250
+(B) $ 8 250
+(C) $11 500
+(D) $14 750
+60. Which of the following can be found on both the income statement and on the balance sheet?
+(A) Drawings
+	 (B)	 Net profit
+(C) Bank overdraft
+(D) Accounts receivables
+DO NOT
+WRITE ON
+THIS PAGE
+DO NOT
+WRITE ON
+THIS PAGE
+CANDIDATE’S RECEIPT
+INSTRUCTIONS TO CANDIDATE:
+1. Fill in all the information requested clearly in capital letters.
+TEST CODE: 0 1 2 3 9 0 1 0
+	 SUBJECT: PRINCIPLES OF ACCOUNTS − Paper 01
+	 PROFICIENCY: GENERAL
+	 REGISTRATION NUMBER:
+	 FULL NAME: ________________________________________________________________
+(BLOCK LETTERS)
+	 Signature: ____________________________________________________________________
+	 Date: ________________________________________________________________________
+2. Ensure that this slip is detached by the Supervisor or Invigilator and given to you when you
+hand in this booklet.
+3. Keep it in a safe place until you have received your results.
+INSTRUCTION TO SUPERVISOR/INVIGILATOR:
+Sign the declaration below, detach this slip and hand it to the candidate as his/her receipt for this booklet
+collected by you.
+I hereby acknowledge receipt of the candidate’s booklet for the examination stated above.
+	 Signature: _____________________________
+	 	 Supervisor/Invigilator
+	 Date: _________________________________
+ANSWER KEY
+Item No. Key Syllabus
+Reference
+Item No. Key Syllabus
+Reference
+1.
+A 6 (6) 31.
+D
+1(2)
+2
+C 6 (6) 32.
+A 3(3b)
+3.
+D 6 (10) 33.
+C 1(2)
+4.
+A 6 (8) 34.
+C 1(2)
+5.
+C 6 (8) 35.
+D 3(3a)
+6.
+D 6 (10) 36.
+D 3(6)
+7.
+D 6 (5) 37.
+A 3(5d)
+8.
+C 6 (5) 38.
+B 11(1)
+9.
+C 6 (12) 39.
+B 11(7)
+10.
+A 6 (3) 40.
+D 11(8)
+11.
+C 6 (3) 41`.
+A 8(7)
+12.
+B 6 (8) 42.
+B 3(3c)
+13.
+A 6 (8) 43.
+D 3(8c)
+14.
+D 6 (1) 44.
+B 3(10)
+15.
+B 7(3) 45.
+A 4(7)
+16.
+B 7(4) 46.
+B 4(7)
+17.
+D 7(3);7(4) 47.
+D 4(1b)
+18.
+C 7(5);7(6) 48.
+C 4(2b)
+19.
+C 7(8) 49.
+D 11(2)
+20.
+C 7(7) 50.
+B 2 (9)
+21.
+D 7(8);7(9) 51.
+B 2(10)
+22.
+A 7(11) 52.
+C 5(6)
+23.
+B 7(11) 53.
+A 9(1)
+24.
+D 7(12) 54.
+A 9(2)
+25.
+A 7(12) 55.
+C 9(5)
+26.
+B 7(12) 56.
+D 2(7)
+27.
+B 7(12) 57.
+B 2(1)
+28.
+C
+1
+(
+2
+) 58.
+A 5(2)
+29.
+C 3 (1e) 59.
+B 5(5)
+30.
+B 3 (2b) 60.
+A 6(6);9(9)
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+C A R I B B E A N E X A M I N A T I O N S C O U N C I L
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE®
+EXAMINATION
+
+FILL IN ALL THE INFORMATION REQUESTED CLEARLY IN CAPITAL LETTERS.
+TEST CODE
+SUBJECT
+PROFICIENCY
+REGISTRATION NUMBER
+SCHOOL/CENTRE NUMBER
+NAME OF SCHOOL/CENTRE
+CANDIDATE’S FULL NAME (FIRST, MIDDLE, LAST)
+DATE OF BIRTH D D M M Y Y Y Y
+SIGNATURE __________________________________________________
+‘‘*’’Barcode Area”*”
+Front Page Bar Code
+‘‘*’’Barcode Area”*”
+Current Bar Code
+0 1 2 3 9 0 2 0
+PRINCIPLES OF ACCOUNTS – Paper 02
+GENERAL
+SPECIMEN PAPER
+DO NOT
+WRITE ON
+THIS PAGE
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+TEST CODE 01239020
+SPEC 2017/01239020 MAY/JUNE 2017
+C A R I B B E A N E X A M I N A T I O N S C O U N C I L
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE®
+EXAMINATION
+PRINCIPLES OF ACCOUNTS
+Paper 02 – General Proficiency
+Specimen Paper
+3 hours
+READ THE FOLLOWING INSTRUCTIONS CAREFULLY.
+1. This paper consists of FIVE questions. Answer ALL questions.
+2. Write your answers in the spaces provided in this answer booklet.
+3. DO NOT write in the margins or above or below questions.
+4. Show ALL working clearly.
+5. You may use a silent, non-programmable calculator to answer questions.
+6. You are advised to take some time to read through the paper and plan your
+answers.
+7. If you need to rewrite any answer and there is not enough space to do so
+on the original page, you must use the extra lined page(s) provided at the
+back of this booklet. Remember to draw a line through your original
+answer.
+8. If you use the extra page(s) you MUST write the question number
+clearly in the box provided at the top of the extra page(s) and, where
+relevant, include the question part beside the answer.
+DO NOT TURN THIS PAGE UNTIL YOU ARE TOLD TO DO SO.
+Copyright © 2017 Caribbean Examinations Council
+All rights reserved.
+01239020/SPEC 2017
+- 4 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+Answer ALL questions.
+1.	 R. Pierre is in the process of preparing her final accounts. The following information was made
+available on 31 March 2017.
+$
+Total non-current assets 106 800
+Trade payables 17 600
+Net sales 260 000
+Closing inventory 12 000
+Capital (1 April 2016) 76 200
+Cost of sales 86 000
+General expenses 90 800
+Accounts receivable 9 550
+Cash at bank 35 000
+Cash in hand 7 650
+Drawings 6 000
+(a) Determine the following for R. Pierre (show working):
+(i)	 Net profit
+(2 marks)
+- 5 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+(ii)	 Gross profit percentage
+(2 marks)
+- 6 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+	 (b)	 (i)	 Prepare R. Pierre’s classified balance sheet (vertical format ONLY) and show
+working capital.
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+................................................................................................................................
+.................................................................................................................................
+................................................................................................................................
+................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+................................................................................................................................
+................................................................................................................................
+.................................................................................................................................
+................................................................................................................................
+................................................................................................................................
+(9 marks)
+- 7 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+(ii) Calculate current ratio.
+(2 marks)
+	 (c)	 Based on the current ratio in (c) (ii) above, briefly explain to Ms. Pierre’s her current
+financial position.
+.............................................................................................................................................
+.............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+.............................................................................................................................................
+.............................................................................................................................................
+.............................................................................................................................................
+.............................................................................................................................................
+.............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+.............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+.............................................................................................................................................
+(5 marks)
+Total 20 marks
+- 8 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+2. Michelle Martin maintains both a three-column cash book and a petty cash book. The petty cash
+float is $300 every month. All payments for stationery and cleaning expenses are recorded in the
+petty cash book.
+The balances at 1 December 2016 were as follows:
+$
+Cash 900
+Bank 5 300
+Petty cash 55
+During the month of December, the following transactions were recorded in the books:
+December 1 Restored imprest by cash to the petty cash book
+8 Paid $500 rent by cheque $500
+9 Received $900 cash from S. Smith in full settlement of his account for $1 000
+10 Purchased office stationery for $15, and cleaning supplies for $25.95
+12 Bought office stationery for $52.50
+13 Purchased printing paper for $9.95
+15 Deposited $400 cash into bank
+16 P. Kan paid his account of $800 by cheque, less 5% discount
+19 Owner withdrew $200 cash for private use
+21 Purchased heavy duty stapler for $39.75
+25 Paid cheque to L. Lamb for amount owing, $800 receiving 2% discount
+28 Paid cleaning wages for $75
+(a) Draw up a three-column cash book for Michelle Martin for the month of December 2016.
+(8 marks)
+- 9 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+Michelle Martin
+Cash Book
+2016 F Disc Cash $ Bank $ 2016 F Disc Cash $ Bank $
+- 10 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+(b) Draw up a petty cash book for Michelle Martin for the month of December 2016.
+Michelle Martin
+Petty Cash Book
+Amount
+$ Date Details Total
+$
+Stationery
+$
+Cleaning
+$
+(7 marks)
+- 11 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+	 (c)	 What is the significance of the balances in the cash books?
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+(5 marks)
+Total 20 marks
+- 12 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+3. Jollibee Limited manufactures antique furniture. The following is a list of accounts for the year ended
+December 31, 2016.
+$
+Raw materials inventory 1/1/2016 150 000
+Finished goods inventory 1/1/2016 50 000
+Work in progress 1/1/2016 10 000
+Purchase of raw materials during the year 200 000
+Factory workers wages 40 000
+Office staff wages 10 000
+Factory equipment at cost 300 000
+Factory repairs 5 000
+Carriage inwards on raw materials 3 000
+Factory electricity 2 000
+The following additional information was also provided at December 31, 2016:
+$
+Raw materials inventory (31/12/2016) 50 000
+Finished goods inventory (on hand 31/12/2016) 30 000
+Work in progress inventory (31/12/2016) 20 000
+Depreciation of Factory equipment 20%
+- 13 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+(a) Prepare the manufacturing account for the year ended December 31, 2016, showing clearly
+(i) Cost of raw materials used
+(ii) Prime costs
+(iii) Production costs
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+(11 marks)
+- 14 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+(b) During the year ended December 31, 2016 Jollibee Limited manufactures a total of
+50 000 antique furniture. Calculate the unit cost of production for the year.
+(2 marks)
+(c) List the methods of inventory valuation.
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+(3 marks)
+(d) Identify TWO types of payment Jollibee Limited may use for goods purchased.
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+(2 marks)
+(e) Identify TWO skills needed for a career in the field of accounting.
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+(2 marks)
+Total 20 marks
+- 15 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+4. (a) Outline TWO advantages of starting a limited liability company rather than a partnership type
+company.
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+(2 marks)
+(b) List FOUR ethical issues encountered in accounting.
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+..............................................................................................................................................
+(4 marks)
+- 16 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+Robert More Company Limited issued the following to shareholders
+200 000 ordinary $2 shares are par
+100 000 10% preference $5 shares at par
+500 $100 debentures
+(c) Prepare the journal entry, using the form provided below, to show the issue of shares and
+debentures for the above company (narrative required).
+Date Details Ref Debit
+$
+Credit
+$
+(10 marks)
+- 17 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+Jamrock Charity Club lists the following balances for the period ended December 31, 2016.
+$
+Subscriptions received 20 000
+Bar takings 15 000
+Bar purchases 10 000
+Purchased equipment 10 000
+Depreciation expense for the year 2 000
+(d) Prepare a Receipts and Payments Account for the Jamrock Charity Club for the period ended
+December 31, 2016.
+$ $
+(4 marks)
+Total 20 marks
+- 18 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+5. (a) List TWO accounting software programmes used for payroll.
+.............................................................................................................................................
+.............................................................................................................................................
+.............................................................................................................................................
+..............................................................................................................................................
+(2 marks)
+(b) State TWO differences between statutory deductions and voluntary deductions.
+Statutory Deductions Voluntary Deductions
+(4 marks)
+- 19 -
+GO ON TO THE NEXT PAGE
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+Quick Fix Electronics produces and sells a new model of computers. The computers sell
+for $3 000 per unit. As a result of the intense competition Quick Fix faces, management
+budget sales quarterly, the projections for the first 4 quarters for 2016 are as follows:
+UNIT SALES
+Quarter 1 Quarter 2 Quarter 3 Quarter 4
+3 000 4 000 7 000 8 000
+No anticipated changes in the selling price
+(c) Prepare a sales budget for each quarter showing the following:
+(i) the unit selling price
+(ii) the expected sales
+(iii) the total
+Details Quarter 1 Quarter 2 Quarter 3 Quarter 4 Year as a
+whole
+(7 marks)
+(d) List FOUR main sections of a business plan.
+.............................................................................................................................................
+.............................................................................................................................................
+.............................................................................................................................................
+............................................................................................................................................
+(4 marks)
+- 20 -
+01239020/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+(e) Identify THREE essential features of a Co-operative.
+.............................................................................................................................................
+.............................................................................................................................................
+.............................................................................................................................................
+............................................................................................................................................
+.............................................................................................................................................
+.............................................................................................................................................
+.............................................................................................................................................
+............................................................................................................................................
+( 3 marks)
+Total 20 marks
+END OF TEST
+IF YOU FINISH BEFORE TIME IS CALLED, CHECK YOUR WORK ON THIS TEST.
+- 21 -
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+01239020/SPEC 2017
+EXTRA SPACE
+If you use this extra page, you MUST write the question number clearly in the box provided.
+Question No.
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+- 22 -
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+01239020/SPEC 2017
+EXTRA SPACE
+If you use this extra page, you MUST write the question number clearly in the box provided.
+Question No.
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+DO NOT
+WRITE ON
+THIS PAGE
+CANDIDATE’S RECEIPT
+INSTRUCTIONS TO CANDIDATE:
+1. Fill in all the information requested clearly in capital letters.
+TEST CODE:
+SUBJECT:
+PROFICIENCY:
+REGISTRATION NUMBER:
+FULL NAME: ________________________________________________________________
+(BLOCK LETTERS)
+Signature: ____________________________________________________________________
+Date: ________________________________________________________________________
+2. Ensure that this slip is detached by the Supervisor or Invigilator and given to you when you
+hand in this booklet.
+3. Keep it in a safe place until you have received your results.
+INSTRUCTION TO SUPERVISOR/INVIGILATOR:
+Sign the declaration below, detach this slip and hand it to the candidate as his/her receipt for this booklet
+collected by you.
+I hereby acknowledge receipt of the candidate’s booklet for the examination stated above.
+Signature: _____________________________
+ Supervisor/Invigilator
+Date: _________________________________
+0 1 2 3 9 0 2 0
+PRINCIPLES OF ACCOUNTS – Paper 02
+GENERAL
+01239020/KMS/SPEC 2017
+
+C A R I B B E A N E X A M I N A T I O N S C O U N C I L
+
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE®
+EXAMINATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRINCIPLES OF ACCOUNTS
+PAPER 02 — GENERAL PROFICIENCY
+SPECIMEN PAPER
+
+KEY and MARK SCHEME
+
+-2-
+01239020/KMS/SPEC 2017
+Principles of Accounts
+Paper 02 — General Proficiency
+Specimen Paper
+Key and Mark Scheme
+Question 1
+(a)
+(i) Net Profit = Gross Profit- Expenses
+$
+Sales 260 000
+Less Cost of Sales (86 000)
+Gross Profit 174 000
+Less Expenses (90 800)
+Net Profit 83 200
+ (2 marks)
+(ii) Gross Profit percentage
+ Gross Profit/ Sales x 100
+ 174 000/260 000 x 100 = 6 6.9%
+(2 marks)
+(b)
+C. Pierre
+Balance Sheet
+as at 31 March 2017
+$ $ $
+Non - Current Assets 10 6800
+Current Assets
+Inventory 12 000
+Accounts Receivable 9 550
+Cash at Bank 35 000
+Cash in Hand 7 650 64 200
+Current Liabilities
+Accounts Payables (17 600)
+Working Capital 46 600
+153 400
+Capital
+Opening balance 76 200
+Add Net Profit 83 200
+159 400
+Less Drawings (6 000) 153 400
+(9 marks)
+-3-
+01239020/KMS/SPEC 2017
+Principles of Accounts
+Specimen Paper
+Paper 02 — General Proficiency
+Key and Mark Scheme
+Question 1 cont’d
+(ii) Current Ratio = Current assets/current liabilities
+ $64 200/ $17 600 = 3.6:1
+(2 marks)
+(c) (i) A good current ratio indicates that the business has the ability to pay
+its short-term debts when they become due. Generally, a good current ratio
+is usually 2:1 In this case Ms. Pierre ratio is 3.6:1, this means that her
+current ratio is a bit high and she may not be making the best use of her
+cash and has problems managing her working capital.
+(ii) Ms. Pierre should invest some of her cash to earn interest rather than
+leave it idle.
+(5 marks)
+-4-
+01239020/KMS/SPEC 2017
+Principles of Accounts
+Paper 02 — General Proficiency
+Specimen Paper
+Key and Mark Scheme
+Question 2
+(a)
+Michelle Martin
+Cash Book
+2016 F Disc Cash
+$
+Bank
+$
+2016 F Disc Cash
+$
+Bank
+$
+Dec 1 Bal b/f 900 5300 Dec 1 Petty
+Cash
+Book
+245
+Dec 9 S.
+Smith
+100 900 Dec 8 Rent 500
+Dec
+15
+Cash C 400 Dec
+15
+Bank C 400
+Dec
+16
+P Kan 40 760 Dec
+19
+Drawings 200
+Dec
+25
+L. Lamb 16 784
+Dec
+31
+Balance
+c/d
+955 5176
+140 1800 6460 16 1800 6460
+Jan 1 Balance
+b/d
+955 5,176
+(8 marks)
+(b)
+Michelle Martin
+Petty Cash Book
+Amount
+$
+Date Details Total
+$
+Stationery
+$
+Cleaning
+$
+55 Dec 1 Bal b/d
+245 Cash
+300 Dec 10 Stationery 15.00 15.00
+Dec 10 Cleaning Supplies 25.95 25.95
+Dec 12 Stationery 52.50 52.50
+Dec 13 Paper 9.95 9.95
+Dec 21 Stapler 39.75 39.75
+Dec 28 Wages 75.00 75.00
+Totals 218.15 117.20 100.95
+Dec 31 Balance c/d 81.85
+(7 marks)
+-5-
+01239020/KMS/SPEC 2017
+Principles of Accounts
+Specimen Paper
+Paper 02 — General Proficiency
+Key and Mark Scheme
+Question 2 cont’d
+(c) The cash book cash and bank columns both have a debit balance which indicates
+that the cash in hand is $955 and cash in bank is $5,176. Cash in hand will
+always have a debit balance as it is a current asset and a business cannot spend
+more cash than it has. Bank is also a current asset with a normal debit balance
+as the business is not in overdraft with the bank. The petty cash book also
+has a debit balance of $81.85. Following the imprest system, the cashier would
+then need to reimburse $218.15 to start the following month.
+(5 marks)
+-6-
+01239020/KMS/SPEC 2017
+Principles of Accounts
+Paper 02 — General Proficiency
+Specimen Paper
+Key and Mark Scheme
+Question 3
+ (a)
+Jollibee Manufacturing a/c
+for the year ended December 31, 2016
+$ $ $
+Raw materials inventory
+(1/1/2016) 150 000
+Purchases 200 000
+Carriage inwards on raw
+materials 3 000
+Net purchases 203 000
+Raw materials available for
+use
+353 000
+Raw materials inventory
+(31/12/2016) (50 000)
+Cost of raw materials used 303 000
+Factory wages 40 000
+Prime cost 343 000
+Overheads
+Factory repairs 5 000
+Factory electricity 2 000
+Depreciation Factory
+equipment 60 000
+Total factory overheads 67 000
+Total manufacturing
+overheads 410 000
+Add work in progress
+inventory (1/1/2016) 10 000
+Less work in progress
+inventory (31/12/2016) (20 000)
+(10 000)
+Production cost 400 000
+(11 marks)
+(b) Cost per unit of production = Cost of production ÷ number of units produced
+ =400 000 ÷ 50 000 = $8 per unit
+ (2 marks)
+-7-
+01239020/KMS/SPEC 2017
+Principles of Accounts
+Specimen Paper
+Paper 02 — General Proficiency
+Key and Mark Scheme
+Question 3 cont’d
+(c) The methods of inventory valuation
+ First In First out method (FIFO)
+ Last In First out method (LIFO)
+ Average Cost Method (AVCO)
+(3 marks)
+(d) Two types of payment for goods purchased
+ Standing order
+ Pay pal
+ Cash
+ Cheques
+ Direct debit
+ Electronic fund transfer and point of sale (EFTPOS)
+ (2 marks)
+(e) Two skills needed for a career in the field of accounting
+ Basic skill in mathematics
+ Ability to process information in a deep analytical mind (analyse and
+interpret facts and figures)
+ High attention to detail
+ Organise and work under pressure
+ Proficient with accounting software (computer literate)
+ Ability to remain impartial
+ Strong communication skills
+ Strong interpersonal skills (including teamwork)
+Any other appropriate answer
+ (2 marks)
+-8-
+01239020/KMS/SPEC 2017
+Principles of Accounts
+Paper 02 — General Proficiency
+Specimen Paper
+Key and Mark Scheme
+Question 4
+(a) Two advantages of creating a limited liability company rather than a
+partnership type company
+ Separate legal existence
+ Limited liability of shareholders
+ Continuous life
+ Ability to raise more capital
+ Any other appropriate answer
+(2 marks)
+(b) Four ethical issues encountered in accounting
+ Omission of financial records
+ Pressure
+ Penalties
+ Disclosure
+ Effect of greed
+ The whistle blower
+ Fraudulent financial reporting
+(4 marks)
+(c) Prepare journal entries to record issue of shares and debentures
+Date Details Ref Debit Credit
+$ $
+Cash 950 000
+ Ordinary shares 400 000
+ 10% Preference Shares 500 000
+ 7% Debentures 50 000
+Being Ordinary shares,
+10% Preference shares and
+7% Debentures
+(10 marks)
+-9-
+01239020/KMS/SPEC 2017
+Principles of Accounts
+Specimen Paper
+Paper 02 — General Proficiency
+Key and Mark Scheme
+Question 4 cont’d
+(d)
+Prepare Receipts and Payments account
+Jamrock Charity Club
+Receipts and Payments a/c
+for the period ended December 31, 2016
+
+ $ $
+Subscriptions 20 000 Bar Purchases 10 000
+Bar takings 15 000 Equipment 10 000
+ Balanced c/d 15 000
+ 35 000 35 000
+Balance b/d 15 000
+ (4 marks)
+-10-
+01239020/KMS/SPEC 2017
+Principles of Accounts
+Paper 02 — General Proficiency
+Specimen Paper
+Key and Mark Scheme
+Question 5
+(a) Two accounting software programmes used for payroll
+ Quick books
+ Peach tree’
+ Sage
+ Microsoft excel
+ Accounting edge
+Any other appropriate answer
+(2 marks)
+(b) Two differences between statutory deductions and voluntary deductions
+STATUTORY DEDUCTIONS VOLUNTARY DEDUCTIONS
+Deductions which are required by law
+include:
+Deductions made at employee’s
+request include:
+Income Tax Trade union dues
+National Insurance (Social Security) Group Health and Pension
+Personal Insurance Payments
+Private Pension Plan Contribution Contribution to company Social Fund
+Health Surcharge Credit Union Payments
+Any other appropriate answer
+(4 marks)
+(c) Prepare sales budget
+Quarter 1 Quarter 2 Quarter 3 Quarter 4 Year as
+a whole
+Expected sales
+in units
+3 000 4 000 7 000 8 000 22 000
+× × × × ×
+Unit selling
+price
+3 000 3 000 3 000 3 000 3 000
+Total 9 000 12 000 21 000 24 000 66 000
+ (7 marks)
+-11-
+01239020/KMS/SPEC 2017
+Principles of Accounts
+Specimen Paper
+Paper 02 — General Proficiency
+Key and Mark Scheme
+Question 5 cont’d
+(d) Four main sections of a business plan
+ Executive summary
+ Company background
+ Operations plan
+ Marketing plan
+ Financial plan
+ Marketing analysis
+ (4 marks)
+(e) List 3 essentials of a Co-operative
+Members are also customers
+ An elected board of management governs activities of the business
+ Are exempted from paying taxes
+ Owned by members
+ Members buy a share in the business
+ Formed for the benefit of their members and local communities
+ Provide goods and services
+ Profit is not their main goal
+ Yearly profits are divided among the members who are also customers
+ (3 marks)
+C A R I B B E A N E X A M I N A T I O N S C O U N C I L
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE®
+EXAMINATION
+
+FILL IN ALL THE INFORMATION REQUESTED CLEARLY IN CAPITAL LETTERS.
+TEST CODE
+SUBJECT
+PROFICIENCY
+REGISTRATION NUMBER
+SCHOOL/CENTRE NUMBER
+NAME OF SCHOOL/CENTRE
+CANDIDATE’S FULL NAME (FIRST, MIDDLE, LAST)
+DATE OF BIRTH D D M M Y Y Y Y
+SIGNATURE __________________________________________________
+‘‘*’’Barcode Area”*”
+Front Page Bar Code
+‘‘*’’Barcode Area”*”
+Current Bar Code
+0 1 2 3 9 0 3 2
+PRINCIPLES OF ACCOUNTS – Paper 032
+GENERAL
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+SPECIMEN PAPER
+DO NOT
+WRITE ON
+THIS PAGE
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+TEST CODE 01239032
+FORM SPEC 2017
+C A R I B B E A N E X A M I N A T I O N S C O U N C I L
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE®
+EXAMINATION
+PRINCIPLES OF ACCOUNTS
+Paper 032 – General Proficiency
+1 hour 30 minutes
+READ THE FOLLOWING INSTRUCTIONS CAREFULLY.
+1. Answer ALL questions.
+2. Write your answers in the spaces provided in this answer booklet.
+3. Do NOT write in the margins.
+4. Show ALL working clearly.
+5. You may use a silent, non-programmable calculator to answer questions.
+6. You are advised to take some time to read through the paper and plan your answers.
+7. If you need to rewrite any answer and there is not enough space to do so on the
+original page, you must use the extra lined page(s) provided at the back of this
+booklet. Remember to draw a line through your original answer.
+8. If you use the extra page(s) you MUST write the question number clearly in
+the box provided at the top of the extra page(s) and, where relevant, include
+the question part beside the answer.
+DO NOT TURN THIS PAGE UNTIL YOU ARE TOLD TO DO SO.
+Copyright © 2017 Caribbean Examinations Council
+All rights reserved.
+01239032/SPEC 2017
+- 4 -
+GO ON TO THE NEXT PAGE
+01239032/JANUARY/F 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+Instructions: This paper consists of a case study and TEN questions. Read the case study and
+answer ALL the questions that follow in the spaces provided in this booklet.
+Case Study
+Thomas Timberland inherited a small restaurant – “The Junction” – along with a sum of money from his
+Aunt Joan Smart. On January 1, 2016, he invested some of his savings to expand the operations of the
+restaurant.
+The assets of the business as at January 1, 2016 were:
+$
+Stoves 1 500
+Tables 850
+Chairs 720
+Pots and pans 475
+Refrigerator 2 500
+Freezer 1 200
+Cutlery 600
+Cash at Bank 5 500
+Cash in Hand 1 400
+1. What type of business entity is Thomas Timberland about to operate?
+..........................................................................................................................................................
+(1 mark)
+2. List TWO features of this type of business entity.
+..........................................................................................................................................................
+..........................................................................................................................................................
+(2 marks)
+- 5 -
+GO ON TO THE NEXT PAGE
+01239032/JANUARY/F 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+3. Determine the opening capital of this business.
+(1 mark)
+4. Prepare Thomas Timberland’s opening journal entry.
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+(6 marks)
+- 6 -
+GO ON TO THE NEXT PAGE
+01239032/JANUARY/F 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+5. What is the value of his current assets?
+(1 mark)
+	 The following transactions took place during the first two weeks of January:
+2016 $
+January 6 Bought chicken and lamb 3 750
+Bought rice 1 900
+ 7 Withdrew $ 2 000 from the bank for business use
+ 8 Bought pasta products 780
+ 9 Sold 20 lunches to Harry Smith at $18 each for cash
+ 11 Purchased peas 150
+Purchased seasonings 175
+Purchased drinks 1 200
+Purchased vegetables 600
+ 12 Returned unsuitable vegetables 60
+ 14 Obtained a loan from Overland Credit Union and received a cheque for $5 000
+All payments which were less than $200 were paid in cash.
+6. Using the table on page 7, prepare and balance the two-column cash book for the first two weeks
+of January.
+- 7 -
+GO ON TO THE NEXT PAGE
+01239032/JANUARY/F 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+(10 marks)
+- 8 -
+GO ON TO THE NEXT PAGE
+01239032/JANUARY/F 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+At the end of the month it was observed that the business had incurred the following expenses:
+$
+Electricity 1 240
+Cooking gas 1 180
+Wages 2 720
+Transportation 175
+Telephone 45
+The business also bought a new food processor on credit from Courts Ltd. for $1 200. Revenue earned
+from sales for the period was $20 000. The value of closing stock was $650.
+7. Name TWO other items of expense which Timberland may have incurred.
+..........................................................................................................................................................
+.........................................................................................................................................................
+(2 marks)
+- 9 -
+GO ON TO THE NEXT PAGE
+01239032/JANUARY/F 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+8.	 Prepare the Trading and Profit and Loss Account for the period ended January 31, 2016.
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+(13 marks)
+01239032/SPEC 2017
+9.	 Thomas experienced a high level of spoilage of vegetables during the first month of operation.
+State TWO ways this problem can be avoided in the future.
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+(2 marks)
+10. List TWO ways by which Thomas could have increased sales.
+.............................................................................................................................................................
+.........................................................................................................................................................
+(2 marks)
+Total 40 marks
+END OF TEST
+IF YOU FINISH BEFORE TIME IS CALLED, CHECK YOUR WORK ON THIS TEST.
+- 10 -
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+- 11 -
+01239032/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+EXTRA SPACE
+If you use this extra page, you MUST write the question number clearly in the box provided.
+Question No.
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+- 11 -
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+- 12 -
+01239032/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+EXTRA SPACE
+If you use this extra page, you MUST write the question number clearly in the box provided.
+Question No.
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+- 12 -
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+EXTRA SPACE
+If you use this extra page, you MUST write the question number clearly in the box provided.
+Question No.
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+- 13 -
+01239032/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+EXTRA SPACE
+If you use this extra page, you MUST write the question number clearly in the box provided.
+Question No.
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+...........................................................................................................................................................................
+- 14 -
+01239032/SPEC 2017
+‘‘*’’Barcode Area”*”
+Sequential Bar Code
+DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA DO NOT WRITE IN THIS AREA
+DO NOT
+WRITE ON
+THIS PAGE
+CANDIDATE’S RECEIPT
+INSTRUCTIONS TO CANDIDATE:
+1. Fill in all the information requested clearly in capital letters.
+TEST CODE:
+SUBJECT:
+PROFICIENCY:
+REGISTRATION NUMBER:
+FULL NAME: ________________________________________________________________
+(BLOCK LETTERS)
+Signature: ____________________________________________________________________
+Date: ________________________________________________________________________
+2. Ensure that this slip is detached by the Supervisor or Invigilator and given to you when you
+hand in this booklet.
+3. Keep it in a safe place until you have received your results.
+INSTRUCTION TO SUPERVISOR/INVIGILATOR:
+Sign the declaration below, detach this slip and hand it to the candidate as his/her receipt for this booklet
+collected by you.
+I hereby acknowledge receipt of the candidate’s booklet for the examination stated above.
+Signature: _____________________________
+ Supervisor/Invigilator
+Date: _________________________________
+0 1 2 3 9 0 3 2
+PRINCIPLES OF ACCOUNTS – Paper 032
+GENERAL
+01239032/K/SPEC 2017
+
+C A R I B B E A N E X A M I N A T I O N S C O U N C I L
+
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE®
+EXAMINATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRINCIPLES OF ACCOUNTS
+PAPER 032 — GENERAL PROFICIENCY
+SPECIMEN PAPER
+
+KEY
+
+-2-
+01239032/K/SPEC 2017
+Principles of Accounts
+Paper 032 — General Proficiency
+Specimen Paper
+Key
+1. Sole trader/sole proprietorship.
+2. (a) Owned and operated by the same person
+(b) Capital invested by one individual
+(c) All of the profits go to the owner
+(d) Risks borne by one individual
+3. A - L = C
+ $14 745 - 0 = $14 745
+ Capital = $14 745
+4. JOURNAL
+$ $
+Stoves 1 500
+Tables 850
+Chairs 720
+Pots and Pans 475
+Refrigerator 2 500
+Freezer 1 200
+Cutlery 600
+Cash at bank 5 500
+Cash in hand 1 400
+ Capital 1 4745
+Opening entries to start business on Jan. 1 2016
+5. Current Assets: Cash at Bank $5 500
+ Cash in Hand $1 400
+ $6 900
+-3-
+01239020/KMS/SPEC 2017
+Principles of Accounts
+Specimen Paper
+Paper 02 — General Proficiency
+Key and Mark Scheme
+6.
+CASH BOOK
+C B C B
+$ $ $ $
+Jan 1 Balances 1 400 5 500 Jan 6 Purchases 3 750
+7 Bank C 2 000 Purchases 1 900
+9 Sales 360 7 Cash (C) 2 000
+14 Loan 5 000 8 Purchases 780
+11 Purchases 150
+Purchases 175
+Purchases 1 200
+Purchases 600
+Jan 14 Bal C/D 3 435 270
+3 760 10 500 3 760 10 500
+Jan 15 Bal B/D 3 435 270
+7. Water, advertising, taxes or any other suitable expense.
+8.
+Thomas Timberland
+Trading and Profit and Loss Account
+For the month of January 31, 2016
+$ $
+Sales 20 000
+Purchases 8 555
+Less: Returns Outwards 60
+8 495
+Less: Closing Stock 650
+Cost of Goods Sold 7 845
+Gross Profit 12
+155
+Expenses
+Electricity Owing 1 240
+Cooking gas 1 180
+Wages 2 720
+Transportation 175
+Telephone
+45
+ 5360
+Net Profit 6795
+-4-
+01239032/K/SPEC 2017
+Principles of Accounts
+Paper 032 — General Proficiency
+Specimen Paper
+Key
+9. (a) Buy small quantities
+ (b) Better storage
+ (c) Change the supplier
+ (d) Change the variety of vegetables
+10. (a) Promotions
+ (b) Advertising
+ (c) Reduction in price
+ (d) Change of menu
+
+01239032/MS/SPEC 2017
+
+C A R I B B E A N E X A M I N A T I O N S C O U N C I L
+
+CARIBBEAN SECONDARY EDUCATION CERTIFICATE®
+EXAMINATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRINCIPLES OF ACCOUNTS
+PAPER 032 — GENERAL PROFICIENCY
+SPECIMEN PAPER
+
+Mark Scheme
+
+-2-
+01239032/MS/SPEC 2017
+Principles of Accounts
+Paper 032 — General Proficiency
+Specimen Paper
+Mark Scheme
+Profiles
+Question K A I
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+Correctly stated the type of business
+Listed any TWO features correctly
+Correctly calculated opening capital
+Recorded debit entries correctly
+ (1 mark for 2, max. 4)
+Showed capital
+Suitable narration
+Correct calculation of current assets
+Correct heading
+Included opening cash and bank balances
+ (1 mark each)
+Correctly entered all other transactions
+ (1 mark for 2, max. 4)
+Correctly recorded contra entries
+Balanced Cash Book correctly
+Correctly identified any other TWO expenses
+Correct heading for Trading and Profit and
+Loss Account
+Correct treatment of Returns Outwards
+Correct amount for purchases
+Included Returns Outwards
+Included sales amount
+Correctly included closing stock
+Indicated Gross Profit
+Included 5 expenses
+(1 mark each)
+Indicated Net Profit
+Listed TWO appropriate ways of dealing with
+the problem
+Listed two suitable ways of increasing
+sales
+ Total Marks
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+4
+1
+2
+4
+1
+1
+1
+5
+2
+2
+1
+1
+2
+2
+10 20 10
+CXC 10
+/
+G
+/SYLL 17 50 www.cxc.org
+Caribbean Examinations Council
+Prince Road, Pine Plantation Road,
+St Michael BB11091
+Tel: (246) 227 1700
+Email: cxcezo@cxc.org

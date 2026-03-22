@@ -1,20 +1,24 @@
 {
-  "files_processed": 5,
-  "total_chunks": 2469,
+  "files_processed": 9,
+  "total_chunks": 3122,
   "content_types": {
-    "assessment": 813,
-    "requirements": 515,
-    "definitions": 183,
-    "objectives": 321,
-    "format": 146,
-    "procedures": 226,
-    "examples": 265
+    "assessment": 1040,
+    "requirements": 602,
+    "procedures": 275,
+    "examples": 308,
+    "objectives": 465,
+    "definitions": 254,
+    "format": 178
   },
   "subjects": [
+    "ADDITIONAL_MATHEMATICS_SYLLABUS",
     "BIOLOGY_SYLLABUS",
     "CHEMISTRY_SYLLABUS",
     "HISTORY_SYLLABUS",
     "INFORMATION_TECHNOLOGY_SYLLABUS",
-    "MATH_SYALLABUS"
+    "MATH_SYALLABUS",
+    "PHYSICS_SYLLABUS",
+    "PRINCIPLES_OF_ACCOUNTS_SYLLABUS",
+    "PRINCIPLES_OF_BUSINESS_SYLLABUS"
   ]
 }

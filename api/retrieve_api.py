@@ -7,7 +7,7 @@ import faiss
 import json
 import re
 from collections import defaultdict, Counter
-from sentence_transformers import SentenceTransformer
+from openrouter_embedder import OpenRouterEmbedder
 from typing import List, Optional
 import uvicorn
 
@@ -24,8 +24,9 @@ class RetrievalResponse(BaseModel):
     processing_info: dict
 
 # --- Configuration ---
-EMBED_MODEL = "intfloat/multilingual-e5-base"
-EMBEDDING_DIM = 768
+EMBED_MODEL = "nvidia/llama-nemotron-embed-vl-1b-v2:free"
+EMBEDDING_DIM = 2048  # Nemotron model produces 2048-dimensional vectors
+DATA_DIR = os.path.join(os.path.dirname(__file__), "..")  # Parent directory where pkl files are stored
 
 # --- Initialize FastAPI ---
 app = FastAPI(
@@ -48,16 +49,16 @@ async def load_models():
     
     print("🚀 Loading models and data...")
     
-    # Load embedding model
-    embedder = SentenceTransformer(EMBED_MODEL)
-    print("✅ Embedding model loaded")
+    # Load embedding model (OpenRouter)
+    embedder = OpenRouterEmbedder(model=EMBED_MODEL)
+    print("✅ Embedding model loaded from OpenRouter")
     
     # Load FAISS index and data
     try:
-        embeddings = np.load("embeddings.npy")
-        with open("paragraphs.pkl", "rb") as f:
+        embeddings = np.load(os.path.join(DATA_DIR, "embeddings.npy"))
+        with open(os.path.join(DATA_DIR, "paragraphs.pkl"), "rb") as f:
             paragraphs = pickle.load(f)
-        index = faiss.read_index("faiss.index")
+        index = faiss.read_index(os.path.join(DATA_DIR, "faiss.index"))
         print(f"✅ Loaded {len(paragraphs)} paragraphs and FAISS index")
     except FileNotFoundError as e:
         print(f"❌ Error loading required files: {e}")
@@ -65,7 +66,7 @@ async def load_models():
     
     # Load metadata (optional)
     try:
-        with open("chunk_metadata.pkl", "rb") as f:
+        with open(os.path.join(DATA_DIR, "chunk_metadata.pkl"), "rb") as f:
             chunk_metadata = pickle.load(f)
         print(f"✅ Loaded metadata for {len(chunk_metadata)} chunks")
     except FileNotFoundError:
@@ -74,7 +75,7 @@ async def load_models():
     
     # Load stats (optional)
     try:
-        with open("indexing_stats.json", "r") as f:
+        with open(os.path.join(DATA_DIR, "indexing_stats.json"), "r") as f:
             stats = json.load(f)
         print(f"✅ Loaded stats: {stats.get('files_processed', 'unknown')} subjects")
     except FileNotFoundError:
@@ -108,6 +109,10 @@ def analyze_query(query: str) -> dict:
         'information technology': ['INFORMATION_TECHNOLOGY', 'COMPUTING'],
         'math': ['MATHEMATICS', 'MATHS'],
         'maths': ['MATHEMATICS', 'MATH'],
+        'additional mathematics': ['ADDITIONAL_MATHEMATICS', 'ADVANCED_MATHEMATICS'],
+        'add math': ['ADDITIONAL_MATHEMATICS', 'ADVANCED_MATHEMATICS'],
+        'addl math': ['ADDITIONAL_MATHEMATICS', 'ADVANCED_MATHEMATICS'],
+        'add maths': ['ADDITIONAL_MATHEMATICS', 'ADVANCED_MATHEMATICS'],
         'bio': ['BIOLOGY', 'BIO'],
         'chem': ['CHEMISTRY', 'CHEM'],
         'physics': ['PHYSICS', 'PHYSICS_CSEC', 'PHYS'],

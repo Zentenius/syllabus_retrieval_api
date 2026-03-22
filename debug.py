@@ -3,7 +3,7 @@ import glob
 import pickle
 import numpy as np
 import spacy
-from sentence_transformers import SentenceTransformer
+from openrouter_embedder import OpenRouterEmbedder
 import faiss
 import json
 import re
@@ -28,8 +28,8 @@ for path in [output_preview, output_pickle, output_npy, output_faiss, debug_samp
 # Load spaCy model for sentence segmentation and NER
 nlp = spacy.load("en_core_web_sm")
 
-# Use consistent embedding model (same for indexing and querying)
-embedder = SentenceTransformer("intfloat/multilingual-e5-base")
+# Use consistent embedding model (OpenRouter NVIDIA Nemotron - 2048 dimensions)
+embedder = OpenRouterEmbedder(model="nvidia/llama-nemotron-embed-vl-1b-v2:free")
 
 def extract_key_terms(text, top_n=5):
     """Extract key terms using TF-IDF and NER"""
@@ -235,7 +235,7 @@ with open(output_stats, "w") as f:
     json.dump(stats, f, indent=2)
 
 print("🔍 Embedding all chunks...")
-embeddings = embedder.encode(all_paragraphs, convert_to_numpy=True, batch_size=32, show_progress_bar=True)
+embeddings = embedder.encode(all_paragraphs, convert_to_numpy=True, batch_size=8, show_progress_bar=True)
 np.save(output_npy, embeddings)
 
 index = faiss.IndexFlatL2(embeddings.shape[1])

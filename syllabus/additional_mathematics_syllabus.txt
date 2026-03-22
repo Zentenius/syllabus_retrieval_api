@@ -1,0 +1,4647 @@
+
+
+
+
+
+
+
+
+
+
+
+Published by the Caribbean Examinations Council
+(c) 2010, Caribbean Examinations Council
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form, or by any means electronic, photocopying, recording or otherwise without prior permission of the author or publisher.
+Correspondence related to the syllabus should be addressed to: The Pro-­-Registrar
+Caribbean Examinations Council Caenwood Centre
+37 Arnold Road, Kingston 5, Jamaica, W.I.
+
+Telephone: (876) 630-­-5200 Facsimile Number: (876) 967-­-4972 E-­-mail address: cxcwzo@cxc.org Website: www.cxc.org
+
+Copyright (c) 2010, by Caribbean Examinations Council The Garrison, St Michael BB14038, Barbados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RATIONALE	1
+AIMS	1
+PRE-­-REQUISITES OF THE SYLLABUS	2
+ORGANIZATION OF THE SYLLABUS	2
+SUGGESTIONS FOR TEACHING THE SYLLABUS	2
+CERTIFICATION AND DEFINITION OF PROFILES	3
+FORMAT OF THE EXAMINATIONS	3
+REGULATIONS FOR RESIT CANDIDATES	5
+REGULATIONS FOR PRIVATE CANDIDATES	6
+MISCELLANEOUS SYMBOLS	6
+LIST OF FORMULAE	8
+USE OF ELECTRONIC CALCULATORS	9
+SECTION 1: ALGEBRA AND FUNCTIONS	10
+SECTION 2: COORDINATE GEOMETRY, VECTORS AND TRIGONOMETRY	16
+SECTION 3: INTRODUCTORY CALCULUS	20
+SECTION 4: BASIC MATHEMATICAL APPLICATIONS	24
+GUIDELINES FOR THE SCHOOL BASED ASSESSMENT	29
+ASSESSMENT CRITERIA	31
+RESOURCES	47
+GLOSSARY	48
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?
+The Caribbean, with few limited resources, has prided itself in being a knowledge-­-based society utilizing the skills and assets of people, our greatest resource, to progress in a dynamic world where self-­-reliance is now more than ever a needed goal. Although different languages are spoken in the Caribbean, the language of Mathematics is one of the forms in which people of the Caribbean effectively communicate with each other.
+This Additional Mathematics course provides a variety of topics with related attributes which would enable Caribbean students to reason logically using the prior knowledge gained from the CSEC General Proficiency Mathematics. Candidates are expected to enter this course of study with a solid foundation of algebraic knowledge and mathematical reasoning.
+On completing this course students will be able to make a smooth transition to higher levels of study in Mathematics, or move on to career choices where a deeper knowledge of the general concepts of Mathematics is required. This course of study, which includes fundamentals of Pure and Applied Mathematics, caters to diverse interests enabling students to develop critical-thinking skills applicable to other subject areas.
+
+Some of the underlying concepts of Mathematics will be explored to a level which fosters a deeper understanding and greater appreciation of Mathematics. This will give students the confidence and ability to approach problem-­-solving in enlightened ways and lead to creative methods of solving complex real-­-world problems.
+This course thus provides insight into the exciting world of advanced mathematics, thereby equipping students with the tools necessary to approach any mathematical situation with confidence.
+This syllabus will contribute to the development of the Ideal Caribbean Person as articulated by the CARICOM Heads of Government in the following areas: "demonstrate multiple literacies, independent and critical thinking and innovative application of science and technology to problem solving. Such a person should also demonstrate a positive work attitude and value and display creative imagination and entrepreneurship". In keeping with the UNESCO Pillars of Learning, on completion of this course the study, students will learn to do, learn to be and learn to transform themselves and society.
+
+* AIMS
+The syllabus aims to:
+1. build upon those foundational concepts, techniques and skills acquired at the CSEC General Proficiency Level and form linkages to areas of study at the Advanced Proficiency Level;
+
+2. enhance ways of learning Mathematics;
+
+3. stimulate further curiosity and analytical thinking in deriving solutions to problems which may not necessarily be solved by a single/unique approach;
+
+4. promote effective mathematical communication;
+
+5. develop abilities to reason logically;
+
+6. develop skills in formulating real-­-world problems into mathematical form;
+
+7. develop positive intrinsic mathematical values, such as, accuracy and rigour;
+
+8. connect Mathematics with other disciplines such as Science, Business and the Arts.
+
+* PRE-­-REQUISITES OF THE SYLLABUS
+Any person with a good grasp of the contents of the syllabus of the Caribbean Secondary Education Certificate (CSEC) General Proficiency course in Mathematics, or equivalent, should be able to undertake this course. However, successful participation in this course will also depend critically on the possession of good verbal and written communication skills.
+
+* ORGANIZATION OF THE SYLLABUS
+The syllabus is arranged as a set of topics, and each topic is defined by its specific objectives and content. It is expected that students would be able to master the specific objectives and related content after successfully pursuing a course in Mathematics during five years of secondary education.
+The topics are arranged in four sections as follows:
+
+Section 1
+-­-
+Algebra and Functions
+Section 2
+-­-
+Coordinate Geometry and Trigonometry
+Section 3
+-­-
+Introductory Calculus
+Section 4
+-­-
+Basic Mathematical Applications
+* SUGGESTIONS FOR TEACHING THE SYLLABUS
+For students who complete CSEC Mathematics in the fourth form year, Additional Mathematics can be done in the fifth form year. Alternatively students may begin Additional Mathematics in the fourth form and sit both CSEC Mathematics and Additional Mathematics examinations at the end of form five. Students may even do the CSEC Additional Mathematics as an extra subject simultaneously with CAPE Unit 1 in the Sixth Form.
+
+* CERTIFICATION AND DEFINITION OF PROFILES
+The syllabus will be examined for certification at the General Proficiency Level.
+In addition to the overall grade, there will be a profile report on the candidate's performance under the following headings:
+(i) Conceptual Knowledge (CK);
+(ii) Algorithmic Knowledge (AK);
+(iii) Reasoning (R).
+
+The assessment will test candidates' skills and abilities in relation to three cognitive levels.
+
+Conceptual knowledge
+-­-
+the ability to recall, select and use appropriate facts, concepts and principles in a variety of contexts.
+Algorithmic knowledge
+-­-
+the ability to manipulate mathematical expressions and procedures using appropriate symbols and language, logical deduction and inferences.
+Reasoning
+-­-
+the ability to select, use and evaluate mathematical models and interpret the results of a mathematical solution in terms of a given real-­-world problem, and to engage problem-­-solving.
+
+* FORMAT OF THE EXAMINATIONS
+The examination will consist of three papers: Paper 01, an objective type paper, Paper 02, an essay or problem-­-solving type paper and Paper 03, the School Based Assessment which will focus on investigation or problem solving related to any area of the syllabus.
+
+
+Paper 01
+(1 hour 30 minutes)
+
+This Paper will consist of 45 multiple-­-choice items, sampling the Core as follows:
+
+
+Section
+Topics
+No. of items
+Total
+1
+Algebraic Operations
+2
+
+
+20
+
+Quadratics
+3
+
+
+Inequalities
+2
+
+
+Functions
+4
+
+
+Surds, Indices and Logarithms
+5
+
+
+Series
+4
+
+2
+Co-­-ordinate Geometry
+3
+
+14
+
+Vectors
+3
+
+
+Trigonometry
+8
+
+3
+Differentiation
+5
+11
+
+Integration
+6
+
+
+Total
+45
+The 45 marks will be weighted to 60 marks
+
+
+Paper 02
+(2 hours 40 minutes)
+
+This Paper will consist of two sections, Section I and Section II.
+
+
+
+Section I: 80 marks
+
+This section will consist of 6 compulsory structured and problem-­-solving type questions based on Sections 1, 2 and 3 of the syllabus: Algebra and Functions; Coordinate Geometry, Vectors and Trigonometry; and Introductory Calculus.
+
+
+
+Section II: 20 marks
+
+This section will consist of 2 structured or problem-­- solving questions based on Section 4 of the syllabus, Basic Mathematical Applications. One question will be set on Data Representation and Probability and the other question will be set on Kinematics.
+Candidates will be required to answer only ONE question from this section Each question will be allocated 20 marks.
+
+
+The marks allocated to the sections are shown below.
+
+
+Sections
+No. of questions
+Marks
+Total
+
+
+CK
+AK
+R
+
+1
+Algebra and Functions
+2
+6
+12
+10
+28
+2
+Coordinate Geometry,
+Vectors and Trigonometry
+2
+6
+10
+8
+24
+3
+Introductory Calculus
+2
+6
+12
+10
+28
+4
+Basic Mathematical
+Applications
+1 of 2
+6
+8
+6
+20
+Total Marks
+24
+42
+34
+100
+
+SCHOOL BASED ASSESSMENT
+
+Paper 03/1
+
+This paper comprises a project requiring candidates to demonstrate the practical application of Mathematics in everyday life. In essence it should allow candidates to probe, describe and explain a mathematical area of interest and communicate the findings using mathematical symbols, language and tools. The topic(s) chosen may be from any section or combination of different sections of the syllabus.
+
+The project may require candidates to collect data, or may be theory based, requiring solution or proof of a chosen problem.
+
+The total marks for Paper 03/1 is 20 and will contribute 20% toward the final assessment. See Guidelines for School Based Assessment on pages 29 - 46.
+
+Paper 03/2 (Alternative to Paper 03/1), examined externally.
+
+This paper is an alternative to Paper 03/1 and is intended for private candidates. This paper comprises one question. The given topic(s) may be from any section or combination of different sections of the syllabus. The duration of the paper is 1 1/2 hours.
+
+WEIGHTING OF PAPER AND PROFILES
+
+The percentage weighting of the examination components and profiles is as follows:
+
+Table 1 - Percentage Weighting of Papers and Profiles
+
+PROFILES
+PAPER 01
+PAPER 02
+PAPER 03
+TOTAL
+%
+Conceptual	(CK)
+12
+(16)
+24
+04
+(08)
+47
+(24%)
+Algorithmic Knowledge (AK)
+24
+(32)
+42
+06
+(12)
+87
+(44%)
+Reasoning (R)
+09
+(12)
+34
+10
+(20)
+66
+(32%)
+TOTAL
+45
+(60)
+100
+20
+(40)
+200
+[%]
+30%
+50%
+20%
+100%
+* REGULATIONS FOR RESIT CANDIDATES
+1. Resit candidates must complete Papers 01 and 02 of the examination for the year for which they re-­-register. Resit candidates who have earned at least 50% of the MODERATED score for the SBA component may elect not to repeat this component, provided they re-­-write the examination no later than the year following their first attempt. The scores for the SBA can be transferred once only, that is, to the examination immediately following that for which they were obtained.
+2. Resit candidates who have obtained less than 50% of the MODERATED scores for the SBA component must repeat the component at any subsequent sitting.
+3. Resit candidates must be entered through a school or other approved educational institution.
+
+* REGULATIONS FOR PRIVATE CANDIDATES
+Candidates who are registered privately will be required to sit Paper 01, Paper 02 and Paper 03/2. Private candidates must be entered through institutions recognized by the Council.
+* MISCELLANEOUS SYMBOLS
+
+=
+
+is equal to
+?
+<
+
+is not equal to
+is less than
+?
+
+is less than or equal to (is not greater than)
+>
+?
+?
+?
+
+is greater than
+is greater than or equal to (is not less than) is identical to
+is approximately equal to
+?
+?
+
+Operations
+is proportional to infinity
+
+
+Functions
+
+?
+f (x)
+
+the set of Real Numbers
+the value of the function f at x
+
+
+the inverse function of the function f
+
+
+the composite function f and g which is defined by
+
+
+the first derivative of y with respect to x
+
+
+the nth derivative of y with respect to x
+
+
+the first, second, ?, nth derivatives of f(x) with respect to x
+ 
+
+the first and second derivatives of x with respect to time
+lg x
+
+the logarithm of x to base 10
+
+
+the indefinite integral of y with respect to x
+
+
+the definite integral of y with respect to x between the limits x = a and
+x = b
+
+Probability and Statistics
+A ? B	union of the events A and B
+A ? B	intersection of the events A and B
+S	the possibility sample space
+P (A)	the probability of the event A occurring
+P (A'?)	the probability of the event A not occurring
+P (A?B)	the conditional probability of the event A occurring given the event B has occurred.
+Vectors
+a, a	the vector a
+
+the vector represented in magnitude and direction by the directed line segment AB
+
+the magnitude of 
+â	a unit vector in the direction of a
+?a?	the magnitude of a
+a.b	the scalar (dot) product of a and b
+i, j	unit  vectors  in  the  direction  of  the  Cartesian  coordinate  axes, x  and  y
+respectively
+xi + yj
+
+
+
+Mechanics
+
+x	displacement
+v, 	velocity
+a,  , 	acceleration
+g	acceleration due to gravity
+
+* LIST OF FORMULAE
+
+Arithmetic Series
+
+
+
+
+
+Geometric Series
+
+,	     or
+	
+
+
+
+Circle:	 
+
+
+Vectors
+
+   where v = xi + yj
+
+
+
+Trigonometry
+
+
+
+Differentiation
+
+
+
+
+
+Statistics
+
+
+
+Probability
+
+
+
+Kinematics
+
+
+* USE OF ELECTRONIC CALCULATORS
+Candidates are expected to have an electronic non-­-programmable calculator and are encouraged to use such a calculator in Paper 02. Candidates will also be allowed to use a calculator in Papers 01 and 03.
+
+Guidelines for the use of electronic calculators are listed below.
+1. Silent, electronic hand-­-held calculators may be used.
+2. Calculators should be battery or solar powered.
+3. Candidates are responsible for ensuring that calculators are in working condition.
+4. Candidates are permitted to bring a set of spare batteries in the examination room.
+5. No compensation will be given to candidates because of faulty calculators.
+6. No help or advice is permitted on the use or repair of calculators during the examination.
+7. Sharing calculators is not permitted in the examination room.
+8. Instruction manuals, and external storage media (for example, card, tape, disk, smartcard or plug-­-in modules) are not permitted in the examination room.
+9. Calculators with graphical display, data bank, dictionary or language translation are not allowed.
+10. Calculators that have the capability of communication with any agency in or outside of the examination room are prohibited.
+
+* SECTION 1 : ALGEBRA AND FUNCTIONS
+
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+
+1. be confident in the manipulation of algebraic expressions and the solutions of equations and inequalities;
+
+2. understand the difference between a sequence and a series;
+
+3. distinguish between convergence and divergence of arithmetic and geometric series;
+
+4. understand the concept of a function;
+
+5. develop the ability to use concepts to model and solve real-­-world problems.
+
+
+SPECIFIC OBJECTIVES	CONTENT
+A. Algebra
+
+Students should be able to:
+
+
+1. perform operations of addition, subtraction, multiplication and division of polynomial and rational expressions;
+
+Addition, subtraction, multiplication, division and factorization of algebraic expressions.
+
+
+
+2. factorize polynomial expressions, of degree less than or equal to 4, leading to real linear factors;
+
+Division of a polynomial of degree less than or equal to 4 by a linear or quadratic polynomial.
+
+
+3. apply the Remainder Theorem;	Remainder Theorem.
+
+
+4. use the Factor Theorem to find factors and to evaluate unknown coefficients.
+
+Factor Theorem.
+
+
+B. Quadratics
+
+Students should be able to:
+
+
+1. express the quadratic function
+ in the form
+
+Quadratic equations in one unknown.
+
+
+
+Students should be able to:
+
+                 , where h and k are constants to be determined.
+2. determine maximum or minimum values and range of quadratic functions by completion of the square;
+
+
+
+Completing the square.
+
+
+
+3. sketch the graph of the quadratic function, including maximum or minimum points;
+
+Graphs of quadratic functions.
+
+
+4. determine the nature of the roots of a quadratic equation;
+
+5. solve equations in x reducible to a quadratic equation, for example,
+& and
+  ;
+
+
+6. use the relationship between the sums and products of the roots and the coefficients of ax2 + bx + c = 0;
+
+Applications of sums and products of the roots of quadratic equations.
+
+
+
+7. solve two simultaneous equations in 2 unknowns in which one equation is linear and the other equation is quadratic.
+
+Solution of equations (one linear and one quadratic).
+
+
+C. Inequalities
+
+Students should be able to:
+
+
+1. find the solution sets of quadratic inequalities using algebraic and graphical methods;
+
+Quadratic inequalities in one unknown.
+
+
+2. find the solution sets of inequalities	Rational inequalities with linear factors.
+
+
+of the form 	using
+algebraic and graphical methods.
+
+D. Functions
+Students should be able to:
+
+1. use terms related to functions;	Arrow diagrams. Function, domain, co-­-domain,
+range, open interval, half open interval, closed interval, one-­-to-­-one function, onto function, one-­-to-­-one correspondence, inverse and composition of functions;
+
+
+2. determine the range of a function given its domain;
+3. determine whether a given function is many-­-to-­-one or one-­-to-­-one;
+4. determine the inverse of a given function, (if it exists);
+5. plot and sketch functions and their inverses, (if they exist);
+6. state the geometrical relationship between the function y = f(x) and its inverse  ;
+
+Rational and polynomial functions up to degree less than or equal to 3.
+Graphical methods and horizontal line test. Formal proof not required.
+
+
+
+Exclude rational functions.
+
+
+f -­-1 (x) as the reflection of f (x) in the line
+y = x.
+
+
+
+7. find the composition of two functions;
+8. recognize that, if g is the inverse of f, then f [g(x)] = x, for all x, in the domain of g.
+E. Surds, Indices, and Logarithms
+
+Students should be able to:
+
+1. perform operations involving surds;
+
+
+
+
+
+
+
+
+
+
+
+
+Addition,	subtraction,	multiplication	and rationalization of denominators of surds.
+
+
+
+Students should be able to:
+2. use the laws of indices to solve exponential equations with one unknown;
+
+3. use the fact that loga b = c  ac = b where a is any positive whole number;
+4. simplify expressions by using the laws:
+
+(i)  (PQ) =  P +  Q;
+
+(ii)	=  P -  Q;
+
+(iii)	= b  P;
+(iv)     ;
+(v)	   ;
+
+
+Equations reducible to linear and quadratic forms.
+
+
+
+The relationship between indices and logarithms.
+
+
+Laws of logarithms.
+
+
+5. solve logarithmic equations;	Example,
+
+   .
+
+6. use logarithms to solve equations of the form ax = b;
+
+
+7. apply logarithms to problems involving the transformation of a given relationship to linear form.
+
+Linear Reduction.
+
+
+F. Sequences and Series
+
+Students should be able to:
+
+1. define a sequence of terms {an} where n is a positive integer;
+
+2. write a specific term from the formula for the nth term of a sequence;
+
+3. use the summation	notation;
+
+
+4. define a series, as the sum of the terms of a sequence;
+
+Series as the sum of the terms of a sequence.
+
+
+5. identify arithmetic and geometric series;
+
+
+
+
+Students should be able to:
+6. obtain expressions for the general terms and sums of finite arithmetic and finite and infinite geometric series;
+7. show that all arithmetic series (except for zero common difference) are divergent, and that geometric series are convergent only if
+-­-1 < r < 1, where r is the common ratio;
+8. calculate the sum of arithmetic series to a given number of terms;
+9. calculate the sum of geometric series to a given number of terms;
+10. find the sum of a convergent geometric series.
+
+
+
+The sums of finite arithmetic, and finite and infinite geometric series.
+
+
+Suggested Teaching and Learning Activities
+
+To facilitate students' attainment of the objectives of this Section, teachers are advised to engage students in the teaching and learning activities listed below.
+Number Systems
+
+Teachers should do a brief review of the Number Systems before starting Algebra and Functions.
+
+Functions (one-­-to-­-one, onto, one-­-to-­-one correspondence) - Inverse Function
+
+Students should explore the mapping properties of quadratic functions which:
+
+(i) will, or will not, be one-­-to-­-one, depending on which subset of the real line is chosen as the domain;
+(ii) will be onto, if the range is taken as the co-­-domain (completion of the square is useful here);
+
+
+(iii) if both one-­-to-­-one and onto, will have an inverse function which can be obtained by solving a quadratic equation.
+
+Example:	Use the function f : A ? B given by  , where the domain A is alternatively the whole of the real line, or the set
+{x?R ?x ? ? 1}, and the co-­-domain B is R or the set {y?R ?y ? 2}.
+
+Series
+
+Teachers should apply the concepts of the arithmetic and geometric series to solve real-­-world problems such as investments.
+
+* SECTION	2:	COORDINATE	GEOMETRY,	VECTORS	AND
+TRIGONOMETRY
+
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+1. develop the ability to represent and deal with points in the coordinate plane through the use of geometry and vectors;
+
+2. develop the ability to manipulate and describe the behaviour of trigonometric functions;
+
+3. develop skills to solve trigonometric equations;
+
+4. develop skills to prove simple trigonometric identities;
+
+5. develop the ability to use concepts to model and solve real-­-world problems.
+
+SPECIFIC OBJECTIVES	CONTENT
+A. Coordinate Geometry
+Students should be able to:
+1. find the equation of a straight line;	The gradient of a line segment.
+
+
+2. determine whether lines are parallel or mutually perpendicular using the gradients;
+
+Relationships between the gradients of parallel and mutually perpendicular lines.
+
+
+3. find the point of intersection of two lines;
+
+4. write the equation of a circle;	The equation of the circle in the forms
+
+
+where a, b, f, g, c, r ? ?.
+
+5. find the centre and radius of a given circle;
+
+
+6. find	equations	of	tangents	and normals at given points on circles;
+
+Tangents and normals to the circle.
+
+
+7. find the points of intersection of a curve with a straight line.
+
+
+SPECIFIC OBJECTIVES	CONTENT
+B. Vectors
+Students should be able to:
+
+1. express a vector in the form   or
+xi + yj; x, y ? ?;
+
+Two-­-dimensional vectors and their geometric representations.
+
+
+2. define equal vectors;	Equality of vectors.
+
+3. add and subtract vectors;
+
+4. multiply a vector by a scalar quantity;
+
+5. derive and use unit vectors;	Unit vectors.
+
+6. find displacement vectors;	Position and displacement vectors.
+
+7. find the magnitude and direction of a vector;
+8. define the scalar product of	two vectors:
+
+(i) in terms of their components;
+
+(ii) in terms of their magnitudes and the angle between them;
+9. find the angle between two given vectors;
+10. apply	properties	of	parallel	and perpendicular vectors.
+C. Trigonometry
+
+Modulus and direction of a vector. Scalar (dot) product of 2 vectors.
+
+
+
+
+
+
+
+
+Problems involving parallel and perpendicular vectors.
+
+(All angles will be assumed to be measured in radians unless otherwise stated)
+1. define the radian;
+2. convert	degrees	to	radians	and radians to degrees;
+
+3. use the formulae for arc length l = rq
+and sector area A = 1/2 r2q;
+
+Applications of arc length and sector area.
+
+
+SPECIFIC OBJECTIVES	CONTENT
+Students should be able to:
+
+
+4. evaluate sine, cosine and tangent for angles of any size given either in degrees or radians;
+
+5. evaluate the exact values of sine, cosine and tangent for
+q = 0,   ,  ,   ,  , , , 2?;
+
+6. graph the functions sin kx, cos kx, tan kx, where k is 1 or 2 and
+    ;
+
+
+
+
+
+
+Include related angles such as
+
+
+7. derive the identity  ;
+
+
+8. use the formulae for sin (A ± B),
+cos (A ± B) and tan (A ± B);
+
+Compound-­-angle formulae.
+
+
+
+9. derive the multiple angle identities for sin 2x, cos 2x, tan 2x;
+
+Double-­-angle formulae.
+
+
+10. use Specific Objectives 7, 8 and 9 above to prove simple identities;
+
+
+11. find solutions of simple trigonometric equations for a given range, including those involving the use of cos2 q + sin2 q ? 1.
+
+Solution of simple trigonometric equations including graphical interpretation but excluding general solution.
+
+
+
+Suggested Teaching and Learning Activities
+
+To facilitate students' attainment of the objectives of this Section, teachers are advised to engage students in the teaching and learning activities listed below.
+
+Trigonometric Identities
+
+Teachers should derive the trigonometric identities and formulae where appropriate.	However, students are not expected to know the proofs of the following trigonometric formulae:
+
+sin (A ± B), cos (A ± B), tan (A ± B).
+
+Students should recognise that  .
+
+Students should use the equilateral and the isosceles right angled triangle to derive the exact values of
+
+
+Students should also derive the trigonometric functions sin x and cos x for angles x of any value (including negative values), using the coordinates of points on the unit circle.
+
+Students should be made aware of the relationships between the unit circle and its quadrants and the related angles (principal and secondary solutions).
+
+* SECTION 3:  INTRODUCTORY CALCULUS
+
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+
+1. understand the relationships between the derivative of a function at a point and the behaviour of the function and its tangent at that point;
+
+2. be confident in differentiating and integrating given functions;
+
+3. understand the relationship between integration and differentiation;
+
+4. know how to calculate areas and volumes using integration;
+
+5. develop the ability to use concepts to model and solve real-­-world problems.
+
+
+SPECIFIC OBJECTIVES	CONTENT
+A. Differentiation
+
+Students should be able to:
+
+
+1. use the concept of the derivative at a point x = c as the gradient of the tangent to the graph at x = c;
+
+The gradient of a curve.
+
+
+
+2. define the derivative at a point as a limit;
+
+The derivative as a limit (intuitive approach).
+
+
+
+3. use the  and	notation for the first derivative of f (x);
+
+4. use	xn =   where n is any real number;
+
+
+
+
+
+The derivative of xn.
+
+
+
+5. use	sin x = cos x
+
+and	cos x = -­- sin x;
+
+The derivatives of sin x and cos x.
+
+
+SPECIFIC OBJECTIVES	CONTENT
+Students should be able to:
+
+6. use simple rules of derivatives to find derivatives of sums and multiples of functions;
+
+
+
+
+
+
+7. use Specific Objectives 4, 5 and 6 above to calculate derivatives of
+polynomials	and	trigonometric functions;
+8. apply	the	chain	rule	in	the differentiation of composite functions;
+9. differentiate products and quotients of simple polynomials and trigonometric functions;
+10. use the concept of the derivative as a rate of change;
+
+Simple rules of derivatives:
+
+(i)     where c is
+a constant
+
+(ii) f (x) ? g (x) =	f (x) ?	g(x)
+
+Differentiation of simple polynomials and trigonometric functions involving sine and cosine only.
+
+Function of a function, the chain rule. Product and quotient rules.
+
+11. use the concept of stationary points;	Stationary points.
+
+
+12. determine the nature of stationary points;
+13. locate stationary points, maxima and minima, by considering sign changes of the derivative;
+
+
+
+
+Point(s) of inflexion not included.
+
+14. calculate the second derivative, f ''(x);	Second derivatives of functions.
+15. interpret the significance of the sign of the second derivative;
+16. use the sign of the second derivative to determine the nature of stationary points;
+17. obtain equations of tangents and normals to curves.
+
+
+SPECIFIC OBJECTIVES	CONTENT
+B. Integration
+
+
+Students should be able to:
+1. recognize integration as the reverse process of differentiation;
+
+
+Anti-­-derivatives.
+
+2. use the notation   ;	Indefinite integrals (concept and use).
+3. show that the indefinite integral represents a family of functions which differ by constants;
+4. use simple rules of integration;	Rules of Integration.
+
+(i)    ,
+where c is a constant;
+
+(ii)	 .
+
+
+5. integrate functions of the form  where a, b, n are real and n  -­-1;
+
+Integration of polynomials.
+
+
+6. find indefinite integrals using formulae and integration theorems;
+
+7. integrate simple trigonometric functions;	Integration of a sin x ? b cos x, where a and
+b are constants.
+
+8. compute definite integrals;	The definite integral:
+
+
+= F (b) -­- F (a), where F (x) is an
+
+indefinite integral of f (x).
+9. formulate the equation of a curve given its gradient function and a point on the curve;
+10. apply integration to:
+
+(i) find the area of the region in  the first quadrant bounded by a curve and the lines parallel to the y-­-axis;
+
+
+SPECIFIC OBJECTIVES	CONTENT
+Students should be able to:
+
+
+(ii) find volumes of revolution about the x-­-axis, for polynomials up to and including degree 2.
+
+The region of the curve to be rotated must be in the first quadrant only.
+
+
+Suggested Teaching and Learning Activities
+
+To facilitate students' attainment of the objectives of this Section, teachers are advised to engage students in the teaching and learning activities listed below.
+
+Differentiation
+
+Teachers should introduce the derivative as a limit but take only an intuitive approach at this stage using diagrams and not first principles.
+A graphical explanation of  would suffice.
+Teachers should explain the concept of increasing and decreasing functions, but it will not be tested. Curve sketching using the differential calculus is not required.
+The Area under the Graph of a Continuous Function
+
+Class discussion should play a major role in dealing with this topic. Activities such as that which follows may be performed to motivate the discussion.
+
+Example of classroom activity:
+Consider a triangle of area equal to  unit2, bounded by the graphs of y = x, y = 0 and x = 1.
+
+(i) Sketch the graphs and identify the triangular region enclosed.
+
+(ii) Subdivide the interval [0, 1] into n equal subintervals.
+
+(iii) Evaluate the sum, s(n), of the areas of the inscribed rectangles and S(n), of the circumscribed rectangles, erected on each subinterval.
+
+(iv) By using different values of n, for example n = 5, 10, 15, 20, show that both s(n) and S(n) get closer to the area of the given region.
+
+* SECTION 4:  BASIC MATHEMATICAL APPLICATIONS
+
+GENERAL OBJECTIVES
+On completion of this Section, students should:
+
+1. appreciate that data can be represented both graphically and numerically to initiate analysis;
+
+2. understand the concept of probability;
+
+3. appreciate that probability models can be used to describe real world situations;
+
+4. apply mathematical models to the motion of a particle.
+
+SPECIFIC OBJECTIVES	CONTENT
+A. Data Representation and Analysis
+
+Students should be able to:
+
+1. distinguish between types of data;	Qualitative and quantitative data, discrete and
+continuous data.
+
+
+2. represent numerical data diagrammatically;
+
+Stem-­-and-­-leaf	diagrams	and	box-­-and-­-whisker plots.
+
+
+3. outline the relative advantages and disadvantages of stem-­-and-­-leaf diagrams and box-­-and-­-whisker plots in data analyses;
+
+4. interpret stem-­-and-­-leaf diagrams and box-­-and-­-whiskers plots;
+
+
+5. determine quartiles and percentiles from raw data, grouped data, stem-­-and-­-leaf diagrams, box-­-and-­-whisker plots;
+
+Percentiles.
+
+
+
+6. calculate measures of central tendency and dispersion;
+
+Mode, mean, median, range, interquartile range, semi-­-inter-­-quartile range, variance and standard deviation of ungrouped and grouped data;
+
+
+7. explain how the standard deviation measures the spread of a set of data.
+
+SPECIFIC OBJECTIVES	CONTENT
+B. Probability Theory
+Students should be able to:
+
+
+1. distinguish among the terms experiment, outcome, sample space and event;
+2. calculate the probability of event A, P(A), as the number of outcomes of A divided by the total number of possible outcomes, when all outcomes are equally likely and the sample space is finite;
+3. use the basic laws of probability:
+
+(i) the sum of the probabilities of all the outcomes in a sample space is equal to one;
+
+(ii) 0 £ P (A) £ 1 for any event A;
+
+(iii) P (A') = 1 - P (A), where P (A') is the probability that event A does not occur;
+
+4. use P (A È B) = P(A) + P(B) -­- P(A Ç B) to
+calculate probabilities;
+
+Concept of probability.
+
+Classical probability.
+
+Relative	frequency	as	an	estimate	of probability.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The addition rule.
+
+
+
+5. identify mutually exclusive events A and B
+such that P (A Ç B) = 0;
+
+Mutually exclusive events.
+
+
+
+6. calculate the conditional probability P(A|B) where P(A|B) =	;
+
+Conditional probability.
+
+
+7. identify independent events;	Independent events.
+
+
+8. use the property P(A Ç B)= P (A)  P (B) or P(A|B) = P(A) where A and B are independent events;
+9. construct and use possibility space diagrams, tree diagrams and Venn diagrams to solve problems involving probability.
+
+
+
+
+
+Possibility space diagrams, tree diagrams and Venn diagrams.
+
+
+SPECIFIC OBJECTIVES	CONTENT
+C. Kinematics of Motion along a straight line
+
+Students should be able to:
+
+
+1. distinguish	between	distance	and displacement, and speed and velocity;
+
+Scalar and vector quantities.
+
+
+
+2. draw and use displacement-­-time and velocity-­-time graphs;
+
+Displacement-­-time	graphs	and	velocity-­-time graphs.
+
+
+
+3. calculate and use displacement, velocity, acceleration and time in simple equations representing the motion of a particle in a straight line;
+
+Displacement, velocity and acceleration.
+
+
+
+4. apply where appropriate the following rates of change:
+
+Variable motion of a particle.
+
+
+ ;
+
+where  represent displacement, velocity and acceleration respectively (restricted to calculus from Section 3).
+
+Suggested Teaching and Learning Activities
+
+To facilitate students' attainment of the objectives of this Section, teachers are advised to engage students in the teaching and learning activities listed below. Whenever possible, class discussions and presentations should be encouraged.
+
+Probability
+
+Consider the three scenarios given below.
+
+1. Throw two dice. Find the probability that the sum of the dots on the uppermost faces of the dice is 6.
+
+2. An insurance salesman visits a household. What is the probability that he will be successful in selling a policy?
+
+3. A hurricane is situated 500 km east of Barbados.  What is the probability that it will hit the island?
+
+
+These three scenarios are very different for the calculation of probability. In '1', the probability is calculated as the number of successful outcomes divided by the total possible number of outcomes. In this classical approach, the probability assignments are based on equally likely outcomes and the entire sample space is known from the start.
+
+The situation in '2' is no longer as well determined as in '1'. It is necessary to obtain historical data for the salesman in question and estimate the required probability by dividing the number of successful sales by the total number of households visited. This frequency approach still relies on the existence of data and its applications are more realistic than those of the classical methodology.
+
+For '3' it is very unclear that a probability can be assigned. Historical data is most likely unavailable or insufficient for the frequency approach. The statistician might have to revert to informed educated guesses. This is quite permissible and reflects the analyst's prior opinion. This approach lends itself to a Bayesian methodology.
+
+One should note that the rules of probability theory remain the same regardless of the method used to estimate the probability of events.
+
+
+KINEMATICS
+
+Definitions
+
+Displacement is the position of a point relative to a fixed origin O. It is a vector. The SI Unit is the metre
+(m). Other metric units are centimeter (cm), kilometer (km).
+
+Velocity is the rate of change of displacement with respect to time. It is a vector. The SI Unit is metre per second (ms -1). Other metric units are cms -1, kmh-1.
+
+Speed is the magnitude of the velocity and is a scalar quantity.
+
+Uniform velocity is the constant speed in a fixed direction.
+
+Average velocity = change in displacement
+time taken
+
+
+Average speed = total distance travelled
+time taken
+
+Acceleration is the rate of change of velocity with respect to time. It is a vector. The SI Unit is metre per second square (ms-2). Other metric units are cms -2, kmh -2.
+
+Negative acceleration is also referred to as retardation.
+
+Uniform acceleration is the constant acceleration in a fixed direction.
+
+Motion in one dimension - When a particle moves in one dimension, that is, along a straight line, it has only two possible directions in which to move. Positive and negative signs are used to identify the two directions.
+
+
+Vertical motion under gravity - this is a special case of uniform acceleration in a straight line. The body is thrown vertically upward, or falling freely downward. This uniform acceleration is due to gravity and acts vertically downwards towards the centre of the earth. It is denoted by g and may be approximated by 9.8 ms -2.
+
+GRAPHS IN KINEMATICS
+
+A displacement-­-time graph for a body moving in a straight line shows its displacement x from a fixed point on the line plotted against time, t. The velocity v of the body at time, t is given by the gradient of
+the graph since  .
+
+The displacement-­-time graph for a body moving with constant velocity is a straight line. The velocity, v
+of the body is given by the gradient of the line.
+
+The displacement-­-time graph for a body moving with variable velocity is a curve.
+The velocity at any time, t may be estimated from the gradient of the tangent to the curve at that time. The average velocity between two times may be estimated from the gradient of the chord joining them.
+
+Velocity-­-time graph for a body moving in a straight line shows its velocity v plotted against time, t. The acceleration, a of a body at time, t is given by the gradient of the graph at t, since   .
+
+The displacement in a time interval is given by the area under the velocity-­-time graph for that time interval.
+
+The velocity-­-time graph for a body moving with uniform acceleration is a straight line. The acceleration of the body is given by the gradient of the line.
+
+* GUIDELINES FOR THE SCHOOL BASED ASSESSMENT
+RATIONALE
+
+School Based Assessment is an integral part of student assessment in the course covered by this syllabus. It is intended to assist students in acquiring certain knowledge, skills and attitudes that are associated with the subject. The activities for the School Based Assessment are linked to the syllabus and should form part of the learning activities to enable the student to achieve the objectives of the syllabus.
+
+During the course of study for the subject, students obtain marks for the competence they develop and demonstrate in undertaking their School Based Assessment assignments. These marks contribute to the final marks and grades that are awarded to students for their performance in the examination.
+
+The guidelines provided in this syllabus for selecting appropriate tasks are intended to assist teachers and students in selecting assignments that are valid for the purpose of School Based Assessment. The guidelines provided for the assessment of these assignments are intended to assist teachers in awarding marks that are reliable estimates of the achievement of students in the School Based Assessment component of the course. In order to ensure that the scores awarded by teachers are in line with the CXC standards, the Council undertakes the moderation of a sample of the School Based Assessment assignments marked by each teacher.
+
+School Based Assessment provides an opportunity to individualise a part of the curriculum to meet the needs of students. It facilitates feedback to the student at various stages of the experience. This helps to build the self-­-confidence of students as they proceed with their studies. School Based Assessment also facilitates the development of the critical skills and abilities that are emphasised by this CSEC subject and enhances the validity of the examination on which candidate performance is reported. School Based Assessment, therefore, makes a significant and unique contribution to the development of relevant skills and the testing and rewarding of students for the development of those skills.
+
+The Caribbean Examinations Council seeks to ensure that the School Based Assessment scores are valid and reliable estimates of accomplishment. The guidelines provided in this syllabus are intended to assist in doing so.
+
+Assignment
+
+The School Based Assessment consists of one project to be marked by the teacher in accordance with CXC guidelines.
+
+There are two types of project.
+
+Project A is based on applying mathematical concepts, skills and procedures from any topic (s) in order to understand, describe or explain a real world phenomenon. The project is theory based and no data collection is required.
+
+Project B is based on applying mathematical concepts, skills and procedures from any topic (s) in order to understand, describe or explain a real world phenomenon. The project is experiment based and involves the collection of data.
+
+Candidates should complete one project, either Project A or Project B. Role of the Teacher
+The role of teacher is to:
+
+(i) Suggest the project for the School Based Assessment.
+
+(ii) provide guidance throughout the life of the projects. The teacher should work with candidates to develop a project management chart with definite time lines for achieving clearly identified objectives, from project inception to project completion.
+
+(iii) guide the candidate through the SBA by helping to clarify the problem or by discussing possible approaches to solving the problem. Teachers, while giving guidance, should guard against providing a complete solution to the problem for the candidate or prescribing a specific format that should be followed.
+
+(iv) ensure that the project is developed as a continuous exercise that occurs during scheduled class hours as well as outside class times.
+
+(v) at a time to be determined by the teacher the relevant component will be assessed and the marks recorded. Hardcopies of the completed documents should be kept by both the teacher and student. The teacher should use the mark scheme provided by CXC and include any comments pertinent to the conduct of the assessment.
+
+* ASSESSMENT CRITRERIA
+Candidates should complete one project, either Project A or Project B. Project A
+The following are the guidelines for assessing this project.
+
+1. Each candidate pursuing Additional Mathematics can complete a project which will be based on applying the mathematical concepts, skills and procedures from any topic (s) contained in any of the sections or their combinations in order to understand, describe or explain a real world phenomenon.
+
+The project will be presented in the form of a report and will have the following parts.
+
+(i) A statement of the problem
+
+A real world problem in Mathematics chosen from any subject or discipline such as Science, Business or the Arts. The student must solve the problem using Specific Objectives completed in the course. This solution will involve either a proof or direct application of the concepts. (Data collection is not usually required for this project. Any necessary data should be given in the problem statement.)
+
+(ii) Identification of important elements of the problem.
+
+(iii) Mathematical Formulation of the problem.
+
+(iv) Selection of a method to solve the problem. This should involve use of Specific Objectives.
+
+(v) Solution of the resulting mathematical problem.
+
+(vi) Interpretation of the solution in related real world context.
+
+(vii) Conclusions reached.
+
+2. The project will be graded out of a total of 20 marks.
+
+(i) Clarity of the title of the real world problem being studied.
+
+(ii) Scope/purpose of the problem.
+
+(iii) Mathematical formulation of the problem.
+
+(iv) The problem solution including explanation at each step.
+
+(v) Applications of the solution or proof to the given real world problem.
+
+(vi) Discussion of findings and conclusion statement (this should include suggestions for further analysis of the topic).
+
+(vii) Presentation (including an optional oral question and answer time with the teacher).
+
+
+Assessing Project A
+
+The project will be graded out a total of 20 marks and marks will be allocated to each task as outlined below.
+
+Project Descriptors
+
+1.	Project Title
+
+* Title is clear and concise, and relates to real world problem
+(1)
+[1 ]
+2.	Purpose of Project/Problem Statement
+
+
+* Purpose is clearly stated and is appropriate in level of difficulty
+
+3.	Mathematical Formulation
+(1)
+[1 ]
+* Identifies all the important elements of the problem and shows complete
+(1)
+[4]
+understanding of the relationships among elements
+* Shows complete understanding of the problem's mathematical concepts and principles
+* Uses appropriate mathematical terminology and notations to model the problem mathematically
+
+
+(1)
+
+(1)
+
+* Uses appropriate Mathematical model/methods chosen
+(1)
+
+4.	The Problem Solution
+
+
+* Assumptions are clearly stated
+(1)
+[7]
+* Proofs are well established
+(1)
+
+* Diagrams are appropriate and clearly labelled
+(1)
+
+* Explanations are sufficient and clearly expressed
+(1)
+
+* Theorems are appropriate and Formulae are relevant to the solution
+(1)
+
+* Calculations are precise without errors
+(1)
+
+* Solution is clearly stated
+(1)
+
+5.	Application of Solution
+
+
+* Applies the solution or proof to the given real world problem
+(1)
+[2]
+* Shows that solution of proof to given problem is valid
+(1)
+
+6.	Discussion of Findings/Conclusion
+
+
+* Discussion is worthwhile
+(1)
+
+* Conclusion is valid and useful
+(1)
+[3]
+* Suggestions for future analysis in related areas are incorporated.
+(1)
+
+7.	Overall Presentation
+
+
+* Presentation is clear and communicates information in a logical way using correct
+(2)
+[2]
+grammar, mathematical jargon and symbols.
+* Communicates information in a logical way using correct grammar, mathematical jargon and symbols some of the time.
+
+
+(1)
+
+Total 20 marks
+
+PROJECT A - ­ - EXEMPLAR
+
+Title: Use of a Parabolic Reflector in Making a Torch Light.
+
+Problem: A physicist wants to make an instrument that will reflect rays of light from a minute light source in a vertical beam parallel to the axis of symmetry as shown in Figure 1.
+
+
+Figure 1: Physicist's Instrument
+
+Two crucial decisions he must make concern:
+
+(i) The shape of the reflector to be used.
+
+(ii) The position of the light source.
+
+A. Explain why the physicist should use a parabolic reflector with equation  	and position his light source at the Focus (0, p).
+
+B. If the physicist uses the parabolic reflector, as shown in Figure 2, how far from the vertex should the light source be placed on the y axis to produce a beam of parallel rays?
+
+
+Figure 2: Parabolic Reflector
+
+(Assume that when light is reflected from a point P, the angle ? between an incoming ray and the tangent line at P equals the angle ß between the outgoing ray and the tangent line at P.)
+
+Mathematical Formulation:
+
+A	1.	Show that if we have the distance FP is equal to PD then the equation of the curve
+
+is  	(see Figure 3).
+
+Figure 3
+
+
+2. Show that the tangent line at P0 intersects the y axis at Q (0, -­-y0)
+
+
+Figure 4
+
+3. Prove that the triangle whose vertices are Q, F, P0 is isosceles.
+
+4. Show that ? ? ? in Figure 4.
+
+5. Deduce that the physicist should use a parabolic reflector with equation  	and position his light source at the Focus (0, p). for his instrument to work.
+6. Apply to the specific example given in Figure 2.
+
+
+
+Solution of Problem
+
+A. To show that the physicist should use a parabolic reflector with equation  	and position his light source at the focus, F (0, p).
+
+1. Show that if for any point P(x, y) on the curve, the distance FP is equal to PD, then the equation of the curve is  	where F is the point (0, p).
+
+
+
+Show that  	if FP = PD
+PROOF
+
+FP= 
+
+PD =
+
+
+
+ = 
+
+x2 + (y - p)2 = (y + p)2 (squaring both sides)
+
+ x2 + y2 + p2 -­-2yp = y2 + p2 + 2yp  x2 = 4yp,  y =
+
+       The tangent line to the curve, y =	, at the point P0 is shown in Figure 4. Show that the tangent line at P0 intersects the y-­-axis at Q (0, -­-y0) .
+
+
+Figure 4
+
+The tangent line at P0 intersects the y-­-axis at Q(0, -­-y0)
+
+PROOF
+
+We find the equation of the tangent at P0:
+
+
+
+
+ = slope of tangent.
+
+Since (x0, y0) is a point on the parabola 
+
+The equation of the tangent line through (x0,	) is therefore:
+
+y -­-  =  (i)
+
+To find where this line intersects the y-­-axis we substitute x = 0 into (i)
+
+
+2. Show that the triangle whose vertices are Q, F, P0 is isosceles.
+
+To show that ? Q, F, P0 is an isosceles triangle, we show that FQ = FP0
+
+PROOF
+
+FQ=  =  = p + yo
+
+FP0 =  = 
+
+F Po = 2
+= 
+=  =  = + p
+
+
+FQ = FP0 and ? QFPo is isosceles
+3. Show that that ? ? ?.
+
+
+Figure 5
+Since the base angles of an isosceles ? are equal F Po = FPoQ = a.
+But a and ß are corresponding angles since the line through Po is parallel to the
+y-­-axis, therefore, a = ß.
+
+
+4. Show that the physicist should use a parabolic reflector with equation  	and position his light source at the focus, F (0, p).
+
+
+Figure 6
+
+The physicist knows that for any ray from F striking the reflector at P, a = ß
+(assumption: angle of incidence equals angle of reflection).
+
+But from part earlier we know that for the parabola when a = ß, the line l will be parallel to the axis of symmetry if F is (0, p).
+
+Therefore all rays from the minute light source at F that are incident on the parabola will be reflected in a direction parallel to the y axis.
+
+Solution to Part A
+
+Thus the physicist should use a parabolic reflector  	with light source at focus, F, to produce a beam of parallel rays.
+Application of the Solution
+
+B. How far from the vertex should the light source be placed on the y-­-axis to produce a beam of parallel rays?
+
+For the given parabola y = 1 when x = 1/2 Since y =	,
+
+
+1 =
+
+4p =1/4,
+
+p =
+
+The light source should be placed	units from the vertex in order to produce a beam of parallel rays.
+Discussion of Findings
+
+To make an instrument that would reflect a minute light source in a vertical beam parallel to the axis of the symmetry, we have shown that if the physicist uses a parabolic reflector with equation  	and
+positions his light source at the focus, F(0, p) then his instrument will work and rays of light will be reflected in a vertical beam.
+
+
+Figure 1
+
+For example if parabolic reflection has the dimensions given in Figure 2, he should position his light source at	units from the vertex of the parabola. This is useful in making torch lights.
+
+Conclusion and Suggestions
+
+By understanding the optical properties of a parabola the physicist will know where to position his light source.
+
+It would also be interesting to investigate the optical properties of other curves such as the ellipse, circle and hyperbola to see how their properties can be used to help construct instrutment such as reflecting headlights, telescopes and microscopes.
+
+Project B
+
+The following are guidelines for assessing this project.
+
+1. Each candidate pursuing Additional Mathematics can complete a project which will be based on applying the mathematical concepts, skills and procedures from any topic(s) in order to understand, describe or explain a real world phenomenon. This project is experiment based and involves the collection of data.
+
+The project will be presented in the form of a report and will have the following parts:
+
+(i) A statement of the problem. A real world problem in Mathematics chosen from any subject or discipline such as Science, Business or the Arts. The student must solve the problem using Specific Objectives completed in the course. This solution will involve data collection required for this project.
+
+(ii) Identification of important elements of the problem.
+
+(iii) Formulation of a systematic strategy for representing the problem
+
+(iv) Data collection appropriate for solving the problem.
+
+(v) An analysis of the data, information and measurements.
+
+(vi) Solution of the resulting mathematical problem.
+
+(vii) Conclusions reached.
+
+2. The project will be graded out of a total of 20 marks:
+
+(i) Clarity of the title of the real world problem being studied.
+
+(ii) Scope/purpose of the problem.
+
+(iii) Method of data collection.
+
+(iv) Presentation of data.
+
+(v) Mathematical knowledge/analysis of data.
+
+(vi) Discussion of findings/conclusions.
+
+(vii) Presentation.
+
+ASSESSING PROJECT B
+
+The project will be graded out a total of 20 marks and marks will be allocated to each task as outlined below.
+
+Project Descriptors
+
+1.	Project Title
+
+[1 ]
+* Titled is clear and concise, and relates to real world problem
+(1)
+
+2.	Purpose of Project
+
+[2 ]
+* Purpose is clearly stated and is appropriate in level of difficulty
+(1)
+
+* Appropriate variables identified
+(1)
+
+3.	Method of Data Collection
+
+[2 ]
+* Data collection method clearly described
+(1)
+
+* Data collection method is appropriate and without flaws
+(1)
+
+4.	Presentation of Data
+
+[3]
+* At least one table and one graph/chart used
+(1)
+
+* Data clearly written, labelled, unambiguous and systematic
+(1)
+
+* Graphs, figures, tables and statistical/mathematical symbols used
+appropriately
+(1)
+
+5.	Mathematical Knowledge/Analysis of Data
+
+[5]
+* Appropriate use of mathematical concepts demonstrated
+(1)
+
+* Accurate use of mathematical concepts demonstrated
+(1)
+
+* Some analysis attempted
+(1)
+
+* Analysis is coherent
+(1)
+
+* Analysis used a variety (two or more) of approaches
+(1)
+
+6.	Discussion of Findings/Conclusion
+
+[5]
+* Statement of most findings are clearly identified
+(1)
+
+* Statement follows from data gathered/solution of problem
+(1)
+
+* Conclusion based on findings and related to purposes of project
+(1)
+
+* Conclusion is valid
+(1)
+
+* Suggestions for future analysis in related areas
+(1)
+
+7.	Overall Presentation
+
+[2]
+* Communicates information in a logical way using correct grammar,
+(2)
+
+mathematical jargon and symbols most of the time
+* Communicates information in a logical way using correct grammar, mathematical jargon and symbols some of the time
+
+
+(1)
+
+Total 20 marks
+
+
+PROJECT B - EXEMPLAR
+
+Title
+
+Simple experiments to determine the fairness of an ordinary game die.
+
+Statement of Task
+
+Classical probability states that the probability of any of the 6 faces of an ordinary cubical game die landing with a distinct face uppermost after being thrown is	It is not unusual for one throwing an
+ordinary gaming die to observe that one particular face lands uppermost with more frequency than any of the other faces.
+
+Is this sufficient reason for one to conclude that the die may be biased? It may be by chance that this phenomenon occurs, or, perhaps the manner in which the die is thrown has an effect on its outcome. An experiment of this nature may be affected by factors that vary because of the non-­-uniform manner in which it is conducted.
+
+This project aims to carry out some simple experiments to determine whether or not some varying factors of the manner in throwing the die do in fact influence the outcomes.
+Data Collection
+
+An ordinary 6-­-face gaming die was chosen for this experiment. 120 throws were made for each experiment, using each of the following methods:
+
+(i) holding the die in the palm of the hand and shaking it around a few times before throwing it onto a varnished table top;
+
+(ii) placing the die in a Styrofoam drinking cup, shaking it around a few times before throwing it onto a varnished table top;
+
+(iii) placing the die in a smooth metal drinking cup, shaking it around a few times before throwing it onto a varnished table top;
+
+(iv) holding the die in the palm of the hand and shaking it around a few times before throwing it onto a linen covered table top;
+
+(v) placing the die in a Styrofoam drinking cup, shaking it around a few times before throwing it onto a linen covered table top;
+
+(vi) placing the die in a smooth metal drinking cup, shaking it around a few times before throwing it onto a linen covered table top;
+
+After each experiment the frequencies of the numbers landing uppermost were recorded in tabular form.
+
+In each of these experiments the number of times the die was shaken before throwing was not predetermined, nor was any other deliberate consideration applied in the subsequent throws. Every effort was taken to avoid bias in each of the experiments.
+
+The following table shows the results of the experiments carried out.
+
+# on face
+1
+2
+3
+4
+5
+6
+Frequencies - Exp (i)
+16
+14
+27
+15
+25
+23
+Frequencies - Exp (ii)
+17
+20
+19
+23
+16
+25
+Frequencies - Exp (iii)
+18
+25
+20
+19
+25
+13
+Frequencies - Exp (iv)
+16
+21
+20
+29
+13
+21
+Frequencies - Exp (v)
+13
+20
+27
+18
+19
+23
+Frequencies - Exp (vi)
+14
+24
+17
+24
+25
+16
+Total frequencies
+94
+124
+130
+128
+123
+121
+
+Presentation of Data
+
+The following comparative bar chart illustrates the variations of frequencies for obtaining the numbers 1 through 6 on the uppermost face for experiments (i) and (ii).
+
+
+Graphs to illustrate experiments (iii), (iv), (v) and (vi) may be shown as well.
+
+The following line graph illustrates the variations among the frequencies for face 1.
+
+
+Graphs for each of faces 2, 3, 4, 5, and 6 may be shown.
+
+Mathematical Knowledge/Analysis of Data
+
+Choosing to use the different methods for carrying out these experiments, as described in Data Collection, took into account that different conditions of the throws of the die may have significant influences in the outcomes of these throws. The size of the cups chosen may have a particular influence on these outcomes. The inside surface of the two types of cups chosen are also factors that may influence these outcomes. The number of times the die is tossed around in the palm of the hand and/or the number of times it is tossed around in the cups may influence these outcomes. The different coverings of the surface of the table top may also influence these outcomes.
+
+In the absence of more in-­-depth and elaborate statistical techniques, these simple experiments were intended to give some idea of the theory of classical probability. The limiting relative frequency of an event over a long series of trials is the conceptual foundation of the frequency interpretation of probability. In this framework, it is assumed that as the length of the series increases without bound, the fraction of the experiments in which we observe the event will stabilize.
+
+120 throws under each of the conditions selected should allow for simple comparison of the observed and theoretical frequencies.
+
+Using the principle of relative probability, the following table shows the probability distribution for Experiment (i) and the theoretical probability of obtaining any of the faces numbered 1, 2, 3, 4, 5, 6 landing uppermost.
+
+# on face
+1
+2
+3
+4
+5
+6
+Relative probability
+
+= 0.13
+
+= 0.12
+
+= 0.23
+
+= 0.13
+
+= 0.21
+
+= 0.19
+Theoretical probability
+
+= 0.17
+
+= 0.17
+
+= 0.17
+
+= 0.17
+
+= 0.17
+
+= 0.17
+Comparisons of the differences of the observed and theoretical frequencies for 120 throws of the die under the conditions described should be considered as sufficient for an explanation of any significant variation in determining whether the die was biased in favour of any particular face. Barring any significant variation among the relative frequencies, it may be reasoned that the die is not biased.
+
+The relative probabilities can also be calculated for Experiments (ii) through (vi)
+
+Furthermore we can combine the results of all six experiments to arrive at an overall probability for each face as shown in the table below:
+
+# on face
+1
+2
+3
+4
+5
+6
+Relative frequency
+= 0.13
+= 0.17
+= 0.18
+= 0.18
+= 0.17
+= 0.17
+The above table clearly shows that the relative frequency of each face is close to the true probability (0.17) when the number of trials (720) is large. This is strong evidence to claim that the die is unbiased even though there were differences among the observed frequencies for the six experiments.
+
+Further analysis must be taken in light of any limitations that the project may have. Considering the mean and standard deviation of each of these experiments, account may be taken of the size of the variations of the observed and theoretical values. This aspect may explain any significant variation from the expected mean and variance of these outcomes
+
+The standard deviations for the frequencies of faces 1 through 6 for Experiments (i), (ii), (iii), (iv), (v) and
+(vi) are 1.67, 1.71, 1.62, 1.63, 1.63 and 1.60 respectively.
+
+Except for Face #2 and to a lesser extent (Face #1), the variances among the outcomes do not appear to suggest significant differences in the results.
+
+Conclusions
+
+These experiments can be considered simplistic but reasonably effective for the purpose of determining bias in an ordinary gaming die. The number of throws, 120, may be considered sufficient for obtaining relative frequencies and relative probability for the experiments. Increasing the number of throws should result in observed frequencies very close to the theoretical frequencies.
+
+Further statistical analyses can explain variations between the observed and theoretical results. These experiments may be refined by using other methods of throwing the die. Results can be compared for similarity among these results and for a reasonable conclusion about fairness of the die.
+
+Procedures for Reporting and Submitting School Based Assessment
+
+(i) Teachers are required to record the mark awarded to each candidate under the appropriate profile dimension on the mark sheet provided by CXC. The completed mark sheets should be submitted to CXC no later than April 30 of the year of the examination.
+
+Note:  The school is advised to keep a copy of the project for each candidate as well as copies of the mark sheets.
+
+(ii) Teachers will be required to submit to CXC copies of the projects of a sample of candidates as indicated by CXC. This sample will be re-­-marked by CXC for moderation purposes.
+
+Moderation of School Based Assessment
+
+The candidate's performance on the project will be moderated. The standard and range of marks awarded by the teacher will be adjusted where appropriate. However, the rank order assigned by the teacher will be adjusted only in special circumstances and then only after consideration of the data provided by the sample of marked projects submitted by the teacher and re-­-marked by CXC.
+
+
+* RESOURCES
+The following is a list of books and other printed material that might be used for Additional Mathematics. The list is by no means exhaustive. Each student should have access to at least one text.
+
+
+Talbert, J. F. And Heng, H. H.	Additional Mathematics - Pure and Applied, Singapore:
+Longman Publishers, 1991.
+
+Website:
+http://www.saskschools.ca/curr_content/physics30kindy n/  for kinematics
+
+* GLOSSARY
+KEY TO ABBREVIATIONS
+
+K -­- Knowledge
+C -­- Comprehension R -­- Reasoning
+
+
+WORD	DEFINITION	NOTES
+
+analyse	examine in detail
+
+annotate	add a brief note to a label	Simple phrase or a few words
+only.
+
+
+apply	use knowledge/principles to solve problems
+
+Make inferences/conclusions.
+
+
+
+assess	present reasons for the importance of particular structures, relationships or processes
+
+Compare the advantages and disadvantages or the merits and demerits of a particular structure, relationship or process.
+
+
+
+calculate	arrive at the solution to a numerical problem
+
+Steps should be shown; units must be included.
+
+
+classify
+divide into groups according to observable characteristics
+
+comment
+state opinion or view with supporting reasons
+
+compare
+state similarities and differences
+An	explanation	of	the
+significance of each similarity and difference stated may be required for comparisons which are other than structural.
+
+
+construct	use a specific format to make and/or draw a graph, histogram, pie chart or other representation using data or material provided or drawn from practical investigations, build (for example, a model), draw scale diagram
+
+Such representations should normally bear a title, appropriate headings and legend.
+
+
+
+deduce	make a logical connection between two or more pieces of information; use data to arrive at a conclusion
+
+
+define	state concisely the meaning of a word or term
+
+This should include the defining equation/formula where relevant.
+
+
+demonstrate	show; direct attention to...
+
+
+derive	to deduce, determine or extract from data by a set of logical steps some relationship, formula or result
+
+This	relationship	may	be general or specific.
+
+
+
+describe	provide detailed factual information of the appearance or arrangement of a specific structure or a sequence of a specific process
+
+Description may be in words, drawings or diagrams or any appropriate	combination. Drawings or diagrams should be annotated to show appropriate detail where necessary.
+
+
+determine	find the value of a physical quantity
+
+
+design	plan and present with appropriate practical detail
+
+Where hypotheses are stated or when tests are to be conducted, possible outcomes should be clearly stated and/or the way in which data will be analyzed and presented.
+
+
+develop	expand or elaborate an idea or argument with supporting reasons
+
+diagram	simplified representation showing the relationship between components
+
+
+differentiate/distinguish (between/among)
+
+state or explain briefly those differences between or among items which can be used to define the items or place them into separate categories
+
+
+discuss	present reasoned argument; consider points both for and against; explain the
+
+
+relative merits of a case
+
+
+draw	make a line representation from specimens or apparatus which shows an accurate relation between the parts
+
+In the case of drawings from specimens, the magnification must always be stated.
+
+
+estimate	make an approximate quantitative judgement
+
+
+
+evaluate	weigh evidence and make judgements based on given criteria
+
+
+
+
+
+explain	give reasons based on recall; account for
+find	locate a feature or obtain as from a graph
+formulate	devise a hypothesis
+
+identify	name or point out specific components or features
+illustrate	show clearly by using appropriate examples or diagrams, sketches
+interpret	explain the meaning of
+
+investigate	use simple systematic procedures to observe, record data and draw logical conclusions
+justify	explain the correctness of
+label	add names to identify structures or parts indicated by pointers
+list	itemize without detail
+
+measure	take accurate quantitative readings using appropriate instruments
+
+The use of logical supporting reasons for a particular point of view is more important than the view held; usually both sides of an argument should be considered.
+
+
+name	give only the name of	No additional information is required.
+
+
+note	write down observations
+
+observe	pay attention to details which characterize a specimen, reaction or change taking place; to examine and note scientifically
+outline	give basic steps only
+
+plan	prepare to conduct an investigation
+predict	use information provided to arrive at a likely conclusion or suggest a possible outcome
+
+record	write an accurate description of the full range of observations made during a given procedure
+
+
+
+Observations may involve all the senses and/or extensions of them but would normally exclude the sense of taste.
+
+
+
+
+
+
+
+
+
+This includes the values for any variable being investigated; where appropriate, recorded data may be depicted in graphs, histograms or tables.
+
+
+relate	show connections between; explain how one set of facts or data depend on others or are determined by them
+
+sketch	make a simple freehand diagram showing relevant proportions and any important details
+
+state	provide factual information in concise terms outlining explanations
+
+
+suggest	offer an explanation deduced from information provided or previous knowledge. (... a hypothesis; provide a generalization which offers a likely explanation for a set of data or observations.)
+
+No correct or incorrect solution is presumed but suggestions	must	be acceptable within the limits of scientific knowledge.
+
+
+
+use	apply knowledge/principles to solve problems
+
+Make inferences/conclusions.
+
+Western Zone Office 3 May 2010
+
+
+
+CARIBBEAN EXAMINATIONS COUNCIL
+
+Caribbean Advanced Proficiency Examination CAPE?
+
+
+
+
+
+ADDITIONAL MATHEMATICS
+Specimen Papers and Mark Schemes/Keys
+
+Specimen Papers:	-	Unit 1, Paper 01
+(Mark Scheme included) Unit 1, Paper 02
+Unit 1, Paper 03/2
+
+
+Mark Schemes and Keys:	-	Unit 1, Paper 02 Unit 1, Paper 03/2
+
+
+
+TEST CODE 01254010/SPEC
+
+
+C A R I B B E A N	E X A M I N A T I O N S	C O U N C I L
+
+SECONDARY EDUCATION CERTIFICATE EXAMINATION
+
+ADDITIONAL MATHEMATICS SPECIMEN PAPER
+Paper 01 - General Proficiency
+
+90 minutes
+
+
+READ THE FOLLOWING INSTRUCTIONS CAREFULLY.
+1. This paper consists of 45 items. You will have 90 minutes to answer them.
+
+2. In addition to this test booklet, you should have an answer sheet.
+3. Each item in this test has four suggested answers, lettered (A), (B), (C) and (D). Read each item you are about to answer and decide which choice is best.
+
+4. On your answer sheet, find the number which corresponds to your item and shade the space having the same letter as the answer you have chosen. Look at the sample item below.
+
+
+Sample Item
+
+Evaluate (4-2)2 (?16)2
+
+
+
+
+Sample Answer
+
+(A)
+(B)
+(C)
+(D)
+
+4?2
+4?1
+40
+42
+
+
+A	B	D
+
+
+The best answer to this item is "	", so answer space (C) has been shaded.
+
+5. If you want to change your answer, erase it completely before you fill in your new choice.
+6. When you are told to begin, turn the page and work as quickly and as carefully as you can. If you cannot answer an item, omit it and go on to the one. You can return later to the item omitted. You score will be the number of correct answers produced.
+7. You may do any rough work in the booklet.
+
+8. You may use a silent non-programmable calculator to answer questions.
+
+
+
+01254010/SPEC
+
+
+
+1. Given that f (x) = x3 ? 2x2 ? 5x ? k , and that x - 2 is a factor of f (x) then k is equal to
+(A) -6
+(B) -2
+(C) 	2
+(D) 	6
+
+2. a (b + c) - b(a + c) is equal to
+
+(A) a (c - b)
+(B) a (b - c)
+(C) c (a - b)
+(D) c (b - a)
+6. 
+The first four terms of a convergent GP is given by 81, 27, 9, 3. The sum to infinity of this GP is
+(A) 	54
+(B) 	120.5
+(C) 	121.5
+(D) 	243
+7. Given that 2 ? 4x ? 1 ? 162x , the value of
+x is
+(A) -1
+(B) 	1
+4
+
+3. The value of
+
+??3r ? 1? is
+r ? 1
+
+
+(C) 1
+3
+1
+
+
+2
+
+
+
+
+
+4. A teacher illustrates AP's by cutting a length of string into 10 pieces so that the lengths of the pieces are in arithmetic progression and the entire length of the string is used up exactly. If the first piece measures 30 cm and the fourth piece measures 24 cm, the total length of the string is
+8. 
+?
+
+(A)
+
+(B)
+
+(C)
+
+is equal to
+
+
+2n ? 2 m
+
+2n ? mn
+
+2m ? 1
+
+(A) 60 cm
+(B) 210 cm
+(C) 240 cm
+
+
+
+(D) 2  n
+
+(D)	390 cm
+
+5. The first term of a GP is 16 and the fifth term is 81. Given that the common ratio is positive, the value of the 4th term is
+(A) 	81
+16
+9. 
+Given that log2
+the value of x is
+
+(A) ? 2
+3
+
+(B)
+
+x ? log2 (6x ? 1) ? 1 ,
+
+
+
+(B) 24
+
+(C) 54
+
+(D) 64
+(C) 
+	2
+3
+(D) 	3
+2
+
+
+
+10. The value of
+
+14.	For ? 2 ? x ? 2 , the maximum value of
+
+log
+
+?8?- log
+
+?2? + log
+
+?  1 ? is
+
+4 ? ?x ? 1?2 , and the value of x for
+
+4	4	4 ? 16 ?
+
+?	?
+(A) -1
+(B) 	1
+2
+(C) 	3
+
+which 4 ? ?x ? 1?2 is maximum are respectively
+(A) 5 and 1
+(B) 2 and -1
+(C) 4 and -1
+(D) 4 and 1
+
+
+
+(D)	4
+
+
+11. The expression is equal to
+(A) -1
+(B) 	1
+(C)  3 ? 2 2
+
+
+
+
+
+when simplified
+
+
+15.
+
+
+f (x) ? x (x ? 5) ? 6 . Given that f (x) is one-to-one for x ? k, the value of k is
+(A) ? 5
+2
+(B) ? 2
+5
+(C) 	2
+5
+(D) 	5
+
+(D) ? 2	2
+
+12. f (x) = ? 5 ? 8x ? 2x2 . By completing
+16. 
+If a function f is defined by
+
+the square f (x) can be expressed as
+
+f : x ?
+
+x ? 3 , x ? 1, then f ?1 ?? 4? is
+x ? 1
+
+(A)
+(B) ?
+
+2?x ? 2?2 ? 4
+4 ? 2?x ? 2?2
+
+equal to
+
+(A) -1
+
+1
+
+(C) ?
+
+3 ? 2?x ? 2?2
+(B) 
+
+5
+
+
+(D)
+
+3 ? 2?x ? 2?2
+(C) 
+1
+
+(D) 5
+
+13. The roots of the equation 2x2 - x + 1 = 0 are
+(A) real and equal
+(B) real and distinct
+
+
+17. A function g is defined by g : x ? 3x - 1. Expressed in terms of a, g (3a - 1) is
+
+
+
+18. Functions f and g are defined by
+f : x ? 3x ? 2 and
+12
+21. 
+The coordinates of the points A and B are (2, -3) and (-10, -5) respectively. The perpendicular bisector to the line AB is
+
+g : x ?
+x
+
+? 4,
+
+x ? 0 .
+
+given by the equation
+(A) x - 6y + 20 = 0
+
+The composite function fg is defined by
+(B) 6x + y + 28 = 0
+
+(A)
+
+fg : x ? 36 ? 4,
+x
+12
+
+x ? 0
+
+
+(C) x + 6y - 20 = 0
+
+(D) 6x + y - 28 = 0
+
+(B)
+
+fg : x ?
+
+? 12,
+x
+
+x ? 0
+
+
+
+
+(C) ?
+
+
+(D) ?
+
+fg : x ? 12 ? 6,
+x
+fg : x ? 36 ? 14,
+x
+
+x ? 0
+
+
+x ? 0
+22. 
+The lines 2y - 3x - 13 = 0 and
+y + x + 1= 0 intersect at the point P, where the coordinates of P are
+(A) (3, 2)
+(B) (3, -2)
+(C) (-3, -2)
+
+19. The range of values for which
+2x2 ? 5x ? 3 is
+(D) 
+(-3, 2)
+
+
+23. The radius, r, and the coordinates of the
+
+(A)
+
+
+(B)
+
+? 1 < x < 3
+2
+1 < x < 3
+
+centre, C, of the circle with equation
+x2 ? y2 ? 6x ? 4 y ?12 ? 0 are
+
+(A) r = 5, C (-2, 3),
+
+
+
+
+
+2
+
+
+
+
+2
+
+20. The values of x which satisfy the
+24. 
+If the length of the vector p =2i - kj is and k is real, then
+
+inequality
+
+2x ? 3 ? 0 are
+x ? 1
+I. 
+k = 3
+II. k = -3
+III. k =
+
+(A)
+
+(B)
+
+(C)
+(D)
+
+x ? ?1and
+x ? 3
+2
+x ? ?1 or
+x ? ?1
+
+x ? 3
+2
+
+
+x ? 3
+2
+IV. 
+k = ?
+
+(A) I or II only
+(B) I or III only
+(C) I or IV only
+(D) II or IV only
+
+
+
+25. The value of the real number t for which the two vectors a = 4i + tj and b =2i - 3j are parallel is
+
+(A) -6
+
+(B) ? 3
+4
+(C) 	4
+3
+(D) 	6
+26. The position vectors of A and B relative
+? 2 ?	? 7 ?
+to an origin O are	and
+28. 
+cos (A - B) - cos (A + B) ?
+(A) 2 sin A sin B
+(B) -2 sin A cos B
+(C) 2 cos A sin B
+(D) 2 cos A cos B
+
+
+29. If sin ? = 15 and ? is obtuse, then cos ?
+17
+is equal to
+
+(A) ? 8
+15
+(B) ? 8
+17
+
+? ?	? ?
+3	4
+? ?	? ?
+
+respectively. The acute angle AOB is given by
+
+B.	8
+15
+
+(A)
+
+cos?1 ?
+
+2  ?
+
+(D)	8
+17
+
+?1 ?
+
+26  ?
+30. 
+The smallest positive angle for which the
+
+(B)
+(C)
+
+cos
+cos?1
+
+?	?
+? 13 ? 65 ?
+
+?	?
+
+equation sin ? + cos ? = 0 is
+(A) ?
+4
+(B) 3?
+
+(D)
+
+cos
+
+?1 ?
+?
+
+26	?
+13	65 ?
+
+4
+
+(C) 5? 4
+
+27. The trigonometrical expression
+
+1 ? sin x
+cos x
+* 
+  cos x  is identical to
+1 ? sin x
+(D) 
+7? 4
+
+
+
+(A) 1
+
+2
+31. 
+For 0 ? ? ? 2? , solutions for the equation 4 sin2 ? ? 1 ? 0 exist in
+
+(B)
+
+
+(C)
+
+
+
+cos x
+1 ? sin x ? cos x
+
+
+cos x ?1 ? sin x?
+
+quadrants
+
+(A) 1, 2 and 3
+(B) 1, 3 and 4
+(C) 2, 3 and 4
+(D) 1, 2, 3 and 4
+
+(D)	2
+cos x 1 ? sin x?
+
+
+
+
+32. ?
+
+2 sin? x ? ? ? is equal to
+
+
+36. Given that
+
+y ?  3x ? 5 , then dy ?
+
+?	?	2x ? 11	dx
+
+
+(A) 2 sin x - 2
+
+(B) - 2 cos x
+
+
+(A)
+
+?3x ? 5?(2) ? (2x ? 11)(3) (2x ? 11)2
+
+?	? ?
+
+?2x ? 11?(3) ? (3x ? 5)(2)
+(B)
+
+(C) 2 cos ? x ? 2 ?
+
+(2x ? 11)2
+
+?	?
+(D) 2 sin x - ?
+
+
+?2x ? 11?(3) ? (3x ? 5)(2)
+(C)	(2x ? 11)2
+?3x ? 5?(2) ? (2x ? 11)(3)
+
+33. For which of the following ranges of values is f (x) = 2 + cos 3x valid?
+
+(D)
+
+(2x ? 11)2
+
+
+
+(A)
+(B)
+
+1 ? f (x) ? 3
+?1 ? f (x) ? 1
+
+
+37. The curve C is given by the equation y =
+
+(C) ? 2 ? f (x) ? 2
+(D) 0 ? f (x) ? 2
+
+3 sin x + 2. The value of dy
+dx
+?
+
+at the point
+
+
+34. For 0 ? x ? 2? , the values of x which satisfy the equation
+2 cos2 x ? 3 sin x ? 0 are
+
+x ? ? , x ? 5?
+
+where x ?	is
+3
+(A)	1
+2
+(B)	3
+
+(A)
+
+6	6
+?	5?
+
+2
+(C)	7
+
+(B)
+
+x ? ?  , x ? ?	2
+6	6
+
+(C)
+
+x ? 7?
+6
+
+, x ?
+
+11?
+6
+
+(C)	3
+
+(D)	x ?
+
+35. Given that y = ?3x ? 2?3, then dy =
+dx
+
+(A)
+(B)
+
+y ? 2 ? 3(x ? 2)
+y ? 2 ? ? 3(x ? 2)
+
+(A) 3(3x - 2)2
+?	?2
+
+(C)
+
+y ? 2 ? 1 (x ? 2)
+
+(B) 3 3x	3
+
+(C) 3(3x - 2)3
+(D) 9(3x - 2)2
+
+(D)
+
+y ? 2 ?
+
+?1 (x ? 2)
+3
+
+
+
+39. The curve C is given by the equation
+y ? 4x ? 9 . The second derivative,
+x
+
+Item 42 refers to the figure below.
+
+d2 y
+dx2 , is given by
+
+
+
+(A)
+
+
+(B)
+
+
+C.
+
+
+(D)
+
+4 ? 9
+x3
+
+
+18
+
+
+x 3
+
+4 ? 9
+x3
+
+
+? 9 2x3
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+42.	The finite region R is bounded by the y- axis, the x-axis, and the arc of the curve y ? (x ? 3)2 as shown in the figure above. The area of R in square units is
+
+40. The positive value of z for which
+z
+? x2 dx = 9 is
+0
+(A) 	3
+(B) 4.5
+(C) 	9
+(D) 	27
+41. The gradient of the tangent to a curve C at
+(A) 
+1
+
+(B) 3
+
+(C) 9
+(D) 27
+
+(x, y) is given by
+
+dy ?
+dx
+
+1
+?3x ? 4?2
+
+. The
+
+curve passes through the point
+P ??1, 2 ? . The equation of the curve C
+?	?
+?	?
+is given by
+
+
+(A)
+
+y ? ?
+
+? ? 1
+
+
+
+
+(B)
+
+? 6
+y ? ?	?3
+
+
+
+
+(C)
+
+? 2
+y ?	?
+
+? ? 4
+
+
+
+
+(D)
+
+?1
+y ?	?
+
+? ? 1
+
+
+
+Item 43 refers to the figure below.
+
+44.
+
+? ?2x ? 3?5 dx ?
+
+(A) ?1 ?2x ? 3?6 ? ? C
+
+??6	??
+(B) ? 1 ?2x ? 3?6 ? ? C
+?? 2	??
+(C) ? 1 ?2x ? 3?6 ? ? C
+
+43.	The	finite		region	enclosed	by	the curve y ?	x , x ? 0, the x-axis and the
+
+??12	??
+
+line x = 3, as shown in the figure above, is rotated completely about the x-axis. The volume of the solid of revolution formed is given by
+
+(D)
+
+?1 ?2x ? 3?6 ? ? C
+?3	?
+
+
+
+3
+(A)	?	dx
+0
+
+
+45.	Given
+
+dy ? 3 sin x ? 2 cos x, the
+dx
+
+
+
+(B)
+
+
+
+(C)
+
+
+3
+? ? x dx
+0
+
+3
+? ?	dx
+0
+
+indefinite integral is given by
+
+(A) y = 3 cos x - 2 sin x + C
+
+(B) y = -3 cos x + 2 sin x + C
+(C) y = -3 cos x - 2 sin x + C
+
+(D) y = 3 cos x + 2 sin x + C
+
+
+
+
+(D)
+
+3
+? ? x2 dx
+0
+
+
+
+
+END OF TEST
+
+
+CSEC ADDITIONAL MATHEMATICS SPECIMEN PAPER 01
+
+Item
+Key
+ Specific Objective
+1
+A
+1A4
+2
+C
+1A1
+3
+B
+1F4
+4
+B
+1F9
+5
+C
+1F7
+6
+C
+1F11
+7
+D
+1E3
+8
+D
+1E2
+9
+B
+1E6
+10
+A
+1E5
+11
+D
+1E1
+12
+C
+1B1
+13
+D
+1B4
+14
+C
+1B2
+15
+A
+1D3
+16
+B
+1D4
+17
+D
+1D7
+18
+D
+1D7
+19
+A
+1C1
+20
+C
+1C2
+21
+B
+2A2
+22
+D
+2A3
+23
+D
+2A5
+24
+A
+2B7
+25
+A
+2B10
+26
+D
+2B9
+27
+B
+2C10
+28
+A
+2C10
+29
+B
+2C4
+30
+B
+2C11
+31
+D
+2C11
+32
+B
+2C8
+33
+A
+2C6
+34
+C
+2C11
+35
+D
+3A8
+36
+C
+3A8
+37
+B
+3A5
+38
+C
+3A17
+39
+B
+3A14
+40
+A
+3B8
+41
+D
+3B9
+42
+C
+3B10(i)
+43
+B
+3B10(ii)
+44
+C
+3B5
+45
+C
+3B7
+
+TEST CODE 01254020/SPEC
+
+FORM TP 2011037/SPEC
+C A R I B B E A N	E X A M I N A T I O N S	C O U N C I L
+
+SECONDARY EDUCATION CERTIFICATE EXAMINATION
+
+ADDITIONAL MATHEMATICS SPECIMEN PAPER
+Paper 02 - General Proficiency
+
+2 hours and 40 minutes
+
+
+
+
+Required Examination Materials
+Electronic calculator (non programmable) Geometry Set
+Mathematical Tables (provided) Graph paper (provided)
+
+SECTION 1
+
+Answer BOTH questions.
+
+All working must be clearly shown.
+
+1. (a)	A function ƒ : R R is defined on domain R and co-domain R, where R is the set of real numbers, by the rule
+ƒ(x) = x2
+
+(i) State with reason, whether ƒ is many-to-one or one-to-one.
+[1 mark]
+(ii) If instead, the domain of ƒ is the set of non-negative real numbers,
+
+
+a) Determine a function g such that
+
+g ? ƒ (x)?= x
+
+for all values of x in this domain.	[1 mark]
+
+b) On the same pair of axes, sketch the graphs of ƒ and g.	[2 mark]
+
+(b) Use the remainder theorem, or otherwise, to find the reminder when
+x3 - 2x2 + 4x - 21 is divided by x - 3.
+[2 marks]
+(c) A student collects laboratory data for two quantities q and p
+as shown in Table 1.
+
+Table 1
+
+q
+1
+2
+3
+4
+p
+0.50
+0.63
+0.72
+0.80
+The student reasons a relationship of the form p = aqn
+
+
+(i) Use logarithms to reduce this relation to a linear form.
+(ii) Using the graph paper provided and a scale of 1 cm to represent
+
+
+[2 marks]
+
+0.1 units on the horizontal axis and a scale of 2 cm to represent 0.1 units on the vertical axis, plot a suitable straight line graph and hence estimate the constants a and n.
+[6 marks]
+Total 14 marks
+
+
+
+2. (a)	Let f(x) = 3x2 ? 12x ? 18 .
+
+(i) Express f(x) in the form a(x + b)2 + c.	[3 marks]
+
+(ii) State the minimum value of f(x).	[1 mark]
+
+(iii) Determine the value of x for which f(x) is a minimum.	[1 mark]
+
+
+(b) Find the set of values of x for which 2x2 + 2 > 5x .	[4 marks]
+
+
+
+(c) Given the series
+
+1 ? 1 ? 1
+2	24	27
+
+?	1
+210
+
+? ...
+
+(i) show that this series is geometric,	[3 marks]
+(ii) hence, find the sum to infinity of this series.		[2 marks] Total 14 marks
+
+
+SECTION 2
+
+Answer BOTH Questions
+
+
+3. (i)	Write the equation of the circle C, with centre (-1, 2) and radius units.
+
+
+
+[1 mark]
+
+(ii)	Find the equation of the tangent to the circle C at the point P(2,4).
+[4 marks]
+(b) The position vector of two points, A and B, relative to a fixed origin O, are 3ti + 2tj and 4i -2tj respectively, where t > 0.
+
+Find the value of t such that OA and OB are perpendicular.
+[4 marks]
+(c) The points L and M referred to a fixed origin O are represented by the vectors l =7i - 2j and
+m = 4ti + 2j respectively, as shown in the diagram below.
+
+
+
+
+
+
+Find the unit vector in the direction of LM.
+
+
+[3 marks]
+
+
+Total 12 marks
+
+
+4. (a)	The diagram below shows a circle of centre O and radius 6 cm. The sector COD
+
+subtends the angle
+
+5? at the centre.
+6
+
+
+C
+
+
+
+
+
+
+
+
+
+
+
+
+Working in radians, calculate, giving your answers in terms of p,
+
+
+(i) the length of the minor arc CD
+
+(ii) the area of the minor sector OCD
+
+
+[1 mark]
+
+[2 marks]
+
+
+
+(b) (i)	Given that sin ? ?
+4
+
+2 , where x is acute, show that
+2
+
+sin ? x ? ? ? ?	2 ?sin x ? cos x?.
+?	?
+?	?
+[2 marks]
+
+
+(ii)	Using the fact that sin ? ?
+3
+
+3 and cos ?
+2	3
+
+? 1 , find the exact value of
+2
+
+sin
+
+ ?  showing ALL steps in your working.
+12
+
+
+
+[3 marks]
+
+
+
+?	1	?2
+
+sin ? ? 1
+
+(c) Prove the identity ? tan ?
+?
+
+?	?
+cos ? ?
+
+? ?
+sin ?
+
+? 1 .
+
+
+
+[4 marks]
+
+
+Total 12 marks
+
+
+
+
+
+SECTION 3
+
+
+Answer BOTH Questions
+
+5.	(a)
+Differentiate the following with respect to x, simplifying your result as far as possible
+
+
+(5 -2x) (1 + x)4
+[4 marks]
+(b)
+The point P lies on the curve y = x 2. The value of x at P is -2.
+
+Find the equation of the tangent to the curve at P.
+[4 marks]
+
+
+(c)	Find the stationary points on the curve f (x) = 2x3
+distinguish their nature.
+
+? 9x2
+
+? 12x
+
+and
+
+
+
+[6 marks]
+
+Total 14 marks
+
+
+
+
+
+6. (a)	Evaluate
+
+2
+? ?3x ? 1?2
+1
+
+
+dx.
+
+
+[4 marks]
+
+
+
+
+(b) Evaluate
+
+?
+? ?5 sin
+0
+
+
+x ? 3 cos
+
+
+x? dx.
+
+
+[4 marks]
+
+
+
+(c) A curve passes through the point P ? 0,
+?
+
+7 ? and is such that
+?
+
+dy ?
+dx
+
+2 ? x.
+
+
+(i) Find the equation of the curve.	[3 marks]
+
+
+(ii) Find the area of the finite region bounded by the curve, the x-axis,
+
+
+the y-axis and the line x=5.
+
+
+[3 marks]
+
+
+Total 14 marks
+
+
+SECTION 4
+Answer Only ONE Question
+
+
+7. (a)  In a Lower Sixth Form there are 43 students who are studying either Statistics or Physics or both Statistics and Physics. 28 students study Statistics and 19 students study Physics. If a student is selected at random, what is the probability that he/she is studying
+
+(i) both Statistics and Physics,	[3 marks]
+
+(ii) Physics only.	[2 marks]
+
+
+(b) A tetrahedral die has four faces. Two fair tetrahedral dice, one red and one blue, have faces numbered 0, 1, 2, and 3 respectively. The dice are rolled and the numbers face down on the two dice are recorded. R is the score on the red die and B is the score on the blue die.
+
+
+(i) Find P(R = 3 and B = 0).
+
+The random variable T is R multiplied by B.
+
+
+[2 marks]
+
+
+(ii) Complete the diagram below to represent the sample space that shows all the possible values of T
+
+3
+
+
+
+
+2
+
+2
+
+
+1
+0
+
+
+
+0
+
+
+
+
+B	R
+0
+1
+2
+3
+Sample space diagram of T
+[3 marks]
+The table below gives the probability of each possible value of t.
+
+
+t
+0
+1
+2
+3
+4
+6
+9
+P(T = t)
+a
+1
+
+16
+1
+
+8
+b
+c
+
+
+(iii) Find the values of a, b and c.
+[3 marks]
+
+7. (c)	The number of cars parked on a local beachfront on each night in August last year is summarized in the following stem and leaf diagram.
+
+
+
+1
+0 5
+
+2
+1 2 4 8
+
+3
+0 3 3 3 4 7 8 8
+Key:  1
+0 means 10
+4
+1 1 3 5 8 8 8 9 9
+
+
+5
+2 3 6 6 7
+
+
+6
+2 3 4
+
+
+
+(i) Find the median and quartiles for these data.
+[3 marks]
+(ii) Construct a box-and-whisker plot to illustrate these data and comment on the shape of the distribution.
+[4 marks]
+
+Total 20 marks
+
+8. (a)	A car moves along a horizontal straight road, passing two points A and B. The speed of the car at A is 15m s-1. When the driver passes A, he sees a warning sign W ahead of him, 120 m away. He immediately applies the brakes and the car decelerates uniformly, reaching W at a speed of 5 ms-1. At W, the driver sees that the road is clear. He then immediately accelerates the car with uniform acceleration for 16 secs to reach a speed of V ms-1 where V > 15. He then maintains a constant speed of V ms-1 for 22 secs, passing B.
+
+(i) Sketch, on the graph paper provided a velocity-time graph to illustrate the motion of the car as it moves from A to B.
+[3 marks]
+(ii) Find the time taken for the car to move from A to B.
+[3 marks]
+The distance from A to B is 1 km.
+
+(iii) Find the value of V.
+[5 marks]
+
+
+(b) A particle moves in a straight line so that t seconds after passing through a fixed point
+O, its velocity, v m/s is given by
+
+v = 3t2 - 30t + 72.
+
+Calculate the:
+
+(i) values of t when the particle is at instantaneous rest,
+[3 marks]
+
+
+(ii) distance moved by the particle during the interval between the two values of t found in b (i).
+
+
+
+[3 marks]
+
+
+
+(iii) total distance moved by the particle between t = 0 and t =7.
+
+
+[3 marks]
+
+
+Total 20 marks
+
+
+
+
+
+
+
+
+END OF TEST
+
+TEST CODE 01254030/SPEC
+
+FORM TP 2011038/SPEC
+
+C A R I B B E A N	E X A M I N A T I O N S	C O U N C I L 
+HEADQUARTERS
+
+SECONDARY EDUCATION CERTIFICATE EXAMINATION
+
+ADDITIONAL MATHEMATICS PAPER 03/2
+ALTERNATIVE
+90 minutes
+
+
+
+
+Answer the given questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DO NOT TURN THIS PAGE UNTIL YOU ARE TOLD TO DO SO
+
+Copyright (c) 2009 Caribbean Examinations Council All rights reserved
+
+
+
+
+
+A farmer plans to construct an enclosure for his goats making use of one side of a barn that is 200 m in length. He has 800 m of fencing material available and wants to maximize the enclosed area.
+
+The farmer must decide whether to make a rectangular or semicircular enclosure as shown in the diagrams below.
+You are given that the radius of the semi circular enclosure is r, the length of the rectangular enclosure is
+x and the width is y. .
+
+
+
+(i) Formulate the given real world problem mathematically.
+(7 marks)
+(ii) Show that for Option I a square enclosure maximizes the area and determine the MAXIMUM possible area.
+(7 marks)
+
+(iii) Determine the MAXIMUM area of the enclosure in Option II.
+
+(4 marks)
+
+(iv) Make a recommendation to the farmer on the MOST appropriate enclosure, giving a reason.
+
+(2 marks)
+
+
+Total 20 marks
+
+C A R I B B E A N	E X A M I N A T I O N S	C O U N C I L 
+HEADQUARTERS
+
+
+
+SECONDARY EDUCATION CERTIFICATE EXAMINATION
+ADDITIONAL MATHEMATICS PAPER 02
+    SPECIMEN PAPER KEY AND MARK SCHEME
+
+Question 1
+
+(a) (i)	ƒ cannot be 1-1 since for example ƒ (-2) = 4 and ƒ (2) = 4. Two objects can have the same images. Thus ƒ is many-to-one
+(accept any reasonable explanation or horizontal line test)
+
+(ii)
+
+
+a)	If g ? ƒ (x)?= x then g must be the inverse of ƒ. Let y = x2
+where x is a non-negative real number. Then x = 	g(x) = 
+
+or	=
+b)
+
+(x 2 ) = x, for all x	0.
+
+
+
+
+
+(b) Using f (3) = R
+
+f (3) = 33
+
+? 2 (3)2
+
+? 4 (3) ? 21
+
+
+f (3) = 0
+
+
+(c) (i)
+
+p ? aqn
+
+==> log
+
+p ? log a ? n log q
+
+
+(ii)
+Plot log p against log q: First find the table of values
+
+log q
+0
+0.3	0.48	0.6
+log p
+-0.30
+-0.20	-0.14	-0.10
+On the graph paper provided plot the points and draw a straight line through the points
+
+
+The y intercept c = -0.3 = log a
+ a = 10-0.3 = 0.5
+
+The slope of the line is
+
+ n = 0.33
+
+y2 ? y1 x2 ? x1
+
+? m = 0.33 (by measurement)
+
+(graphical measurements of slope may vary slightly above or below this value)
+(Specific Objectives-Sect 1: A3, D3-5, D7, E7-8)
+
+
+Question 2
+
+
+(a) (i)
+
+
+
+
+
+
+
+
+
+(ii)
+(iii) ?
+
+3x2 + 12x - 18
+3 [x2 + 4x] -18
+
+3[(x + 2)2 - 4] -18
+
+3(x + 2)2- 12 - 18
+
+3 (x + 2)2- 30
+Minimum value is y = -30
+Value of x at minimum point is x = -2
+
+
+(b) 2x2 + 2 > 5x 2x2 -5x + 2 > 0
+(2x - 1)(x ? 2) > 0
+x < 1
+2
+
+or x > 2
+(c) (i)	Given the series
+
+
+
+1 ? 1 ? 1
+2	24	27
+
+
+
+?  1
+210
+
+
+
+? ...
+
+S is a geometric series if  =  = r
+i.e. S has a common ratio r.
+
+
+1	1
+r ? 27  ? 24
+	
+1	1
+24	2
+r ? 1 ? 1
+23	8
+
+Question 2 (cont'd)
+(c)	(ii)
+
+
+
+
+
+S? ?
+
+
+
+
+a
+
+
+1 ? r
+
+1
+
+
+
+1
+
+
+?	2
+1 ? 1
+8
+
+
+
+S	?  2 ? 4
+7	7
+8
+
+(Specific Objectives - Sect 1: B1, B2, C1, F6, F11)
+
+
+
+Question 3
+
+(a)	(i)	?x ? 1?2
+
+
+
+? ?y ? 2?2 ? ?
+
+
+
+13?2
+
+
+
+?x ? 1?2
+
+? ?y ? 2?2
+
+? 13
+
+
+(ii)	The gradient, m, of the radius through P (2, 4)
+
+is m =
+
+
+=
+
+4 ? 2
+
+
+2 ? 1
+
+2
+
+
+3
+
+The gradient of the tangent to circle P is ? 3
+2
+The equation of the tangent at P is given by
+
+y ? 4
+
+
+x ? 2
+
+? ? 3
+2
+
+
+2y - 8 = -3x + 6
+
+2y + 3x = 14
+
+
+(b) (3ti + 2tj) . (4i - 2tj) = 0 12t - 4t2 = 0
+4t (3 ? t) = 0
+t = 0 or t = 3
+t = 3, since t > 0
+
+Question 3 (cont'd)
+
+(c) LM =
+
+
+= ? ?
+
+7 ? ? ? 4?
+
+?? 2?	? 2?
+?	?	? ?
+= ?? 3?
+?	?
+?  4 ?
+= -3i + 4j
+
+
+The unit vector in the direction of LM is
+
+
+	1	 ?? 3i ? 4j?
+
+
+=	1 ?? 3i ? 4j? 5
+
+(Specific Objectives-Sect 2: A4, A6, B5, B10)
+
+
+
+
+
+(a) (i)
+
+lCD
+
+? r?
+
+= 6 ? 5? ? 5? cm
+6
+
+
+
+(ii)
+
+Area
+
+
+
+sector COD
+
+? 1 r2?
+2
+
+
+
+= 1 ?6?2 ? 5? ? ? 15?
+
+cm2
+
+2	? 6 ?
+
+
+(b) (i)
+
+sin ? x ?
+?
+
+? ? ? sin x cos ?
+?	4
+* 
+cos x sin ?
+4
+
+
+
+=	2 sin x ?
+2
+
+2 cos x
+2
+
+
+=	2 ?sin x ? cos x?
+2
+
+
+(ii)
+
+? ? ?
+
+? ?	? ?
+
+sin ? 12 ? = sin ? 3 ? 4 ?
+?	?	?	?
+
+=	2 ?sin ? ? cos ? ?
+2  ?	3	?
+
+=	?	3 ? ?
+2  ? 2	2 ?
+
+
+=   2 ?
+4
+
+3 ? 1?
+
+
+
+(cont'd)
+
+4	(c)
+
+
+
+? sin ?
+
+
+
+1	?2
+
+LHS ?
+
+?
+? cos ?
+
+?	?
+cos ? ?
+
+
+? sin ? ? 1?2
+? ?	cos ?	?
+
+? ?sin ? ? 1?2
+
+1 ? sin2 ?
+
+?	?sin ? ? 1?2
+
+?1 ? sin ? ? ?1 ? sin ? ?
+? ? sin ? ? 1
+sin ? ? 1
+
+(Specific objectives-Sect 2: C3, C5, C8, C10)
+
+
+
+
+
+(a)
+
+d ?5 ? 2x??1 ?
+dx
+
+x?4
+
+? ?1 ?
+
+x?4 d dx
+
+?5 ? 2x? ? ?5 ? 2x? d
+dx
+
+?1 ?
+
+x?4
+
+= ?1 ? x?4 ?? 2? ? ?5 ? 2x??4 ?1 ? x?3 ?1??
+= 2 ?1 ? x?3 ?? 1 ? x ? 10 ? 4x ?
+
+
+
+
+
+(b)
+
+
+
+
+dy ? 2 x dx
+
+= 2 ?1 ?
+
+x?3 ? 9 ? 5x ?
+
+
+
+? dy ?
+? dx ?
+
+? ? 4
+
+?	?(?2, 4)
+
+
+tangent p :
+
+y ? 4 ? ? 4 (x ? 2)
+
+4x + y + 4 = 0
+
+
+(c)
+
+ d ?2x3
+dx
+
+
+* 9x2
+* 
+12x? ? 6x2
+
+
+* 18x ? 12
+
+
+
+6x2
+
+?18x ? 12 ? 0 ==> ?x ? 1??x ? 2? ? 0
+
+
+x = 1, y = 5	x = 2, y = 4
+
+
+d2 y dx2
+
+? 12x ? 18
+
+
+
+?  2  ?
+?	?  ? 0
+dx2
+
+
+(1, 5) is a maximum
+
+?	?1
+
+
+?  2  ?
+?	?	? 0
+dx2
+
+
+(2, 4) is a minimum
+
+?	?2
+(Specific objectives: Sect 3: A4, A7-9, A11-17)
+
+
+
+(a)	?	?2	? 2	?
+
+? 3x ? 1
+1
+
+dx ? ? 9x
+1
+
+6x ? 1 dx
+
+
+
+= ?3x3
+
+= 13
+
+
+* 3x2
+* 
+x?2
+
+? ?24 ? 12 ? 2? ? ?3 ? 3 ? 1?
+
+
+
+
+(b)
+
+?
+? ?5 sin x ? 3 cos x? dx ? ?? 5 cos x ? 3 sin x?2
+0
+
+= ?? 5?0? ? 3?1?? ? ?? 5?1? ? 3?0??
+
+
+= 2
+
+
+
+(c)	(i)
+y ?
+
+
+? ?2 ?
+
+
+x? dx
+
+
+? 2x ? x	? C
+2
+
+At ? 0, 7 ?
+?	?
+
+C ? 7
+2
+
+
+y ? 2x ? x	? 7
+2	2
+
+5 ?	x2	7 ?	?	x3	7x ?5
+(ii) Area = ? ? 2x ?	?  ? dx ? ?x2 ?	?	?
+
+0 ?	2	2 ?	?
+
+6	2 ?0
+
+
+
+Area = ? 25 ? 125 ?
+
+35 ? ?
+
+65 units2
+
+?	?
+?	?
+(Specific Objectives- Sect 3: B4-5, B7--10)
+
+Question 7
+
+
+
+(a) (i)	P (Statistics) =
+
+28	P (Physics) = 19
+43	43
+
+
+
+P (Statistics and Physics) =
+
+28 ? 19
+* 
+43 ?  4
+
+
+
+(ii)	P (Physics only) = 19
+43
+
+
+
+*  4 43
+
+43	43	43	43
+
+? 15
+43
+
+(b) (i)	P (Red = 3 and Blue = 0) = 1
+16
+(ii)
+
+
+
+
+
+
+
+
+(iii)
+t
+0
+1
+2
+3
+4
+6
+9
+P (t)
+7
+
+16
+1
+
+16
+1
+
+8
+1
+
+8
+1
+
+16
+1
+
+8
+1
+
+16
+
+
+a = 7 ,	b =
+16
+
+1	and  c = 1
+8	16
+
+
+
+
+Question 7 cont'd
+
+(c) (i) (ii)
+
+
+
+
+Q1 ? 33
+
+
+
+
+Q2 ? 41
+
+
+
+
+Q3 ? 49
+
+
+
+
+10	64
+
+
+
+
+Q2 = 41
+The shape is symmetrical about the median
+
+(Specific Objectives- Sect 4: A 4-6, B2-4, B9).
+
+
+
+Question 8
+
+
+(a) (i)
+
+
+
+
+
+
+
+
+V m/s
+
+
+V
+
+
+
+
+
+15
+
+
+
+
+5
+
+
+
+t
+A	W	B
+T	16	22
+
+
+
+
+
+(ii) Using area under the curve
+
+
+
+
+1 ?15 ? 5?(T ) ? 120
+2
+
+T = 12
+
+Total time = 12 + 16 + 22 = 50 secs
+
+(iii) Using area under the curve
+
+
+120 +
+
+
+V = 28
+
+1?V
+2
+* 
+5? ? 16 ? 22V
+
+? 1000
+
+
+(cont'd)
+
+(b) (i)	v = 0 ==> 3t 2 ? 30t ? 72 ? 0
+
+(t - 6) (t - 4) = 0
+
+t = 4 secs, 6 secs
+
+
+
+(ii) Distance =
+
+? ?3t 2
+4
+
+? 30t ? 72? dt
+
+
+(below the x-axis)
+
+
+
+= ?t3
+
+
+? 15t 2
+* 
+72t?6
+4
+
+= ?216 ? 540 ? 432? ? ?64 ? 240 ? 288?
+
+= 4 metres
+
+
+
+
+(iii) Distance in first 4 secs =
+
+? ?3t 2
+0
+
+? 30t ? 72? dt
+
+
+                   = 112 metres Distance between 6 secs and 7 secs
+
+= ? ?3t 2
+6
+
+? 30t ? 72? dt
+
+
+= 4 metres
+
+       Total distance = 112 + 4 + 4 = 120 metres (Specific Objectives- Sect 4: C2 - 4)
+
+C A R I B B E A N	E X A M I N A T I O N S	C O U N C I L 
+HEADQUARTERS
+
+
+
+SECONDARY EDUCATION CERTIFICATE EXAMINATION
+ADDITIONAL MATHEMATICS PAPER 03/2
+    SPECIMEN PAPER KEY AND MARK SCHEME
+
+
+Question 1
+
+
+(i) Mathematical Formulation of the problem Option I
+
+
+Let the rectangular enclosure have length x m and width y m. Since one side of the barn of length 200 m is used in making the enclosure and an additional 800m of fencing is available then the perimeter of the enclosure is 200 + 800 = 1000 m
+
+The perimeter of the rectangle is (2x + 2y) m and Area of the rectangle enclosure is xy m2
+Thus the problem can be formulated mathematically as Maximise A1 = xy
+Subject to 2x +2y = 1000
+
+Option II
+
+
+
+
+Let the semicircular enclosure have radius r
+Since half the circumference of a circle is ??r and diameter is 2r, the problem is to find the Area A2 of the semicircle when ??r + 2r = 1000m
+
+The solution lies in comparing the two areas Maximum A1 and A2 to see which is larger and recommend the larger option to the farmer.
+
+(ii) To show that for Option I a square maximizes the area:
+Maximise A1 = xy (area)
+Subject to 2x +2y =1000 (perimeter) Solution
+2x+2y = 1000  y = 1000-2?? = 500 - x
+2
+Substituting in A1 we obtain A1 = xy = x (500-x) = 500x - x2
+To maximize A1 with respect to x we first find the stationary points:
+???? = 500 - 2x
+????
+500 - 2x = 0  2x = 500
+? x = 250 at maximum
+
+(we need not find the 2nd derivative as there is only one solution but
+??2??/	= -2	stationary point is a maximum)
+? y = 500 - x = 250
+Since x = y the rectangle is a square Maximum Area is A1 = 2502 = 62 500 m2
+
+
+
+(iii) ?
+
+Option II Area
+Perimeter of enclosure = ???? + 2?? = 1000 ??
+? r = 1000 = 194.49 m (radius of enclosure)
+??+2
+
+Area of semicircle is A
+
+= ?? (1000 2
+
+2	2	??+2 )
+This is the maximum area of the semicircle since r is fixed Area of semicircle is A2 = 59 419 m2
+
+
+
+
+Recommendation
+(iv) Since 62500 > 59419, the square enclosure has greater area than the semicircular. I would therefore recommend Option I to the farmer,
+i.e. build a square enclosure of side 250 m

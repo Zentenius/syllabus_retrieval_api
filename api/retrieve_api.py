@@ -7,7 +7,7 @@ import faiss
 import json
 import re
 from collections import defaultdict, Counter
-from openrouter_embedder import OpenRouterEmbedder
+from .openrouter_embedder import OpenRouterEmbedder
 from typing import List, Optional
 import uvicorn
 
@@ -47,11 +47,11 @@ async def load_models():
     """Load all models and data on startup"""
     global embedder, paragraphs, chunk_metadata, stats, index
     
-    print("🚀 Loading models and data...")
+    print("[*] Loading models and data...")
     
     # Load embedding model (OpenRouter)
     embedder = OpenRouterEmbedder(model=EMBED_MODEL)
-    print("✅ Embedding model loaded from OpenRouter")
+    print("[+] Embedding model loaded from OpenRouter")
     
     # Load FAISS index and data
     try:
@@ -59,27 +59,27 @@ async def load_models():
         with open(os.path.join(DATA_DIR, "paragraphs.pkl"), "rb") as f:
             paragraphs = pickle.load(f)
         index = faiss.read_index(os.path.join(DATA_DIR, "faiss.index"))
-        print(f"✅ Loaded {len(paragraphs)} paragraphs and FAISS index")
+        print(f"[+] Loaded {len(paragraphs)} paragraphs and FAISS index")
     except FileNotFoundError as e:
-        print(f"❌ Error loading required files: {e}")
+        print(f"[-] Error loading required files: {e}")
         raise
     
     # Load metadata (optional)
     try:
         with open(os.path.join(DATA_DIR, "chunk_metadata.pkl"), "rb") as f:
             chunk_metadata = pickle.load(f)
-        print(f"✅ Loaded metadata for {len(chunk_metadata)} chunks")
+        print(f"[+] Loaded metadata for {len(chunk_metadata)} chunks")
     except FileNotFoundError:
-        print("⚠️ No metadata file found - using basic retrieval only")
+        print("[!] No metadata file found - using basic retrieval only")
         chunk_metadata = None
     
     # Load stats (optional)
     try:
         with open(os.path.join(DATA_DIR, "indexing_stats.json"), "r") as f:
             stats = json.load(f)
-        print(f"✅ Loaded stats: {stats.get('files_processed', 'unknown')} subjects")
+        print(f"[+] Loaded stats: {stats.get('files_processed', 'unknown')} subjects")
     except FileNotFoundError:
-        print("⚠️ No stats file found")
+        print("[!] No stats file found")
         stats = {'subjects': [], 'content_types': {}}
 
 def analyze_query(query: str) -> dict:
@@ -131,7 +131,8 @@ def analyze_query(query: str) -> dict:
     for alias, full_names in subject_aliases.items():
         if alias in query_lower:
             for subject in stats.get('subjects', []):
-                if any(name.lower() in subject.lower() for name in full_names):
+                # Use exact match to avoid "MATHEMATICS" matching "ADDITIONAL_MATHEMATICS"
+                if any(name.lower() == subject.lower() for name in full_names):
                     detected_subjects.append(subject)
     
     # Also check direct matches
@@ -179,7 +180,8 @@ def smart_retrieve(query: str, k: int = 3) -> tuple:
         for distance, idx in zip(D[0], I[0]):
             if idx < len(chunk_metadata):
                 chunk_subject = chunk_metadata[idx].get('subject', '')
-                if any(subj.lower() in chunk_subject.lower() for subj in query_analysis['subjects']):
+                # Use exact match to avoid false positives (e.g., MATHEMATICS matching ADDITIONAL_MATHEMATICS)
+                if any(subj.lower() == chunk_subject.lower() for subj in query_analysis['subjects']):
                     subject_filtered.append((distance, idx))
         
         if subject_filtered:
